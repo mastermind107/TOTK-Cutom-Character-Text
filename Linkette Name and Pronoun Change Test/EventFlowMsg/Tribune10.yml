@@ -1,0 +1,357 @@
+Talk29: |
+  <3 Type='0' Data='0700'/>Look at the tree there—the one way up
+  on that hill.
+  
+  They say folks are lining up to hear those
+  prophecies every day, hoping to have
+  their fortunes told.
+Talk80: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Where goest thou? Thy trial is not over!
+Talk63: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey there, fella. So, checking out my
+  fancy duds, I bet.<5 Type='0'/> Stylish, right?
+  
+  I'm a little late to fashion and all that,
+  but my eyes are wide open now.<5 Type='1'/>
+  
+  <3 Type='0' Data='0700'/>I was heading east for <0 Type='3' Data='0000'/>Tarrey Town<0 Type='3' Data='ffff'/>,
+  since I'd heard celebrity designer Cece
+  was influenced by someone there.
+  But when I heard about the oracle here,
+  I had to stop by and see for myself if
+  it's the real deal.
+  <3 Type='0' Data='0800'/>And buddy, it's real as can be! Here's the
+  prophecy I got:<5 Type='0'/> "On a remote island to the
+  <0 Type='3' Data='0000'/>northeast<0 Type='3' Data='ffff'/>, thou wilt find great fortune."
+  Tarrey Town will have to wait. I have an
+  island to go to! I just hope "great fortune"
+  means a treasure trove of clothes...
+Talk64: |
+  <3 Type='0' Data='0c00'/>I know... <5 Type='0'/>A Cucco spouting <0 Type='3' Data='0000'/>prophecies<0 Type='3' Data='ffff'/>?
+  Total fluff—it's not why reporters like you
+  and me got into this game.
+  Sometimes you have to swallow your pride
+  and take the byline. And who knows?
+  Maybe there's a real story buried here.
+Talk47: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='100041006e006700720079005f0030003000'/><FontSize Value='125'/>Get him! And finish the job!<FontSize Value='100'/>
+Talk48: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey! Look at you, partner! Coming all
+  the way out here to track down leads.
+  You remind me of me.
+Talk65: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0600530061006400'/>Not one chirp or warble about our missing
+  princess, I'm sorry to say.
+Talk66: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/>I know all.<5 Type='1'/>
+  
+  
+  And what I know...is that thou wilt face
+  trials that will reveal much to you.
+  
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0a0048006100700070007900'/>So...<5 Type='0'/>will thou take these trials?
+Talk49: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>What do they want?! Let's get out
+  of here!
+Talk67: |
+  <3 Type='0' Data='0700'/>The All-Clucking Cucco said that "great
+  fortune" is waiting for me on a "remote
+  island to the <0 Type='3' Data='0000'/>northeast<0 Type='3' Data='ffff'/>."
+  As for what that "fortune" looks like,
+  I can't say... <5 Type='0'/>But it could be clothes!
+  Or money I can use to buy clothes!
+  So before I go east to Tarrey Town, I have
+  to go see it! Who knows? Maybe this'll be
+  my big break in the world of fashion!
+Talk68: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey! Look at you, partner! Digging around
+  in the rain, hoping to turn up a lead. You
+  remind me of me.
+Talk69: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e00430061006c006c00460061007200'/>Hey!<5 Type='0'/> There's my partner!
+0001: |
+  I'll try it.
+0002: |
+  Still readying myself.
+Talk10: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/>*cluck* *cluck*<5 Type='0'/> Very well.
+0003: |
+  Of course.
+Talk11: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/>*cluck* *cluuuck*<5 Type='0'/> I knew thou wouldst say
+  those words. For I know all that was and
+  will be.
+0004: |
+  I want to take a break.
+Talk12: |
+  <3 Type='0' Data='0701'/>The first trial is...<5 Type='1'/>
+Talk30: |
+  <3 Type='0' Data='0c00'/>I know what you're thinking—seasoned
+  reporter like me, hoping to get a lead from
+  actual poultry?<5 Type='1'/>
+  <3 Type='0' Data='0701'/>Well, hear me out. Those that flock up
+  there for their fortunes? They might know
+  the REAL story here. Interview them!
+Talk13: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0a0048006100700070007900'/>*cluck* *cluck*<5 Type='0'/> You finished.
+0006: |
+  Ready and willing.
+Talk31: |
+  <3 Type='0' Data='0701'/>Get to the <0 Type='3' Data='0000'/>top of that stable's head<0 Type='3' Data='ffff'/>
+  within the time limit.
+Talk14: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/>*cluck* *cluck*<5 Type='0'/> Time's up. Come back.
+0007: |
+  I want to wait longer.
+Talk32: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Walk,<5 Type='0'/> run, <5 Type='0'/>fly—<5 Type='0'/>whatever it takes.
+  
+  
+  Ready yourself.<5 Type='0'/> *cluck* *cluck*
+Talk33: |
+  <3 Type='0' Data='0701'/>Ready yourself.<5 Type='0'/> *cluck* *cluuuck* *cluck*
+Talk50: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='20005100750065007300740069006f006e0053007500720070007200690073006500'/>Who are THEY?<5 Type='0'/> I'm going to hightail it
+  out of here. You should too!
+Talk17: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0a0048006100700070007900'/>Good job with that trial. I'd say I'm
+  impressed, but I already knew that was
+  going to happen. <5 Type='0'/>So...
+  Thou, yes, thou! Ready to face the next
+  trial? Only if thou overcome it...will thou
+  find what thou seeketh!
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/>So...<5 Type='1'/>are you going to try it or what?
+Talk34: |
+  <3 Type='0' Data='0701'/>Lots of trees around here.<5 Type='0'/> Any of them
+  will do the job.
+Talk51: |
+  <3 Type='0' Data='0b00'/>No, it can't be!<5 Type='0'/> The All-Clucking Cucco
+  was a hoax?
+  
+  <3 Type='0' Data='0c01'/>But then, the prophecies... That means
+  they were all made up.
+  
+  <3 Type='0' Data='0c00'/>Hmm. What am I gonna do now? I guess
+  I shouldn't bother checking out that
+  "remote island to the <0 Type='3' Data='0000'/>northeast<0 Type='3' Data='ffff'/>"...
+  <3 Type='0' Data='0701'/>Then again, who knows... There might be
+  some truth in it, right?
+Talk35: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Just do whatever it takes to get
+  them here.
+  
+  <5 Type='0'/>*cluckity* *cluck* *cluck* Ready yourself.
+Talk52: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0e0047006f006f006400620079006500'/><FontSize Value='125'/>Soar long!<FontSize Value='100'/>
+Talk36: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/>*cluck* *cluuuck* *cluck*<5 Type='0'/> Thou are back,
+  as I knew you would be. Art thou ready
+  to take on the trial?
+Talk19: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/>*cluck* *cluuuck*<5 Type='0'/> So! Art thou prepared
+  to take on the trial?
+Near00: |
+  A prophecy...
+Talk54: |
+  <3 Type='0' Data='0701'/>How's it going, partner? You pick up
+  any leads out there? <5 Type='0'/>Because at the
+  moment, I've got diddly and squat.
+Talk37: |
+  <3 Type='0' Data='0701'/>OK, <0 Type='3' Data='0000'/>bring me three logs<0 Type='3' Data='ffff'/>. And do it
+  before time runs out.
+Talk71: |
+  <3 Type='0' Data='0800'/>Anyway, get a load of you! Giving us a
+  big scoop and those Yiga dolts a healthy
+  clobbering, all in the same day.
+  Not bad for a day's work! You keep that
+  up and I'll have no choice but to keep you
+  on as my partner for a long, long time.
+  But enough crowing. If I want to meet my
+  deadline, I'd better get back to the office
+  and start writing this up.
+  <3 Type='0' Data='0701'/>See you, kid!
+Near01: |
+  Hm. A clairvoyant Cucco?
+Talk55: |
+  <3 Type='0' Data='0700'/>If we've got nothing else, we may have to
+  make a trip to the <0 Type='3' Data='0000'/>All-Clucking Cucco <0 Type='3' Data='ffff'/>at
+  the tree on the hill.
+Talk72: |
+  <3 Type='0' Data='0801'/>The All-Clucking Cucco is next to the big
+  tree behind the stable. You should go!
+  
+  Whatever in life might be troubling you,
+  the All-Clucking Cucco can help fix it.
+Talk73: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/>*cluck* *cluck* *cluuuck*<5 Type='1'/>
+  
+  
+  I knew thou would speak to me again... 
+  for I know all.
+  
+  What I also know is that thou wilt face
+  trials that will reveal much to you.
+  
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0a0048006100700070007900'/>So...<5 Type='0'/>will thou take these trials?
+Talk39: |
+  <3 Type='0' Data='0701'/>*cluck* *cluck*<5 Type='0'/> Come back if you want to
+  try this again.
+Near02: |
+  I want piles of style!
+Talk56: |
+  <3 Type='0' Data='0a00'/>I have so many questions to ask... I need
+  a bit of time to narrow them down.
+  
+  <3 Type='0' Data='0701'/>So don't worry about me. You go ahead.
+Near03: |
+  My true love?
+Talk74: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey there, fella. So, checking out my
+  fancy duds, I bet.<5 Type='0'/> Stylish, right?
+  
+  I'm a little late to fashion and all that,
+  but my eyes are wide open now.<5 Type='1'/>
+  
+  <3 Type='0' Data='0700'/>I was heading east for <0 Type='3' Data='0000'/>Tarrey Town<0 Type='3' Data='ffff'/>,
+  since I'd heard celebrity designer Cece
+  was influenced by someone there.
+  <3 Type='0' Data='0800'/>But the All-Clucking Cucco just reminded
+  me again that "on a remote island to the
+  <0 Type='3' Data='0000'/>northeast<0 Type='3' Data='ffff'/>, thou will find great fortune."
+  So clearly, I've gotta go northeast!
+  Who knows, right? Maybe I'll find a big
+  pile of stylish and expensive clothes!
+Talk58: |
+  <3 Type='0' Data='0700'/>Are you here for a prophecy from the
+  All-Clucking Cucco?
+  
+  Get ready for your life to change. They
+  say the Cucco's words always come true!
+  
+  <3 Type='0' Data='0a00'/>Actually, do you want to take my place
+  in line? I have a lot of questions, and I
+  need time to sort out which to ask...
+  <3 Type='0' Data='0701'/>Really, you'd be doing me a favor.
+  Go ahead!
+Talk75: |
+  <3 Type='0' Data='0c00'/>Sounds like the All-Clucking Cucco was
+  a scam, and the prophecy I got was a
+  load of bunk.
+  <3 Type='0' Data='0701'/>Then again... There could be truth in it.
+  Maybe a higher power is nudging me to
+  that "remote island to the <0 Type='3' Data='0000'/>northeast<0 Type='3' Data='ffff'/>."
+Talk76: |
+  <3 Type='0' Data='0c00'/>Hmm. Should I really ask about that?
+  No, maybe not... But then again— <5 Type='0'/>Hm?
+Near05: |
+  What's going on?!
+Talk59: |
+  <3 Type='0' Data='0c00'/>So, the All-Clucking Cucco was just one
+  big hoax...<0 Type='4'/><3 Type='0' Data='0701'/>On the bright side,<5 Type='1'/> it taught me an
+  important lesson—<5 Type='0'/>only I can decide what
+  road to take in life.
+  <3 Type='0' Data='0700'/>Anyway, I'm going to start heading
+  <0 Type='3' Data='0000'/>northwest<0 Type='3' Data='ffff'/>...<5 Type='0'/> Maybe I'll see you again,
+  if our paths happen to cross.
+Talk77: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/><0 Type='3' Data='0000'/>Bring three logs <0 Type='3' Data='ffff'/>here within the time limit.
+Near06: |
+  Eeek!
+Talk78: |
+  <3 Type='0' Data='0700'/>Rain or shine, <5 Type='0'/>my love for fashion will
+  carry me through!
+Near07: |
+  Phew. What a shock!
+Talk79: |
+  <3 Type='0' Data='0700'/>I travel a lot, so I'm used to getting
+  rained on—just not this much. I only hope
+  I don't catch pneumonia out here.
+Near08: |
+  The All-Clucking Cucco!
+Talk00: |
+  <3 Type='0' Data='0700'/>So, how about it? Tell me you've got
+  something we can work with. <5 Type='0'/>No?
+  
+  <3 Type='0' Data='0501'/>I've got nothing either. Not a chirp. Not
+  a warble.<5 Type='0'/>
+  
+  <3 Type='0' Data='0701'/>Even if I strain the ol' earholes... No, sir.
+  Not the slightest peep.<5 Type='1'/>
+  
+  <3 Type='0' Data='0c00'/>So, what to do when our leads go quiet
+  and luck runs out? I suppose we've got
+  one last resort. A <0 Type='3' Data='0000'/>prophecy<0 Type='3' Data='ffff'/>!
+0010: |
+  A prophecy?
+Near09: |
+  Just think dry thoughts...
+Talk01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey! Look at you, partner! Up at sunup
+  scouting out leads. You remind me of me.
+Talk03: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/>*cluck* *cluuuck* *cluck*<5 Type='1'/>
+  
+  
+  Thy name... What is thy name?<5 Type='1'/>
+  Ah, I sense it. You are...Linkette.
+  
+  And you're searching for someone...<5 Type='1'/>
+  Ah, yes...<0 Type='3' Data='0000'/>Princess Zelda<0 Type='3' Data='ffff'/>.
+Talk20: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/>*cluck* *cluck* So...<5 Type='1'/>you tired yet or what?
+  You've GOT to be worn out.
+  
+  Well, it's been entertaining. So naive.
+  So trusting.<5 Type='0'/> I can't believe you fell
+  for this.
+  <4 Type='0' Data='10004700720065006500740069006e006700'/>A talking Cucco? Ridiculous.
+Talk05: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/>*cluck* *cluck*<5 Type='0'/> What are you doing? If
+  you don't hurry, you won't make it.
+Talk23: |
+  <3 Type='0' Data='0701'/>The second trial is...<5 Type='1'/>
+Talk40: |
+  <3 Type='0' Data='0701'/>Now that you're worn out...we've got you
+  RIGHT where we want you.<5 Type='0'/> Everyone...
+Talk24: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/>What's wrong?<5 Type='0'/> Thou won't get any
+  closer to what thou ultimately seeketh
+  that way. 
+  How about it?<5 Type='0'/> Take the trial again?
+Talk41: |
+  <3 Type='0' Data='0c00'/>Uh-huh...<5 Type='1'/> I see...
+  
+  
+  <3 Type='0' Data='0c01'/>Well, I had a suspicion that a Cucco
+  couldn't yap to save its life, but I didn't
+  suspect this was a <0 Type='3' Data='0000'/>Yiga Clan<0 Type='3' Data='ffff'/> trap.
+  <3 Type='0' Data='0701'/>Those chumps really knew how to lure us
+  in by mentioning Princess Zelda. Guess
+  we walked right into that one.
+Talk08: |
+  <3 Type='0' Data='0700'/>I was just giving a good, long think to the
+  All-Clucking Cucco situation...<5 Type='0'/>when I saw
+  everyone running around the tree here.
+  So, what's the story, kid?
+Talk42: |
+  <3 Type='0' Data='0700'/>But at least this'll make one heck of a
+  newspaper story.<5 Type='0'/> All those who put their
+  faith in that Cucco's prophecies...
+  <3 Type='0' Data='0701'/>People need to know the truth—or else
+  they'll fall for more of these lies in the
+  future. Oracles, my tail feathers!
+Talk26: |
+  <3 Type='0' Data='0701'/>This time, get to that goal in the time
+  limit.
+Talk61: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey! Look at you, partner! Feeling around
+  for leads after dark. You remind me of me.
+Talk28: |
+  <3 Type='0' Data='0700'/>Oh, yes. <5 Type='1'/>It's come to that. Good thing
+  there's one heck of a <0 Type='3' Data='0000'/>Cucco<0 Type='3' Data='ffff'/> around here.
+  That, er...<5 Type='0'/><0 Type='3' Data='0000'/>speaks prophecy<0 Type='3' Data='ffff'/>.
+  I mean we know it's hard to believe, but
+  you've got to wonder.<5 Type='1'/>
+Talk45: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Excuse me. My turn! Please don't cut
+  in front of others.

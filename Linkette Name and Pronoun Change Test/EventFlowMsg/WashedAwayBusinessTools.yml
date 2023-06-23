@@ -1,0 +1,151 @@
+Talk0017: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='08004500610073006500'/>Ah, Mr. Hero...
+Talk0023: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Aaah! <5 Type='0'/>Is that...a boat?!
+Talk0001: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0c005300610064005f0030003000'/>Ugh...<5 Type='0'/> Without that boat, I guess I'm
+  just stuck.
+Talk0018: |
+  <3 Type='0' Data='0a01'/>You're in good spirits this early...
+Talk0024: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh...it doesn't look like you can carry
+  anything else.
+  
+  I thought I'd give you a <0 Type='3' Data='0000'/>star fragment<0 Type='3' Data='ffff'/>
+  as thanks, but...
+  
+  <3 Type='0' Data='0701'/>It's OK! I'll hold on to it until you've
+  made room for it among your things.
+  
+  I don't want to leave you empty-handed
+  after you helped me reopen the general
+  store, after all.
+Talk0002: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>The thing is <0 Type='3' Data='0000'/>my boat's gone<0 Type='3' Data='ffff'/>, and with it,
+  how I get <0 Type='3' Data='0000'/>my trading<0 Type='3' Data='ffff'/> done. I don't know
+  where it's gotten to...
+  All of the boats in the village are gone
+  too, so I can't even find a <0 Type='3' Data='0000'/>replacement
+  for it<0 Type='3' Data='ffff'/>.
+  I'm sure that because of the mayhem the
+  monsters caused, they all got washed out
+  to <0 Type='3' Data='0000'/>sea<0 Type='3' Data='ffff'/>...
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Things that float away from our village
+  often wash up on <0 Type='3' Data='0000'/>Tenoko<0 Type='3' Data='ffff'/>, an island off
+  the eastern coast. Maybe they're there.
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0a01'/><0 Type='3' Data='ffff'/>Of course, <0 Type='3' Data='0000'/>Tenoko Island<0 Type='3' Data='ffff'/> is way out
+  to sea, and I don't have a boat...<5 Type='0'/>to get
+  a boat.
+  Seems like I'm stuck, then. I'll never be
+  able to <0 Type='3' Data='0000'/>reopen my shop<0 Type='3' Data='ffff'/>.
+  
+  I sell some <0 Type='3' Data='0000'/>things you can find only here<0 Type='3' Data='ffff'/>,
+  and my customers are eager to see me
+  get my shop up and running again...
+  <3 Type='0' Data='0c01'/>I just need to get my hands on a <0 Type='3' Data='0000'/>boat<0 Type='3' Data='ffff'/>,
+  that's all.
+Talk0019: |
+  <3 Type='0' Data='0a01'/>You're in good spirits whenever
+  I see you...
+Talk0025: |
+  <3 Type='0' Data='0c00'/>I thought I'd give you a <0 Type='3' Data='0000'/>star fragment<0 Type='3' Data='ffff'/>
+  as thanks for bringing me a boat, but...
+  
+  <3 Type='0' Data='0701'/>It's OK! I'll hold on to it until you've
+  made room for it among your things.
+  
+  I don't want to leave you empty-handed
+  after you helped me reopen the general
+  store, after all.
+Talk0026: |
+  <3 Type='0' Data='0800'/>Do you have room for a reward? Then I
+  can finally thank you properly!
+Talk0010: |
+  <3 Type='0' Data='0a00'/>I don't know how I'll get by without my
+  <0 Type='3' Data='0000'/>boat<0 Type='3' Data='ffff'/>. If only I had another one, but every
+  one in the village got washed out to <0 Type='3' Data='0000'/>sea<0 Type='3' Data='ffff'/>.
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/>And probably washed up on <0 Type='3' Data='0000'/>Tenoko Island<0 Type='3' Data='ffff'/>, out in
+  the <0 Type='3' Data='0000'/>eastern <0 Type='3' Data='ffff'/>waters... <5 Type='0'/>But no boat means no way to
+  get there. Ugh.
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='1000540069007200650064005f0030003100'/><FontSize Value='100'/>Seems like I'm just stuck. I'll never be
+  able to <0 Type='3' Data='0000'/>reopen my shop<0 Type='3' Data='ffff'/>.
+  
+  I sell some <0 Type='3' Data='0000'/>things you can find only here<0 Type='3' Data='ffff'/>,
+  and my customers are eager to see me
+  get my shop up and running again...
+Talk0027: |
+  Heyyy! Over here! And bring that boat!
+near0000: |
+  My only way to trade...
+Talk0012: |
+  <3 Type='0' Data='0a01'/><0 Type='3' Data='0000'/>My boat's gone<0 Type='3' Data='ffff'/>, and with it, how I'll get
+  <0 Type='3' Data='0000'/>any trading done<0 Type='3' Data='ffff'/>. I don't know where it's
+  gotten to...
+  All the boats in the village are gone too,
+  so I can't even find a <0 Type='3' Data='0000'/>replacement for it<0 Type='3' Data='ffff'/>.
+  
+  I'm sure that because of the mayhem the
+  monsters caused, they all got washed out
+  to <0 Type='3' Data='0000'/>sea<0 Type='3' Data='ffff'/>...
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Things that float away from our village
+  often wash up on <0 Type='3' Data='0000'/>Tenoko Island<0 Type='3' Data='ffff'/>, in the<0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  eastern waters.<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/>Maybe they're there.
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0a01'/><0 Type='3' Data='ffff'/>Of course, <0 Type='3' Data='0000'/>Tenoko Island<0 Type='3' Data='ffff'/> is a little island
+  out there, and I don't have a boat...<5 Type='0'/>to get
+  a boat.
+  Seems like I'm stuck, then. I'll never be
+  able to <0 Type='3' Data='0000'/>reopen my shop<0 Type='3' Data='ffff'/>.
+  
+  I sell some <0 Type='3' Data='0000'/>things you can find only here<0 Type='3' Data='ffff'/>,
+  and my customers are eager to see me
+  get my shop up and running again...
+  <3 Type='0' Data='0c01'/>I just need to get my hands on a <0 Type='3' Data='0000'/>boat<0 Type='3' Data='ffff'/>,
+  that's all.
+Talk0006: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>You found a boat for me! Thank you
+  so much!<5 Type='1'/>
+  
+  Such generosity demands swift action.
+  
+  
+  So, <5 Type='0'/>if you'll just excuse me for a bit...
+Talk0007: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Hmm... So, I need this part...<5 Type='2'/> And that
+  goes there... <5 Type='1'/>I think?
+  
+  Ah, get that out of way, and yeah?<5 Type='1'/>
+  No? Maybe?<5 Type='1'/> Yes! <5 Type='0'/>It's done!
+Talk0014: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Oh, <5 Type='0'/>you're Linkette! Well, here you are,
+  our hero!
+  
+  <3 Type='0' Data='0801'/>I returned to my village when I heard that
+  the pirates disappeared. Who'd think I'd
+  bump into you here?<5 Type='1'/>
+  <3 Type='0' Data='0b01'/>Well, unfortunately, I don't really have
+  time to chat.
+Talk0020: |
+  <3 Type='0' Data='0a01'/>You're in good spirits at this late hour.
+Talk0008: |
+  <FontSize Value='125'/><3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Ta-da!<0 Type='4'/><FontSize Value='100'/>What do you think?<5 Type='0'/> I'm going to call this
+  fine vessel the Ever-Lovely Mubs!<FontSize Value='125'/><FontSize Value='100'/>
+  
+  Something about giving it a name really
+  makes it more important to me.
+  
+  Here, take this. It's the least I can do
+  after you helped me reopen my store!
+Talk0021: |
+  <3 Type='0' Data='0a01'/>You're in good spirits even soaking wet!
+Talk0009: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>This is a very rare thing you can't
+  buy anywhere!
+  
+  I don't sell star fragments either, but
+  my shop does try to stock rarer things
+  you can't find elsewhere if I can.
+  I take pride in my goods, so please come
+  back to shop whenever you like!
+Talk0022: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='14005000610069006e00660075006c005f0030003000'/>Sorry, is that...<0 Type='4'/>Has there always been a boat there?<5 Type='0'/>
+  Unbelievable!

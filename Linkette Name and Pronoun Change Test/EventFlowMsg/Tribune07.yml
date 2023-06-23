@@ -1,0 +1,306 @@
+Talk1022: |
+  <3 Type='0' Data='0700'/>I'm going to keep asking around and see
+  what else I can learn from the folks here.
+  
+  Why don't you head up to that <0 Type='3' Data='0000'/>three-way
+  intersection<0 Type='3' Data='ffff'/> and take a look around?
+Talk1063: |
+  <3 Type='0' Data='0700'/>We can meet right where you can see the
+  <0 Type='3' Data='0000'/>fallen debris<0 Type='3' Data='ffff'/>!
+Talk1023: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e00540072006f00750062006c006500'/>I couldn't get a read on her at all...
+  Except that she was definitely giving off
+  some strange vibes.
+near0004: |
+  Was it here?
+Talk1024: |
+  <3 Type='0' Data='0700'/>She came up to me when I was by the
+  debris near the <0 Type='3' Data='0000'/>three-way intersection<0 Type='3' Data='ffff'/> up
+  ahead and said, "You have to help <0 Type='3' Data='0000'/>her<0 Type='3' Data='ffff'/>!"
+  Then she said, "Her life is in danger!<5 Type='0'/>
+  It would only make it worse to reveal who
+  she is..."
+near0005: |
+  This way!
+Talk1025: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0a005400680069006e006b00'/>I tried to follow her to help, but I just
+  couldn't keep up with her. <5 Type='1'/>I lost track
+  of her pretty quickly...
+  And here I thought I was in pretty good
+  shape too.
+near0006: |
+  Someone...
+Talk1026: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003100'/>She told me that, so long as the one who
+  came to her aid was <0 Type='3' Data='0000'/>a man with blond
+  hair<0 Type='3' Data='ffff'/>, she was sure to be OK.
+  Oh no... I worry that time is short for
+  my <0 Type='3' Data='0000'/>friend<0 Type='3' Data='ffff'/>...
+Talk1027: |
+  <3 Type='0' Data='0700'/>Oh, it is the blond-haired man! I knew
+  that you would return to help...
+  
+  <3 Type='0' Data='0300'/>But we cannot remain here! My poor,
+  regal <0 Type='3' Data='0000'/>friend<0 Type='3' Data='ffff'/>...
+  
+  I shall guide you to where <0 Type='3' Data='0000'/>she<0 Type='3' Data='ffff'/> is hiding.
+  Will you follow me?
+Talk1050: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>I am sorry that you had to travel so far
+  with everything so slippery from the rain...
+Talk1028: |
+  <3 Type='0' Data='0700'/>We should go to where my friend is... But!<5 Type='0'/>
+  Be careful not to be seen. We do not want
+  to draw evil to her!
+Talk1011: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/><FontSize Value='80'/>It must be him, then...<5 Type='1'/><FontSize Value='100'/>
+  
+  
+  <3 Type='0' Data='0801'/>Oh, I am so rude! You have my apologies!
+  
+  
+  Come now! My <0 Type='3' Data='0000'/>friend<0 Type='3' Data='ffff'/> is waiting ahead!
+Talk1012: |
+  <3 Type='0' Data='0700'/>She is waiting nearby, around the
+  <0 Type='3' Data='0000'/>debris on the opposite cliff<0 Type='3' Data='ffff'/>.
+  
+  I will go on ahead and let <0 Type='3' Data='0000'/>her<0 Type='3' Data='ffff'/> know that
+  you are coming!
+0000: |
+  Let's go!
+Talk1054: |
+  <3 Type='0' Data='0701'/>So tell me...<5 Type='0'/> What have you unearthed?
+0001: |
+  Not right now...
+Talk1055: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0e0047006f006f006400620079006500'/><FontSize Value='125'/>Soar long!<FontSize Value='100'/><5 Type='1'/>
+0002: |
+  Are you OK?
+Talk1015: |
+  <3 Type='0' Data='0700'/>I am sorry for all of that. It was important
+  for me to test you.
+  
+  Blond hair, courage to overcome a
+  challenge. And then another challenge.
+  And then another!
+  Oh, and your disgusting, unwavering
+  commitment to do "good."
+  
+  <3 Type='0' Data='0701'/>You are Princess Zelda's chosen
+  bodyguard, the swordsman Linkette, correct?
+Talk1056: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e00430061006c006c00460061007200'/>Hey!<5 Type='0'/> Hey, partner!
+0003: |
+  ...
+Talk1016: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>Your grave! Haha!<1 Type='3' Data='5a000000'/>
+Talk1057: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>So this is where your investigation took
+  you. Looks like you really got yourself out
+  on a limb there!
+  I've been scouting from the skies, trying
+  to get to the bottom of this story. I heard
+  that woman was luring people away...
+  I thought I heard her voice, so I swooped
+  on down. And, hey, here you are!
+Talk1040: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hello, partner! You here to investigate
+  the rumors too?
+Talk1017: |
+  <3 Type='0' Data='0700'/>You see, I was by the debris near the
+  <0 Type='3' Data='0000'/>three-way intersection<0 Type='3' Data='ffff'/> up ahead when a
+  <0 Type='3' Data='0000'/>woman <0 Type='3' Data='ffff'/>came up to me.
+  "Please! Please, you have to help <0 Type='3' Data='0000'/>her<0 Type='3' Data='ffff'/>!
+  
+  
+  "Her life is in danger! It would only make
+  it worse to reveal who she is...
+  
+  "But please, you must save <0 Type='3' Data='0000'/>her<0 Type='3' Data='ffff'/>!"<5 Type='1'/>
+  That's what she said to me.
+Talk1058: |
+  <3 Type='0' Data='0101'/>You've definitely got some skills, though,
+  if you can escape from the Yiga Clan.<5 Type='0'/>
+  I'm proud of you, partner.
+Talk1041: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hello, partner! You here to investigate
+  the rumors too?
+  
+  I admire your spirit! Most folks would take
+  one look at this weather and call it a day,
+  but not you! You're the real deal!
+Talk1018: |
+  <3 Type='0' Data='0c00'/>The woman sounded really desperate, so
+  I decided to follow her.
+  
+  But no matter how hard I tried, I couldn't
+  keep up.
+  
+  <3 Type='0' Data='0701'/>Eventually I lost track of her. <5 Type='0'/>That's all
+  there is to it.
+Talk1059: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>It's no use, Linkette! I won't let you escape!
+Talk1042: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hello, partner! You here to investigate
+  the rumors too?
+  
+  I admire your spirit! Most folks wouldn't
+  let a story keep them up so late, but not
+  you! You're the real deal!
+Talk1001: |
+  <3 Type='0' Data='0701'/>I've been hearing some interesting chirps
+  and warbles...
+Talk1019: |
+  <3 Type='0' Data='0b00'/>I see... <5 Type='0'/>Who could have guessed that this
+  whole story would be an elaborate trap
+  set by the <0 Type='3' Data='0000'/>Yiga Clan<0 Type='3' Data='ffff'/>...
+  If you didn't know, they're a group of
+  assassins trying to bring down the
+  kingdom of Hyrule.
+  <3 Type='0' Data='0c01'/>I heard they were good at disguising
+  themselves,<5 Type='0'/> but playing the part of a
+  villager? I never would have guessed.
+  And all to flush out the swordsman who
+  protects the princess...
+Talk1043: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hello, partner! You here to investigate
+  the rumors too?
+  
+  I admire your spirit! Most folks would
+  leave a story until a bit later in the day,
+  but not you! You're the real deal!
+Talk1002: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh, you're also a reporter?
+  
+  
+  I just had a bit of a strange experience
+  is all.
+Talk1003: |
+  <3 Type='0' Data='0700'/>Hey, partner...
+  
+  
+  Does something strike you as odd about
+  this person whose identity can't
+  be revealed?
+  <3 Type='0' Data='0c00'/>And if revealing who she is to strangers
+  is dangerous... Could she be someone of
+  great importance?
+  And if her life is already in danger...
+  
+  
+  Well, combining these facts makes me
+  wonder if this isn't actually a particular,
+  important person who has gone missing.
+  <3 Type='0' Data='0701'/>I can't be sure, of course, but if there's a
+  slight chance...
+  
+  There's only one way for us to know for
+  sure though. We'll have to peck away at
+  this news and see what the truth is!
+Talk1044: |
+  <3 Type='0' Data='0c00'/>I have a hunch that the <0 Type='3' Data='0000'/>person<0 Type='3' Data='ffff'/> that
+  woman was referring to and the <0 Type='3' Data='0000'/>person<0 Type='3' Data='ffff'/>
+  we're looking for are the same.
+  I can't be sure, of course, but if there's a
+  slight chance, well...
+  
+  <3 Type='0' Data='0701'/>On my honor as a reporter, I swear we
+  will peck away at this and see what the
+  truth is!
+Talk1045: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Thanks for lending your ear at such a
+  late hour!
+Talk1004: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/><FontSize Value='80'/>...Now that I'm thinking about the whole thing again,
+  why was that woman staring so hard at my hair?<5 Type='0'/>
+  How strange.<FontSize Value='100'/>
+Talk1046: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Thanks for lending your ear at such an
+  early hour!
+Talk1005: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a0053006300610072006500'/>Oooh nooo... <5 Type='0'/>My poor friend... <5 Type='0'/>Please,
+  you must save her...
+Talk1047: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Thanks for lending your ear, even in
+  weather like this!
+Talk1006: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Oh, thank you so much!
+  
+  
+  My friend is in hiding right now. That is
+  the only way for her to remain undetected
+  by those with ill intent!
+Talk1007: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>My apologies for leaving you behind. I was
+  overtaken by my concern for my <0 Type='3' Data='0000'/>friend<0 Type='3' Data='ffff'/>...
+  
+  <3 Type='0' Data='0701'/><0 Type='3' Data='0000'/>She<0 Type='3' Data='ffff'/> is resting safely out of sight. It is
+  the only way to stay safe.
+  
+  I am sorry that the path is so poor...
+Talk1049: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Oh my, you are drenched.
+Talk1032: |
+  <3 Type='0' Data='0701'/>Anyway, it's time I took off and turned
+  these unusual details into an article.<5 Type='1'/>
+  You take care, partner!
+Talk1034: |
+  <3 Type='0' Data='0700'/>Could you possibly go to the <0 Type='3' Data='0000'/>top of
+  that cliff<0 Type='3' Data='ffff'/>?
+Talk1035: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Hehehe, I am so glad to finally meet you.
+  Now I can take you to the last stop in our
+  little journey.
+Talk1037: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/><FontSize Value='80'/>B...<5 Type='1'/> B...<5 Type='0'/> Blond hair...<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0c005300610064005f0030003000'/><FontSize Value='100'/>I do not know who you are, but I ask that
+  you please help me!
+  
+  My poor, regal friend's life is in danger!
+  I cannot reveal who she is, for that would
+  only make things worse...
+  <3 Type='0' Data='0a01'/>She's in hiding and unable to move.
+  My <0 Type='3' Data='0000'/>friend<0 Type='3' Data='ffff'/> is in such danger...
+  
+  Please! I cannot help her all by myself!
+Talk1060: |
+  <3 Type='0' Data='0b00'/>What's that?<5 Type='1'/> The woman who was asking
+  for help was actually a member of the
+  Yiga Clan?
+  <3 Type='0' Data='0c01'/>So she disguised herself as a villager
+  and was trying to lure the princess's
+  appointed knight to a trap...
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0048006100700070007900'/>It really is some impressively bad luck
+  that they keep coming after you instead,
+  isn't it?
+Talk1038: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a0053006300610072006500'/>Oh no... I worry that time is short for
+  my <0 Type='3' Data='0000'/>friend<0 Type='3' Data='ffff'/>...
+Talk1061: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000540069007200650064005f0030003000'/>I'll...<5 Type='1'/> I'll let you off this time.
+  
+  
+  <3 Type='0' Data='0901'/>But don't expect such mercy next time.<5 Type='0'/>
+  Prepare yourself!
+Talk1020: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>They thought you, a young up-and-
+  coming reporter who just happens
+  to have blond hair...
+  They believed you were actually that
+  swordsman? <5 Type='1'/>That's just bad luck for you!
+near0001: |
+  Over here.
+Talk1062: |
+  <3 Type='0' Data='0700'/>I will wait for you <0 Type='3' Data='0000'/>down this road<0 Type='3' Data='ffff'/>. Meet me
+  as soon as you can!
+Talk1039: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>It is a bit far off, but I know you will be
+  able to make it!
+Talk1021: |
+  <3 Type='0' Data='0101'/>I'm glad I don't have to write a headline
+  like, "Junior Reporter Falls to the Cruel
+  Blade of the Yiga in Pursuit of Truth!"
+near0002: |
+  That IS strange...
