@@ -1,0 +1,129 @@
+PosterMessage: |
+  Heading <0 Type='3' Data='0000'/>east<0 Type='3' Data='ffff'/> to clean monsters out of our
+  renowned <0 Type='3' Data='0000'/>Fort Hateno<0 Type='3' Data='ffff'/>. -Captain Hoz,
+  Monster-Control Crew, Squad One
+Talk1012: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>It's an honor to see you again!<0 Type='4'/>We're moving in on a monster base up
+  ahead. <5 Type='0'/>They've dug in once again.
+  
+  <4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003100'/>After we approach, we'll wait for the right
+  moment and then <0 Type='3' Data='0000'/>launch our attack<0 Type='3' Data='ffff'/>.
+  
+  Nothing would make me happier than to
+  have you assist us again!
+  
+  <4 Type='0' Data='1400430061006c006c004600610072005f0030003000'/>Please, join us. We can bring peace back
+  to this land if we work together.
+Talk1002: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/><FontSize Value='125'/>Victory for Hyrule!<FontSize Value='100'/>
+Talk1022: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003100'/>The plan is to storm Fort Hateno and
+  destroy the monsters revived by the
+  <0 Type='3' Data='0000'/>blood moon<0 Type='3' Data='ffff'/>.<0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  We'll <0 Type='3' Data='0000'/>approach the base <0 Type='3' Data='ffff'/>and then wait
+  for the right moment to <0 Type='3' Data='0000'/>launch our attack<0 Type='3' Data='ffff'/>.
+  
+  <4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003100'/>Please, join us and help us take back
+  this renowned fort!
+Talk1043: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003100'/>It's an honor to see you again!<0 Type='4'/><3 Type='0' Data='0a00'/>Though...<5 Type='0'/>I do wish we'd run into each
+  other sooner...
+  
+  Look at this disaster.<0 Type='4'/><3 Type='0' Data='0701'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003100'/>Please, if you could help us again, Linkette,
+  I would be very grateful.
+Talk1053: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>It's an honor to see you once again!<0 Type='4'/>The strange thing is, we came here to
+  take out some monsters that had set up
+  a base up ahead...
+  <3 Type='0' Data='0500'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003000'/>But we can't find them anywhere.
+Talk1023: |
+  <3 Type='0' Data='0100'/>I'm so glad you came! I hoped we'd see
+  you again.
+Talk1024: |
+  <3 Type='0' Data='0800'/>Yet another incredible win! I can't thank
+  you enough for all your assistance.
+Talk1005: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>It's an honor to see you again!<0 Type='4'/>We're right back in the middle of rooting
+  out monsters that have taken over
+  the countryside.
+  <3 Type='0' Data='0c00'/>But the enemies are strong...<5 Type='1'/>and to
+  be honest, we're at an overwhelming
+  disadvantage right now.<5 Type='1'/>
+  <3 Type='0' Data='0701'/>I'm sorry to ask, but... I would be
+  incredibly grateful if you could help
+  us again, Linkette.
+Talk1025: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003000'/>Once again you've come to our aid, Linkette.<5 Type='0'/>
+  You have my thanks.
+Talk1015: |
+  <3 Type='0' Data='0701'/>Ah, I nearly forgot.<5 Type='1'/> Please accept this
+  reward as thanks for all your help.
+Talk1045: |
+  <3 Type='0' Data='0a00'/>I do wish...<5 Type='0'/>we'd crossed paths sooner.
+  
+  
+  Just look at this disaster...<0 Type='4'/><3 Type='0' Data='0300'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003100'/>Please, Linkette, we could really use your
+  strength again.
+Talk1046: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='26005100750065007300740069006f006e00530075007200700072006900730065005f0030003000'/>Is that you, Linkette?!<5 Type='1'/> You helped us defeat
+  the monsters!<0 Type='4'/><3 Type='0' Data='0001'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>I'm so grateful for your assistance!<5 Type='1'/>
+  Can you come here for moment?
+Talk1016: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003100'/>Of course, the true battle is yet to come.<5 Type='0'/>
+  Have you seen it, Linkette?
+  
+  The<0 Type='3' Data='0000'/> blood moon<0 Type='3' Data='ffff'/>, I mean.<0 Type='4'/>When it rises in the sky,<5 Type='0'/> monsters will
+  flood the land and threaten the peace in
+  Hyrule again.
+  <4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003100'/>My squad members will rest and rebuild
+  their energy to prepare for its return.
+Talk1017: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003100'/>Another incredible battle!<0 Type='4'/>With you on our side, Linkette, we can take
+  on any threat.
+Talk1047: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003100'/>You know, as long as the<0 Type='3' Data='0000'/> blood moon<0 Type='3' Data='ffff'/>
+  continues to rise, our battle will never
+  come to an end.
+Talk1048: |
+  Ah well, I do look forward to fighting by
+  your side once again.
+Talk1019: |
+  <3 Type='0' Data='0700'/>Once again we find ourselves fighting
+  back monsters revived by the <0 Type='3' Data='0000'/>blood moon<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0c00'/>But the enemies are strong...<5 Type='0'/>and to be
+  honest, I don't know if we can win this
+  fight on our own.<5 Type='1'/>
+  <3 Type='0' Data='0701'/>I'm sorry to ask but...I would be
+  incredibly grateful if you could help
+  us again, Linkette.
+Talk1029: |
+  <3 Type='0' Data='0701'/>As always, I want to give you a reward.
+  Please, take this.
+Talk1049: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003100'/><1 Type='3' Data='6e000000'/>May you fight with the Goddess Hylia's
+  divine protection, brave swordsman!
+Talk1040: |
+  <3 Type='0' Data='0700'/>We received a message from
+  headquarters.<0 Type='4'/>It says you've been an enormous help to
+  other squads of the monster-control crew
+  as well.
+  In fact, headquarters entrusted me with
+  this token of everyone's gratitude. <5 Type='1'/>I hope
+  you can find a use for it in your travels.
+Talk1021: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0053006900670068005f0030003100'/>The <0 Type='3' Data='0000'/>blood moon <0 Type='3' Data='ffff'/>has revived the monsters,
+  and they've taken over Fort Hateno
+  once again.
+  Of course, squad one of the monster-
+  control crew will storm the place and
+  clean them all out again.
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>After we <0 Type='3' Data='0000'/>approach the base<0 Type='3' Data='ffff'/>, we'll wait
+  for the right opportunity and then <0 Type='3' Data='0000'/>launch
+  our attack<0 Type='3' Data='ffff'/>.
+  Please, Linkette...<5 Type='1'/> Could I ask you to lend us
+  a hand once again?
+  
+  <4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003100'/>The renowned Fort Hateno must not
+  remain in enemy hands. Fight beside
+  us, and help take it back!

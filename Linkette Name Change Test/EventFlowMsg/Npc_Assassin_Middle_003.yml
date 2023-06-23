@@ -1,0 +1,15 @@
+Near_000: |
+  Stay on your guard!
+Talk_103: |
+  <FontSize Value='125'/><3 Type='0' Data='0900'/>Who's there?!<FontSize Value='100'/>
+Talk_101: |
+  <3 Type='0' Data='0900'/><FontSize Value='125'/>You're Linkette!<FontSize Value='100'/>
+  
+  
+  Come to free our tailor, have you?<0 Type='4'/>You'll have to get through us first!<1 Type='3' Data='5a000000'/>
+Talk_102: |
+  <3 Type='0' Data='0900'/><FontSize Value='125'/>Linkette!<FontSize Value='100'/>
+  
+  
+  You've got some nerve showing your face
+  around here again. I'll make you pay!<1 Type='3' Data='5a000000'/>

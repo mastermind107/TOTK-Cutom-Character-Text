@@ -1,0 +1,38 @@
+talk_1015: |
+  <FontSize Value='125'/><3 Type='0' Data='0900'/>join my master in the hereafter!<FontSize Value='100'/><1 Type='3' Data='5a000000'/>
+talk_1000: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>Excuse me...<5 Type='0'/><0 Type='4'/>I'd heard that the Yiga Clan had a branch
+  in this area. If that's true, then it's
+  important I give it a wide berth.<0 Type='4'/>Do you know of the Yiga Clan or this
+  nefarious branch of theirs?
+talk_1010: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>What luck to have run across such a kind
+  and knowledgeable soul!
+  
+  Luckier still, I now have a souvenir to
+  bring home! Just stay right there, and...
+talk_1011: |
+  <FontSize Value='125'/><3 Type='0' Data='0900'/>I'll take your head!<FontSize Value='100'/><1 Type='3' Data='5a000000'/>
+talk_1020: |
+  <3 Type='0' Data='0900'/><FontSize Value='125'/>straight to the afterlife!<FontSize Value='100'/><1 Type='3' Data='5a000000'/>
+talk_1021: |
+  <FontSize Value='125'/><3 Type='0' Data='0900'/>to my master in the beyond!<1 Type='3' Data='5a000000'/><FontSize Value='100'/>
+talk_1003: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Ah, a colleague. Though I'm glad for your
+  presence, <5 Type='1'/>I can't have you hanging
+  around dressed like that.
+  We're too close to the nearby Yiga Clan
+  branch to draw any unwanted attention!
+0000: |
+  I'm familiar.
+talk_1013: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Is that right? How odd...<0 Type='4'/>I could have sworn I'd seen you running
+  around the Gerudo Desert before...<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Well, if you're also lost, then perhaps
+  I can guide you...
+talk_1004: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>The Yiga Clan branch isn't far off. Hurry
+  and get changed before Linkette can see you!
+near_0000: |
+  It seems I've lost my way...
+0001: |
+  Never heard of 'em.

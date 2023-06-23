@@ -1,0 +1,36 @@
+Talk_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>There's no way he knows we're <0 Type='3' Data='0000'/>disguising
+  ourselves as trees<0 Type='3' Data='ffff'/> to ambush him.
+  He's done for!
+0000: |
+  Who's Linkette?
+Talk_02: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>You're kidding, right? <5 Type='1'/>Linkette is Zelda's
+  appointed swordsman!
+  
+  He's always getting in our way every
+  chance he gets. The guy's a real pain.<0 Type='4'/><3 Type='0' Data='0701'/>But not for long. The Yiga is tightening its
+  net all over Hyrule. <5 Type='0'/>I'm sure we'll hear
+  news of his death any day now.
+  <4 Type='0' Data='0c004c0061007500670068005300'/>Heh heh...<5 Type='0'/> He'll never expect that we're
+  <0 Type='3' Data='0000'/>disguising ourselves as trees<0 Type='3' Data='ffff'/> to ambush
+  him. He's done for!
+Talk_03: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Hmm, nah... It wouldn't be any fun to kill
+  <0 Type='3' Data='0000'/>Linkette <0 Type='3' Data='ffff'/>right away...
+  
+  Maybe I'll make him lug all this stuff to
+  <0 Type='3' Data='0000'/>the Depths <0 Type='3' Data='ffff'/>and back for me... Work him
+  till he kicks the bucket. That'll show him!
+0001: |
+  Good luck with that...
+Talk_04: |
+  <3 Type='0' Data='0900'/>The only way Linkette could ever beat Master
+  Kohga is with a cowardly surprise attack!<0 Type='4'/>If that's how he does things, we'll pay him
+  with a surprise attack of our own.
+Talk_00: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003000'/>Argh, it never ends! How many times must
+  I go back and forth between the Depths
+  and the surface?!
+  Between this, that, and the other thing,
+  all of this is <0 Type='3' Data='0000'/>Linkette<0 Type='3' Data='ffff'/>'s fault!

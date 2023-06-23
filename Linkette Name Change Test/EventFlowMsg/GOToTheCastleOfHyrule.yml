@@ -1,0 +1,78 @@
+near_1_7: |
+  Is that...
+talk_1_23: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Are you saying you came from up THERE?
+talk_1_24: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>And then there's the most important
+  detail of all. You're sure that you heard
+  the princess speak to you?
+  And she gave you a clear message to
+  find her?
+talk_1_25: |
+  <3 Type='0' Data='0701'/>If that truly was the princess, then that
+  means she's alive!
+  
+  Maybe she's trapped beneath the castle
+  and needs help...
+talk_1_26: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>That settles it. I know you only just
+  returned, Linkette...
+  
+  But I need you to meet with the search
+  party <0 Type='3' Data='0000'/>up by Hyrule Castle<0 Type='3' Data='ffff'/>. They've been
+  searching tirelessly for you two.
+  The captain in charge of the search is
+  named <0 Type='3' Data='0000'/>Hoz<0 Type='3' Data='ffff'/>. Work with him to find the
+  princess as quickly as you can.
+  <3 Type='0' Data='0000'/><4 Type='0' Data='260050007500720061006800540061006c006b0053006500720069006f00750073005f0030003100'/>I know that mummy may still be lurking
+  somewhere around there.
+  
+  Which is concerning, to say the least, but
+  we have more immediate problems to
+  deal with right now.
+  I'm counting on you, Linkettey!
+talk_1_27: |
+  <3 Type='0' Data='0c01'/>This <0 Type='3' Data='0000'/>Rauru<0 Type='3' Data='ffff'/> you met...<5 Type='0'/> I think that's what
+  the <0 Type='3' Data='0000'/>first king of Hyrule<0 Type='3' Data='ffff'/> was named.
+  
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Are they one and the same?<5 Type='0'/> So much of
+  this doesn't make sense—yet.
+  
+  <3 Type='0' Data='0701'/>But I'm certain that mummy you found
+  under the castle must be related to
+  <0 Type='3' Data='0000'/>the Upheaval<0 Type='3' Data='ffff'/>.
+near_1_2: |
+  Doc looks busy...
+talk_1_1: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>That hair!<5 Type='1'/> Those eyes!<5 Type='1'/> Duh...<5 Type='0'/> DUH... <5 Type='0'/>DOC!<5 Type='1'/>
+near_1_3: |
+  Must be someone else...
+talk_1_2: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Nimble.<5 Type='0'/> Frame.<5 Type='1'/> Duh...<5 Type='0'/> DUH...<5 Type='0'/> DOC!<5 Type='1'/>
+talk_1_3: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/><FontSize Value='125'/>Doctor Puuuraaah!<FontSize Value='100'/>
+  
+  
+  The swordsman!<5 Type='1'/> The swordsman
+  has returned!
+near_1_5: |
+  Hm?
+talk_1_4: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1400520075006e0061007700610079005f0030003100'/><FontSize Value='125'/>Doctor Puuuraaah!<FontSize Value='100'/>
+  
+  
+  The swordsman!<5 Type='1'/> The swordsman
+  has returned!
+near_1_6: |
+  Um...
+talk_1_22: |
+  <3 Type='0' Data='0c01'/>...<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0b00'/>Then...
+talk_1_5: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='260050007500720061006800540061006c006b0053006500720069006f00750073005f0030003000'/>The castle rising up...<5 Type='0'/> The ruins falling
+  down from the sky...
+  
+  The mummy must be connected to
+  it somehow.<5 Type='1'/>

@@ -1,0 +1,193 @@
+NakedPlayer_01: |
+  What a free spirit!
+Near_06: |
+  I can't see her.
+Talk_22: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Didja see the stone tablet that fell?
+  
+  
+  It was left up to the researchers and the
+  folks from Hudson Construction to deal
+  with it.
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>But that's not the first thing that's fallen
+  on us. I saw something else come down
+  from that huge sky island once.
+  If I'm gonna keep Lookout Landing safe,
+  clearly I need to keep an eye on the skies!
+NakedPlayer_02: |
+  Aren't you cold?
+Talk_06: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0a005400680069006e006b00'/>I'm fascinated by that island floating in
+  the sky. What's it made of? How did it
+  get there?
+  <3 Type='0' Data='0701'/>Come to think of it, there's a <0 Type='3' Data='0000'/>sky island
+  expert <0 Type='3' Data='ffff'/>on the <0 Type='3' Data='0000'/>Zonai Survey Team<0 Type='3' Data='ffff'/>. I bet
+  they'd have some answers for me.
+  <0 Type='3' Data='0200'/><3 Type='0' Data='0c01'/><FontSize Value='80'/>With Jirba and the other Gerudo here, I could
+  probably sneak away to Kakariko Village and ask...<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_23: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Hey, stranger! Didja see the stone tablet
+  that fell?
+  
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Oh!<5 Type='0'/> Pardon me, Linkette... <5 Type='1'/>It took me a
+  moment to recognize you. I'm so glad
+  to see that you're safe.
+  <3 Type='0' Data='0001'/>What was I saying? The stone tablet—it
+  was left up to the researchers and the
+  folks from Hudson Construction.
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>But it's not the first thing that's fallen
+  around here. I saw something else come
+  down from that huge sky island once.
+  If I'm gonna keep Lookout Landing safe,
+  clearly I need to keep an eye on the skies!
+Talk_07: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0a005400680069006e006b00'/>I'm fascinated by those islands floating in
+  the sky. What are they...<5 Type='0'/>really?
+  
+  <3 Type='0' Data='0701'/>The <0 Type='3' Data='0000'/>Zonai Survey Team<0 Type='3' Data='ffff'/> has an <0 Type='3' Data='0000'/>expert on
+  sky islands<0 Type='3' Data='ffff'/> somewhere in the kingdom.
+  Maybe that person could tell me.
+Talk_24: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Hey, stranger! Didja see the stone tablet
+  that fell?
+  
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Oh!<5 Type='0'/> Pardon me, Linkette... <5 Type='1'/> It took me a
+  moment to recognize you. I'm so glad
+  to see that you're safe.
+  <3 Type='0' Data='0001'/>What was I saying? The stone tablet—it
+  was left up to the researchers and the
+  folks from Hudson Construction.
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>But it's not the first thing that's fallen
+  around here. I saw something else come
+  down from that huge sky island once.
+  If I'm gonna keep Lookout Landing safe,
+  I need to look out for falling debris! I'll tell
+  the Gerudo to watch the skies too.
+Talk_08: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>I swear I saw something fall from that
+  giant sky island.<0 Type='4'/>Was that a person? Was it...<5 Type='0'/>you?
+Talk_25: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Didja see the stone tablet that fell?
+  
+  
+  It was left up to the researchers and the
+  folks from Hudson Construction to deal
+  with it.
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>But it's not the first thing that's fallen
+  around here. I saw something else come
+  down from that huge sky island once.
+  If I'm gonna keep Lookout Landing safe,
+  I need to look out for falling debris! I'll tell
+  the Gerudo to watch the skies too.
+Talk_09: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Oh, Linkette!<5 Type='0'/> Pardon me. I know I shouldn't
+  stare at the sky all day.
+Talk_26: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0a005400680069006e006b00'/>I'm so curious about that island floating
+  in the sky. What's it made of? How did it
+  get there?
+  <3 Type='0' Data='0701'/>Maybe I should talk to that <0 Type='3' Data='0000'/>sky island
+  expert <0 Type='3' Data='ffff'/>on the <0 Type='3' Data='0000'/>Zonai Survey Team<0 Type='3' Data='ffff'/>. I bet
+  they'd have some answers for me.
+  <0 Type='3' Data='0200'/><3 Type='0' Data='0c01'/><FontSize Value='80'/>Jirba's out on a monster-control crew mission, but I
+  can probably sneak off to Kakariko Village for a bit...<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_10: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Oh, Linkette!<5 Type='0'/> Pardon me. Um... Good
+  work today!
+BlackZelda_01: |
+  <3 Type='0' Data='0701'/>We got word that the princess was
+  spotted<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/>at Hyrule Castle. I was hoping
+  I'd catch sight of her.
+  <3 Type='0' Data='0a01'/>But the castle's so far—I can't see much
+  of anything.
+Talk_11: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Oh, Linkette!<5 Type='0'/> Pardon me. Um... Good
+  work today!
+BlackZelda_02: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0a005400680069006e006b00'/>Usually I don't have a problem spotting
+  stuff. I think it's just not possible without
+  a <0 Type='3' Data='0000'/>telescope<0 Type='3' Data='ffff'/>.
+Talk_12: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Oh, Linkette!<5 Type='0'/> Pardon me. Um... Good work
+  in this rain!
+Talk_13: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Oh, Linkette!<5 Type='0'/> Pardon me. I know I shouldn't
+  stare at the sky all morning.
+TerrorSword: |
+  Please, stop!
+Talk_14: |
+  <3 Type='0' Data='0a01'/>With the Gerudo here, I should really
+  focus on what's in front of me... <5 Type='1'/>Sorry.<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>I have to say, they seem to be big fans
+  of yours.<0 Type='4'/>I'm still in awe that you made a vow with
+  their chief.<0 Type='4'/>Is it weird to say I'm proud of you?
+Talk_15: |
+  <3 Type='0' Data='0701'/>Right, yeah. It looked a lot like...<0 Type='4'/><3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Linkette?! Pardon me!<0 Type='4'/><3 Type='0' Data='0a01'/>I've been distracted ever since I saw
+  someone fall from the sky.<5 Type='0'/> Or...thought
+  I did.
+  <3 Type='0' Data='0701'/>The <0 Type='3' Data='0000'/>Zonai Survey Team<0 Type='3' Data='ffff'/> is investigating
+  the new ruins all over the kingdom. They
+  have an <0 Type='3' Data='0000'/>expert on sky islands<0 Type='3' Data='ffff'/>, I hear.
+  <3 Type='0' Data='0c01'/>If I ever leave my post here, maybe I'll
+  try to find him and describe what I saw.
+  But who knows when that will be...
+Talk_17: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Oh, Linkette?! Pardon me!
+Talk_18: |
+  <3 Type='0' Data='0701'/>Right, I'm sure I did...<5 Type='0'/> It even looked
+  kind of like...<0 Type='4'/><3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Wait, <5 Type='0'/>Linkette? <5 Type='0'/>Is that really you?
+  You're back?<0 Type='4'/><3 Type='0' Data='0701'/>Then I won't hold you up a moment
+  longer! Please, speak to <0 Type='3' Data='0000'/>Purah <0 Type='3' Data='ffff'/>at once!
+Talk_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>That's ridiculous, of course.<0 Type='4'/>Sorry, I didn't mean to hold you up.
+  <0 Type='3' Data='0000'/>Purah <0 Type='3' Data='ffff'/>will be eager to speak with you.
+Near_01: |
+  Hm?
+Near_02: |
+  Did...I see something?
+Talk_19: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>No matter how hard you squint, she's not
+  visible from here.
+Near_03: |
+  No sign of letting up.
+Talk_02: |
+  <3 Type='0' Data='0c01'/>Ever since I saw someone fall from one
+  of those sky islands, I've thought about
+  practically nothing else.
+  <3 Type='0' Data='0a01'/>Gah! The Gerudo came all this way to
+  help us keep watch, and I'm getting
+  distracted. <5 Type='1'/>Sorry. I'll shut up about it...
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>in a second...but first, did you know
+  there's a <0 Type='3' Data='0000'/>sky-island expert <0 Type='3' Data='ffff'/>on the <0 Type='3' Data='0000'/>Zonai
+  Survey Team<0 Type='3' Data='ffff'/>?
+  If I ever leave my post here, I think I'm
+  going to ask that person all about it.
+Talk_03: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>I swear I saw something fall from that
+  giant sky island...
+Near_04: |
+  What's going on?
+TerrorHorse: |
+  What is happening?
+Talk_20: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>For a thing that big and heavy to come
+  crashing down on us...<5 Type='0'/> It's kind of a
+  miracle no one got hurt.
+  I'll look out for more falling debris.<5 Type='0'/> Gotta
+  keep Lookout Landing safe!
+Talk_04: |
+  <3 Type='0' Data='0c01'/>I'm sure I saw someone fall from that
+  huge island in the sky.<5 Type='0'/> Pretty sure,
+  at least.
+  The sight of that just stays with me.<0 Type='4'/><3 Type='0' Data='0701'/>I should talk to the <0 Type='3' Data='0000'/>expert on sky islands<0 Type='3' Data='ffff'/>
+  who works with the <0 Type='3' Data='0000'/>Zonai Survey Team<0 Type='3' Data='ffff'/>.
+  They're studying ruins all over though.
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>I'll be able to leave my post here and
+  go find that person someday. But who
+  knows when that will be...
+Near_05: |
+  Why is it floating?
+NakedPlayer_00: |
+  Pulling that off takes guts.
+Talk_21: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0a005400680069006e006b00'/>I'll keep an eye out for more falling debris.<5 Type='0'/>
+  Gotta keep Lookout Landing safe!

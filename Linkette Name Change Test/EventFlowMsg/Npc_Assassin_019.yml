@@ -1,0 +1,68 @@
+talk_1042: |
+  <3 Type='0' Data='0700'/>Hey, could you...<5 Type='0'/>please report...<5 Type='0'/>a freshly
+  discovered abandoned mine for me?<5 Type='0'/> Or,
+  even better, keep watch while I report it?
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='08004500610073006500'/>Blech... <5 Type='0'/>The Depths wasn't great, but at
+  least it was <0 Type='3' Data='0000'/>never too hot or cold<0 Type='3' Data='ffff'/>.
+  
+  I hope they'll reassign me soon.<5 Type='0'/> 
+  Anywhere's got to be better than Eldin.
+talk_1000: |
+  <3 Type='0' Data='0a00'/>Ugh, it's sooo hot...
+talk_1001: |
+  <3 Type='0' Data='0a00'/>Too hot...
+talk_1010: |
+  <3 Type='0' Data='0900'/>What do you mean, what's the matter?<5 Type='0'/>
+  It's <0 Type='3' Data='0000'/>hot<0 Type='3' Data='ffff'/>! This place is sweltering!<5 Type='1'/> Do you
+  have fireproof skin or something?
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>Blech, <5 Type='0'/>I'll give the Depths one thing...it's
+  usually <0 Type='3' Data='0000'/>never too hot or cold<0 Type='3' Data='ffff'/>.
+  
+  Wherever I'm assigned next,<5 Type='0'/> I hope it's
+  somewhere other than Eldin.
+  
+  <3 Type='0' Data='0701'/>Huh?<5 Type='0'/> Why am I "assigned" anywhere?
+talk_1011: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Isn't that obvious?
+  
+  
+  I'm in the Yiga Clan. <5 Type='0'/>And we've been
+  assigned to take you down!
+talk_1020: |
+  <3 Type='0' Data='0900'/><FontSize Value='125'/>You'll fry—er, die—here!<FontSize Value='100'/><1 Type='3' Data='5a000000'/>
+talk_1030: |
+  <3 Type='0' Data='0a00'/>This <0 Type='3' Data='0000'/>heat<0 Type='3' Data='ffff'/> is miserable.<5 Type='0'/> What a scorcher.
+  
+  
+  I'm so dizzy, I feel like I'm getting
+  delirious...
+  
+  <4 Type='0' Data='0e0045006100730065005f0030003100'/>I swear I can hear his voice<5 Type='0'/> right nearby...
+  
+  
+  That detestable hero...
+talk_1021: |
+  <FontSize Value='125'/><3 Type='0' Data='0900'/>This is for Master Kohga!<1 Type='3' Data='5a000000'/><FontSize Value='100'/>
+0000: |
+  What's the matter?
+talk_1040: |
+  <3 Type='0' Data='0900'/>That Linkette!
+near_0000: |
+  Hot...
+0001: |
+  Good luck with that.
+talk_1041: |
+  <3 Type='0' Data='0700'/>Hey...<5 Type='0'/> Perfect timing.
+  
+  
+  Could you go tell the hideout that I found
+  an abandoned mine?<5 Type='1'/> Or better yet, stay
+  here while I do it?
+  <3 Type='0' Data='0a00'/>I just...<5 Type='0'/>can't take this place anymore...<5 Type='0'/>
+  The <0 Type='3' Data='0000'/>heat's totally out of control<0 Type='3' Data='ffff'/>.
+  
+  <4 Type='0' Data='08004500610073006500'/>I mean, the Depths aren't my favorite
+  place either, but at least they're <0 Type='3' Data='0000'/>not
+  too hot or too cold<0 Type='3' Data='ffff'/>.
+  Wherever I get assigned next,<5 Type='0'/> I just hope
+  it isn't Eldin...

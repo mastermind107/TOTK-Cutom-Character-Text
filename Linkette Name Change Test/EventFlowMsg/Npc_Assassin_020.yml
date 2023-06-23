@@ -1,0 +1,62 @@
+talk_1010: |
+  <3 Type='0' Data='0800'/>Ah! Thank you!
+talk_1011: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>Phew... You really saved me.
+  
+  
+  It's so dark around here, you can't see a
+  thing without a little glow. <5 Type='0'/>So don't waste
+  your <0 Type='3' Data='0000'/>brightbloom seeds<0 Type='3' Data='ffff'/> like I did!
+  <3 Type='0' Data='0700'/>Oh, and putting a seed on the ground to
+  hit it is all right,<5 Type='0'/> but expert explorers
+  <0 Type='3' Data='0000'/>attach them to arrows and fire them<0 Type='3' Data='ffff'/>.
+  Do that, and look—<5 Type='0'/>I can see your face in
+  the dark, clear as day!
+  
+  <3 Type='0' Data='0900'/>The face of our sworn enemy Linkette, that is!
+talk_1040: |
+  <3 Type='0' Data='0900'/>Talk about a heartless hero!
+talk_1041: |
+  <3 Type='0' Data='0700'/>Oh, hello there.<5 Type='0'/> Did they send you to
+  explore the Depths too? Do you have
+  enough <0 Type='3' Data='0000'/>brightbloom seeds<0 Type='3' Data='ffff'/>?
+  Many of our allies are using these Zonai
+  devices called "lights" lately,<5 Type='0'/> but it never
+  hurts to have <0 Type='3' Data='0000'/>brightbloom seeds<0 Type='3' Data='ffff'/> on hand.
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>You never know when a light will go out
+  on you, after all.
+talk_1042: |
+  <3 Type='0' Data='0700'/>Many in our clan choose to navigate the
+  Depths with those Zonai lights,<5 Type='0'/> but I'll
+  take a <0 Type='3' Data='0000'/>brightbloom seed <0 Type='3' Data='ffff'/>any day.
+  You never know when a light might fail,
+  but you can always count on a seed.
+talk_1020: |
+  <3 Type='0' Data='0900'/><FontSize Value='125'/>I'll have your life!<FontSize Value='100'/><1 Type='3' Data='5a000000'/>
+talk_1021: |
+  <FontSize Value='125'/><3 Type='0' Data='0900'/>This is for Master Kohga!<1 Type='3' Data='5a000000'/><FontSize Value='100'/>
+near_0000: |
+  Out of brightbloom seeds...
+talk_1000: |
+  <3 Type='0' Data='0a00'/>I used up all the <0 Type='3' Data='0000'/>brightbloom seeds<0 Type='3' Data='ffff'/> I
+  brought with me.<5 Type='0'/> If you have any extra,
+  would you mind sharing?
+talk_1001: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a005400680069006e006b00'/>You can't get through here without
+  <0 Type='3' Data='0000'/>brightbloom seeds<0 Type='3' Data='ffff'/>...<5 Type='0'/>and I used all of
+  mine up.
+  I'm sorry to ask, but if you have any on
+  hand, would you mind sharing?
+0000: |
+  Here you go.
+talk_1030: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='0600530061006400'/>You're just going to leave me in the dark?
+  That's low, even for you.
+0001: |
+  Sorry, can't help you.
+talk_1031: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>You don't have any, after all...
+  
+  
+  Getting my hopes up just to dash them?
+  I can't think of anything crueler.

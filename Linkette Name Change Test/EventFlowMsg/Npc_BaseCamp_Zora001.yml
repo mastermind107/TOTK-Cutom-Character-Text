@@ -1,0 +1,196 @@
+talk0013: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>I will! I will try my very hardest in the
+  absence of Captain Bazz!
+near0007: |
+  I will protect this place!
+near0008: |
+  The Turning Tide!
+talk0014: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Traveler! <5 Type='1'/>We are in your debt for this
+  great deed.
+  
+  The sludge that was marring The Turning
+  Tide has disappeared completely!
+  
+  <3 Type='0' Data='0a01'/>I must report this to Lady Yona at once...
+  Urp!<5 Type='1'/> Urgh...<5 Type='1'/> I would like to share this
+  joyous news, however...
+  In this state, I fear that if I met with Lady
+  Yona... <5 Type='1'/>Ugh...<5 Type='1'/> I may dispel the contents
+  of my stomach upon her noble self. <5 Type='1'/>Urp.
+talk0015: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a0054006900720065006400'/>Urp. <5 Type='0'/>The Turning Tide is clean at last.<5 Type='1'/> If
+  only I could share this news with Lady
+  Yona. However...<5 Type='1'/>I cannot in this condition.
+0000: |
+  Are you OK?
+0001: |
+  Hang in there.
+Talk_09: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>I will make quick work of any and all
+  monsters that try to set one dastardly
+  toe inside of Lookout Landing!
+  Please rest assured that all is well here
+  as you continue your journey.
+0002: |
+  You look well.
+talk0001: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='1000530063006100720065005f0030003100'/>Urp! <5 Type='0'/>The sludge is in my gills...<5 Type='0'/> Ack!
+  
+  
+  Oh...<5 Type='0'/> Our poor statue, The Turning Tide...<5 Type='0'/>
+  is covered in sludge as well. Ugh.
+  
+  How long must we endure the foul effects
+  of the Upheaval? <5 Type='0'/>Honestly.<5 Type='0'/> Uuurp!
+0003: |
+  Keep up the good work.
+BlackZelda_01: |
+  <3 Type='0' Data='0c00'/>Rumors have a way of making me feel
+  uncertain and ill at ease.
+  
+  If only the waterfalls streaming out of the
+  castle reached all the way down to the
+  moat below.
+  If they did, we could simply swim up and
+  see for ourselves just what is going on
+  up there...
+talk0002: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='1000540069007200650064005f0030003000'/>Ugh...<5 Type='0'/> This is terrible.
+  
+  
+  I require my wits about me in order to
+  effectively patrol, but my gills are in
+  turmoil because of <5 Type='0'/>the sludge.<5 Type='1'/>
+  <3 Type='0' Data='0000'/>And yet...<5 Type='0'/>I am heartened by the domain's
+  statue, The Turning Tide, being returned
+  to its pristine state.
+  It is truly so necessary for it to be
+  standing proud and shining brightly
+  in the middle of everything.
+BlackZelda_03: |
+  <3 Type='0' Data='0700'/>It seems incredible danger of some sort
+  has found us all.
+  
+  I do not know much, but I know this.
+  We need only to protect this place and
+  trust in you and King Sidon!
+talk0004: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>The sludge is no longer filling my gills!<5 Type='1'/>
+  The treatment worked with such speed
+  that I only suffered minor symptoms.
+  It is all thanks to Lady Yona's cure!
+  
+  
+  All right! Oh, yeah! I will now get out
+  there and resume my patrol!
+WaterPumpWater_00: |
+  Ah... The water feels nice.
+talk0005: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Ahhh.<5 Type='1'/> Ah ha haaa!<5 Type='0'/> Hello. <5 Type='0'/>Oooh.<5 Type='0'/> Oooh
+  ah ah!<5 Type='0'/> Whoooa!
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Yes! My voice is as good as gold again.
+  <5 Type='0'/>I feel so much better.
+  
+  Just earlier, Lady Yona treated my gills.
+  
+  
+  And look at me now! I can return to work
+  at full health once more!
+BlackZelda_05: |
+  <3 Type='0' Data='0700'/>I do not understand what is happening in
+  the world.
+  
+  Yet, I know this much. We need only to
+  protect this place and trust in you and
+  King Sidon!
+WaterPumpWater_01: |
+  Precious water...
+talk0006: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>*sigh* <5 Type='0'/>Our poor statue, The Turning Tide,
+  is covered in sludge.
+  
+  How long must we endure this foul
+  predicament...<5 Type='0'/> Urp! <5 Type='1'/>Ugh...
+talk0007: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>When I gaze upon The Turning Tide,
+  I am heartened.<5 Type='1'/> I am so glad that it is
+  pristine once again.<5 Type='0'/> Urp!
+  My gills are in turmoil, but I can push
+  through this.<5 Type='1'/> I must make it through
+  my patrol.
+near0001: |
+  Urp! Ugh...
+talk0008: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1400480075006d006d0069006e0067005f0030003100'/>Aaah! Aha haaa! Aha HAAA!
+  
+  
+  Oooh! I can feel my voice reverberating
+  from the depths of my belly!
+  
+  I am sooo happy <5 Type='0'/>that Lady Yona
+  cured me!
+near0002: |
+  Ugh.
+talk0009: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>I feel great! Fantastic, even! Lady Yona is
+  truly amazing!
+  
+  Now I can patrol the domain as often and
+  for as long as I please!
+Talk_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Linkette! It is you! So, you have returned to
+  Lookout Landing, eh?
+Talk_01: |
+  <3 Type='0' Data='0000'/>We of the Zora brigade were sent here by
+  order of King Sidon!
+  
+  Please rest assured that we are sworn to
+  protect Lookout Landing, by the honor of
+  our king!
+talk0010: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>Urgh... <5 Type='1'/>I appreciate your concern.
+  
+  
+  However, there is no time to dwell on
+  my misfortune.
+  
+  You see, our brave Captain Bazz set out
+  for the Skyview Tower, to the west of the
+  domain, to investigate the sludge.
+  Us soldiers who remained behind must
+  vigilantly protect the domain.<5 Type='1'/> Urgh... <5 Type='0'/>Urp!
+near0004: |
+  Oh, this is fantastic!
+Talk_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>King Sidon and Queen Yona are the
+  protectors of the domain.<5 Type='0'/> Nothing
+  could be more reassuring than that.
+  That means that we, too, can focus
+  our full energies on guarding
+  Lookout Landing.
+talk0011: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>Roger! <5 Type='0'/>Urp... <5 Type='1'/>I will do my best in the
+  absence of Captain Bazz!
+Talk_03: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>We of the Zora brigade were sent here by
+  order of King Sidon!
+  
+  Please rest assured that we are sworn to
+  protect Lookout Landing, by the honor of
+  King Sidon!
+near0006: |
+  My voice is good as gold!
+talk0012: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Indeed! I am as good as new once again!<5 Type='0'/>
+  What's more, I am positively overflowing
+  with motivation.
+  Captain Bazz set out for the Skyview
+  Tower, to the west of the domain, in
+  order to investigate the sludge.
+  That means we are short on Zora here.
+  We need every ounce of enthusiasm we
+  can muster!
+  Us soldiers who remained behind must
+  vigilantly protect the domain!

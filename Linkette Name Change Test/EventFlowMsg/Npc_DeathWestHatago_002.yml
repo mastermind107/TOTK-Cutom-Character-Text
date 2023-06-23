@@ -1,0 +1,147 @@
+Com_Welcome: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>Welcome! You've found your way to
+  <0 Type='3' Data='0000'/>Woodland Stable<0 Type='3' Data='ffff'/>.
+Com_Photo_03: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>There are these famous hot springs near
+  Goron City to the <0 Type='3' Data='0000'/>north<0 Type='3' Data='ffff'/>. I'd love to hang a
+  painting of them on the wall here.
+  <3 Type='0' Data='0701'/>In fact, I understand Gorons love to spend
+  their time relaxing in the hot water there.
+  
+  So what I'd really like to do is paint
+  a <0 Type='3' Data='0000'/>picture of a Goron soaking in the
+  hot springs<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0301'/>Ah, but I can't just up and leave this
+  place. And if I can't look at the scenery
+  for inspiration...how can I paint it?
+Com_Photo_Thank: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Thanks to you, Linkette, I've got a painting
+  on the wall and a stable with a bit more
+  personality.
+  Those hot springs look so soothing,
+  I swear I feel the stress float away
+  every time I glance at that picture.
+9001: |
+  I have a picture.
+Com_Photo_04: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='26005100750065007300740069006f006e00530075007200700072006900730065005f0030003100'/>What?!<5 Type='0'/> You have a <0 Type='3' Data='0000'/>picture of a
+  Goron soaking in hot springs<0 Type='3' Data='ffff'/>?
+DoNotWakka_01: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Sir! Sir! That bit of decoration is a
+  beloved fixture here at the stable.
+  You must not remove it!
+  It was made in a place far to the south of
+  here called <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>.
+  
+  It's said that the shape of the <0 Type='3' Data='0000'/>ring garland<0 Type='3' Data='ffff'/>
+  brings good luck. We have it on display
+  because it's our lucky charm.
+BurnedWakka_01: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='20005100750065007300740069006f006e0041006e006700720079005f0030003100'/>Look here, if you're so interested in that,
+  how about you go get one for yourself.
+  
+  You'll find they sell them in a place called
+  <0 Type='3' Data='0000'/>Kakariko Village <0 Type='3' Data='ffff'/>far off to the south.
+9002: |
+  All the best with that.
+Com_Photo_05: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003100'/>If only I had a picture like that in front of
+  me.<5 Type='0'/> I could paint a copy of it, easy as
+  can be.
+DoNotWakka_02: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Sir! Please! I'm telling you that's the
+  stable's good-luck charm! You simply
+  can't take it!
+  If you find it so desirable, go get
+  one yourself!
+  
+  They sell them far off to the south in a
+  place called <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>.
+9003: |
+  I changed my mind.
+Com_Photo_06: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003000'/>If you happen to have a <0 Type='3' Data='0000'/>picture of a
+  Goron soaking in hot springs <0 Type='3' Data='ffff'/>I do hope
+  you'll show it to me.
+Com_Photo_07: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Now, this is certainly a feast for the eyes.
+  
+  
+  But if you ever want to see a different
+  <0 Type='3' Data='0000'/>painting of a Goron soaking in the hot
+  springs<0 Type='3' Data='ffff'/> on the wall, just let me know.
+  Just show me the picture you have in
+  mind. I'll paint a copy and put it on
+  display for all to see.
+WakkaCharm: |
+  We have one of those too!
+Com_Photo_08: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>I have to say,<5 Type='0'/> that hot spring looks like it
+  feels wonderful. Makes me think I should
+  ditch my post and go for a soak!
+  Heh, who am I kidding.<5 Type='0'/> It's back to work
+  for me.
+Goodbye_01: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>We are the closest stable to <0 Type='3' Data='0000'/>Goron City<0 Type='3' Data='ffff'/>,
+  home to the Gorons, of course.
+  
+  Death Mountain is done erupting, and the
+  city and roads are in good condition.
+  
+  Though, you'll still find hot lava <0 Type='3' Data='0000'/>inside the
+  caves<0 Type='3' Data='ffff'/>, so take care not to get <0 Type='3' Data='0000'/>burned<0 Type='3' Data='ffff'/>.
+Com_Photo_09: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>What I'd like to do is hang up a <0 Type='3' Data='0000'/>painting
+  of a Goron soaking in hot springs<0 Type='3' Data='ffff'/>.<0 Type='4'/>It would be good advertising for the
+  hot springs, and would go perfectly on
+  the walls here since we're so close.
+9006: |
+  Let's change it.
+9007: |
+  Let's leave it as is.
+Goodbye_03: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Linkette, did you already pay the <0 Type='3' Data='0000'/>hot spring<0 Type='3' Data='ffff'/>
+  a visit? Just a dip and your fatigue
+  will melt away, I swear.
+  <3 Type='0' Data='0a01'/>Once upon a time, a hot spring sprang
+  from the <0 Type='3' Data='0000'/>well <0 Type='3' Data='ffff'/>here too.
+Com_Photo_10: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>Ahhh, what a splendid painting. Just
+  looking at it makes me feel like I'm the
+  one relaxing in a hot spring.
+Com_Photo_12: |
+  <3 Type='0' Data='0700'/>Anyway,<5 Type='0'/> would you like to do something
+  with the <0 Type='3' Data='0000'/>painting of the soaking Goron<0 Type='3' Data='ffff'/>?
+Com_FirstTime_Only01: |
+  <3 Type='0' Data='0701'/>Now then, since this is your first time with
+  us at Woodland Stable...
+Com_FirstTime_Only02: |
+  <3 Type='0' Data='0701'/>Since this is your first time visiting 
+  Woodland Stable, and I see you've
+  also <0 Type='3' Data='0000'/>registered a horse <0 Type='3' Data='ffff'/>here...
+Com_Photo_01: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>It's a big picture frame, eh?<5 Type='1'/> Now all
+  I need is the perfect painting to put
+  inside it.
+  <3 Type='0' Data='0801'/>There are these famous hot springs near
+  Goron City <0 Type='3' Data='0000'/>north<0 Type='3' Data='ffff'/> of here. <5 Type='0'/>So maybe a
+  painting of the springs would be nice?
+  <3 Type='0' Data='0c01'/>But I don't know...<5 Type='0'/>a picture of hot water?<5 Type='0'/>
+  That wouldn't be very interesting to look
+  at, would it?
+  <3 Type='0' Data='0701'/>What I'd really like to do is hang a<0 Type='3' Data='0000'/> picture
+  of a Goron soaking in hot springs<0 Type='3' Data='ffff'/>. Now
+  THAT would be compelling.<0 Type='3' Data='0000'/>
+  <3 Type='0' Data='0301'/><0 Type='3' Data='ffff'/>But when will I have time to head over
+  there and then paint up a picture? Never!
+  That's when. 
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0c005300610064005f0030003100'/>What I need is a picture of some sort—one
+  that captures the scenery. <5 Type='1'/>I could use it
+  for reference and paint up a copy, easy.
+Com_FirstTime_Only03: |
+  <3 Type='0' Data='0701'/>Since this your first time visiting
+  Woodland Stable, and you also had
+  yourself a good <0 Type='3' Data='0000'/>sleep<0 Type='3' Data='ffff'/> here...
+Com_Photo_02: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='26005100750065007300740069006f006e00530075007200700072006900730065005f0030003100'/>Pardon?!<5 Type='0'/> You...have a <0 Type='3' Data='0000'/>picture of a
+  Goron soaking in hot springs<0 Type='3' Data='ffff'/>?

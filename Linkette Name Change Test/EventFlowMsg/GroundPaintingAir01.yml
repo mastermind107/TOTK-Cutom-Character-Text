@@ -1,0 +1,362 @@
+Talk_51: |
+  <3 Type='0' Data='0b00'/>What? <5 Type='0'/>Where are we going?<5 Type='0'/> Linkette, this is
+  the wrong way!
+Talk_34: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>If you want to get down, use a paraglider
+  to float to the ground.
+  
+  No need to worry about me. I can manage
+  a simple landing.
+Talk_17: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Goodness! <5 Type='1'/>You say you had a vision?
+  Saw mysterious figures?
+Talk_18: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0600530061006400'/>Hm. This is frustrating.
+Talk_52: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e00540072006f00750062006c006500'/>Hmm... I panicked and got off, and now
+  the balloon is broken again.
+Talk_35: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Are you going to take me to a spot above
+  the geoglyph this time?
+Talk_53: |
+  <3 Type='0' Data='0700'/>Mm-hmm. It is so large, I cannot clearly
+  see the design from down here.
+  
+  I would be better able to make it out from
+  a high vantage point.
+  
+  <3 Type='0' Data='0c00'/>That was why I went up in the <0 Type='3' Data='0000'/>balloon<0 Type='3' Data='ffff'/>
+  Purah gave me. Alas...
+Talk_19: |
+  <3 Type='0' Data='0700'/>This is one of the giant pictures that
+  have appeared on the surface of Hyrule.<5 Type='0'/>
+  I am traveling the land to see them all.
+Talk_36: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>I thank you, Linkette! Now, let's hop aboard.
+Talk_70: |
+  <3 Type='0' Data='0701'/>Anyway, I heard you had gone missing.
+  I am relieved to see you made it back—<5 Type='0'/>
+  even if your clothes evidently did not.
+  And Princess Zelda! Where is she?
+Talk_71: |
+  Yes, <5 Type='0'/>I still recognize you, even with that
+  outfit on.
+Talk_54: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Linkette? <5 Type='0'/>Linkette! Where did you disappear to?
+Talk_37: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>If you would like to examine the geoglyph
+  from ground level, you can float down
+  with a paraglider.
+  No need to worry about me. I can manage
+  a simple landing.
+Talk_55: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Phew! Good thing we got the balloon
+  down after your little stunt.
+  
+  But it hit the ground too hard, and now it
+  is damaged.<5 Type='0'/> Again.
+Talk_38: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Is there some place you want to be? <5 Type='0'/>
+  If so, you can hop off from the balloon
+  and use a paraglider to go toward it.
+  No need to worry about leaving me
+  behind. I can manage a simple landing.
+Talk_39: |
+  <3 Type='0' Data='0a00'/>On second thought...<5 Type='0'/>I don't see any way
+  to get on.
+  
+  Linkette...<5 Type='1'/> Would you clear some space on the
+  balloon so I can board?
+Talk_56: |
+  <3 Type='0' Data='0700'/>If you would like to see the geoglyph
+  again, you can use the balloon once more.
+  
+  No need to bring me along. Your steering
+  makes me feel a bit faint.
+Talk_73: |
+  <3 Type='0' Data='0a00'/>...<5 Type='1'/>First. A word of advice.
+  
+  
+  <3 Type='0' Data='0c01'/>According to the literature, there is
+  something to do with the geoglyphs
+  in the <0 Type='3' Data='0000'/>Forgotten Temple<0 Type='3' Data='ffff'/>.
+  <4 Type='0' Data='10005400680069006e006b005f0030003100'/>I suggest you go there and learn what
+  you can. The temple lies at the bottom
+  of a <0 Type='3' Data='0000'/>canyon in Hebra<0 Type='3' Data='ffff'/>.
+Talk_57: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Ah!<5 Type='0'/> I'm falling!<5 Type='0'/> Heeelp!
+Talk_74: |
+  <3 Type='0' Data='0700'/>Oh, yes... The literature says there is
+  something to do with the geoglyphs
+  in the <0 Type='3' Data='0000'/>Forgotten Temple<0 Type='3' Data='ffff'/>.
+  The temple lies at the bottom of a <0 Type='3' Data='0000'/>canyon
+  in Hebra<0 Type='3' Data='ffff'/>. Cado and I may go there
+  ourselves as well.
+Talk_58: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003100'/>That was close... Somehow I managed not
+  to get hurt.
+0001: |
+  About this geoglyph...
+Talk_59: |
+  <3 Type='0' Data='0700'/>What a <0 Type='3' Data='0000'/>Dragon's Tear<0 Type='3' Data='ffff'/> is, I can only guess.
+  But it seems such a thing can be found on
+  the geoglyph.
+  Would you try looking around? This could
+  be the clue we need to discover Princess
+  Zelda's whereabouts.
+0002: |
+  Goodbye.
+0003: |
+  Where are we heading?
+0004: |
+  Let's pull back.
+Talk_00: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>What a surprise it is to see you here
+  after all this time, Linkette.
+0005: |
+  Never mind.
+Talk_01: |
+  <3 Type='0' Data='0701'/>I heard you had gone missing. It is
+  certainly a relief to see you back, and
+  in one piece—more or less.
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>And Princess Zelda! <5 Type='1'/>Where is she?
+0006: |
+  We should head back.
+Talk_02: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>What? <5 Type='0'/>She still has yet to return?<5 Type='1'/>
+  In that case, we must use all available
+  means to search for her.
+  <3 Type='0' Data='0001'/>Linkette,<5 Type='0'/> when Princess Zelda went missing,
+  something else happened all over Hyrule.<5 Type='1'/>
+  
+  During the Upheaval, huge pictures
+  appeared out of nowhere, images that
+  sprawled across fields and hills.
+  <4 Type='0' Data='10005400680069006e006b005f0030003100'/>We are calling them <0 Type='3' Data='0000'/>geoglyphs<0 Type='3' Data='ffff'/>.
+  I understand they have been found in
+  locations across the kingdom.
+  Cado and I are traveling from region to
+  region in hopes of seeing them all.
+0007: |
+  Never mind.
+Talk_03: |
+  <3 Type='0' Data='0700'/>I noticed this geoglyph from a distance
+  while I was standing on high ground.
+  
+  <3 Type='0' Data='0c01'/>Examining it up close, I could not make
+  out what it depicted.
+  
+  I thought I might have a better view from
+  up in the sky.
+  
+  <3 Type='0' Data='0000'/>I took to the air in the <0 Type='3' Data='0000'/>balloon <0 Type='3' Data='ffff'/>Purah
+  gave me, but then, alas...
+0008: |
+  Sure!
+Talk_20: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Hm? This is no time to fool around. Put
+  my balloon back where you found it.
+0009: |
+  Not right now.
+Talk_21: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Oh! You fixed my balloon?
+  Thank you, Linkette!
+  
+  Will you come with me to look at the
+  geoglyph, then?
+Talk_22: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0c004e006f007400690063006500'/>Hm? What is it?
+Talk_05: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>But finally we can see it. The geoglyph!
+  Well done, Linkette.
+  
+  <3 Type='0' Data='0000'/>You know, I read something in the
+  village's old literature—<5 Type='0'/>a passage about
+  what the ancients called <0 Type='3' Data='0000'/>Dragon's Tears<0 Type='3' Data='ffff'/>.
+  "Where the Tears rest upon the earth,<5 Type='0'/>
+  we marked down the images <5 Type='0'/>to which
+  they gave birth."
+Talk_23: |
+  <3 Type='0' Data='0700'/>Please, try to take the balloon <0 Type='3' Data='0000'/>directly
+  above <0 Type='3' Data='ffff'/>the geoglyph.
+Talk_06: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>I believe this geoglyph is one such
+  "image." But even from this vantage,
+  its meaning is no clearer to me.
+  Nor can I figure out what "<0 Type='3' Data='0000'/>Dragon's
+  Tears<0 Type='3' Data='ffff'/>" might be.
+  
+  <3 Type='0' Data='0000'/>But you know...<5 Type='0'/>if the literature is correct,
+  one of them should be quite close—<5 Type='0'/>near
+  the geoglyph, or even within its borders.
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Would you look around? This could be the
+  clue we need to discover Princess Zelda's
+  whereabouts.
+Talk_07: |
+  <4 Type='0' Data='0a005400680069006e006b00'/>That geoglyph... <5 Type='1'/>Surely I could see it more
+  clearly from up in the sky.
+Talk_24: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0a005400680069006e006b00'/>Oh! So you want to go back?
+Talk_41: |
+  <3 Type='0' Data='0700'/>Hmm.<5 Type='0'/> Starting over...<0 Type='4'/>All I need is a clear view of the geoglyph.
+  Try to move us straight upward, without
+  going in other directions.
+Talk_42: |
+  <3 Type='0' Data='0701'/>Light a fire there and the balloon will start
+  to float. Then we can be on our way.
+Talk_25: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>I know I can count on you.
+Talk_08: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Goodness! <5 Type='1'/>You say you had a vision?
+  Saw mysterious figures?
+Talk_09: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003100'/>The wind struck and tore the
+  balloon apart.
+  
+  I wonder if there is some way to reattach
+  it to its base.
+Talk_43: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>What are you doing? Please, try not to
+  damage my balloon.
+Talk_60: |
+  <3 Type='0' Data='0a00'/>Hmm. <5 Type='0'/>On second thought, I am not sure
+  we should ride it yet.
+  
+  For this to work, we will need the balloon
+  to float <0 Type='3' Data='0000'/>directly upward<0 Type='3' Data='ffff'/>. Will you please
+  make sure it can do that?
+Talk_26: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Oh! What happened?
+  
+  
+  Has something gone wrong? Maybe we 
+  should head back to solid ground...
+Talk_27: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>What is going on?! I feel faint...
+Talk_61: |
+  <3 Type='0' Data='0500'/>And then Princess Zelda?! <5 Type='1'/>Hmm...
+  
+  
+  The geoglyphs, the literature, the
+  Dragon's Tears...and now, a vision of
+  the lost princess.
+Talk_45: |
+  <3 Type='0' Data='0b00'/>Hey! Come back! You forgot me!
+Talk_28: |
+  <3 Type='0' Data='0700'/>Well, that was dangerous. Shall we try it
+  again from the start?
+Talk_62: |
+  <3 Type='0' Data='0400'/>What if these are all connected?
+Talk_46: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0e00540072006f00750062006c006500'/>Phew... That was quite the crash landing.
+  Thank goodness you are all right.
+  
+  Sadly, the balloon did not fare so well.
+Talk_29: |
+  <4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Too high up... <5 Type='0'/>I feel faint...
+Talk_63: |
+  <3 Type='0' Data='0000'/>Let us continue to examine the geoglyphs.
+  They may contain further clues that lead
+  to Princess Zelda.
+  You know, according to the literature,
+  there is something to do with geoglyphs
+  in the <0 Type='3' Data='0000'/>Forgotten Temple<0 Type='3' Data='ffff'/>.
+  The <0 Type='3' Data='0000'/>Forgotten Temple <0 Type='3' Data='ffff'/>lies at the bottom
+  of a canyon in <0 Type='3' Data='0000'/>Hebra<0 Type='3' Data='ffff'/>. I think we should
+  make our way there soon.
+Talk_64: |
+  <3 Type='0' Data='0500'/>And then Princess Zelda?! <5 Type='1'/>Hmm...
+  
+  
+  <4 Type='0' Data='10005400680069006e006b005f0030003100'/>The geoglyphs, the literature, the
+  Dragon's Tears... And now, a vision
+  of the lost princess.
+Talk_48: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Time to head out, then.<0 Type='4'/>Ah...I nearly forgot. Would you mind
+  doing one final thing for me?
+Talk_65: |
+  <3 Type='0' Data='0400'/>What if these are all connected?
+Talk_49: |
+  <3 Type='0' Data='0700'/>All right. Let me know when you're ready.
+Talk_66: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Let us continue to examine the geoglyphs.
+  They may contain further clues that lead
+  to Princess Zelda.
+  I am also curious about whatever it
+  was the Light Dragon dropped. <5 Type='1'/>Worth
+  investigating, I think.
+Talk_67: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>I see... So the Dragon's Tears were shed
+  by Princess Zelda when she transformed.<5 Type='1'/>
+  
+  And the geoglyphs were drawn by an
+  ancient people who touched those
+  memories and saw visions, as you did.
+  <3 Type='0' Data='0000'/>Perhaps in the past they were more
+  attuned to that sort of thing than the
+  people of today.<5 Type='1'/>
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Hm... I understand now.<5 Type='1'/> So that is the
+  truth of it all.
+  
+  Linkette. <5 Type='1'/>If all of the memories you saw are
+  true, then that means...
+  
+  Since our Princess Zelda has become the
+  Light Dragon, she can never again return
+  to her original form.
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003100'/>It is...painfully tragic.<5 Type='1'/> Our dear
+  Princess Zelda...
+  
+  <3 Type='0' Data='0901'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>No. It cannot be!<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0a01'/>Linkette... Would you excuse me? I need to
+  be alone for a while.
+near_01: |
+  What is it meant to depict?
+Talk_68: |
+  <3 Type='0' Data='0701'/>I heard you had gone missing. I am
+  relieved to see you made it back—even
+  if your clothes evidently did not.
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>And Princess Zelda! <5 Type='1'/>Where is she?
+0010: |
+  Up in the sky?
+Talk_69: |
+  Yes, <5 Type='0'/>you tried to frighten me with that
+  uniform, but I still recognize you.
+near_02: |
+  Yes, good! Higher!
+near_04: |
+  Where are you taking that?
+Talk_10: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0a005400680069006e006b00'/>Hmm. The geoglyph is difficult to make
+  out from here.
+  
+  Maybe if I could look down on it from
+  a higher position...
+Talk_30: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003100'/>The wind struck and completely sheared
+  the balloon off the base.
+Talk_31: |
+  <3 Type='0' Data='0000'/>I have racked my brain for ways to
+  reattach the two parts, to no avail.
+Talk_14: |
+  <3 Type='0' Data='0700'/>Hmm. I will try and work out a solution.
+  Please let me know if any ideas come to
+  you as well.
+Talk_15: |
+  <3 Type='0' Data='0700'/>The Light Dragon... <5 Type='0'/>But what was it
+  doing here?
+Talk_50: |
+  <3 Type='0' Data='0700'/>Ready to go see the geoglyph?
+Talk_33: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>If you would like to examine the geoglyph
+  from ground level, you can float down
+  with a paraglider.
+  No need to worry about me. I can manage
+  a simple landing.
+Talk_16: |
+  <3 Type='0' Data='0701'/>Anyway, I heard you had gone missing.
+  It is certainly a relief to see you back and
+  in one piece—<5 Type='0'/>more or less.
+  But wait. Where is Princess Zelda?

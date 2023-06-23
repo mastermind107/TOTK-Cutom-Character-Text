@@ -1,0 +1,311 @@
+Talk_21: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Had a chance to try out what I gave you?
+Talk_123: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>I've got another one, so it's yours if you
+  want it.<5 Type='1'/> Just give me a moment.
+Talk_22: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>All the swords I gave you have different
+  strengths, so it's worth training with all
+  of them.
+  It's taken me countless hours of training
+  to be able to wield them properly.
+0010: |
+  Knight's broadsword?
+Talk_124: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>You like it? <5 Type='1'/>It's all yours, then.
+Talk_23: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>If you learn the <0 Type='3' Data='0000'/>traits of different swords<0 Type='3' Data='ffff'/>
+  and use those traits to your advantage,
+  then the decay won't be a big deal.
+  Best way to learn is to spend
+  time training.
+  
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Anyway, as you can see, I'm using this
+  area. So if you do intend to train, you'll
+  need to do it elsewhere.
+0011: |
+  Royal broadsword?
+Talk_First01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Hi, sorry, but I'm busy at the moment,
+  so I'll have to talk to you between swings.
+  
+  You never know when monsters will pop
+  up, so I take my training very seriously.
+  
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>You might've noticed, but each sword
+  <0 Type='3' Data='0000'/>handles differently<0 Type='3' Data='ffff'/>, so it's wise to try
+  different types to get used to the feel.
+Talk_First02: |
+  <3 Type='0' Data='0701'/>If you know their handling and practice
+  plenty, the fact that they're <0 Type='3' Data='0000'/>decayed<0 Type='3' Data='ffff'/>
+  won't matter so much.
+Ballon01_01: |
+  Only a hundred more!
+Talk_28: |
+  <3 Type='0' Data='0700'/>Any other swords you're curious about?
+Ballon01_02: |
+  Ha!
+Talk_29: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>The soldier's broadsword is light and slim.
+  It was pretty easy to use, wasn't it?
+  
+  With that sword, I can release <0 Type='3' Data='0000'/>charged
+  attacks really quickly<0 Type='3' Data='ffff'/>. I kinda like it.
+Ballon01_03: |
+  Hyah!
+Ballon01_04: |
+  I'll slice raindrops!
+Ballon01_05: |
+  Now is the time.
+Talk_110: |
+  <3 Type='0' Data='0701'/>That's a royal broadsword.
+Talk_111: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>You interested in a sword?
+Talk_112: |
+  <3 Type='0' Data='0701'/>There we have a soldier's broadsword
+  and a royal broadsword.
+Talk_11: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Word on the street is that Princess
+  Zelda's been sighted at Hyrule Castle.
+  
+  It's crucial that I get training in wherever
+  I can so I'm ready to go if I get sent out
+  in a search party.
+Talk_113: |
+  <3 Type='0' Data='0701'/>There we have a soldier's broadsword
+  and a knight's broadsword.
+Talk_114: |
+  <3 Type='0' Data='0701'/>That's a soldier's broadsword.
+0000: |
+  Soldier's broadsword?
+Talk_12: |
+  <3 Type='0' Data='0800'/>Now that the Zora soldiers have come,
+  it feels like training with them would be
+  a valuable use of my time.
+  Just think about how adept they are
+  with spears!
+  
+  I have heard that you're capable of using
+  not just swords but many other types
+  of weapons...
+  Which means I can learn a ton from
+  you too!
+Talk_115: |
+  <3 Type='0' Data='0701'/>That's a knight's broadsword.
+0001: |
+  Knight's broadsword?
+Talk_13: |
+  <3 Type='0' Data='0800'/>Just think about how adept they are
+  with spears!
+  
+  I have heard that you're capable of using
+  not just swords but many other types
+  of weapons...
+  Which means I can learn a ton from
+  you too!
+0002: |
+  Royal broadsword?
+Talk_116: |
+  <3 Type='0' Data='0701'/>It's a little worse for wear, but it's a fine
+  sword, just the same. Take good care
+  of it.
+Talk_14: |
+  <3 Type='0' Data='0800'/>I'm still in training, but even so, I'd love to
+  spar with you sometime.
+0003: |
+  See you later.
+Talk_117: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>I was going to give it to you, but it
+  looks like you don't have room for
+  any more weapons.
+  Well, if you want it, you know where to
+  find it. After you've created some space,
+  that is.
+Talk_118: |
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>They're a bit worn, but they've got some
+  life left in them. Feel free to take them.
+  
+  Each sword <0 Type='3' Data='0000'/>handles differently<0 Type='3' Data='ffff'/>, so it's
+  wise to try out different types.
+Talk_16: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Is the princess really at <0 Type='3' Data='0000'/>Hyrule Castle<0 Type='3' Data='ffff'/>
+  when it's like...THAT?
+  
+  <3 Type='0' Data='0701'/>Whatever the case may be, this is what
+  I've been training for. When the time
+  comes, I'll head out on the search too.
+Talk_119: |
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>It's a bit worn, but it's still usable. It's all
+  yours if you want it.
+  
+  Each sword <0 Type='3' Data='0000'/>handles differently<0 Type='3' Data='ffff'/>, so it's
+  wise to try out different types.
+0005: |
+  Soldier's broadsword?
+Talk_17: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>I'll go anywhere if it's for Zelda!
+0006: |
+  Knight's broadsword?
+Talk_18: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>There's no telling what will happen, so I'm
+  keeping it up with my training.
+  
+  If reinforcements are needed, then we can
+  link up with the Zora to attack or defend.
+  
+  Anyway, best of luck to you, Linkette!
+Talk_30: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Ah, the knight's broadsword! It has some
+  heft and increases in power if you're
+  <0 Type='3' Data='0000'/>severely weakened<0 Type='3' Data='ffff'/>.
+  Despite the advantage it offers, I wouldn't
+  suggest actively seeking out such
+  situations, you know?
+0007: |
+  Royal broadsword?
+Talk_31: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>The royal broadsword!
+  
+  
+  Its <0 Type='3' Data='0000'/>counterattack power when dodging an
+  enemy attack is potent<0 Type='3' Data='ffff'/>.
+  
+  But my own swordplay isn't there yet, so
+  I can't make the most of that sword at
+  this point.
+0008: |
+  Goodbye.
+0009: |
+  Soldier's broadsword?
+Talk_32: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Right, the soldier's broadsword. It's light
+  and slim. I'm curious how you're liking it.
+  
+  I bet it can <0 Type='3' Data='0000'/>unleash charged attacks
+  quickly<0 Type='3' Data='ffff'/>. I really enjoy the mobility of
+  that sword.
+Talk_33: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Ah, the knight's broadsword. It has some
+  heft and <0 Type='3' Data='0000'/>increases in power if you're in a
+  weakened state<0 Type='3' Data='ffff'/>.
+  Despite the advantage it offers, I wouldn't
+  suggest actively seeking out such
+  situations, you know?
+Talk_34: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Right, the royal broadsword.
+  
+  
+  Its <0 Type='3' Data='0000'/>counterattack power when dodging an
+  enemy is potent<0 Type='3' Data='ffff'/>.
+  
+  But my own swordplay isn't there yet, so
+  I can't make the most of that sword at
+  this point.
+Talk_101: |
+  <3 Type='0' Data='0701'/>There we have a soldier's broadsword,
+  a knight's broadsword, and a
+  royal broadsword.
+Talk_102: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>A soldier's broadsword is what the castle
+  soldiers used to fight with.
+  
+  It's light and nimble, which leads me to
+  believe you could <0 Type='3' Data='0000'/>unleash charged attacks
+  really quickly <0 Type='3' Data='ffff'/>with it. It's a great weapon.
+Talk_103: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>The knight's broadsword was used by
+  knights in defense of the castle way
+  back when.
+  Once, a monster attacked me while I was
+  wielding the broadsword, and I thought it
+  was<0 Type='3' Data='0000'/> the end for me<0 Type='3' Data='ffff'/>...
+  But I timed my swings carefully, and it
+  unleashed an <0 Type='3' Data='0000'/>incredible blow<0 Type='3' Data='ffff'/>!
+  
+  Maybe it was my adrenaline, but...no.
+  It had to be the sword. It really
+  surprised me.
+Talk_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>If you learn the <0 Type='3' Data='0000'/>traits of different swords<0 Type='3' Data='ffff'/>
+  and use them to your advantage, then a
+  bit of disrepair won't be a big deal.
+  Did you notice the unique qualities of
+  what I gave you?
+Talk_104: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>The royal broadsword was used by
+  knights to guard members of the
+  royal family.
+  Its <0 Type='3' Data='0000'/>counterattack power when dodging an
+  enemy attack is potent<0 Type='3' Data='ffff'/>.
+  
+  But my own swordplay isn't there yet, so
+  I can't make the most of that sword at
+  this point.
+Talk_03: |
+  <3 Type='0' Data='0700'/>Speaking of, are you feeling more
+  comfortable with swords now?
+Talk_105: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>I need to keep practicing so I can
+  someday become as fine a swordsman
+  as the legendary Linkette!
+Talk_106: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>I'm happy there's someone other than me
+  who's interested in weapons. Inspires me
+  to put my all into my training.
+Greeting01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003100'/>It's Linkette! Good morning to you!
+Talk_108: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>You can have it if you want. I'll give it to
+  you, so just give me a moment.
+Greeting02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003100'/>It's Linkette! We all really appreciate the
+  effort you put in.
+Talk_109: |
+  <3 Type='0' Data='0701'/>There we have a knight's broadsword
+  and a royal broadsword.
+Talk_120: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>I'm happy there's someone other than me
+  who's so interested in weapons.
+  
+  Sorry I've been consumed with my
+  training this whole time. Aja's the...<5 Type='1'/>name.<5 Type='1'/>
+  
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>Wait.
+  
+  
+  <FontSize Value='125'/>Linkette?!<FontSize Value='100'/>
+  
+  
+  My apologies! I was being selfish, not
+  even looking up from practice to see
+  that it's you!
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>It's such an honor to meet you, sir.
+  
+  
+  Well, now that I've met you, I'm even
+  more motivated to become a master
+  swordsman just like you, Linkette! <5 Type='0'/>Back to it!
+Greeting03: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003100'/>It's Linkette! Do you ever rest? Well, we all
+  really appreciate the effort you put in.
+Talk_121: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>Hup!
+Greeting04: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>I could use some more time alone to really
+  focus on my training, so can you...leave
+  me alone for a bit?
+  My training is especially challenging on
+  rainy days, after all. If I'm not careful,
+  lightning might strike my metal weapon.
+  I'm definitely on my toes here.
+Talk_09: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Are you making good use of the
+  other swords?
+Talk_122: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Make sure you give yourself plenty of time
+  to practice with it.
+Talk_20: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>If reinforcements are needed, then we can
+  link up with the Zora to attack or defend.
+  
+  Anyway, best of luck to you, Linkette!

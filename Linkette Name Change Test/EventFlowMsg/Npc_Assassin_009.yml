@@ -1,0 +1,37 @@
+talk_1015: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>After all, I have a master to avenge!<1 Type='3' Data='5a000000'/>
+talk_1000: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Excuse me, traveler...<5 Type='0'/> Do you know me,
+  by any chance?
+  
+  <3 Type='0' Data='0c00'/>Who am I? <5 Type='0'/>WHERE am I? <5 Type='0'/>Am I a villain?<5 Type='0'/>
+  Or an ally of justice?
+talk_1011: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Well, in that case, I can't let you go home
+  in one piece, can I?<1 Type='3' Data='5a000000'/>
+talk_1020: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Enter the Yiga Clan—allies of justice!
+  Judgment has come for you,
+  villainous Linkette!<1 Type='3' Data='5a000000'/>
+talk_1012: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>I knew that was it!<5 Type='0'/> Thank you! Now I
+  remember everything!
+talk_1021: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Enter the Yiga Clan—allies of justice!
+  Consider this your divine punishment
+  from Master Kohga!<1 Type='3' Data='5a000000'/>
+talk_1003: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>What gives? You looking for a fight?
+  
+  
+  <3 Type='0' Data='0900'/>People will realize I'm in the Yiga Clan
+  if you get too close, you moron!
+  
+  What'll I do if my perfect disguise gets
+  found out?! The jig will be up!
+0000: |
+  A villain.
+near_0000: |
+  Who...am I?
+0001: |
+  An ally of justice.

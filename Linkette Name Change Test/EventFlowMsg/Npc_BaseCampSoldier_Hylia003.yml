@@ -1,0 +1,156 @@
+Talk_05: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='20005100750065007300740069006f006e0053007500720070007200690073006500'/>Huh?<5 Type='1'/> Linkette?!<0 Type='4'/>Are you alone? <5 Type='0'/>Wh-<5 Type='0'/>where's
+  <0 Type='3' Data='0000'/>Princess Zelda<0 Type='3' Data='ffff'/>?<0 Type='4'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Oh, never mind! You'd better go talk to
+  Purah right away!<0 Type='4'/>I think she's in the <0 Type='3' Data='0000'/>research lab<0 Type='3' Data='ffff'/>. That's
+  the <0 Type='3' Data='0000'/>building with a telescope<0 Type='3' Data='ffff'/>!
+Talk_22: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='26005100750065007300740069006f006e00530075007200700072006900730065005f0030003100'/>Oh!<5 Type='1'/> Linkette?!<0 Type='4'/>It really is you!<0 Type='4'/><3 Type='0' Data='0a01'/>I heard you'd returned. I...wanted to
+  come see for myself, but I couldn't bring
+  myself to bother you.<0 Type='4'/><3 Type='0' Data='0701'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Are you leaving for now?
+Near_06: |
+  I can't believe it.
+Near_07: |
+  The newspaper is the best.
+Talk_06: |
+  <3 Type='0' Data='0c01'/>Word has it that <0 Type='3' Data='0000'/>Rito Village<0 Type='3' Data='ffff'/> up north
+  is going through a terrible cold snap.<0 Type='4'/>I'm talking the kind of <0 Type='3' Data='0000'/>freezing
+  temperatures <0 Type='3' Data='ffff'/>that <0 Type='3' Data='0000'/>sap your strength<0 Type='3' Data='ffff'/>
+  in the blink of an eye.
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003000'/>So if you go there, you may want to bring
+  foods or elixirs that will warm you up.
+Talk_23: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='26005100750065007300740069006f006e00530075007200700072006900730065005f0030003100'/>Huh? <5 Type='1'/>L-L-<5 Type='0'/>Linkette?!<0 Type='4'/>Is that really you?<0 Type='4'/><3 Type='0' Data='0a01'/>I heard you had returned, but, well, I was
+  too shy to try talking to you... <5 Type='1'/>Oh!
+Talk_24: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Linkette, sir! You're in the newspaper!<0 Type='4'/>The shadowy hero who pulled Rito Village
+  from the brink of oblivion...<0 Type='4'/>Kiimo over in the <0 Type='3' Data='0000'/>emergency shelter<0 Type='3' Data='ffff'/>
+  reads the <0 Type='3' Data='0000'/>newspaper <0 Type='3' Data='ffff'/>every single day.
+  He showed me the article.
+  Now the whole world knows how amazing
+  you are!
+Talk_09: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>I read about what happened at
+  Gerudo Town!<0 Type='4'/>Kiimo, who's always reading the
+  <0 Type='3' Data='0000'/>newspaper<0 Type='3' Data='ffff'/> at the <0 Type='3' Data='0000'/>emergency shelter<0 Type='3' Data='ffff'/>,
+  showed me the article.
+  If anyone was going to wipe out those
+  monsters, of course it'd be you.<0 Type='4'/>So that's why the Gerudo are here.
+  They're repaying what you did.<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>I never thought I'd see the day we stood
+  shoulder to shoulder with the Gerudo.
+Talk_10: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='20005100750065007300740069006f006e0053007500720070007200690073006500'/>Y-<5 Type='0'/>you really shouldn't be talking to me...
+  Go find <0 Type='3' Data='0000'/>Purah<0 Type='3' Data='ffff'/>!<0 Type='4'/>I think she's in the <0 Type='3' Data='0000'/>research lab<0 Type='3' Data='ffff'/>. That's
+  located in the <0 Type='3' Data='0000'/>building with the telescope<0 Type='3' Data='ffff'/>!
+BlackZelda_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Sir, you're back!<0 Type='4'/>Did you hear the latest? It sounds like
+  Princess Zelda might be in Hyrule Castle.
+  
+  I don't usually put stock in rumors, but
+  this one I really hope is true.
+Talk_11: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='20005100750065007300740069006f006e0053007500720070007200690073006500'/>Hurry now! Go talk to <0 Type='3' Data='0000'/>Purah<0 Type='3' Data='ffff'/>! She's in
+  the <0 Type='3' Data='0000'/>building with the telescope<0 Type='3' Data='ffff'/>!
+Talk_12: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='140055006e006400650072007300740061006e006400'/>I hear a terrible cold snap has hit
+  <0 Type='3' Data='0000'/>Rito Village<0 Type='3' Data='ffff'/> in the northwest.<0 Type='4'/><3 Type='0' Data='0701'/>If you're going that way, you may want to
+  bring foods or elixirs that'll warm you up.
+BlackZelda_03: |
+  <3 Type='0' Data='0700'/>I've been so worried about the princess.
+  Even if it's just a rumor, hearing she
+  might be OK set my mind at ease a little.
+  <3 Type='0' Data='0501'/>The question now is...<5 Type='0'/>where is she?
+Talk_13: |
+  <3 Type='0' Data='0801'/>I love reading about your adventures in
+  the newspaper!<0 Type='4'/>My buddy Kiimo, in the <0 Type='3' Data='0000'/>emergency
+  shelter<0 Type='3' Data='ffff'/>? He and I love to talk about all
+  the cool, heroic things you do.
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>And I mean, you're the reason that we
+  can stand shoulder to shoulder with
+  Gerudo warriors.
+  With so much skill concentrated in
+  one spot, it's only a matter of time
+  before we find Princess Zelda!
+BlackZelda_04: |
+  <3 Type='0' Data='0c00'/>Take this with a grain of salt, but there's a
+  rumor Princess Zelda is in Hyrule Castle.
+  
+  Again, that's just a rumor, but I really do
+  hope it's true.
+TerrorSword: |
+  Waaaaaah!
+Talk_14: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Morning! Have you read today's
+  <0 Type='3' Data='0000'/>newspaper<0 Type='3' Data='ffff'/> yet?
+Talk_15: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Afternoon! Have you read today's
+  <0 Type='3' Data='0000'/>newspaper<0 Type='3' Data='ffff'/> yet?
+Talk_16: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Evening! You're not working, are
+  you? Why not take it easy and read
+  the <0 Type='3' Data='0000'/>newspaper<0 Type='3' Data='ffff'/>?
+Talk_17: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Nice night. You're not working, are
+  you? Why not take it easy and read
+  the <0 Type='3' Data='0000'/>newspaper<0 Type='3' Data='ffff'/>?
+TerrorArrow: |
+  Whoa!
+Near_01: |
+  Huh?
+Talk_00: |
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='26005100750065007300740069006f006e00530075007200700072006900730065005f0030003100'/>Linkette, sir? Is that you?<0 Type='4'/>It is, isn't it?!<FontSize Value='100'/><0 Type='4'/><3 Type='0' Data='0b01'/><FontSize Value='125'/>Wh-where have you been?!<FontSize Value='100'/>
+Talk_18: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>On rainy days like this, I like to kick back
+  and read the <0 Type='3' Data='0000'/>newspaper<0 Type='3' Data='ffff'/>. You read today's
+  edition yet?
+Near_02: |
+  Ugh, poor Rito Village...
+Talk_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003100'/>After you and <0 Type='3' Data='0000'/>Princess Zelda <0 Type='3' Data='ffff'/>went to
+  the castle to investigate, it rose into
+  the sky.
+  We've all been so worried!
+  
+  
+  <0 Type='3' Data='0000'/>Purah<0 Type='3' Data='ffff'/> has been working day and night
+  here to find any sign of you!
+Talk_19: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>You're the reason that we can stand
+  shoulder to shoulder with proud
+  Gerudo warriors.
+  My buddy Kiimo, in the <0 Type='3' Data='0000'/>shelter<0 Type='3' Data='ffff'/>?
+  He and I can't wait to read in the
+  <0 Type='3' Data='0000'/>newspaper <0 Type='3' Data='ffff'/>about what you do next!
+  With you here, I've got a feeling it's
+  just a matter of time before we find
+  Princess Zelda.
+Near_03: |
+  I'm sick of this weather.
+Talk_02: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>She's probably in that <0 Type='3' Data='0000'/>building with
+  the telescope<0 Type='3' Data='ffff'/> right now.
+Near_04: |
+  What's in the news today...
+NakedPlayer: |
+  It's risky to go unarmored.
+Talk_03: |
+  <3 Type='0' Data='0701'/>Please, go talk to her. She'll be relieved
+  to know you're all right.
+Talk_20: |
+  <3 Type='0' Data='0701'/>The <0 Type='3' Data='0000'/>newspaper<0 Type='3' Data='ffff'/>'s great. It's like a curated
+  tour through everything that's happening
+  in the world.
+  Kiimo is over in the <0 Type='3' Data='0000'/>emergency shelter<0 Type='3' Data='ffff'/>
+  reading it right now.<0 Type='4'/><4 Type='0' Data='0e0053006900670068005f0030003000'/>I'm going to borrow today's paper as soon
+  as he's done, but he's taking forever.
+Near_05: |
+  I'll read the paper later...
+Talk_21: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>I've decided that when Princess Zelda
+  returns and our work is done, I'm going
+  to become a journalist.
+  Doesn't that sound like a nice job?
+  Traveling all over the world, finding
+  untold stories to tell?
+  I've been talking about that with my
+  buddy Kiimo. He's always in the
+  <0 Type='3' Data='0000'/>emergency shelter <0 Type='3' Data='ffff'/>reading the <0 Type='3' Data='0000'/>paper<0 Type='3' Data='ffff'/>.

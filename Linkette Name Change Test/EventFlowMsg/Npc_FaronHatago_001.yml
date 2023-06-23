@@ -1,0 +1,237 @@
+Com_Welcome: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Welcome to <0 Type='3' Data='0000'/>Highland Stable<0 Type='3' Data='ffff'/>!
+Com_Photo_03: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0a005400680069006e006b00'/>The <0 Type='3' Data='0000'/>giant white stallion <0 Type='3' Data='ffff'/>would be perfect
+  for that frame.<5 Type='0'/> I'm sure of it.
+  
+  But I don't think anyone's ever actually
+  seen that horse.<5 Type='0'/> Maybe it's not even real.
+  
+  <3 Type='0' Data='0701'/>The pair of travelers who told me about
+  it seemed so sure though.
+  
+  They were going to take the road to
+  the <0 Type='3' Data='0000'/>Lake of the Horse God southeast
+  of here<0 Type='3' Data='ffff'/> and search for it there.
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>Wish I knew if that horse was real. I can't
+  exactly drop my work and leave the stable
+  to chase after a rumor.
+Com_Photo_Thank: |
+  <3 Type='0' Data='0800'/>Thanks to you, Linkette, the frame has the
+  picture it deserves. The stable has a
+  whole new feeling with it here.
+  The giant white stallion is a symbol of
+  hope—that there's always a chance any
+  day something great can happen.
+  Oh, such as...<0 Type='4'/><3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>What if someone rode up to the stable
+  on the real giant white stallion one day?<5 Type='1'/>
+  Can you imagine?
+Talk_1000: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Oh!<5 Type='0'/> Have you looked at the sky to
+  the northeast?
+  
+  There's an unnatural black cloud over
+  there. Lots of lightning.<5 Type='0'/> It gives me
+  the creeps.
+  It hasn't moved since the Upheaval. Not
+  even a strong wind can make it budge.
+  
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0a005400680069006e006b00'/>What do you think is going on there?
+9001: |
+  Here's a picture.
+Com_Photo_04: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Are you serious? You're going to show
+  me <0 Type='3' Data='0000'/>the giant white stallion<0 Type='3' Data='ffff'/>?!
+9002: |
+  I hope you find one.
+Com_Photo_05: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>Any image of it will do. If I can see what
+  the<0 Type='3' Data='0000'/> giant white stallion looks<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>like <0 Type='3' Data='ffff'/>up close,
+  I can paint a copy.
+DoNotWakka_01: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>You can't take that with you, sir.<5 Type='1'/>
+  The association wants it displayed
+  at all times.
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/><0 Type='3' Data='ffff'/>Pretty, isn't it? The name comes from the
+  ring-shaped ruins in <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>.
+  
+  I hear you can find them in the village, so
+  why don't you go there if you want one?
+  
+  Kakariko's northeast of the Skyview Tower
+  by the Dueling Peaks.
+BurnedWakka_01: |
+  <3 Type='0' Data='0701'/>You can buy one of these decorations
+  in <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>. It's a little far, but
+  I'm sure you can manage.
+  Just go northeast from the Skyview Tower
+  near Dueling Peaks. You'll run into the
+  village soon enough.
+9003: |
+  I'm not showing you.
+Com_Photo_06: |
+  <3 Type='0' Data='0701'/>But do you have a <0 Type='3' Data='0000'/>picture of the
+  giant white stallion<0 Type='3' Data='ffff'/>? That would be
+  something to behold!
+DoNotWakka_02: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>I'm sorry, but you can't take that. If you
+  want your own, you'll have to go all the
+  way to <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>To get there, head northeast from the
+  Skyview Tower by the Dueling Peaks.
+  You'll see a village in the valley.
+  They sell these decorations there.
+Com_Photo_07: |
+  <3 Type='0' Data='0800'/>Ah, what a sight for sore eyes!
+  
+  
+  With that <0 Type='3' Data='0000'/>picture of a<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>giant white stallion<0 Type='3' Data='ffff'/>
+  copied, I can proudly display it whenever
+  I want!
+  Or, if you'd rather I switch it for a
+  different one, just show me the
+  new picture!
+WakkaCharm: |
+  Oooh, a ring garland!
+Com_Photo_08: |
+  <3 Type='0' Data='0801'/>It gets more enchanting the more you look
+  at it, doesn't it? Ah, such a fine horse...<5 Type='1'/>
+  
+  If only I could ride the giant white stallion.
+  We would race across the wide plains...
+  
+  <4 Type='0' Data='0c004c0061007500670068005300'/>At my age, what's another dream to add
+  to the pile, eh?
+Com_Photo_09: |
+  <3 Type='0' Data='0c00'/>The giant white stallion... Does it truly
+  exist?<5 Type='0'/> Just how giant IS it?
+  
+  Aah, if only I had a <0 Type='3' Data='0000'/>picture of the
+  giant white stallion<0 Type='3' Data='ffff'/>.<5 Type='0'/> It would be perfect
+  for that frame!
+9006: |
+  I want to change it.
+Com_Photo_01_01: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='0a005400680069006e006b00'/>A big frame like that is sure to be the
+  centerpiece of the stable, which means
+  I've got to put the perfect painting in it.
+  <3 Type='0' Data='0001'/>So you know that rumor I told you about?<5 Type='0'/>
+  The one about the <0 Type='3' Data='0000'/>giant white stallion<0 Type='3' Data='ffff'/>?
+  
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/>I was thinking...a white horse is rare, but
+  a GIANT white horse? Incredible!<5 Type='1'/> And it
+  lives nearby, I hear.
+  A painting of that <0 Type='3' Data='0000'/>giant stallion <0 Type='3' Data='ffff'/>would go
+  perfect inside that frame.<5 Type='0'/> I'm sure of it.
+  
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>I just need to get a look at a <0 Type='3' Data='0000'/>picture of
+  that giant white stallion<0 Type='3' Data='ffff'/>, then I could
+  paint a copy and hang it on the wall.
+9007: |
+  I want to leave it as is.
+Talk_2000: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a005400680069006e006b00'/>Did you hear?<5 Type='0'/> There was a fire north of
+  the stable the other day. Just a small one,
+  thank goodness.
+  Apparently it was started by a young
+  flute player who was staying with us.
+  I heard he set off fireworks as a prank.
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0600530061006400'/>Hmph. Can you imagine? I haven't seen
+  him since. Maybe he ran away.
+Com_Photo_01_02: |
+  <3 Type='0' Data='0701'/>That reminds me, I feel like I remember
+  seeing a <0 Type='3' Data='0000'/>very large white horse<0 Type='3' Data='ffff'/> among
+  the horses we're looking after for you...<5 Type='1'/>
+  <4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>No...<5 Type='0'/>that's not possible, is it?<5 Type='1'/> Anyway,
+  I'd really like to see it, even just a picture
+  of it.
+Talk_2002: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>By the way, I heard a rumor from a pair
+  of travelers the other day about a
+  <0 Type='3' Data='0000'/>giant white stallion<0 Type='3' Data='ffff'/>.
+  They hadn't actually laid eyes on this
+  white horse themselves yet.
+  
+  But they were planning to take the road to
+  the <0 Type='3' Data='0000'/>Lake of the Horse God southeast of
+  here<0 Type='3' Data='ffff'/> and search for it there.
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Now, I can hardly leave my work at the
+  stable, <5 Type='0'/>but I'd sure like to see that <0 Type='3' Data='0000'/>giant
+  white stallion<0 Type='3' Data='ffff'/> if it exists.
+Talk_2003: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Hold on...<5 Type='1'/> That horse there...<5 Type='1'/>is <0 Type='3' Data='0000'/>white<0 Type='3' Data='ffff'/>
+  and,<5 Type='0'/> uh,<5 Type='0'/> rather <0 Type='3' Data='0000'/>large <0 Type='3' Data='ffff'/>compared to the
+  other horses.
+  <4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Haha...<5 Type='1'/> but there's no way it could be
+  THE <0 Type='3' Data='0000'/>giant white stallion<0 Type='3' Data='ffff'/>...is...there?<5 Type='1'/>
+  HA! Ignore me. I'm just being foolish.
+Com_Photo_10: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Folks are saying that they want to ride the
+  giant white stallion! <5 Type='0'/>Oho, it's such an
+  inspiring picture!
+Talk_2004: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='0c004e006f007400690063006500'/>Uh...<5 Type='1'/>your horse...
+  
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>No, never mind...<5 Type='0'/> I must be mistaken.<5 Type='0'/>
+  Yeah, that must be it. Hahaha...
+  
+  No one would just ride up here astride
+  THE <0 Type='3' Data='0000'/>giant white stallion<0 Type='3' Data='ffff'/>. Nope. No way!<5 Type='0'/>
+  Unless...it was...a dream...
+Com_Photo_12: |
+  <3 Type='0' Data='0700'/>Anyway,<5 Type='0'/> was there something you
+  wanted to do with the <0 Type='3' Data='0000'/>painting of
+  the giant white stallion<0 Type='3' Data='ffff'/>?
+Com_FirstTime_Only01: |
+  <3 Type='0' Data='0700'/>To mark your first visit to
+  Highland Stable...
+Com_FirstTime_Only02: |
+  <3 Type='0' Data='0700'/>Not only is this your first visit to Highland
+  Stable, you've also <0 Type='3' Data='0000'/>registered a horse<0 Type='3' Data='ffff'/>!
+  So here...
+Talk_1010: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Oh!<5 Type='0'/> Have you looked at the sky to
+  the northeast?
+  
+  There used to be an ominous black cloud
+  over there. Constant lightning. It was
+  enough to make me shiver.
+  It appeared after the Upheaval, but then
+  one day...poof!
+  
+  It disappeared. All that's left is a new
+  floating island.
+  
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0a005400680069006e006b00'/>What do you think happened there?
+Com_Photo_01: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='0a005400680069006e006b00'/>It's such an impressive frame, it's sure to
+  be the focus of the stable. But now I need
+  an impressive painting to go inside it.
+  <3 Type='0' Data='0001'/>I was thinking, I heard this rumor the
+  other day about this rare horse...this
+  <0 Type='3' Data='0000'/>giant white stallion<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0800'/>Sounds impressive, doesn't it? I mean,
+  a white horse is pretty rare, but a giant
+  one? And it lives nearby, they say!
+  A <0 Type='3' Data='0000'/>picture <0 Type='3' Data='ffff'/>of an impressive creature
+  like a <0 Type='3' Data='0000'/>giant white stallion <0 Type='3' Data='ffff'/>would suit
+  that frame perfectly.<5 Type='0'/> I'm sure of it!
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08004500610073006500'/>Of course, the folks who told me about
+  this horse hadn't actually seen it with
+  their own eyes yet.
+  They were planning to take the road to
+  the <0 Type='3' Data='0000'/>Lake of the Horse God southeast of
+  here<0 Type='3' Data='ffff'/> and search for it there.
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>If I knew for sure it was there, I would go
+  try to get a look at it.<5 Type='0'/> *sigh* But I can't
+  leave work for a rumor.
+  <3 Type='0' Data='0001'/>I wish I had some kind of <0 Type='3' Data='0000'/>picture of that
+  giant white stallion<0 Type='3' Data='ffff'/>. If I did, I'd use it for
+  reference and whip up a painting of it.
+Com_FirstTime_Only03: |
+  <3 Type='0' Data='0700'/>And, as a token appreciation for your first
+  time <0 Type='3' Data='0000'/>lodging with us<0 Type='3' Data='ffff'/> at Highland Stable...
+Com_Photo_02: |
+  <3 Type='0' Data='0b00'/>Wait, you have a <0 Type='3' Data='0000'/>picture of the
+  giant white stallion<0 Type='3' Data='ffff'/>?

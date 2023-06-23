@@ -1,0 +1,68 @@
+Talk_000: |
+  <3 Type='0' Data='0900'/>Argh! That wretched Linkette! Not only did
+  he break into our branches, but he set all
+  our tailors free!
+  We'd only just kidnapped them too...<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='0600530061006400'/>It's the branches' duty to make our
+  uniforms. We've gotta fix this before
+  Master Kohga finds out.
+  <3 Type='0' Data='0c00'/><FontSize Value='80'/>Well, it shouldn't be too hard to nab those gaudy
+  seamsters again... They're always walking down
+  <0 Type='3' Data='0000'/>roads<0 Type='3' Data='ffff'/> without a care in the world.<FontSize Value='100'/>
+Talk_100: |
+  <3 Type='0' Data='0700'/>Well, if it isn't Linkette!<5 Type='0'/> Huh...<5 Type='0'/> I guess it
+  actually ISN'T Linkette.
+  
+  <4 Type='0' Data='08004500610073006500'/>All right.<5 Type='0'/> Get inside.
+Talk_200: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>What is it?<5 Type='1'/> Wait—<5 Type='1'/> YOU!<0 Type='4'/><3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>It's Linkette! <5 Type='1'/>Get ready for battle!<1 Type='3' Data='5a000000'/>
+Talk_001: |
+  <3 Type='0' Data='0a00'/>It's the branches' duty to make our
+  uniforms, so we have to get those tailors
+  back before Master Kohga finds out.
+  That blasted Linkette.<5 Type='0'/> We're busy enough
+  without having to rekidnap people!
+  
+  <3 Type='0' Data='0900'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Listen, you. If you see anybody in flashy
+  clothes, you grab them and bring them
+  back here!
+  You can find them walking the<0 Type='3' Data='0000'/> roads<0 Type='3' Data='ffff'/>
+  outside. Tailors love roads.
+Talk_002: |
+  <3 Type='0' Data='0a00'/>It's the branches' duty to make our
+  uniforms, so we have to get those tailors
+  back before Master Kohga finds out.
+  Though...<5 Type='1'/>I guess Master Kohga is gone...<5 Type='2'/><0 Type='4'/><3 Type='0' Data='0900'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>That blasted Linkette!<5 Type='0'/> Could he make any
+  more trouble for us?!<0 Type='4'/>Listen, you. If you see anybody in flashy
+  clothes, you grab them and bring them
+  back here!<0 Type='4'/>You can find them walking the<0 Type='3' Data='0000'/> roads<0 Type='3' Data='ffff'/>
+  outside. Tailors love roads.
+Talk_000_2: |
+  <3 Type='0' Data='0900'/>Argh! That wretched Linkette! Not only did
+  he break into our branches, but he set
+  all our tailors free!
+  We'd only just kidnapped them too...<0 Type='4'/><3 Type='0' Data='0701'/><4 Type='0' Data='0600530061006400'/>It's the branches' duty to make our
+  uniforms. We have to do something
+  before Master Kohga finds out.
+  <3 Type='0' Data='0c00'/><FontSize Value='80'/>Well, it shouldn't be too hard to nab those gaudy
+  seamsters again, at least... They're always walking
+  down <0 Type='3' Data='0000'/>roads<0 Type='3' Data='ffff'/> without a care in the world.<FontSize Value='100'/>
+Talk_001_2: |
+  <3 Type='0' Data='0a00'/>Outfit making is the branches' duty.
+  That's why we have to get our tailors
+  back before Master Kohga finds out!
+  That accursed Linkette! <5 Type='0'/>We're busy enough
+  without his meddling.<0 Type='4'/><3 Type='0' Data='0700'/>Blademaster, if you see anyone dressed
+  in flashy clothes, please let me know, and
+  I'll capture them.
+  You can often find them walking the<0 Type='3' Data='0000'/> roads<0 Type='3' Data='ffff'/>
+  outside. Tailors love roads.
+Talk_002_2: |
+  <3 Type='0' Data='0a00'/>Outfit making is the branches' duty.
+  That's why we have to get our tailors
+  back before Master Kohga finds out!
+  Though...<5 Type='1'/>I suppose Master Kohga is gone.<5 Type='2'/><0 Type='4'/>That accursed Linkette! <5 Type='0'/>It's as if he lives to
+  cause us trouble!<0 Type='4'/><3 Type='0' Data='0700'/>Blademaster, if you see anyone dressed
+  in flashy clothes, please let me know, and
+  I'll capture them.
+  You can often find them walking the<0 Type='3' Data='0000'/> roads<0 Type='3' Data='ffff'/>
+  outside. Tailors love roads.

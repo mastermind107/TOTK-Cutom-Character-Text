@@ -1,0 +1,329 @@
+Talk_0809: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Ah, Linkette. Good morning to you.<0 Type='4'/>Class will begin soon. Would you care to
+  join us again today?<0 Type='4'/><3 Type='0' Data='0c01'/>I intend to go over <0 Type='3' Data='0000'/>monster curry <0 Type='3' Data='ffff'/>with the
+  children again today.
+Near_0010: |
+  Everybody understand?
+Talk_0100: |
+  <3 Type='0' Data='0701'/>History class is ordinarily a bit slow-paced
+  for the children's taste.<0 Type='4'/>That last lesson may have been the first
+  time I've seen them enjoying a history
+  lecture so much.<0 Type='4'/>Our next class is a <0 Type='3' Data='0000'/>home economics<0 Type='3' Data='ffff'/>
+  lesson. Naturally, you're free to sit in
+  again if the subject interests you.
+Talk_0101: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Well, well! Good morning to you.<0 Type='4'/>Thank you for your contributions.
+Talk_0510: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Sadly, the sacred princess was unable to
+  awaken the holy power within her.<0 Type='4'/>The Divine Beasts were taken over by the
+  Calamity. Those selected to pilot them
+  lost their lives in the process.<0 Type='4'/>Worse still, the hero wielding the sword
+  that seals the darkness was badly hurt.
+  Just when all seemed lost...<0 Type='4'/>the sacred princess came into her power
+  and devoted her whole being to keeping
+  the Calamity at bay for 100 years.<0 Type='4'/><3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Are you following along so far?<0 Type='4'/>After spending 100 years dormant, the
+  hero wielding the sword that seals the
+  darkness awakened, his wounds healed.<0 Type='4'/><3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>He won back the Divine Beasts with the
+  help of several allies, including some of
+  the Champions' descendants.<0 Type='4'/>And in the end, the hero defeated the
+  Calamity, and the sacred princess stopped
+  the evil one!<0 Type='4'/><3 Type='0' Data='0701'/>Sorry, I got a little emotional there at the
+  end. <5 Type='0'/>It's a true story though.<0 Type='4'/><3 Type='0' Data='0701'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>But I suppose you're very familiar with
+  the particulars of that tale. Sorry for
+  drawing it out.
+Talk_0102: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Thank you again for showing the children
+  the screen depicting the Calamity!
+Near_0001: |
+  Next up is...cooking class.
+Talk_0511: |
+  <3 Type='0' Data='0701'/>With the wielder of the sword that seals
+  the darkness and the sacred princess, all
+  the pieces from the legend were in place.<0 Type='4'/><3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003100'/>But...this time, the Calamity would not be
+  bested so easily...
+Near_0002: |
+  The next class is...
+Talk_0300: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>My, my, you're early. You're welcome to
+  sit in today's class as well, naturally.<0 Type='4'/>I'm on my way there now.
+Talk_0301: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Today's lesson is home economics.<0 Type='4'/>I'll be lecturing on how to use ingredients
+  to achieve particular effects so you can
+  endure whatever comes your way.<0 Type='4'/>If that sounds interesting to you, then
+  you're welcome to sit in on the class.
+Near_0003: |
+  They should arrive soon...
+Near_0004: |
+  It sure is chilly today.
+Talk_0303: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Well, well, good morning to you.
+  A shame about this weather, isn't it?
+Near_0005: |
+  Should I rethink this class?
+Talk_0500: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>"History is a tale we all tell together. It's
+  inherited from those who came before us
+  and passed along to those who follow."<0 Type='4'/>So said Princess Zelda when asked why
+  she founded this school.<0 Type='4'/>I want the children to make it in this
+  perilous world and have a bright future.<0 Type='4'/>That's why I put so much effort into
+  teaching them about history...especially
+  about <0 Type='3' Data='0000'/>the Calamity<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0701'/>But teaching is learning, you know, so I
+  read and reread books every day to make
+  sure I'm up to the task.
+Talk_0304: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Well, well. Good morning to you.
+Near_0006: |
+  What shall I read today?
+Talk_0305: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Well, well, good evening to you.
+  A shame about this weather, isn't it?
+Near_0007: |
+  Maybe it's time for sleep.
+Talk_0306: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Well, well. Good evening to you.
+Talk_0503: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0a005400680069006e006b00'/>The Calamity has visited this land of
+  Hyrule several times over.<0 Type='4'/>However, 10,000 years ago, <5 Type='0'/>there were
+  Divine Beasts, built by the Sheikah using
+  their advanced technology.<0 Type='4'/>Each of them was controlled by a skilled
+  pilot as well.
+Near_0008: |
+  Our next lesson is on food.
+Talk_0700: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Oh, good evening. Don't mind me, please.<0 Type='4'/>Once I got to contemplating how to 
+  make <0 Type='3' Data='0000'/>monster curry <0 Type='3' Data='ffff'/>for the children,
+  I found myself unable to sleep...
+Talk_0504: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>With the sword that seals the darkness
+  and the power of the sacred princess, the
+  Ancient Hero stopped the Calamity.<0 Type='4'/>For a long while after that, the lands of
+  Hyrule knew peace.<0 Type='4'/><4 Type='0' Data='0c005300610064005f0030003000'/>But the time when the people forgot about
+  the Calamity was the moment it returned
+  to menace them once more...
+Near_0009: |
+  What to do...
+Talk_0701: |
+  <3 Type='0' Data='0c00'/>The Goron spice and Hylian rice are easy
+  enough. It's getting some <0 Type='3' Data='0000'/>monster extract<0 Type='3' Data='ffff'/>
+  that may prove difficult.<0 Type='4'/>I'm sure I heard there was some to be had
+  in the north at <0 Type='3' Data='0000'/>Tarrey Town<0 Type='3' Data='ffff'/> in Akkala.
+Talk_0505: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Tomorrow's lesson is on home economics.<0 Type='4'/>I have a lecture planned about unique
+  dishes, so if that interests you, you're
+  welcome to stop by and sit in!
+Talk_0914: |
+  <3 Type='0' Data='0c00'/>The other day, I told the class that the
+  only use for monster parts is to brew
+  medicine.<0 Type='4'/>Today's lesson about <0 Type='3' Data='0000'/>monster extract<0 Type='3' Data='ffff'/>
+  may have been confusing for them.<0 Type='4'/>I'm sure they would understand if they
+  could try <0 Type='3' Data='0000'/>monster curry <0 Type='3' Data='ffff'/>for themselves.
+Talk_1110: |
+  <3 Type='0' Data='0400'/>C-class! Come and see here. This curry
+  was prepared using monster extract.
+Talk_0506: |
+  <3 Type='0' Data='0701'/>Sorry for rambling on so long. I expect
+  you know this story quite well already.
+Talk_0703: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Wait... Even half asleep, I'd recognize
+  that scent. Did you prepare some
+  <0 Type='3' Data='0000'/>monster curry<0 Type='3' Data='ffff'/>?
+Talk_0900: |
+  <3 Type='0' Data='0a00'/>Hm, this just isn't working.<0 Type='4'/>If only I had <0 Type='3' Data='0000'/>monster curry<0 Type='3' Data='ffff'/>, I could prove 
+  that <0 Type='3' Data='0000'/>monster extract<0 Type='3' Data='ffff'/> can, in fact, be used
+  to prepare meals.
+Talk_1111: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Thank you so much.<0 Type='4'/>See those solemn expressions on their
+  faces? The children have matured a bit
+  with today's lesson.<0 Type='4'/>You might not think yourself a teacher,
+  Linkette, but you've already taught them
+  a great deal.
+Talk_1112: |
+  <3 Type='0' Data='0a00'/>Ah...my apologies.<0 Type='4'/>I've been thinking so much about <0 Type='3' Data='0000'/>monster<0 Type='3' Data='ffff'/>
+  <0 Type='3' Data='0000'/>curry <0 Type='3' Data='ffff'/>that I can practically smell it.
+Talk_0508: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Each night before I turn in, I think about 
+  Hyrule's history with the Calamity.<0 Type='4'/>We are only here today because of the
+  history our predecessors built, so there's
+  a big responsibility to learn it.
+Talk_0705: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>If you wouldn't mind, could you give that
+  curry to the children in my next <0 Type='3' Data='0000'/>class<0 Type='3' Data='ffff'/>?
+0020: |
+  I have the curry.
+Talk_1113: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>You're a hit with the students too. You've
+  earned the right to use the <0 Type='3' Data='0000'/>school's field<0 Type='3' Data='ffff'/>.<0 Type='4'/>That's the one <0 Type='3' Data='0000'/>behind the schoolyard<0 Type='3' Data='ffff'/>.<0 Type='4'/>Space is limited, so you can't plant an
+  entire farm back there, but use what we
+  have to cultivate whatever you'd like!<0 Type='4'/><0 Type='3' Data='0000'/>Uma <0 Type='3' Data='ffff'/>typically tends the field. Why don't
+  you talk to her to get things set up?
+Talk_0509: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>This all happened about 100 years ago.<5 Type='0'/>
+  It began with an oracle prophesying the 
+  Calamity's return.<0 Type='4'/>The royal family took their cues from the
+  legends of the past. <5 Type='0'/>They found and
+  excavated the Divine Beasts.<0 Type='4'/>Skilled members of the Rito, Goron, Zora,
+  and Gerudo peoples were selected to pilot
+  them. They were called the Champions.
+0021: |
+  You're imagining it.
+Talk_1114: |
+  <FontSize Value='80'/><3 Type='0' Data='0701'/>Next time, I'm planning a test that will cover
+  everything we've studied up to now.<0 Type='4'/>You're welcome to sit in anytime. I hope you'll stay
+  involved with our classes here!<FontSize Value='100'/>
+Talk_1100: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>How am I going to get through to them?<5 Type='1'/>
+  Mmmyes? <5 Type='0'/>That spicy scent is familiar.
+Talk_0905: |
+  <3 Type='0' Data='0700'/>The other day, I told the class that
+  the only use for monster parts is to
+  brew medicine.<0 Type='4'/>Today's lesson about <0 Type='3' Data='0000'/>monster extract<0 Type='3' Data='ffff'/>
+  may have been confusing for them.<0 Type='4'/><3 Type='0' Data='0c01'/>I wish I could make some real <0 Type='3' Data='0000'/>monster
+  curry<0 Type='3' Data='ffff'/> with Goron spice, Hylian rice, and
+  <0 Type='3' Data='0000'/>monster extract<0 Type='3' Data='ffff'/>.<0 Type='4'/>Eating is believing, after all.<0 Type='4'/>Alas, right now I'm out of <0 Type='3' Data='0000'/>monster extract<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0c01'/>I'm told that it can be had in <0 Type='3' Data='0000'/>Tarrey Town<0 Type='3' Data='ffff'/>,
+  up north in Akkala.
+Talk_1102: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>This is monster curry! The genuine article!
+Talk_1103: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>The color looks a little off... Oh, but it
+  tastes better than I expected.
+Talk_1104: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Whoa, you're right! It doesn't have that
+  monster musk I was worried about.
+Talk_1105: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>So if you extract something special from
+  monsters, you can use that for cooking?
+Talk_1106: |
+  <FontSize Value='125'/><3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Dee-licious!<FontSize Value='100'/>
+0014: |
+  Good night.
+Talk_1107: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0e0057006f0072006b005f0030003000'/>That's right, everyone.<0 Type='4'/>Ordinarily, monster parts are only to be
+  used in medicine. But <0 Type='3' Data='0000'/>monster extract<0 Type='3' Data='ffff'/>
+  can be used in meals as well.<0 Type='4'/>I'm so happy that my lesson on the
+  subject has finally sunk in!
+Talk_0200: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Yes, yes, what is it?<0 Type='4'/>Oh! Are you eager for the <0 Type='3' Data='0000'/>home
+  economics <0 Type='3' Data='ffff'/>class to start?<0 Type='4'/>Well, you've come just a bit too early.
+  Would you mind waiting a little longer?
+Talk_0201: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Ah, are you eager for the <0 Type='3' Data='0000'/>home economics<0 Type='3' Data='ffff'/>
+  class to start?<0 Type='4'/>Well, you've come just a bit too early.
+  Would you mind waiting a little longer?
+0002: |
+  The Calamity?
+Talk_0610: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Hey, hey, settle down, children...<0 Type='4'/><3 Type='0' Data='0a01'/>Hm, this lesson may be too advanced.<0 Type='4'/>In fact, combining monster extract,
+  Goron spice, and Hylian rice makes
+  <0 Type='3' Data='0000'/>monster curry<0 Type='3' Data='ffff'/>.<0 Type='4'/>But judging from your skeptical faces,
+  you won't believe me unless I can put
+  a dish of it in front of you.<FontSize Value='80'/><0 Type='4'/><3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>I'd love to make some <0 Type='3' Data='0000'/>curry <0 Type='3' Data='ffff'/>for them, but I don't 
+  have any <0 Type='3' Data='0000'/>monster extract<0 Type='3' Data='ffff'/>.<0 Type='4'/>I'm told that it can be had in <0 Type='3' Data='0000'/>Tarrey Town<0 Type='3' Data='ffff'/>, up north
+  in Akkala...<FontSize Value='100'/>
+Talk_0202: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Well, well... <5 Type='0'/>What do you think? Care to
+  sit for class while taking shelter from
+  the rain?
+0003: |
+  I see.
+Talk_0611: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/>The teacher's confused again.
+Talk_0400: |
+  <3 Type='0' Data='0c00'/>Today's home economics class may have
+  been a bit too difficult.<0 Type='4'/>But in a world as dangerous as ours, we
+  must raise our children to understand the
+  power to be found in ingredients.<0 Type='4'/>Only then can they prepare dishes to
+  help them handle whatever comes
+  their way.<0 Type='4'/><3 Type='0' Data='0701'/>I think I'll review my syllabus so far once
+  I've finished cleaning up here.<0 Type='4'/>To teach is to learn, after all.
+0004: |
+  When was that?
+Talk_0612: |
+  <3 Type='0' Data='0c00'/>Mr. Symin, you're the one who taught us
+  that monster parts should only be used
+  for medicine!
+0005: |
+  That's enough for now.
+Talk_0810: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Would you care to join us again today?<0 Type='4'/><3 Type='0' Data='0c01'/>I intend to go over <0 Type='3' Data='0000'/>monster curry <0 Type='3' Data='ffff'/>with the
+  children again today.
+Talk_0613: |
+  <3 Type='0' Data='0700'/>It's time to continue our lesson on home
+  economics.<0 Type='4'/>If you take Goron spice, Hylian rice...<5 Type='0'/>and
+  mix in...<5 Type='1'/><0 Type='3' Data='0000'/>monster extract<0 Type='3' Data='ffff'/>, what do you get?
+Talk_0402: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Well, well. Good afternoon to you.
+0006: |
+  What happened?
+Talk_0403: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Well, well, good afternoon to you.
+  A shame about this weather, isn't it?
+Talk_0600: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Today's lecture is on home economics.
+  Food is essential for our survival.<0 Type='4'/>A keen culinary sense can help you stay
+  alive in this perilous world.<0 Type='4'/>I'd like to put a question to you all:<0 Type='4'/>What dish do you get by mixing Goron 
+  spice with Hylian rice and raw meat?
+Talk_1023: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Ah, Linkette. Good day to you.<0 Type='4'/>It would be wonderful if you could assist
+  me with my study of <0 Type='3' Data='0000'/>the Calamity<0 Type='3' Data='ffff'/>...<0 Type='4'/><3 Type='0' Data='0a01'/>But right now I'm stewing over how to
+  get the children to try <0 Type='3' Data='0000'/>monster curry<0 Type='3' Data='ffff'/>.
+Talk_0601: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>But the only other thing in it is <0 Type='3' Data='0000'/>raw meat<0 Type='3' Data='ffff'/>,
+  right? So obviously...
+Talk_0602: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/><0 Type='3' Data='0000'/>Goron spice<0 Type='3' Data='ffff'/> is<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/>the hot stuff they sell in
+  Goron City in the northeast, right?
+Talk_0603: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>If it's got <0 Type='3' Data='0000'/>Goron spice<0 Type='3' Data='ffff'/> in it, the answer
+  can't be anything but curry.
+Talk_0800: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Ah, Linkette. Good morning to you.<0 Type='4'/><3 Type='0' Data='0c01'/>That lesson about <0 Type='3' Data='0000'/>monster curry <0 Type='3' Data='ffff'/>may have
+  been too advanced for my students.<0 Type='4'/>But I'd like to figure out some way to help
+  them understand for next time...
+Talk_0604: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>The answer has to be "meat curry"!
+Talk_1012: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>I'm not much good at history, but you
+  made it fun, Mr. Linkette!
+Talk_0605: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Yes, that's correct. That one might have
+  been on the simple side for all of you.
+  How about this one, then?<0 Type='4'/>Take Goron spice, Hylian rice...<5 Type='0'/>and mix
+  in...<5 Type='1'/><0 Type='3' Data='0000'/>monster extract<0 Type='3' Data='ffff'/>. What do you
+  get then?
+Talk_1013: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>And the curry tasted great!
+Talk_0606: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0e0057006f0072006b005f0030003100'/>Yeah! If you try to cook with monster
+  parts, it's a disaster every time!
+Talk_1014: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>I pretty much think of you as my teacher
+  already anyway...
+Talk_0607: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Monster what?!
+Talk_1000: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Ah, Linkette. Good evening to you.<0 Type='4'/>It would be wonderful if you could assist
+  me with my study of <0 Type='3' Data='0000'/>the Calamity<0 Type='3' Data='ffff'/>...<0 Type='4'/><3 Type='0' Data='0a01'/>But right now I'm stewing over how to
+  get the children to try <0 Type='3' Data='0000'/>monster curry<0 Type='3' Data='ffff'/>.
+Talk_1015: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Thanks, Mr. Linkette! I can't wait for our
+  next lesson with you!
+Talk_0608: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Um, aren't monster parts only used
+  for medicines?
+Talk_1001: |
+  <3 Type='0' Data='0700'/>Certainly, it would be wonderful if you
+  could assist me with my study of the
+  <0 Type='3' Data='0000'/>Calamity<0 Type='3' Data='ffff'/>...<0 Type='4'/><3 Type='0' Data='0a01'/>But right now I'm stewing over how to
+  get the children to try <0 Type='3' Data='0000'/>monster curry<0 Type='3' Data='ffff'/>.
+Talk_0609: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>No one would eat curry made with
+  monster stuff! I call trick question!
+Talk_0807: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>If you wouldn't mind, could you give that
+  curry to the children in my class?
+Talk_1003: |
+  <3 Type='0' Data='0400'/>Ohhh... I recognize that distinctive scent.
+Talk_0808: |
+  <3 Type='0' Data='0c00'/>That lesson about <0 Type='3' Data='0000'/>monster curry <0 Type='3' Data='ffff'/>may have
+  been too advanced for my students.<0 Type='4'/>But I'd like to figure out some way to help
+  them understand for next time...

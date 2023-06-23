@@ -1,0 +1,341 @@
+Near_2000: |
+  Louder, please.
+Talk_4000: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0057006f0072006b005f0030003000'/>Today we're having a surprise test about
+  the Calamity.
+Near_2001: |
+  I can't doze off...
+Talk_4001: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0057006f0072006b005f0030003000'/>Today we're having a surprise test
+  about cooking.
+Near_2002: |
+  Yes. Correct. Well done.
+Talk_4002: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Huh?!
+Near_2003: |
+  No peeking. No cheating.
+Talk_4003: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>What!
+Talk_4020: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Oh, I'm sorry! That was incorrect. The
+  correct answer is the Sheikah!
+  
+  I'm a Sheikah, and so are the people
+  working in the research lab up the hill,
+  as well as those living in Kakariko Village.
+  Remember that well!
+Talk_4004: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='0e0057006f0072006b005f0030003100'/>I never heard about this!
+Talk_4005: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003100'/>Why didn't you warn us?
+Talk_4022: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Hm, that's an interesting answer. When
+  you bring ingredients to a cold region,
+  they do freeze.
+  They don't turn into treats, but they do
+  gain a <0 Type='3' Data='0000'/>heat-resisting<0 Type='3' Data='ffff'/> effect when frozen!
+Talk_4006: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>If I told you in advance, it wouldn't be a
+  surprise test, now, would it?
+Talk_4023: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>That's correct! The answer is an oracle.
+  Well done, Karin!
+  
+  Although it took you a moment to recall
+  that, you should know that nowadays,
+  your other answers might have been valid!
+  Stables and newspapers are a rich source
+  of information, after all.
+Talk_4007: |
+  <3 Type='0' Data='0701'/>Now then, Aster!
+  
+  
+  Whose technology was used to build
+  the machines that would oppose
+  the Calamity?
+Talk_4024: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Excellent! Well done, remembering that!
+  
+  
+  <0 Type='3' Data='0000'/>Monster parts<0 Type='3' Data='ffff'/> can only be used in making
+  <0 Type='3' Data='0000'/>elixirs<0 Type='3' Data='ffff'/>. Put them in your cooking, and it'll
+  spoil the food, so be careful.
+Talk_4008: |
+  <3 Type='0' Data='0701'/>Now then, Azu!
+  
+  
+  Who, along with the sacred princess,
+  stopped the Calamity, and with
+  which sword?
+Talk_4025: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>That's certainly true. Though the specific
+  answer I was looking for is "cooking
+  during the blood moon."
+  Though when the <0 Type='3' Data='0000'/>moon is red<0 Type='3' Data='ffff'/>, monsters
+  are resurrected, so mind your
+  surroundings when you cook!
+Talk_4009: |
+  <3 Type='0' Data='0701'/>Now then, Karin!
+  
+  
+  How did the people of that time come
+  to know that the imprisoned Calamity
+  would return?
+Talk_4026: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Very well done!
+  
+  
+  The sword that seals the darkness is
+  also called the <0 Type='3' Data='0000'/>Master Sword<0 Type='3' Data='ffff'/>. Keep that
+  in mind!
+Near_5000: |
+  Tomorrow's test...hmmm...
+Talk_4027: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0e0057006f0072006b005f0030003000'/>Close! The answer is "the Champions."
+  
+  
+  The Divine Beasts are the machines built
+  by the Sheikah.
+  
+  You certainly know a lot! Excellent,
+  Sefaro!
+Talk_5010: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Professor Linkette!
+  
+  
+  Thank you for coming to the Hateno
+  school once again!
+Talk_4028: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Your answers earned you full marks!
+  I see you've been studying, Sefaro.
+Talk_5011: |
+  <3 Type='0' Data='0701'/>Well then, back to it! I need to
+  continue prepping.
+Talk_3000: |
+  <3 Type='0' Data='0c00'/>I'm administering an impromptu test to
+  the children today.
+  
+  But I can't decide on whether to test them
+  on <0 Type='3' Data='0000'/>the Calamity<0 Type='3' Data='ffff'/> or <0 Type='3' Data='0000'/>cooking<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0701'/>Which would you pick, Professor Linkette?
+Talk_4029: |
+  <3 Type='0' Data='0701'/>These surprise tests will continue for a
+  while, so please be prepared for
+  them, everyone!
+Talk_5012: |
+  <3 Type='0' Data='0701'/>Well then, back to it! I need to
+  continue prepping.
+Talk_3001: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Oho, then that is what we'll do!
+  
+  
+  I think I'll begin the class soon. If you
+  don't mind, I'd love it if you could stay
+  and observe the lesson.
+Talk_5013: |
+  <3 Type='0' Data='0b00'/>That's the guise of the <0 Type='3' Data='0000'/>ancient hero<0 Type='3' Data='ffff'/>!
+  Where did you find such clothing?
+  
+  <3 Type='0' Data='0000'/>Professor Linkette, you always surprise me!
+  
+  
+  <3 Type='0' Data='0800'/>The element of surprise is fundamental to
+  learning as well.
+  
+  I must devote myself to becoming a
+  teacher who can surprise and delight
+  the children.
+Talk_5014: |
+  <3 Type='0' Data='0700'/>Ah, pardon me, Professor Linkette. That's a
+  subject you know well, of course.
+Talk_5016: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh dear, I'm sorry. I'm going on about
+  my own endeavors.
+  
+  Anyhow, I must say that your appearance
+  was delightfully astonishing.
+  
+  And aside from that, I've been meaning to
+  express my gratitude to you.
+Talk_3005: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Good morning, Professor Linkette!
+  
+  
+  Well? Why don't you listen in on a class
+  while you wait for the rain to clear?
+Near_4000: |
+  Today's test day.
+Talk_5017: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Thank you for making monster curry for
+  the children!
+  
+  I'm sure they'll remember it well, since it
+  was such a hands-on experience.
+  
+  <3 Type='0' Data='0701'/>You know, a teacher's job extends beyond
+  the classroom.
+  
+  No matter when or where, if you see
+  children, you have a responsibility
+  to them.
+Near_4001: |
+  They'll all be here shortly.
+Near_4002: |
+  Be careful in the rain, kids.
+Talk_3009: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Good morning, Professor Linkette!
+Talk_4010: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0c004e006f007400690063006500'/>Uhhh... The <5 Type='0'/>Gerudo?
+Talk_2003: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Ah, good evening. Looks like you caught
+  me trying to sleep.
+  
+  You see, I'm administering an impromptu
+  test tomorrow, and I'm feeling antsy. The
+  sleep just won't come...
+Talk_4011: |
+  <3 Type='0' Data='0701'/>Now, Sefaro!
+  
+  
+  What was the title given to the ones
+  chosen to pilot the ancient machines?
+Talk_2004: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0c005300610064005f0030003000'/>I'm administering an impromptu test
+  tomorrow, and I'm feeling antsy. Sleep
+  just won't come.
+Talk_4013: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Easy, easy! The champion who wielded
+  the sword that seals the darkness!<5 Type='1'/> Right?
+Talk_4030: |
+  <3 Type='0' Data='0700'/>All right, now for the next question!
+Talk_4014: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Stables? No wait,<5 Type='0'/> newspapers! <5 Type='0'/>Um...<5 Type='0'/>
+  I got it! An oracle told them!
+Talk_4031: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Um, excuse me, but...
+Talk_4015: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0c004e006f007400690063006500'/>Umm...Divine Beasts?
+Talk_4032: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0c005300610064005f0030003000'/>Class is in session now. If you need to
+  talk, please do so after we're finished.
+Talk_4033: |
+  <3 Type='0' Data='0701'/>Now then, Aster!
+  
+  
+  What is the key to making incredible
+  dishes with stronger effects and longer
+  duration of those effects?
+Talk_4016: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Ahhh, me? Um, uh... Oh! You add love?
+Near_3000: |
+  History or cooking? Hmm.
+0010: |
+  The Calamity.
+Talk_4034: |
+  <3 Type='0' Data='0701'/>Well now, Azu!
+  
+  
+  What happens if you bring ingredients to
+  a cold region?
+Talk_4017: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Oh, oh! They turn into icicles!
+0011: |
+  Cooking.
+Talk_4035: |
+  <3 Type='0' Data='0701'/>Now then, Karin!
+  
+  
+  What ingredient is vital in creating
+  medicine?
+Talk_4018: |
+  <3 Type='0' Data='0c00'/>Bugs and monster parts... I think.
+Talk_5001: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Ah, please excuse me. Just busying
+  myself with preparations here.
+0012: |
+  Either, really.
+Talk_4036: |
+  <3 Type='0' Data='0701'/>Now, Sefaro!
+  
+  
+  Which ingredient with "monster" in its title
+  can be used in cooking?
+Talk_4019: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>I know that one! It's <0 Type='3' Data='0000'/>monster extract<0 Type='3' Data='ffff'/>!
+  
+  
+  You mix Hylian rice, Goron spice, and
+  monster extract to make <0 Type='3' Data='0000'/>monster curry<0 Type='3' Data='ffff'/>!
+  
+  See? I memorized that one already.
+Talk_5002: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>These days, it's extra important to teach
+  children about resourcefulness.
+  
+  So I've been focusing on teaching
+  them how to create specific effects
+  when cooking.
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0e0057006f0072006b005f0030003000'/>Speaking of cooking, <5 Type='0'/>your homemade
+  curry was a hit with the kids.
+  
+  Recently I got some Goron spice,
+  Hylian rice, and monster extract, so
+  I made them <0 Type='3' Data='0000'/>monster curry<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>But the children say yours is the tastiest
+  curry, Professor Linkette!
+Talk_5003: |
+  <3 Type='0' Data='0700'/>Ah, pardon me, Professor Linkette. That's a
+  subject you know well, of course.
+  
+  Well then, back to it! I need to
+  continue prepping.
+  
+  <3 Type='0' Data='0c01'/><FontSize Value='80'/>Maybe I should pick <0 Type='3' Data='0000'/>cooking<0 Type='3' Data='ffff'/> after all. Hm.<FontSize Value='100'/>
+0013: |
+  Cooking?
+0014: |
+  The Calamity?
+0015: |
+  Goodbye.
+Talk_5005: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Please stop by the class whenever!
+Talk_3011: |
+  <3 Type='0' Data='0c00'/>I'm administering an impromptu test to
+  the children tomorrow.
+  
+  But I can't decide on whether to test them
+  on <0 Type='3' Data='0000'/>the Calamity<0 Type='3' Data='ffff'/> or <0 Type='3' Data='0000'/>cooking<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0701'/>Which would you pick, Professor Linkette?
+Talk_3012: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Hello, Professor Linkette!
+NakedPlayer_00: |
+  Attending school like that...
+Talk_3013: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Hello, Professor Linkette!<0 Type='4'/>You want to observe the class?<0 Type='4'/>That's a shame... Today's lesson ended
+  a little while ago.
+NakedPlayer_01: |
+  Well, that's...interesting.
+Talk_3014: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Oho, then that is what we'll do!
+  
+  
+  I look forward to the test tomorrow. If you
+  don't mind, I'd love it if you could stay
+  and observe the lesson.
+Talk_5009: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>There will be a surprise test tomorrow, so
+  I need to prepare.
+  
+  However, I still haven't decided whether
+  it'll be on <0 Type='3' Data='0000'/>the Calamity<0 Type='3' Data='ffff'/> or <0 Type='3' Data='0000'/>cooking<0 Type='3' Data='ffff'/>.
+Near_6000: |
+  Time for a breather.
+NakedPlayer_02: |
+  It takes all kinds, I guess.
+Talk_3015: |
+  <FontSize Value='80'/><0 Type='3' Data='0200'/><3 Type='0' Data='0c01'/>I'll also need to prepare before I go to bed.<0 Type='3' Data='ffff'/><FontSize Value='100'/>
+Talk_3016: |
+  <3 Type='0' Data='0c00'/>Either.<5 Type='0'/> That might be the least
+  helpful answer.

@@ -1,0 +1,152 @@
+TerrorGeneric: |
+  What?!
+TerrorLightning: |
+  Goodness gracious!
+TerrorArrow_00: |
+  Hey! Hey!
+TerrorArrow_01: |
+  What?!
+Talk_1_1: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Hey, I know that face!
+  
+  
+  And any face I know is the face of
+  a friend!
+  
+  Please, Linkette. Help yourself to anything in
+  this shelter. It's all yours to <0 Type='3' Data='0000'/>use as you
+  see fit<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0200'/><4 Type='0' Data='0c005300610064005f0030003100'/>But don't you dare go making a mess
+  of this place and kicking up dust!
+  
+  <3 Type='0' Data='0201'/>I spend so much time cleaning in here,
+  and there's still endless amounts of dust.
+  
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Where does all this dust even come
+  from, anyway?
+TerrorArrow_02: |
+  Watch out!
+NakedPlayer: |
+  Hey, where's your shirt?
+Talk_1_2: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0a0041006e00670072007900'/>Why? Why does this spot, specifically,
+  get so dusty?!
+  
+  I'm fed up with all the dust.
+  
+  
+  <3 Type='0' Data='0701'/>Anyhow. Help yourself to anything in this
+  shelter. It's all yours to <0 Type='3' Data='0000'/>use however
+  you want<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0201'/><4 Type='0' Data='0a005400680069006e006b00'/>But don't you dare go making a mess of
+  this place and kicking up dust!
+Talk_1_3: |
+  <3 Type='0' Data='0701'/>Help yourself to anything in this shelter.
+  It's all yours to <0 Type='3' Data='0000'/>use as you see fit<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0200'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>But don't you dare go making a mess
+  of this place and kicking up more dust!
+  
+  <3 Type='0' Data='0201'/>I went to town with a broom in here just a
+  bit ago, and POOF. MORE DUST.
+  
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003100'/>Where does this level of dust even come
+  from, anyway?
+TerrorExplosion_01: |
+  Goodness gracious!
+Talk_1_4: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Good morning!
+Near_01: |
+  Look at all this dust!
+Talk_1_5: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Good afternoon!
+Talk_1_6: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Good evening!
+Near_02: |
+  So beautiful.
+0000: |
+  The horned statue?
+Talk_1_7: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>You're up late!
+Near_03: |
+  How are you doing?
+0001: |
+  See you later.
+TerrorIce: |
+  What?!
+TerrorSword_00: |
+  Hey! Hey!
+TerrorFlash: |
+  What?!
+Talk_2_1: |
+  <3 Type='0' Data='0701'/>Have you greeted the Goddess today?
+  She watches over Hyrule, you know.
+  
+  Good morning, good night, see you later,
+  I'm home.
+  
+  <4 Type='0' Data='0e0043006800610074005f0030003100'/>It's important to touch base with
+  the Goddess.
+TerrorSword_01: |
+  What?!
+TerrorImpulse_00: |
+  Watch out!
+Talk_2_2: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08004300680061007400'/>Good morning, good night, see you later,
+  I'm home.
+  
+  Those who don't converse with the
+  Goddess regularly are not to be trusted.
+TerrorSword_02: |
+  Watch out!
+TerrorImpulse_01: |
+  What?!
+Talk_2_3: |
+  <3 Type='0' Data='0701'/>Have you said hi to the <0 Type='3' Data='0000'/>horned statue<0 Type='3' Data='ffff'/>?
+  
+  
+  After hearing the story from you, I make
+  sure to say hello to both the Goddess and
+  the <0 Type='3' Data='0000'/>horned statue<0 Type='3' Data='ffff'/> too.
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>I never hear that frightening voice
+  anymore. I bet the horned statue is
+  feeling better for it too!
+TerrorImpulse_02: |
+  Hey! Hey!
+TerrorInsect: |
+  Watch out!
+Talk_2_5: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>What is it? I'm busy cleaning the dais for
+  the <0 Type='3' Data='0000'/>horned statue<0 Type='3' Data='ffff'/>.
+ClearTerrorEnemy: |
+  Oof! That was close.
+Talk_2_6: |
+  <3 Type='0' Data='0c00'/>"A dealer in life and power, touched by
+  the wrath of the Goddess, fallen to ruin."
+  
+  So the horned statue must be the entity
+  who deals in life and power...
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08004300680061007400'/>Which would make the dais the place
+  where it was enshrined, back when
+  it was still a god.
+  As there is the Goddess of light, then it
+  follows that she would have an opposite—
+  the horned god.
+  Like light and dark, one cannot exist
+  without the other—their power manifests
+  through the other's existence.
+  <3 Type='0' Data='0700'/>That's what I think, anyway. And that's
+  all I've got for you. I'm going back to
+  work now.
+Talk_2_7: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08004500610073006500'/>Once I've cleaned up the <0 Type='3' Data='0000'/>horned statue<0 Type='3' Data='ffff'/>'s
+  dais, I've got the <0 Type='3' Data='0000'/>Goddess Statue <0 Type='3' Data='ffff'/>to tidy.
+TerrorFire: |
+  Watch out!
+Talk_2_8: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>I can't hear that frightening voice
+  anymore. I bet even the <0 Type='3' Data='0000'/>horned
+  statue<0 Type='3' Data='ffff'/> is feeling better now!
+TerrorBomb: |
+  What?!
