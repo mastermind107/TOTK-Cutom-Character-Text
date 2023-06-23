@@ -1,0 +1,191 @@
+Talk_Ready_1006: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08004500610073006500'/>Oh! Phew, it's just you, partner. I should
+  have known you'd use the darkness to
+  move about without being seen.
+Talk_2100: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='28005a0065006c0064006100540061006c006b0050006f007300690074006900760065005f0030003100'/>Oh, Linkette! You came to save me! You
+  recognize who I am, right? Zelda!
+  
+  I knew you'd come and save me. Quickly,
+  do something to open this cage!
+Talk_3003: |
+  <3 Type='0' Data='0701'/>I'll head off and start pecking away at an
+  article about the Yiga Clan's scheme.
+  People need to know the truth!
+Talk_Ready_1007: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08004500610073006500'/>Oh! Phew, it's just you, partner. I should
+  have known you'd use my morning
+  grogginess to sneak up on me.
+Talk_2101: |
+  <3 Type='0' Data='0b00'/>What's this?
+  
+  
+  "Yiganapping of Princess Zelda? Bold
+  Declaration of Foul Crime!"
+  
+  <3 Type='0' Data='0c00'/>The Yiga are that group of Sheikah who
+  went rogue and have it out for the royal
+  family of Hyrule...
+  "We have taken Zelda to the carved-out
+  heart of the towering twins!"
+  
+  That's disturbing imagery...<5 Type='1'/> Hmm,
+  "twins"... Do they mean <0 Type='3' Data='0000'/>Dueling Peaks<0 Type='3' Data='ffff'/>? 
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='26005100750065007300740069006f006e00530075007200700072006900730065005f0030003000'/>That's really close to here. Could it be...
+Talk_3004: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>We'll let you off easy for now, but don't
+  get used to it! 
+  
+  <3 Type='0' Data='0901'/>We won't hold back next time!<5 Type='0'/>
+  Be prepared!
+Talk_Ready_1008: |
+  Hmph, my feathers really are ruffled,
+  aren't they?
+Talk_Ready_1009: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08004500610073006500'/>Oh! Phew, it's just you, partner. I should
+  have known you'd turn this midday hour
+  to your advantage and sneak up on me.
+Talk_2103: |
+  <3 Type='0' Data='0c00'/>"Yiganapping of Princess Zelda? Bold
+  Declaration of Foul Crime!"
+  
+  Rereading that headline doesn't soften
+  the blow at all... This leaves me with a pit
+  in my stomach.
+  And this declaration. "The carved-out
+  heart of the towering twins..." What could
+  it mean?
+  I keep turning it over in my head. Twins...
+  
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Wait, could the twins be...<0 Type='3' Data='0000'/>Dueling Peaks<0 Type='3' Data='ffff'/>?
+  And it's right by the stables too!
+Talk_Search_1002: |
+  <3 Type='0' Data='0900'/>The message the Yiga Clan left behind...
+  
+  
+  "We have taken Zelda to the carved-out
+  heart of the towering twins!"
+  
+  <3 Type='0' Data='0c01'/>"Twins" must be connected to Dueling
+  Peaks Stable, but that's all I've got...
+  
+  <3 Type='0' Data='0900'/>The chirps and warbles around this
+  story are far too important to ignore.
+  The princess's life could be on the line!
+  Keep your eyes and ears open for any
+  new clues!
+Talk_2010: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='20005a0065006c0064006100530075007200700072006900730065005f0030003300'/>Only the valiant, golden-haired knight
+  known as Linkette could move such a sturdy
+  cage like that!
+Talk_2011: |
+  <3 Type='0' Data='0701'/>Bwahaha, I knew we'd lure in some heroic
+  wannabes if we used Zelda as bait, but
+  we've even managed to snare you!
+Talk_Excape_1002: |
+  <3 Type='0' Data='0b00'/>What?
+  
+  
+  You're saying the Yiga sent us that letter
+  all to lure YOU into a trap?
+  
+  <3 Type='0' Data='0701'/>Er, why would the Yiga give a hoot about
+  you, partner? Kinda tootin' your own horn
+  there a little bit?
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Aaanyway, getting back on track here...<5 Type='1'/>
+  It's a huge relief knowing that Princess
+  Zelda hasn't actually been kidnapped!
+Talk_Search_1004: |
+  <3 Type='0' Data='0701'/>I'm keeping watch in case anything
+  suspicious happens, but it's hard to
+  see much at night...
+Talk_2012: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='12004200650077006100720065005f0030003400'/>All right, everybody. This is definitely the
+  golden-haired golden boy. Get him!
+Talk_Ready_1010: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08004500610073006500'/>Oh! Phew, it's just you, partner. I should
+  have known you'd use the setting sun as
+  a distraction to sneak up on me.
+Talk_Search_1005: |
+  <3 Type='0' Data='0701'/>I'm checking the perimeter of the stable
+  for anyone acting suspicious.<5 Type='1'/>
+  Nothing yet...
+Talk_2013: |
+  <3 Type='0' Data='0701'/>Hey, don't worry! Once we find the real
+  Zelda, we'll send her to join you! Promise!
+Talk_Ready_1011: |
+  <FontSize Value='125'/><3 Type='0' Data='0b01'/>She was kidnapped!<FontSize Value='100'/><5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003000'/>Have you heard of the <0 Type='3' Data='0000'/>Yiga<0 Type='3' Data='ffff'/>, partner?
+  
+  
+  They're a gang of lowlifes who
+  worship an evil entity and plot
+  against Princess Zelda...
+  <3 Type='0' Data='0900'/>And now they claim that they've
+  kidnapped her!
+  
+  What's more, they're not even worried
+  about being found. In fact, they sent
+  a message to the newspaper.
+  "We have taken Zelda to the carved-out
+  heart of the towering twins!"
+  
+  <3 Type='0' Data='0a01'/>Understandably, Ms. Traysi is all worked
+  up over this news!
+Talk_Search_1006: |
+  <3 Type='0' Data='0701'/>I'm keeping watch, but I doubt the Yiga
+  are dumb enough to try anything during
+  the day.
+Talk_2014: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>You can't run, coward! We won't let you
+  get away!
+Talk_Excape_1005: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0e0047006f006f006400620079006500'/><FontSize Value='125'/>Soar long!<FontSize Value='100'/>
+Talk_Search_1007: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c005300610064005f0030003000'/>Oh! Hey, partner! You heard anything?
+  Any new chirps and warbles?
+Talk_Search_1008: |
+  <3 Type='0' Data='0701'/>I can't help but think of this rain like
+  someone's tears. I hope Princess Zelda
+  is safe...
+0003: |
+  Linkette, help me!
+Talk_Ready_1002: |
+  <3 Type='0' Data='0b00'/>Wh— AH!
+Talk_Ready_1003: |
+  <3 Type='0' Data='0b00'/>Oh! No, you spooking me isn't what I'm
+  talking about! Although that did a number
+  on me too...
+  She... I mean, Princess Zelda was...<5 Type='1'/>
+  <5 Type='0'/>Princess Zelda...<5 Type='1'/>
+Talk_3000: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0e00430061006c006c00460061007200'/>Hey, partner!<5 Type='0'/> What are you up to
+  down there?
+Near_Ready_1002: |
+  How dare those Yiga...
+Talk_Ready_1004: |
+  <3 Type='0' Data='0c00'/>I came here because the word "twins"
+  made me think of Dueling Peaks Stable.
+  
+  But I haven't found any other clues so far.
+  There must be something...
+  
+  <3 Type='0' Data='0900'/>Partner, we cannot allow the chirps and
+  warbles of evil to go unanswered!
+Talk_3001: |
+  <3 Type='0' Data='0700'/>I've been circling the area for leads. I was
+  sure that the word "twins" in that vicious
+  letter was referring to Dueling Peaks.
+  <3 Type='0' Data='0a00'/>Now I'm not so sure. I've found nothing
+  at all anywhere around here.
+  
+  <3 Type='0' Data='0701'/>What about you? Have you figured
+  anything out on your end?
+Talk_Ready_1005: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08004500610073006500'/>Oh! Phew, it's just you, partner. I should
+  have known you'd use the rain to move
+  about more quietly.
