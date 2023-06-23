@@ -1,0 +1,55 @@
+GoToBackOfTempleOfTimeAfterWD: |
+  After you offered four Lights of Blessing, the
+  Goddess Statue purged gloom from your body.
+  You're far from being restored to your former
+  full vitality, but it was enough to open the door.
+  Rauru said he'd done all he could for Zelda and
+  that now it was up to you. He then vanished,
+  leaving you alone with the temple's final altar.
+  Perhaps his parting words will soon be clear.
+LookingForZelda: |
+  You didn't find Princess Zelda on the sky
+  island where you awoke. When you touched the
+  light in the Temple of Time, you felt her
+  presence, however faintly, as a voice rang out
+  in your mind: "<0 Type='3' Data='0000'/>Linkette, you must find me.<0 Type='3' Data='ffff'/>"
+  
+  Where is Princess Zelda? Was there anything
+  more she was trying to tell you?
+Name: |
+  Find Princess Zelda
+GetZonauMajic: |
+  You found yourself on a strange island in the
+  sky after you awoke. A steward construct
+  claimed that Princess Zelda gave it her
+  Purah Pad, all to get it into your hands.
+  
+  The device's <0 Type='3' Data='0000'/>map <0 Type='3' Data='ffff'/>shows a yellow point of
+  light. The construct said that's where you'll
+  find the princess.
+GoToAlterAfterGetRR: |
+  In the Temple of Time, you approached
+  an altar, and in a flash of light, you found
+  yourself with Princess Zelda. That is, with
+  some phantasmal floating vision of her.
+  
+  She took your hand and gave you an ability
+  to control time that's known as Recall. Now,
+  the temple's deeper mysteries await you.
+WarpToCaveOfAwake: |
+  Rauru said you can't open the door at the back
+  of the temple because you're still too weak.
+  
+  You need to get one more <0 Type='3' Data='0000'/>Light of Blessing <0 Type='3' Data='ffff'/>at
+  the island's final shrine to offer at the
+  Goddess Statue. The shrine is marked by a
+  bright dot on the <0 Type='3' Data='0000'/>map<0 Type='3' Data='ffff'/>. You can go near there
+  instantly with the Purah Pad's <0 Type='3' Data='0000'/>travel <0 Type='3' Data='ffff'/>feature.
+GoToBackToGolemInTemple: |
+  After going to the final shrine that Rauru
+  told you about, you now have four
+  <0 Type='3' Data='0000'/>Lights of Blessing<0 Type='3' Data='ffff'/>. 
+  
+  If you offer them at the <0 Type='3' Data='0000'/>Goddess Statue<0 Type='3' Data='ffff'/> in the
+  temple, you may regain enough strength to
+  take on the door's test of vitality.
