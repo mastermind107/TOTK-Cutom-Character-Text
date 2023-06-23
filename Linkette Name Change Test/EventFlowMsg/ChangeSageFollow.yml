@@ -1,0 +1,157 @@
+talk_19: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Linkette! Where are you going?!
+  
+  
+  We can't just ignore those monsters.
+  I'm staying right here!
+talk_40: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Linkette, that is not the direction of the
+  secret stone.
+talk_41: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Linkette...
+talk_42: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>You are leaving, Linkette?
+talk_30: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Hey! Where are you going? If you have
+  something else to do, I can fall back.
+talk_43: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Ah, Linkette.
+talk_31: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003000'/>I cannot afford to leave this place. We'll
+  meet up again when you return.
+talk_44: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='2000440065007400650072006d0069006e006100740069006f006e005f0030003100'/>I have been awaiting your return. Come,
+  let us make our way to the secret stone.
+talk_32: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>I'll remain here, so come back when
+  you can!
+talk_45: |
+  Please accompany this construct to the
+  secret stone's location.
+talk_20: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Hey, uh, Linkette... <5 Type='0'/>Aren't we going away
+  from where Princess Zelda is?
+  
+  If you've got something to do out this
+  way, I think I'll head back.
+talk_33: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Linkette!
+talk_46: |
+  Until we obtain the secret stone, this
+  construct will be unable to travel with you.
+talk_21: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Hey, Linkette? This isn't the way to
+  the princess.
+  
+  I'm gonna turn back, OK?
+talk_34: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>I've been waiting. Now, let's go!
+talk_47: |
+  I will wait here until you return.
+talk_22: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Um, Linkette? <5 Type='0'/>Are you going somewhere?
+  
+  
+  <3 Type='0' Data='0701'/>I'll keep up the search for Princess Zelda
+  on my own until you get back!
+talk_35: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='2000440065007400650072006d0069006e006100740069006f006e005f0030003000'/>You're leaving now, Linkette? Really? Come
+  back as soon as you can, and let's finish
+  this monster!
+talk_48: |
+  Until we obtain the secret stone, my
+  construct cannot leave this place.
+talk_10: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>What is it, Linkette? Are you going
+  somewhere?
+  
+  I've got to find <0 Type='3' Data='0000'/>Princess Zelda <0 Type='3' Data='ffff'/>and save
+  the village from the blizzard. I'm not
+  gonna leave until that's done!
+talk_23: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Linkette!
+talk_49: |
+  I will remain here until your return.
+talk_11: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>You're really going? Be sure to come back
+  when you've done what you need to!
+talk_24: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>I've been waiting for you. Now let's go
+  find Princess Zelda!
+talk_12: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Do you have to go somewhere, Linkette?
+  
+  
+  <3 Type='0' Data='0001'/>I'll keep looking into whatever's going on
+  with <0 Type='3' Data='0000'/>Princess Zelda<0 Type='3' Data='ffff'/> and the <0 Type='3' Data='0000'/>blizzard<0 Type='3' Data='ffff'/> while
+  you're away.
+  But soar back when you can!
+talk_25: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>You're really leaving? I can't sit back and
+  let those monsters have their way.
+  
+  I'm gonna stay here and keep fighting!
+  Just promise me you'll come back, OK?
+  
+  I'll be waiting!
+talk_00: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Linkette! Do you have business elsewhere?<5 Type='0'/>
+  If so, then I shall head back until the
+  right moment is upon us!
+talk_13: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Linkette!
+talk_26: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Wait, <5 Type='0'/>you're leaving?<5 Type='0'/> Now?!
+  
+  
+  Well, that's fine. I'll stay here and handle
+  the monsters until you're back!
+  
+  Just...come back soon, OK?
+talk_01: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='1c0053006800690064006f0043006c0065006e00630068005f0030003000'/>I'm afraid I cannot leave this place.<5 Type='0'/> I shall
+  await your return, my friend!
+talk_14: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>You're back! Come on, we've got more
+  investigating to do!
+talk_27: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>You came back! I knew you would!
+  
+  
+  Now we've got this. Come on, Linkette!
+  Let's fight these monsters together!
+talk_02: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Forgive me, Linkette, but I cannot leave
+  this place.
+  
+  <3 Type='0' Data='0001'/>Do what you must, and meanwhile, I shall
+  eagerly await your return.
+talk_15: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Linkette? Where are you going?
+  
+  
+  I'd follow you, but I don't want to go too
+  far from my bow...
+talk_03: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Linkette!
+talk_16: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='2000540075006c0069004400650070007200650073007300650064005f0030003000'/>Are you going?
+  
+  
+  I can't leave until I get my bow back...
+  but that's OK. I can wait for you!
+talk_04: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>At last! I have been waiting for you.
+  Come now, let us be off!
+talk_17: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Linkette? Are you ditching me?
+  
+  
+  The monster still has my bow... So I'll
+  stay here and wait for you to get back!
+talk_18: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>There you are. I've been waiting for you!
+  
+  
+  All right, now I'm really ready to go.
+  Time to take back my bow!

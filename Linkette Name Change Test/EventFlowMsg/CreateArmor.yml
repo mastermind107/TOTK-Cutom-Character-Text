@@ -1,0 +1,174 @@
+CreateArmor_08: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Jiahto found some ancient texts that
+  mention the <0 Type='3' Data='0000'/>Zora greaves<0 Type='3' Data='ffff'/>!
+  
+  It is said that those who wear them are
+  gifted the power to swim in the water as
+  they please.
+  I am certain that such an item would
+  be invaluable in your quest to locate
+  Princess Zelda.
+  <3 Type='0' Data='0701'/>I told Sidon and everyone in the domain
+  that I hope to present this special gift
+  to you. However...
+0001: |
+  Ancient Waterworks?
+CreateArmor_48: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Sir Linkette. I shall never forget all that you
+  have done for us Zora, not for the rest
+  of my days.
+  Please do not be a stranger to our
+  fair domain!
+0002: |
+  Goodbye.
+CreateArmor_08_01: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003000'/>The greaves in question have still not
+  been located.
+  
+  <3 Type='0' Data='0701'/>According to the texts Jiahto found, the
+  Zora greaves were created long ago...
+  
+  It seems they were offered up at the
+  <0 Type='3' Data='0000'/>Ancient Zora Waterworks<0 Type='3' Data='ffff'/> as a prayer for
+  friendship between the Zora and Hylians.
+  <3 Type='0' Data='0301'/>Upon hearing that, I desperately searched
+  there, but I was unable to locate them.
+  
+  I wonder where in the waterworks the
+  Zora greaves were offered...
+CreateArmor_20: |
+  <3 Type='0' Data='0d00'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Oh, Sir Linkette!<5 Type='1'/> Thank you for stopping by!
+  
+  
+  <3 Type='0' Data='0001'/>As it were, I have still not located the
+  Zora greaves...
+CreateArmor_40: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh, Sir Linkette!<5 Type='0'/> About the Zora greaves...
+CreateArmor_40_01: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh, Sir Linkette!<0 Type='4'/><3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Just a moment.<5 Type='0'/> What is that upon your
+  feet? Could those be...<5 Type='1'/>the Zora greaves?!
+CreateArmor_01: |
+  <3 Type='0' Data='0d01'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Oh, Sir Linkette!<5 Type='1'/> Thank you ever so much for
+  your noble efforts.
+  
+  <3 Type='0' Data='0701'/>I have been earnestly pondering what
+  I can possibly do to thank you for saving
+  the domain. However...
+CreateArmor_02: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Hm?<5 Type='1'/> You have already found it?!
+  
+  
+  <3 Type='0' Data='0100'/>Hee-hee!<5 Type='1'/> Oh, Sir Linkette, I am truly no
+  match for you!
+CreateArmor_22: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0a005400680069006e006b00'/>It is said that those who wear the
+  Zora greaves are gifted the power
+  to swim in the water as they please.
+  According to the ancient text, long ago in
+  the distant past...<0 Type='4'/>they were offered up at the <0 Type='3' Data='0000'/>Ancient Zora
+  Waterworks<0 Type='3' Data='ffff'/> as a prayer for friendship
+  between the Zora and Hylians.
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0600530061006400'/>In the same spirit, I hoped to gift them to
+  you as a symbol of the friendship the Zora
+  gratefully share with you. However...
+CreateArmor_23: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>The <0 Type='3' Data='0000'/>Ancient Zora Waterworks<0 Type='3' Data='ffff'/> is a ruin
+  at the bottom of the reservoir lake<5 Type='1'/>
+  situated in the east of the domain.
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Sidon found it with your help, did he not?
+  
+  
+  You can freely go inside by jumping into
+  the whirlpool in the reservoir lake.
+  
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>I was so sure the Zora greaves that
+  were offered long ago would be in
+  there. However...
+CreateArmor_24: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>I thought they would prove valuable to
+  you.<5 Type='0'/> I am terribly sorry that I failed to
+  find those greaves for you.
+  I wonder if there are still places we have
+  yet to access within the waterworks...
+CreateArmor_44: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Wow!<5 Type='1'/> So a large hole opened up within
+  the waterworks, draining the water?
+  
+  And the Zora greaves were at the bottom
+  of that big hole. <5 Type='1'/>Extraordinary!<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>After all that my Sidon has told me,
+  I can safely say that it is so like you
+  to find them on your own, Sir Linkette!
+CreateArmor_44_2: |
+  May they prove useful to you during your
+  noble travels.
+  
+  The Zora greaves are a symbol of the
+  friendship between the Zora and Hylians...
+  
+  As such, it is a most-fitting gift for you,
+  as you are truly an irreplaceable friend
+  to all the Zora of the domain.
+CreateArmor_near00: |
+  Perhaps I could...
+CreateArmor_02_01: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Hm?<5 Type='1'/> Upon your feet...<5 Type='0'/>those are the
+  Zora greaves, are they not?!
+  
+  <3 Type='0' Data='0100'/>Hee-hee!<5 Type='1'/> To think that after all of my
+  fretting, you already found them. I am
+  truly no match for you, Sir Linkette!
+CreateArmor_05: |
+  <3 Type='0' Data='0c00'/>It seems the <0 Type='3' Data='0000'/>Zora greaves <0 Type='3' Data='ffff'/>were offered at
+  the <0 Type='3' Data='0000'/>Ancient Zora Waterworks<0 Type='3' Data='ffff'/> at the
+  bottom of the East Reservoir Lake.
+  That is what the texts claim, in any case.
+  If that is correct, I wonder where in the
+  waterworks the greaves were offered...
+CreateArmor_06: |
+  <3 Type='0' Data='0d01'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Sir Linkette!
+  
+  
+  I am overjoyed that your precious
+  Zora armor has at last been returned
+  to your care.
+  <3 Type='0' Data='0400'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh!<5 Type='0'/> Just one more thing!<5 Type='1'/> There is
+  something I would like to speak with
+  you about...
+CreateArmor_near01: |
+  The Zora greaves...
+CreateArmor_46: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>Hee-hee.<5 Type='0'/> Speaking of irreplaceable
+  friends...
+  
+  Whenever my dear Sidon opens his
+  mouth, chances are it is to speak of
+  you, Sir Linkette.
+  <4 Type='0' Data='1000480061007000700079005f0030003000'/>He'll say things like, "Linkette is the best!"
+  And also, "No task is insurmountable
+  when I am with Linkette!"
+  I feel a bit silly telling you this, but after
+  all that has transpired, I truly understand
+  how he came to feel that way.
+  Sir Linkette... Thank you. So very much. That
+  he has found a true companion in you
+  makes me as happy as it does him.
+  <3 Type='0' Data='0d00'/><4 Type='0' Data='0c004c0061007500670068005300'/>Zora's Domain will always be with you,
+  now and forevermore. Consider that a
+  fervent promise.
+  Please do not be a stranger, dearest
+  friend of the domain.
+0000: |
+  Zora greaves?
+CreateArmor_47: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Ah! This simply will not do!<5 Type='1'/> I forgot to
+  tell you...
+  
+  <3 Type='0' Data='0100'/>I asked <0 Type='3' Data='0000'/>Chroma<0 Type='3' Data='ffff'/> and <0 Type='3' Data='0000'/>Khira<0 Type='3' Data='ffff'/> to try to find
+  some way to assist you, Sir Linkette.
+  
+  They are now investigating something
+  additional to the Zora greaves...
+  the <0 Type='3' Data='0000'/>Zora helm<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>I am certain that the helm will also prove
+  useful to you on your journey, Sir Linkette.<5 Type='1'/>
+  I hope you will speak with them about it.

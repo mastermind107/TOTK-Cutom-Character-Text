@@ -1,0 +1,51 @@
+Talk_0012: |
+  No, that's still not working...
+Talk_0029: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Whoa! How long have you been there?!<0 Type='4'/>Yes,<5 Type='0'/> I know it's you, Linkette,<5 Type='0'/> mask and all.
+Talk_0013: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Whoa! How long have you been there?!
+Near_0000: |
+  Wake up! Come on!
+Talk_0014: |
+  Why you little... <5 Type='0'/>Tried to catch me
+  off guard, did you?!
+Talk_0020: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>S-<5 Type='1'/>so yeah, you get it... <5 Type='1'/>Anyway, I can't
+  believe you followed me to another mine.
+  <5 Type='1'/>Persistent little pest...
+Talk_0015: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='1a00490072007200690074006100740069006f006e005f0030003000'/><FontSize Value='125'/>You...<FontSize Value='100'/>
+Talk_0021: |
+  In honor of our long-awaited reunion,
+  I graciously allowed you to fight me
+  one-on-one before.
+Talk_0016: |
+  <3 Type='0' Data='0701'/>Like I said before, my plan has changed!
+  
+  
+  But we already mined up everything there
+  is to mine around here...
+Talk_0022: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>But right now, you're the last thing
+  on my mind.
+Talk_0017: |
+  <1 Type='3' Data='20000000'/><3 Type='0' Data='0900'/>So what you saw...
+Talk_0023: |
+  <FontSize Value='125'/><3 Type='0' Data='0700'/><4 Type='0' Data='160050006f0069006e00740069006e0067005f0030003000'/>Because the end is nigh!<FontSize Value='100'/>
+Talk_0018: |
+  <1 Type='3' Data='1c000000'/><3 Type='0' Data='0900'/>was just, uh...
+Talk_0024: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='180043007500730074006f006d003000300036005f0030003000'/>I've got things to do, so let's make this
+  real quick.
+Talk_0019: |
+  <3 Type='0' Data='0900'/><FontSize Value='125'/>I was killing time!<FontSize Value='100'/>
+Talk_0025: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='10005400610075006e0074005f0030003000'/><FontSize Value='125'/>YIGA CLAN, ATTACK!<FontSize Value='100'/>
+Talk_0026: |
+  <3 Type='0' Data='0900'/><FontSize Value='125'/><4 Type='0' Data='160050006f0069006e00740069006e0067005f0030003200'/>COWARDLY SNEAK!<FontSize Value='100'/>
+Talk_0027: |
+  <1 Type='3' Data='3c000000'/><3 Type='0' Data='0900'/>You know...
+Talk_0011: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Urgh. <5 Type='1'/>What am I doing wrong?
+Talk_0028: |
+  Maybe my angle's off?

@@ -1,0 +1,284 @@
+Talk_010: |
+  <3 Type='0' Data='0700'/>Yeah, I noticed a relic at the rear of
+  the chamber. It looked like there was
+  something inside.<0 Type='4'/><3 Type='0' Data='0a01'/>Although noticing it is as far as I've
+  gotten. I haven't figured out yet how
+  to pry it open.
+Talk_045: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Oh? <5 Type='0'/>What's with that face? Hang on...<5 Type='1'/>
+  Are you saying you found more?<0 Type='4'/><3 Type='0' Data='0b01'/>What did you discover this time?!<0 Type='4'/><FontSize Value='125'/><3 Type='0' Data='0800'/>Don't leave me on the hook!<FontSize Value='100'/>
+Talk_011: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>What's going on? You have this look on
+  your face like there's big news you can't
+  wait to share.
+Talk_046: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Linkette... <5 Type='0'/>You're making that "wait until you
+  see what I found" face again.<0 Type='4'/><3 Type='0' Data='0b01'/>What did you discover this time?!<0 Type='4'/><FontSize Value='125'/><3 Type='0' Data='0800'/>Don't leave me on the hook!<FontSize Value='100'/>
+Talk_012: |
+  <3 Type='0' Data='0b00'/>Whaaaaaat?! You found a way to open
+  that relic?!<0 Type='4'/>How in Hyrule did you— Wait, no, that's
+  not important right now. Better question.<0 Type='4'/><FontSize Value='125'/><3 Type='0' Data='0b01'/>What did you reel in?!<0 Type='4'/><FontSize Value='100'/><3 Type='0' Data='0800'/><FontSize Value='125'/>You've got to show me!<FontSize Value='100'/>
+Talk_047: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>I think your discoveries have brought us
+  a step closer to solving the riddle.<0 Type='4'/>That "wear the electric garb" part of the
+  code...<5 Type='0'/> It could be about the garments
+  from the age of legends that you found.
+Talk_048: |
+  <3 Type='0' Data='0700'/>Right. <5 Type='0'/>Let's go over the code one more
+  time and see if it shakes anything loose.
+Talk_013: |
+  <3 Type='0' Data='0b00'/>You got that relic in the back open?!<0 Type='4'/><FontSize Value='125'/><3 Type='0' Data='0b01'/>What was inside?!<0 Type='4'/><3 Type='0' Data='0800'/>Don't leave me on the hook!<FontSize Value='100'/>
+Talk_049: |
+  <3 Type='0' Data='0501'/>"Wear the electric garb hidden at long-
+  necked dragons along the wide-mouthed
+  forest serpent.<0 Type='4'/>"Offer a Zonai charge to the altar at
+  the tail."<0 Type='4'/><3 Type='0' Data='0c00'/>I recall hearing a song once that likened
+  the <0 Type='3' Data='0000'/>Dracozu River<0 Type='3' Data='ffff'/> to a forest dragon.
+  Could be the same thing here.<0 Type='4'/>Both this ruin and the ones where you
+  found the garments were marked by those
+  <0 Type='3' Data='0000'/>tall dragon pillars<0 Type='3' Data='ffff'/>.
+Talk_060: |
+  <3 Type='0' Data='0b00'/>Whaaaaaat?! You found a relic in another
+  ruin? And you managed to open it?!<0 Type='4'/>How in Hyrule did you— Wait, no, that's
+  not important right now. Better question.<0 Type='4'/><FontSize Value='125'/><3 Type='0' Data='0b01'/>What did you reel in?!<0 Type='4'/><FontSize Value='100'/><3 Type='0' Data='0800'/><FontSize Value='125'/>You've got to show me!<FontSize Value='100'/>
+Talk_014: |
+  <3 Type='0' Data='0b00'/>Wait just a minute... That outfit you've
+  got on...<0 Type='4'/>Isn't that the same thing the figure in
+  the mural is wearing?!<0 Type='4'/><3 Type='0' Data='0b00'/>Where in Hyrule did you find that?
+Talk_061: |
+  <3 Type='0' Data='0b00'/>You got that relic in this ruin open?!<0 Type='4'/><FontSize Value='125'/><3 Type='0' Data='0b01'/>What was inside?!<0 Type='4'/><3 Type='0' Data='0800'/>Don't leave me on the hook!<FontSize Value='100'/>
+Talk_015: |
+  <3 Type='0' Data='0700'/>Still, your outfit isn't exactly like what we
+  see in the mural. Hmm...<0 Type='4'/>Maybe there are other <0 Type='3' Data='0000'/>treasure chests
+  containing the rest of the garments<0 Type='3' Data='ffff'/>.
+Talk_062: |
+  <3 Type='0' Data='0b00'/>You found a relic in another ruin...and
+  managed to open it?!<0 Type='4'/><FontSize Value='125'/><3 Type='0' Data='0b01'/>What did you reel in?!<0 Type='4'/><3 Type='0' Data='0800'/>You've got to show me!<FontSize Value='100'/>
+Talk_016: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>You've done it again, Linkette. I shouldn't be
+  so astonished by your feats at this point,
+  but it gets me every time.<0 Type='4'/>Treasure belongs to the one who finds it,
+  so that's yours!
+Talk_063: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Look at you! You're the spitting image of
+  the figure in the mural!<0 Type='4'/>Now that you've found three garments,
+  you could cover yourself head to toe
+  in them.<0 Type='4'/>Actually...<5 Type='0'/>might make you look even more
+  like the mural.<0 Type='4'/>Linkette... <5 Type='0'/>You mind trying on the full set you
+  found? Just humor me here.
+Talk_017: |
+  <3 Type='0' Data='0701'/>Now then...we still need to figure out the
+  rest of the code on this relief.
+Talk_018: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='0a005400680069006e006b00'/>Maybe it's a poem? <5 Type='0'/>Or some kind of...<5 Type='1'/>
+  <0 Type='3' Data='0000'/>code<0 Type='3' Data='ffff'/>, perhaps?
+Talk_064: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/>Now that you've found three garments in
+  those chests, <5 Type='0'/>would you humor me and
+  put them all on at once?
+Talk_065: |
+  <3 Type='0' Data='0701'/>Maybe...hmm. <5 Type='0'/>The "forest serpent" bit
+  does remind me of a song that compared
+  the <0 Type='3' Data='0000'/>Dracozu River <0 Type='3' Data='ffff'/>to a forest dragon.<0 Type='4'/>But anyway, there's more to this code.
+  I'll keep reading.
+Talk_030: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>We've got the garb. Now if we could just
+  crack the rest of the riddles in this <0 Type='3' Data='0000'/>code<0 Type='3' Data='ffff'/>,
+  I bet even greater discoveries await us!
+Talk_031: |
+  <3 Type='0' Data='0701'/>It might be a good idea to go back to
+  <0 Type='3' Data='0000'/>Lookout Landing <0 Type='3' Data='ffff'/>and discuss it with him.
+Talk_032: |
+  <3 Type='0' Data='0701'/>It might be a good idea to go to the
+  <0 Type='3' Data='0000'/>Hateno Village lab <0 Type='3' Data='ffff'/>and discuss it with him.
+Talk_033: |
+  <3 Type='0' Data='0700'/>The treasure chest you opened had a
+  genuine garment from the age of legends.<0 Type='4'/>What's more, it matches the garb the
+  figure in the relief is wearing. Or part of
+  it, at least.<0 Type='4'/><3 Type='0' Data='0c01'/>I'd bet you anything there are other
+  chests out there with garments inside.
+Talk_034: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Huh? Wow...<5 Type='0'/>you're saying you already
+  have the <0 Type='3' Data='0000'/>sensor +<0 Type='3' Data='ffff'/> feature?<0 Type='4'/><3 Type='0' Data='0801'/>That should make our search for treasure
+  chests much easier!
+Talk_000: |
+  <3 Type='0' Data='0800'/>Aha! You came after all.<0 Type='4'/><3 Type='0' Data='0101'/>I figured you would after you made that
+  breakthrough at the Ring Ruins.<0 Type='4'/>But listen to this! I've already got a
+  whopper of a discovery on my hook here!
+Talk_035: |
+  <3 Type='0' Data='0c00'/>The problem is, <0 Type='3' Data='0000'/>searching for treasure
+  chests <0 Type='3' Data='ffff'/>without a plan is a long shot.<0 Type='4'/>Robbie was talking about creating some
+  way that would <0 Type='3' Data='0000'/>make searching for things
+  simple<0 Type='3' Data='ffff'/> though.
+Talk_036: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0a005400680069006e006b00'/>Next, it says...<5 Type='0'/> "Offer a Zonai charge to
+  the altar at the tail."<0 Type='4'/>I'm pretty sure I got that right, but I have
+  no idea what it means.<0 Type='4'/><3 Type='0' Data='0c00'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>What in the world is a Zonai charge?<5 Type='0'/>
+  And where is this tail with an altar?<0 Type='4'/><3 Type='0' Data='0701'/>If we can crack all the riddles in this code,
+  I'm sure that even greater discoveries
+  await us!
+0000: |
+  That code...
+Talk_002: |
+  <3 Type='0' Data='0701'/>Here, look at this.
+0001: |
+  Chest?
+Talk_037: |
+  <3 Type='0' Data='0c00'/>Hmm... <5 Type='0'/>What am I missing here?
+Talk_003: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>It's a Zonai mural, complete with intact
+  text. The style is unmistakable.<0 Type='4'/>It's nothing short of miraculous that it's
+  still here and basically intact!<0 Type='4'/>Which, come to think of it, might be
+  ascribable to the Zonai's advanced
+  technology.<0 Type='4'/>I've got a fair bit of knowledge of the
+  script, so I just had a try at deciphering it.<0 Type='4'/>But some of it still eludes me.
+0002: |
+  See you later.
+Talk_038: |
+  <3 Type='0' Data='0701'/>Much as I want to crack this code, <5 Type='0'/>I'm
+  also dying to know what's in that <0 Type='3' Data='0000'/>chest<0 Type='3' Data='ffff'/>
+  I found in the back of the room there.
+Talk_039: |
+  <3 Type='0' Data='0701'/>I'm very curious to know what's in that
+  chest, <5 Type='0'/>but I haven't forgotten about
+  cracking the <0 Type='3' Data='0000'/>code <0 Type='3' Data='ffff'/>written on the mural.
+Talk_050: |
+  <3 Type='0' Data='0700'/>"Wear the electric garb" might mean the
+  garments from the age of legends that
+  you found, Linkette.<0 Type='4'/><3 Type='0' Data='0c01'/>But "offer a Zonai charge to the altar at
+  the tail"? <5 Type='1'/>What's a Zonai charge? And
+  where is this tail with an altar?<0 Type='4'/>Could another <0 Type='3' Data='0000'/>tall dragon pillar <0 Type='3' Data='ffff'/>be
+  marking the altar site, just like the
+  others you've found?
+Talk_051: |
+  <3 Type='0' Data='0c00'/>But that still leaves us with the other
+  part—<5 Type='0'/>"Offer a Zonai charge to the altar
+  at the tail."<0 Type='4'/>What is a Zonai charge? <5 Type='1'/>And this altar at
+  the tail... <5 Type='0'/>Where do we start looking for it?<0 Type='4'/>Could another <0 Type='3' Data='0000'/>tall dragon pillar <0 Type='3' Data='ffff'/>be
+  marking the altar site, just like the
+  others you've found?
+Talk_006: |
+  <3 Type='0' Data='0701'/>There's one other thing I'm curious about.
+Talk_052: |
+  <3 Type='0' Data='0b00'/>Hmm? Sorry, I've been focused on
+  deciphering this code. <5 Type='0'/>Say, Linkette, that
+  outfit you've got on...<0 Type='4'/>Isn't that the same thing the figure in
+  the mural is wearing?!<0 Type='4'/>Where in Hyrule did you find that?
+Talk_053: |
+  <3 Type='0' Data='0c00'/>In a chest in the back of this chamber?
+  But if that's true...<0 Type='4'/><3 Type='0' Data='0b01'/>There's nothing else it could be but a
+  garment from the age of legends!<0 Type='4'/><3 Type='0' Data='0800'/><FontSize Value='125'/>Now that's a haul to remember!<FontSize Value='100'/>
+Talk_008: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0a005400680069006e006b00'/>If we can crack all the riddles in this <0 Type='3' Data='0000'/>code<0 Type='3' Data='ffff'/>,
+  I'm sure that even greater discoveries
+  await us!<0 Type='4'/>But I'm also dying to know what's in that
+  <0 Type='3' Data='0000'/>treasure chest<0 Type='3' Data='ffff'/> I found in the back of the
+  room there.
+Talk_054: |
+  <3 Type='0' Data='0c00'/>In the chest I told you about earlier?
+  But if that's true...<0 Type='4'/><3 Type='0' Data='0b01'/>There's nothing else it could be but a
+  garment from the age of legends!<0 Type='4'/><3 Type='0' Data='0800'/><FontSize Value='125'/>Now that's a haul to remember!<FontSize Value='100'/>
+Talk_020: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='0a005400680069006e006b00'/>"Wear the electric garb hidden at long-
+  necked dragons along the wide-mouthed
+  forest serpent.<0 Type='4'/>"Offer a Zonai charge to the altar at
+  the tail."<0 Type='4'/><3 Type='0' Data='0c01'/>You know, the tall pillars <0 Type='3' Data='0000'/>found around<0 Type='3' Data='ffff'/>
+  <0 Type='3' Data='0000'/>these ruins<0 Type='3' Data='ffff'/> had dragon designs. <5 Type='0'/>But what
+  does the bit about "forest serpent" mean?
+Talk_009: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>I heard a song once that compared the
+  <0 Type='3' Data='0000'/>Dracozu River<0 Type='3' Data='ffff'/> to a forest dragon. Could
+  that be related?<0 Type='4'/>What is a Zonai charge though? <5 Type='0'/>And
+  where's this tail with an altar it mentions?<0 Type='4'/><3 Type='0' Data='0a00'/>Ugh. I'm confident I'm translating this
+  right, but I still don't understand.
+Talk_055: |
+  <3 Type='0' Data='0700'/>Still, your outfit isn't exactly like what we
+  see in the mural. Hmm...<0 Type='4'/>Wasn't there a relic in this chamber too?
+  Maybe it's related to the other one
+  you found.
+Talk_021: |
+  <3 Type='0' Data='0701'/>Here, I'll read it out loud so we can both
+  get on the same page.<0 Type='4'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>This first part says, <5 Type='0'/>"Wear the electric
+  garb hidden at long-necked dragons along
+  the wide-mouthed forest serpent."<0 Type='4'/>What do you make of "forest serpent" and
+  "dragons" there?<0 Type='4'/><3 Type='0' Data='0c01'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>To me, it calls to mind the tall pillars
+  <0 Type='3' Data='0000'/>found around these ruins<0 Type='3' Data='ffff'/> designed to
+  look like dragons.<0 Type='4'/><3 Type='0' Data='0c01'/>"Forest serpent" though... I haven't seen
+  any designs like that.<0 Type='4'/>What am I missing? What other "wide-
+  mouthed forest serpent" is there?
+Talk_056: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>If we can crack all the riddles in this <0 Type='3' Data='0000'/>code<0 Type='3' Data='ffff'/>,
+  I'm sure that even greater discoveries
+  await us!<0 Type='4'/><3 Type='0' Data='0500'/>But I'm very interested in that clothing
+  you found.<0 Type='4'/>I think there's a good chance that the
+  <0 Type='3' Data='0000'/>chest <0 Type='3' Data='ffff'/>at the back of the chamber has
+  something to do with that garb.
+Talk_022: |
+  <3 Type='0' Data='0700'/>I should've mentioned this, but I found
+  one more Zonai relic at the back of
+  these ruins.<0 Type='4'/>Judging from the shape, I think there's
+  something inside, but I can't get it
+  to open.
+Talk_057: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Look at you! You're the spitting image of
+  the figure in the mural!<0 Type='4'/><3 Type='0' Data='0701'/>Although...the more I look, the more it
+  seems like you're not quite there yet.<0 Type='4'/>Wasn't there a relic in this chamber too?
+  Maybe it's related to the one you found.
+Talk_023: |
+  <3 Type='0' Data='0c00'/>Can't crack the code... Can't get the box
+  open... This just isn't my day.
+Talk_058: |
+  <3 Type='0' Data='0700'/>The treasure chest you opened had a
+  genuine garment from the age of legends.<0 Type='4'/>What's more, it matches the garb the
+  figure in the relief is wearing. Or part of
+  it, at least.<0 Type='4'/><3 Type='0' Data='0c01'/>It's possible that the chest in this room
+  has something to do with that garb too.
+Talk_059: |
+  <3 Type='0' Data='0b00'/>Whaaaaaat?! You found a way to open
+  the relic in here?!<0 Type='4'/>How in Hyrule did you— Wait, no, that's
+  not important right now. Better question.<0 Type='4'/><FontSize Value='125'/><3 Type='0' Data='0b01'/>What did you reel in?!<0 Type='4'/><FontSize Value='100'/><3 Type='0' Data='0800'/><FontSize Value='125'/>You've got to show me!<FontSize Value='100'/>
+Talk_024: |
+  <3 Type='0' Data='0800'/>You look like you could have stepped right
+  out of that mural! It's like I'm talking to
+  someone from the age of legends.<0 Type='4'/><3 Type='0' Data='0101'/>No one makes discovery after discovery
+  quite like you, Linkette. You've done it again!<0 Type='4'/><3 Type='0' Data='0101'/>This is all so exciting!
+Talk_025: |
+  <3 Type='0' Data='0c00'/>In a chest you found in these ruins?
+  But if that's true...<0 Type='4'/><3 Type='0' Data='0b01'/>There's nothing else it could be but a
+  garment from the age of legends!<0 Type='4'/><3 Type='0' Data='0800'/><FontSize Value='125'/>Now that's a haul to remember!<FontSize Value='100'/>
+Talk_026: |
+  <3 Type='0' Data='0b00'/>Ooh! So I was right—there were other
+  garments in the set after all!
+Near_001: |
+  Hmm... Interesting...
+Talk_027: |
+  <3 Type='0' Data='0b00'/>Ohhh! I've seen those garments before...
+Talk_028: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>If we can crack all the riddles in this <0 Type='3' Data='0000'/>code<0 Type='3' Data='ffff'/>,
+  I'm sure that even greater discoveries
+  await us!<0 Type='4'/><3 Type='0' Data='0500'/>But I'm very interested in that clothing
+  you found.<0 Type='4'/>Who knows? It might not be the only
+  <0 Type='3' Data='0000'/>chest <0 Type='3' Data='ffff'/>with garb like that inside.
+Talk_040: |
+  <3 Type='0' Data='0701'/>Don't forget about the <0 Type='3' Data='0000'/>code<0 Type='3' Data='ffff'/> written on
+  the relief. I want to get the bottom of
+  those mysteries too.
+Talk_029: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Look at you! You're the spitting image of
+  the figure in the mural!<0 Type='4'/><3 Type='0' Data='0701'/>Although...the more I look, the more it
+  seems like you're not quite there yet.<0 Type='4'/>Maybe we haven't found all the
+  <0 Type='3' Data='0000'/>treasure chests<0 Type='3' Data='ffff'/>...
+Talk_041: |
+  <3 Type='0' Data='0700'/>You're curious about it too, huh? <5 Type='0'/>Let's go
+  over it one more time.
+Talk_042: |
+  <3 Type='0' Data='0700'/>You already have the <0 Type='3' Data='0000'/>sensor +<0 Type='3' Data='ffff'/> feature
+  that Robbie designed, right?<0 Type='4'/>That should make our search for treasure
+  chests much easier.
+Talk_043: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>You look like the fish that got away
+  with the worm. Wait...<5 Type='1'/>did you make
+  another discovery?<0 Type='4'/><3 Type='0' Data='0b01'/>What is it this time?!<0 Type='4'/><FontSize Value='125'/><3 Type='0' Data='0800'/>Don't leave me on the hook!<FontSize Value='100'/>
+Talk_044: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0c004e006f007400690063006500'/>Linkette... <5 Type='0'/>You're making that "you won't
+  believe what I found" face again.<0 Type='4'/><3 Type='0' Data='0b01'/>What is it this time?!<0 Type='4'/><FontSize Value='125'/><3 Type='0' Data='0800'/>Don't leave me on the hook!<FontSize Value='100'/>

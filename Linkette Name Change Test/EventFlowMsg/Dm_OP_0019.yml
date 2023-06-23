@@ -1,0 +1,16 @@
+talk_06: |
+  <4 Type='0' Data='1c004f00620073006500720076006100740069006f006e005f0030003000'/>The Master Sword...
+talk_01: |
+  <4 Type='0' Data='1c004f00620073006500720076006100740069006f006e005f0030003200'/>It must be sensing something!
+talk_02: |
+  Ever since the end of the Calamity, the
+  castle has fallen into neglect.
+talk_03: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1000470075006500730073005f0030003000'/>But I never could have imagined anything
+  like these tunnels were hiding here.
+talk_04: |
+  I knew we had reason for concern.
+talk_00: |
+  <4 Type='0' Data='180044006900730063006f0076006500720079005f0030003400'/>Linkette!
+talk_05: |
+  <4 Type='0' Data='2c005a0065006c00640061005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>We must be careful as we move deeper.
