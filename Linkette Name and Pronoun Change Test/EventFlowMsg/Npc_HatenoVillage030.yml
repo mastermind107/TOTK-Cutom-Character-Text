@@ -1,0 +1,309 @@
+Talk_14: |
+  <3 Type='0' Data='0400'/>Wait...<5 Type='1'/> Huh?<5 Type='1'/>
+Talk_43: |
+  <3 Type='0' Data='0700'/>Please don't be rough with that. I'm going
+  to use that board in the barn's roof.
+Talk_15: |
+  <3 Type='0' Data='0700'/>Sorry! I'm a bit busy with...
+  
+  
+  work...<5 Type='0'/>right...<5 Type='0'/>now...<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0b00'/>Linkette!<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0801'/>Wow, what a RELIEF. I was seriously
+  worried about you. Where have you
+  BEEN, anyway?<5 Type='1'/>
+  <3 Type='0' Data='0000'/>Uh...<5 Type='0'/>sorry for the excitement. I'm just
+  happy you're back.
+Talk_16: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>I've been sorting out whether or not I can
+  build a <0 Type='3' Data='0000'/>mini stable<0 Type='3' Data='ffff'/> in Lookout Landing.
+  
+  Lester has come here to <0 Type='3' Data='0000'/>care for the
+  horses<0 Type='3' Data='ffff'/>. So it'd help him out a lot if he
+  had a proper stable.
+  The project would likely take me a while
+  to complete.
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>But once it's done, you'll be able to take
+  full advantage, Linkette!
+Talk_45: |
+  <3 Type='0' Data='0800'/>So they need someone to rebuild their
+  bridge, huh? Easy enough, right?<5 Type='2'/><0 Type='4'/><3 Type='0' Data='0a00'/>Nope.<0 Type='4'/>I have to build a roof over the well. And
+  then there's the mini stable.
+  
+  I have to finish all of that before I can
+  do anything else.
+near_00: |
+  Just a bit more!
+Talk_17: |
+  <3 Type='0' Data='0700'/>It's still gonna be a while before I can
+  complete the <0 Type='3' Data='0000'/>mini stable<0 Type='3' Data='ffff'/>.
+  
+  Things need to be just so for Lester,
+  who's here to <0 Type='3' Data='0000'/>take care of the horses<0 Type='3' Data='ffff'/>.
+  
+  So if the design isn't perfect, I'll get an
+  earful from him.
+Talk_46: |
+  <3 Type='0' Data='0700'/>By the way, have you been inside the
+  <0 Type='3' Data='0000'/>emergency shelter<0 Type='3' Data='ffff'/> yet?
+  
+  They have beds you can sleep in for free.
+  It's a great place to get some rest.
+Talk_18: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Hi, Linkette. Mornin'!
+near_02: |
+  How should I build it...
+Talk_19: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Linkette! Hello there!
+Talk_20: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Hey, Linkette. Good evenin'!
+near_03: |
+  Hmmm... That shelf there...
+Talk_21: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Hey, Linkette. Guess I'm not surprised to see
+  you zoomin' around even on a rainy day.
+near_05: |
+  Hudson Construction, ya!
+Talk_22: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Ah, Linkette! Great job out there!
+  
+  
+  Are you using the <0 Type='3' Data='0000'/>mini stable<0 Type='3' Data='ffff'/>?
+  
+  
+  You made building that roof look like a
+  breeze! I was struggling with it, but you?
+  You just pulled it off in no time.
+  It's real inspiring. I should get to work
+  improving my carpentry too.
+near_06: |
+  I think I'll take a little break.
+Talk_23: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>You shopping?
+  
+  
+  I hear that the shop owner Mubs wants
+  to expand her offerings.
+  
+  I was considering adding some more
+  shelves for her.
+near_07: |
+  It's just about safe.
+Talk_24: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Ruins plopped down outta the sky, and
+  now things are like this.
+  
+  But what's most important is that nobody
+  got hurt.
+  
+  Thankfully, we built Lookout Landing to
+  last, and it lasted even through all of this!
+  
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>If the ruins were to start falling apart,
+  somebody really could get hurt though,
+  so I'd like to start mopping this all up.
+  <3 Type='0' Data='0701'/>But I think they're important to the
+  survey team...
+  
+  In which case, I'll ask them first what
+  they'd like to have happen.
+near_08: |
+  Best shop in Hyrule!
+Talk_25: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>So?! What do you think of the ol' handy-
+  dandy Skyview Tower, eh?
+  
+  The Skyview Towers are a result of the
+  sweat and toil from those of us at
+  <0 Type='3' Data='0000'/>Hudson Construction<0 Type='3' Data='ffff'/>.
+  Purah charted out the design work,
+  naturally, but the project was huge in
+  scale and sent us all over the world!
+near_09: |
+  Some times we're livin' in.
+Talk_26: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>I'm taking a rest right here. But I'll be
+  up and at 'em the moment something
+  comes up.
+  You should rest, too, Linkette. You can settle
+  into a <0 Type='3' Data='0000'/>bed<0 Type='3' Data='ffff'/> in the <0 Type='3' Data='0000'/>emergency shelter<0 Type='3' Data='ffff'/>.
+near_10: |
+  What's a bit of rain?
+Talk_28: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>You shopping?
+  
+  
+  This shop has the best goods in all of
+  Hyrule. I'm serious.
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Even I feel a sense of pride about it,
+  and I don't even work here!
+Talk_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Sorry, but I've got my hands full
+  right now.
+  
+  If it's <0 Type='3' Data='0000'/>building materials <0 Type='3' Data='ffff'/>you're after, I
+  suggest you start by cutting a tree down.
+  After that...<1 Type='0' Data='28000000'/> Hey, hold on.
+Talk_29: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>I'm just checkin' around to see if anyone
+  needs a good old-fashioned carpenter to
+  help them out.
+  Right now, seems like nobody's in need of
+  my skills, but I'll be ready regardless.
+0000: |
+  Fix the Rito bridge.
+Talk_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Sorry, but right now I'm busy sorting out
+  remodeling plans for Lookout Landing.
+  
+  If it's <0 Type='3' Data='0000'/>building materials <0 Type='3' Data='ffff'/>you're after, I
+  suggest you start by cutting a tree down.
+  After that...<1 Type='0' Data='28000000'/> Hey, hold on.
+Talk_30: |
+  <3 Type='0' Data='0700'/>Mubs used to run a general store back
+  in her home village.
+  
+  So she's got a lot of tight connections in
+  the trade. She stocks goods from all kinds
+  of regions.
+Talk_02: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Pretty stellar craftsmanship, am I right?
+  
+  
+  Gotta say, I've outdone myself this time!
+  
+  
+  If you end up boarding your horses here,
+  they'll have a luxurious time.
+0002: |
+  Hudson Construction?
+0003: |
+  Goodbye.
+Talk_33: |
+  <3 Type='0' Data='0c00'/>If the ruins were to start falling apart,
+  somebody really could get hurt though,
+  so I'd like to start mopping this all up.
+  But I think they're important to the
+  survey team, so I'd better leave
+  them be.
+  <0 Type='3' Data='0200'/><FontSize Value='80'/>Thankfully, we built Lookout Landing to
+  last, and it lasted even through all of this!<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+  
+Talk_05: |
+  <3 Type='0' Data='0800'/>I've outdone myself with this stable, if I
+  do say so myself.
+  
+  Please feel free to use it whenever you
+  like, Linkette!
+Talk_34: |
+  <3 Type='0' Data='0800'/>The Skyview Towers are the culmination
+  of everyone's skills at
+  <0 Type='3' Data='0000'/>Hudson Construction<0 Type='3' Data='ffff'/>.
+  Use them with peace of mind,
+  knowing that.
+Talk_06: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>I thought that might be you, Linkette!
+  
+  
+  Wow, what a relief. You're safe. I was
+  seriously worried about you. Where have
+  you BEEN, anyway?<5 Type='1'/>
+  <3 Type='0' Data='0000'/>Uh, <5 Type='0'/>sorry.<5 Type='0'/> Just relieved you're back.<5 Type='0'/> So,
+  you know <0 Type='3' Data='0000'/>Purah<0 Type='3' Data='ffff'/>'s here, right? You gotta
+  see her right away if you haven't yet.
+  <3 Type='0' Data='0801'/>But wow, I can't even tell you how happy I
+  am to see you here at Lookout Landing.
+Talk_35: |
+  <3 Type='0' Data='0700'/>Being poised for construction at the drop
+  of a hat is what being a pro is all about.
+  
+  I'll be ready whenever things
+  need constructin'.
+  
+  Anyway, you should rest up, Linkette. You can
+  settle into a <0 Type='3' Data='0000'/>bed<0 Type='3' Data='ffff'/> in the <0 Type='3' Data='0000'/>emergency shelter<0 Type='3' Data='ffff'/>.
+Talk_07: |
+  <3 Type='0' Data='0700'/>Purah always keeps it together, but I'm
+  betting if she sees you, she'll probably
+  lose her cool.
+  Everyone's been worried since you and
+  the princess disappeared. But Purah...<5 Type='1'/>
+  she's been REALLY worried.
+Talk_36: |
+  <3 Type='0' Data='0700'/>Yep! Originally it was just a humble shop
+  in a small village called <0 Type='3' Data='0000'/>Tarrey Town<0 Type='3' Data='ffff'/> in
+  <0 Type='3' Data='0000'/>Akkala<0 Type='3' Data='ffff'/> to the <0 Type='3' Data='0000'/>northeast<0 Type='3' Data='ffff'/>.
+  But the boss, <0 Type='3' Data='0000'/>Hudson<0 Type='3' Data='ffff'/>, is just brilliant
+  when it comes to constructing things.
+  
+  Princess Zelda caught wind of his
+  brilliance, and before you knew it, he was
+  entrusted with restoring all of Hyrule!
+  <3 Type='0' Data='0800'/>I heard that lately he's been <0 Type='3' Data='0000'/>making
+  dream homes<0 Type='3' Data='ffff'/> for folks, though I couldn't
+  tell ya much more about it.
+  If you're curious, then next time you're
+  out in Akkala, I recommend dropping
+  by <0 Type='3' Data='0000'/>Tarrey Town<0 Type='3' Data='ffff'/>.
+Talk_08: |
+  <3 Type='0' Data='0b00'/>Ah,<5 Type='0'/> don't touch that!
+Talk_37: |
+  <0 Type='3' Data='0200'/><FontSize Value='80'/><3 Type='0' Data='0c00'/>Who knew we'd end up building things that
+  catapult people into the wild blue yonder...<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Enokida: |
+  Boss! Thanks for all ya do!
+Talk_38: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Did you hear?
+  
+  
+  Is it really Princess Zelda like
+  everyone's saying?
+  
+  <3 Type='0' Data='0a01'/>Man, if only I'd built some sort of
+  contraption that could get ya to a
+  floating castle...
+Talk_09: |
+  <3 Type='0' Data='0c00'/>I hate to say it...
+  
+  
+  But I've still gotta finish up with the
+  stable. I'd love to help ya though...
+Talk_39: |
+  <3 Type='0' Data='0a00'/>Man, if only I'd built some sort of
+  contraption that could get ya to a
+  floating castle...
+  <3 Type='0' Data='0c01'/>Gotta wonder though. If that really was
+  the princess, what's she doing up
+  there, anyway?
+Talk_11: |
+  <3 Type='0' Data='0701'/>The well is still under construction, so
+  please steer clear for now.
+  
+  If you fell in, it'd be a whole thing.
+Talk_40: |
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/>Gahhh! It's burning!<FontSize Value='100'/>
+  
+  
+  <FontSize Value='125'/>Gotta put it out!<FontSize Value='100'/>
+Talk_12: |
+  <3 Type='0' Data='0b00'/>Are you that interested in the well?
+Talk_41: |
+  <3 Type='0' Data='0900'/>HEY! What if that had turned into a
+  bigger problem?!
+  
+  I don't care what your reasons are—that
+  was uncalled for.
+Talk_13: |
+  <3 Type='0' Data='0701'/>I'm hurrying, so just hang tight on it a bit
+  longer, K?
+Talk_42: |
+  <3 Type='0' Data='0900'/>Linkette! If you thought that was funny,
+  it wasn't.
+  
+  Leave it alone, OK?!

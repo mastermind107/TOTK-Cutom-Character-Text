@@ -1,0 +1,133 @@
+Talk_6000: |
+  <FontSize Value='80'/><3 Type='0' Data='0a00'/>Ms. Zelda still isn't back... <5 Type='1'/>Is it because she's
+  disappointed in me?<FontSize Value='100'/>
+Talk_6013: |
+  <3 Type='0' Data='0700'/>So...you have business at Ms. Zelda's
+  house too?<0 Type='4'/>You know she's not back home yet, right?<0 Type='4'/><3 Type='0' Data='0a00'/>Right around the time of the Upheaval,
+  Ms. Zelda just stopped coming home.<0 Type='4'/><FontSize Value='80'/>She always used to say, "See you later," whenever
+  she left the village, but not that time...<FontSize Value='100'/>
+Talk_1000: |
+  <3 Type='0' Data='0700'/>Sorry, but I don't want to be late for
+  class. If you have questions about our
+  village, have you tried asking my papa?<0 Type='4'/>He's the <0 Type='3' Data='0000'/>mayor <0 Type='3' Data='ffff'/>of this village, after all!
+  You'll probably find him at home.<0 Type='4'/>Just enter through the arch-shaped gate.
+Talk_1013: |
+  <3 Type='0' Data='0700'/>You can take shelter from the rain at my
+  house. I don't mind!
+Talk_1014: |
+  <3 Type='0' Data='0700'/>Sorry, but I don't want to be late for
+  class. If you have questions about our
+  village, have you tried asking my papa?<0 Type='4'/>He's the <0 Type='3' Data='0000'/>mayor <0 Type='3' Data='ffff'/>of this village, after all!
+  I think he could tell you whatever you
+  wanted to know.
+Talk_1015: |
+  <3 Type='0' Data='0700'/>If you need anything, try asking my papa!
+Talk_1002: |
+  <3 Type='0' Data='0700'/>If you have questions about our village,
+  why not ask the mayor? He should be
+  home at this hour.<0 Type='4'/>Just enter through the arch-shaped gate.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>Oh no! Class is starting soon. I need to
+  hurry or else I'll be late! Goodbye!
+Talk_6003: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>I'm keeping watch at Ms. Zelda's house
+  because I want to be the first one to
+  welcome her home when she gets back!
+Talk_1003: |
+  <3 Type='0' Data='0700'/>Good morning to you, Mr. Linkette!
+  Nice weather we're having.<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0b01'/>Oh, but I can't fritter away my time talking
+  to you. Class is starting soon!
+Talk_6017: |
+  <3 Type='0' Data='0700'/>You have business at Ms. Zelda's house
+  too, Mr. Linkette?<0 Type='4'/>You know she's not back home yet, right?<0 Type='4'/><3 Type='0' Data='0a00'/>Right around the time of the Upheaval,
+  Ms. Zelda just stopped coming home.<0 Type='4'/><FontSize Value='80'/>She always used to say, "See you later," whenever
+  she left the village, but not that time...<FontSize Value='100'/>
+Talk_1004: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Mr. Linkette, I don't have the time to fritter
+  away talking! Class is starting soon!
+Talk_6018: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>Oh! Uhhh?!<0 Type='4'/><3 Type='0' Data='0701'/>Mr. Linkette? Do you have business at
+  Ms. Zelda's house too?<0 Type='4'/>You know she's not back home yet, right?<0 Type='4'/><3 Type='0' Data='0a00'/>Right around the time of the Upheaval,
+  Ms. Zelda just stopped coming home.<0 Type='4'/><FontSize Value='80'/>She always used to say, "See you later," whenever
+  she left the village, but not that time...<FontSize Value='100'/>
+Talk_1005: |
+  <3 Type='0' Data='0700'/>Good morning, Mr. Linkette! Too bad about
+  the weather today.<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0b01'/>Not that I have time to stand around
+  talking about it. Class is starting soon!
+Talk_6006: |
+  <3 Type='0' Data='0700'/>Sorry, but I can't talk. I'm in a hurry.
+  If you have questions about our village,
+  have you tried asking my papa?<0 Type='4'/>He's the <0 Type='3' Data='0000'/>mayor <0 Type='3' Data='ffff'/>of this village, after all!
+  You'll probably find him at home.<0 Type='4'/>Just enter through the arch-shaped gate.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>Oh! But I'd better get moving. I don't
+  want to keep Ms. Zelda waiting, in case
+  she's back home today. Goodbye!
+Talk_1006: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/>I wonder if Ms. Zelda will be back at her home today.
+  Maybe I'll go check after class.<FontSize Value='100'/>
+Talk_6007: |
+  <3 Type='0' Data='0700'/>Sorry, but I can't talk. I'm in a hurry.
+  If you have questions about our village,
+  why not ask the mayor?<0 Type='4'/>He should be home at this hour. Just
+  enter through the arch-shaped gate.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>Oh! But I'd better get moving. I don't
+  want to keep Ms. Zelda waiting, in case
+  she's back home today. Goodbye!
+Near_6000: |
+  Ms. Zelda...
+Talk_7000: |
+  <3 Type='0' Data='0700'/>Sorry, but I'm in a hurry. If you have
+  questions about the village, you should
+  ask my papa.<0 Type='4'/>He's the <0 Type='3' Data='0000'/>mayor <0 Type='3' Data='ffff'/>of this village! He should
+  be at home right now. I'm headed there
+  as well.<0 Type='4'/>Do you want to come with me?
+Near_1000: |
+  What'll we learn today?
+Near_6001: |
+  Is Ms. Zelda back yet?
+Talk_6008: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>Ms. Zelda might be back at her home by
+  now, so I need to go check! Goodbye!
+Talk_6009: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Sorry, Mr. Linkette, but I can't talk right now.
+  I'm in a hurry. Can we pick this up later?<0 Type='4'/>Ms. Zelda might be back at her home by
+  now, so I need to go check! Goodbye!
+Talk_7002: |
+  <3 Type='0' Data='0700'/>Sorry, Mr. Linkette, but I'm in a hurry. If you
+  have questions about the village, you
+  should ask my papa.<0 Type='4'/>He's the <0 Type='3' Data='0000'/>mayor <0 Type='3' Data='ffff'/>of this village! He should
+  be at home right now. I'm headed there
+  as well.<0 Type='4'/>Do you want to come with me?
+Talk_7003: |
+  <3 Type='0' Data='0700'/>I'm headed home right now. Did you
+  want to come along?<0 Type='4'/>My papa is the <0 Type='3' Data='0000'/>mayor <0 Type='3' Data='ffff'/>of this village! He
+  should be home, so if you have questions
+  about the village, I bet he'll answer them!
+Talk_7004: |
+  <3 Type='0' Data='0700'/>You can take shelter from the rain at my
+  house if you want.
+Talk_7005: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a0053006c00650065007000'/>Please come back... I've been
+  a good girl...
+Talk_7006: |
+  <3 Type='0' Data='0700'/>I can't talk now. I need to get my sleep
+  for school tomorrow.<0 Type='4'/>If you have questions about the village,
+  you should ask my papa. He's the <0 Type='3' Data='0000'/>mayor<0 Type='3' Data='ffff'/>
+  of this village!
+Talk_8000: |
+  <3 Type='0' Data='0800'/>The picture you brought in was
+  amazing, mister!<0 Type='4'/>You gotta tell Ms. Zelda the story of the
+  ancient hero when she gets back.
+Talk_6010: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>Oh! Uhhh?!<0 Type='4'/>Do you have business at Ms. Zelda's
+  house too, mister?<0 Type='4'/><3 Type='0' Data='0701'/>You know she's not back home yet, right?<0 Type='4'/><3 Type='0' Data='0a00'/>Right around the time of the Upheaval,
+  Ms. Zelda just stopped coming home.<0 Type='4'/><FontSize Value='80'/>She always used to say, "See you later," whenever
+  she left the village, but not that time...<FontSize Value='100'/>
+Near_7000: |
+  Another day without her...
+Talk_8001: |
+  <3 Type='0' Data='0800'/>That curry you brought in was incredible,
+  Mr. Linkette!<0 Type='4'/>Can I have the recipe so I can make it for
+  Ms. Zelda when she comes back?
+Near_7001: |
+  Ms. Zelda... *snore*
+Talk_7008: |
+  <3 Type='0' Data='0700'/>I can't talk now. I need to get my sleep for
+  school tomorrow. If you have questions
+  about the village, ask my papa.

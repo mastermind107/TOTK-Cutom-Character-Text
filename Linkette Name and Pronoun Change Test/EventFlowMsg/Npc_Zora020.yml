@@ -1,0 +1,168 @@
+talk1001: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Oh! Linkette!<5 Type='0'/> Thank you so much for once
+  again saving the domain!
+  
+  As I'm sure you know, Finley was in
+  pieces worrying about Sasan, who did
+  not show up here as planned.
+  However, thanks to the sludge finally
+  disappearing, Sasan was able to arrive
+  here safe and sound!
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Finley was over the moon to see him.<5 Type='1'/>
+  The two have a lot of catching up to do
+  and have gone off somewhere together.
+  I am just so relieved that she is happy
+  once more.<5 Type='1'/> As a father, that is practically
+  on par with the sludge being gone!
+  <3 Type='0' Data='0000'/>Oh, heh... <5 Type='0'/>Please forgive me if I am
+  oversharing.<5 Type='1'/> Anyhow, back to work I go.
+talk1002: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Now that Sasan has arrived safely,<5 Type='1'/> my
+  daughter, Finley, is over the moon!
+  
+  I am just so relieved that she is happy
+  once more.<5 Type='1'/> As a father, that is practically
+  on par with the sludge being gone!
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>Hm, perhaps I should show Sasan how to climb
+  waterfalls... He must be able to get here should
+  trouble ever come to the domain again.<FontSize Value='100'/>
+  <3 Type='0' Data='0000'/>Oh, oops... <5 Type='0'/>I got a little too distracted
+  there.<5 Type='1'/> Back to work I go.
+talk1003: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>To be able to make it to the domain
+  even amid the phenomena... You are
+  amazing, Linkette.
+  <3 Type='0' Data='0500'/>Sasan is also Hylian. He and my daughter
+  are quite attached, but sadly it seems he
+  has not been so lucky in making it here.
+  <3 Type='0' Data='0c01'/>Poor Finley is very worried. In fact, it is
+  all she can think about.
+  
+  <FontSize Value='80'/>I know she is a young adult, but as her father,
+  I cannot help but worry that she will go running
+  off in search of him.
+  <3 Type='0' Data='0401'/><FontSize Value='100'/>Oh, oops...<5 Type='0'/> I really must return to
+  my work.
+near0000: |
+  Begone, sludge!
+talk40: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068004c00'/>I hope you enjoyed the blissful water bed.<5 Type='0'/>
+  It is already nighttime, so please watch
+  your step out there!
+talk41: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068004c00'/>Ah, so you're awake, Linkette.<5 Type='0'/> I hope you
+  enjoyed the blissful water bed.
+0010: |
+  Regular bed.
+talk42: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>It is a special bed that's filled with water
+  instead of cotton.
+  
+  It is like being embraced by the motherly
+  ocean.<5 Type='0'/> The water gently enfolds you in
+  its all-consuming benevolence...
+  In fact, our establishment was highly
+  praised by the princess of Hyrule when
+  she came to visit the domain.
+  <3 Type='0' Data='0801'/>So, would you care to indulge in the
+  blissful bed,<5 Type='0'/> which, again, Princess Zelda
+  herself professed her enjoyment of?
+talk43: |
+  <3 Type='0' Data='0101'/>Will you be staying?
+0011: |
+  Blissful water bed.
+talk30: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>Oh...<5 Type='0'/> I am so sorry, but it looks like you
+  do not have enough rupees.
+talk44: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Good morning, Linkette!
+0012: |
+  Never mind.
+talk31: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>How long would you like to sleep?
+talk45: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='1000540069007200650064005f0030003000'/>Ugh, I have been shuffling all over <5 Type='0'/>
+  because bits of sludge keep making
+  their way onto my lovely beds!
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Wait... <5 Type='0'/>Are you here as a customer?<5 Type='1'/>
+  Even amid the sludge?! 
+  
+  <3 Type='0' Data='0701'/>Oh!<5 Type='0'/> Um...<5 Type='0'/> We're open, of course!<5 Type='0'/> And our
+  beds are perfectly clean!
+0013: |
+  Until morning.
+talk32: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>How long would you like to sleep <5 Type='0'/>on the
+  blissful water bed?
+talk46: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Ha! Wow!<5 Type='0'/> Hylians must be made of tough
+  stuff to come here on a day like this!
+  
+  <FontSize Value='80'/>Does that mean Sasan is tough as well?<FontSize Value='100'/>
+  
+  
+  <3 Type='0' Data='0401'/>Ah, oops...<5 Type='0'/> I really must return to
+  my work.
+0014: |
+  Until noon.
+talk33: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>OK then.<5 Type='0'/> Please sleep well until morning...
+0015: |
+  Until nightfall.
+talk34: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>OK then.<5 Type='0'/> Please sleep well until noon...
+0016: |
+  Never mind.
+0003: |
+  Until morning.
+talk35: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>OK then.<5 Type='0'/> Please sleep well until nightfall...
+0017: |
+  Blissful bed?
+0004: |
+  Until noon.
+talk36: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Good morning, Linkette.<5 Type='0'/> You look like you
+  slept well.
+0005: |
+  Until nightfall.
+talk37: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Ah, so you're awake, Linkette.<5 Type='0'/> You look like
+  you slept well.
+talk25: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Enjoy a sleep as deep as the ocean...<5 Type='0'/>
+  here at the <0 Type='3' Data='0000'/>Seabed Inn<0 Type='3' Data='ffff'/>!
+0006: |
+  Never mind.
+talk38: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Off you go on your next adventure, Linkette.<5 Type='0'/>
+  It is already nighttime, so please watch
+  your step out there!
+talk26: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Thank you for coming by.
+talk39: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068004c00'/>Good morning, Linkette.<5 Type='0'/> I hope you enjoyed
+  the blissful water bed.
+talk27: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Thank you for coming here so late.
+talk28: |
+  <3 Type='0' Data='0101'/>Our regular bed will cost you <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/>.<0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  Our blissful water bed is <0 Type='3' Data='0000'/>50 rupees<0 Type='3' Data='ffff'/>.
+talk29: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Of course.<5 Type='1'/> We are always open, so please
+  come back again.
+talk1000: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Linkette!<5 Type='0'/> Welcome.
+  
+  
+  <3 Type='0' Data='0701'/>We have lost many customers because of
+  the sludge.<5 Type='0'/> It does not bode well for us.
+  
+  <3 Type='0' Data='0c01'/>And we are unsure where Sasan has gone
+  off to. My daughter is quite attached to
+  him, so we are all worried.
+  <FontSize Value='80'/>He might be covered in sludge at this very moment...<5 Type='1'/>
+  I certainly hope that is not the case.<FontSize Value='100'/>
+  
+  <3 Type='0' Data='0401'/>Ah, oops...<5 Type='0'/> I really must return to
+  my work.

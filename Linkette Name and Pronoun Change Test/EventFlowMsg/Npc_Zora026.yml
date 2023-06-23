@@ -1,0 +1,210 @@
+near02: |
+  Sasan...
+talk07: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>Hee-hee!<5 Type='0'/> I'm waiting for Sasan.
+  
+  
+  We promised that we would meet up here.
+near03: |
+  I love chatting with Sasan!
+talk08: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0c00570061006b00650075007000'/>Time sure flies when you're enjoying
+  great conversation. Before I knew it,
+  the sun had set.
+  Good night!
+near04: |
+  I can't wait...
+talk09: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0053006c00650065007000'/>Zzz... Zzz...
+near07: |
+  Tell me more!
+0000: |
+  Sasan?
+talk32: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Finley... Our adventure at Tarm Point was
+  unforgettable, wasn't it?
+  
+  I have some other great stories from the
+  trip as well.<5 Type='1'/> Would you like to hear them?
+0001: |
+  I'll leave you to it.
+talk20: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003100'/>Urgh... I'm having so much trouble
+  writing this.
+talk33: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Yes, of course! <5 Type='0'/>I love listening to your
+  stories, Sasan.
+talk34: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Wow... How amazing!
+  
+  
+  The sludge that was on the statue is
+  gone!<5 Type='1'/> There was so much there, it seems
+  nearly impossible!
+0002: |
+  Someone important?
+talk21: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Yes, Sasan! Why are you bringing him up?
+  Do you have news?!
+  
+  <3 Type='0' Data='0701'/>Oh... <5 Type='0'/>I guess it's because I mentioned
+  him, huh? 
+  
+  <3 Type='0' Data='0101'/>Sasan is my best friend and favorite
+  person.<5 Type='0'/> He's Hylian and a traveling
+  merchant. Pretty neat, right?
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>We made a promise that, no matter what
+  transpired, we would always meet up here
+  in Zora's Domain on a certain day.
+  <3 Type='0' Data='0301'/>Sasan always keeps his promises.
+  However, this time...
+  
+  That day has already come and gone,
+  and still no sight of him.
+  
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003100'/><FontSize Value='80'/>He still hasn't arrived...<FontSize Value='100'/>
+  
+  
+  <3 Type='0' Data='0a01'/>That's why I decided to write him a letter.
+  <5 Type='0'/>After all, I must do something!
+talk35: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>Tee-hee! <5 Type='0'/>I'm so relieved that the statue is
+  clean now!<5 Type='0'/> Thank you so much!
+talk22: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>I'm so worried about Sasan, I can hardly
+  stand still!
+0003: |
+  Sasan?
+0004: |
+  I'll leave you alone.
+talk23: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Yes, Sasan.<5 Type='1'/> He's my best friend and
+  favorite person. <5 Type='1'/>He's also a Hylian,
+  like you.
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003000'/>However... <5 Type='1'/>Since the sludge showed up,
+  he hasn't been showing up in the domain
+  on the day he promised he always would.
+  <3 Type='0' Data='0a01'/>Nothing like this has ever happened
+  before, so I'm quite worried.
+  
+  It's too dangerous to leave because
+  everything is covered in sludge.<5 Type='1'/> Urgh...<5 Type='0'/>
+  I guess I'll have to wait here a bit longer.
+talk24: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003100'/>Whatever could have happened to him...
+talk25: |
+  <FontSize Value='80'/><3 Type='0' Data='0a01'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>I'm so worried about you, Sasan...<FontSize Value='100'/>
+talk12: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Sasan, how wonderful it would be<5 Type='0'/> if you
+  could stay here in the domain forever.
+  
+  <3 Type='0' Data='0301'/>Then again, if you did that, I wouldn't be
+  able to hear your stories about your
+  adventures and the other places you visit.
+talk00: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='1000530063006100720065005f0030003000'/>So much sludge...<5 Type='0'/>
+  
+  
+  I don't know if I can take it anymore.
+talk26: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/><FontSize Value='125'/>Hey! <5 Type='0'/>What in the world?!<5 Type='0'/><FontSize Value='100'/>
+  
+  
+  <3 Type='0' Data='0301'/>I thought that I could escape my restless
+  thoughts by walking.
+  
+  Before I knew it, I was going around
+  in circles.
+  
+  <3 Type='0' Data='0401'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh! <5 Type='0'/>This spot...
+  
+  
+  <3 Type='0' Data='0301'/>This is where Sasan and I would come to
+  talk for hours.
+  
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c004300720079005f0030003000'/>Urgh... <5 Type='1'/>*sniffle*<5 Type='0'/> I'm so worried about
+  you, Sasan...
+talk13: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Haha, <5 Type='0'/>that's true.
+  
+  
+  <3 Type='0' Data='0801'/>It would be amazing if we could go on an
+  adventure together one day, Finley!
+talk01: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>I could ask, "Sasan, are you doing well?"
+  Oh, but what if he isn't?
+  
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>How about, "Sasan, are you alive?"<5 Type='0'/>
+  Ah, but that's very rude if he isn't.
+talk14: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>I found a lake under this dizzyingly high
+  cliff in Rito Village, <5 Type='0'/>and so I tried closing
+  my eyes and jumping in.
+talk15: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>I tried my best to withstand the heat in
+  the Goron Hot Springs,<5 Type='0'/> until it got so hot,
+  I could practically boil an egg in there!
+talk03: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>So! A Hylian was able to make it to the
+  domain. That's encouraging.
+  
+  <3 Type='0' Data='0300'/>But then...you are very special, Linkette.<5 Type='1'/>
+  Sasan is not, um...special in that
+  same way.
+talk16: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>There was an incredible sand shroud
+  blowing around in Gerudo Town.<5 Type='0'/>
+  It really roughed me up!
+talk04: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>I'm writing a letter to someone important
+  to me.
+  
+  <3 Type='0' Data='0a01'/>It's for Sasan. <5 Type='1'/>He's a Hylian who is very
+  dear to me.
+talk17: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>I walked through the sludge and climbed
+  over stones...<5 Type='0'/><5 Type='0'/> I did whatever I had to so
+  that I could make it to Zora's Domain.
+  After all, I promised you that I would swim
+  and climb and lift and do all sorts of
+  things to try to build up my muscles.
+  <FontSize Value='80'/><3 Type='0' Data='0301'/>I couldn't swim the rivers though...<FontSize Value='100'/>
+talk05: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c004300720079005f0030003000'/>The sludge... <5 Type='1'/>How frightening.
+near00: |
+  The sludge is gone!
+talk18: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Sasan, that's amazing!<5 Type='0'/> Please, tell me all
+  about your adventures!
+talk19: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>That's right.<5 Type='0'/> Sasan is important to me.<5 Type='0'/>
+  He's my best friend and favorite person!
+  
+  <3 Type='0' Data='0301'/>I was kind of a loner before I met him.<5 Type='0'/>
+  My family and friends stay pretty busy.
+  
+  <3 Type='0' Data='0501'/>That's why I sent a letter drifting down
+  the river.<5 Type='0'/> I wanted to connect with
+  someone.
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>The rest, as they say, is history. <5 Type='0'/>I got a 
+  response, <5 Type='0'/>and it was from Sasan!
+  
+  <3 Type='0' Data='0801'/>Ever since, he's always kept the promise
+  we made to meet up in the domain on a
+  certain day, no matter what transpired.
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003100'/>However, this time is different. The
+  promised day has come and gone, and
+  Sasan never appeared.
+  I'm so worried.<5 Type='0'/> I want to go and search
+  for him, but...<5 Type='0'/>with the sludge, I know it
+  would worry my mother sick if I left.
+  <3 Type='0' Data='0301'/>She asked me to try writing a letter
+  instead. I hate that it's so reasonable,
+  I had to comply.
+talk06: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>Hee-hee! <5 Type='0'/>I'm off to finally meet up
+  with Sasan.
+  
+  I'm sure we'll speak at length to make up
+  for the time we lost <5 Type='0'/>because of that
+  horrible sludge.

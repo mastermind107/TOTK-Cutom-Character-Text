@@ -1,0 +1,210 @@
+Talk_0030: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='140047006f006f0064006200790065005f0030003000'/><FontSize Value='125'/>Soar long!<FontSize Value='100'/>
+Talk_0013: |
+  <3 Type='0' Data='0700'/>Hey there, partner. <5 Type='1'/>What's up?<5 Type='1'/> Feeling a
+  little lonely this evening, are you?
+NakedPlayer_01: |
+  Causing a scene, huh...
+Talk_0014: |
+  <3 Type='0' Data='0700'/>I see you're still awake, partner. <5 Type='1'/>Most
+  folks are sound asleep at this hour.<5 Type='0'/>
+  What's up?
+NakedPlayer_02: |
+  News flash! This kid's odd.
+Talk_0015: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh, hello, partner. <5 Type='1'/>What's going on?<5 Type='0'/>
+  Starting your day feeling a little lonely?
+Near_0001: |
+  Which stable first...
+Talk_0016: |
+  <3 Type='0' Data='0700'/>Hello there, partner. <5 Type='1'/>This rain is really
+  something, isn't it.<5 Type='1'/> Anyway, what's up?
+0000: |
+  It was thanks to you!
+Near_0002: |
+  Not a clue in sight...
+Talk_0017: |
+  <3 Type='0' Data='0b00'/>Oh, hey, partner! I didn't think I'd be
+  running into you here.
+  
+  <3 Type='0' Data='0700'/>Did you hear how well the articles
+  investigating the rumors of Princess Zelda
+  did? Apparently folks really enjoyed them.
+  <3 Type='0' Data='0c01'/>To think we were able to reveal the truth
+  behind those stories...
+0001: |
+  It was thanks to me!
+Near_0003: |
+  Someday...
+0002: |
+  We make a great team!
+Near_0004: |
+  So they finally did it...
+Talk_0001: |
+  <3 Type='0' Data='0700'/>OK, listen up, partner! We're on the trail
+  of the truth about Princess Zelda.
+  
+  We can't let even the smallest clue
+  slip through our talons. Or hands, in
+  your case.
+  We should visit as many stables as we
+  can. Travelers always have plenty of
+  goings-on to talk about.
+Talk_0019: |
+  <3 Type='0' Data='0800'/>Right, well... Maybe it's not my place to
+  say, but I think we made a great team.
+  Our first time working together too!
+  <3 Type='0' Data='0c01'/>That's the right way to look at it anyway.
+  But I'll also say...<0 Type='4'/>On any given story, whoever did the
+  earliest talking with sources probably
+  gets the most credit for wrapping it up.
+  <3 Type='0' Data='0701'/>So, which of us was the most helpful
+  one here?
+Talk_0002: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='140047006f006f0064006200790065005f0030003000'/><FontSize Value='125'/>Soar long!<FontSize Value='100'/>
+Talk_0020: |
+  <3 Type='0' Data='0701'/>Without you, I wouldn't have gotten all
+  the facts for our stories. Hard to look at
+  myself in the mirror, realizing that.
+  <3 Type='0' Data='0700'/>It'll be good for me to relax in this place.
+  A famous bard perfected his craft here,
+  studying the songs of this land.
+  Besides, our editor, Traysi...<5 Type='0'/> She told me
+  to take some time off.
+Talk_0021: |
+  <3 Type='0' Data='0800'/>Yeah, you're not wrong about that.
+  You gave it so much effort that it really
+  put the wind under our wings.
+  <3 Type='0' Data='0c01'/>You really did.<5 Type='0'/><0 Type='4'/>Then again,<5 Type='0'/> how far could you have
+  gotten without the chirps and warbles
+  I got from my sources?
+  <3 Type='0' Data='0701'/>So maybe I deserve a fair share of the
+  credit here...
+Talk_0005: |
+  <3 Type='0' Data='0700'/>So...I'll leave that froggy armor with
+  you for now.<5 Type='1'/>
+  
+  ...<5 Type='1'/>
+  
+  
+  <4 Type='0' Data='0c004c0061007500670068005300'/>What, you think it wouldn't fit me?
+  
+  
+  <3 Type='0' Data='0800'/>Don't you worry! I could squeeze into
+  that anytime.
+Talk_0023: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Hahaha! You think so too, partner?
+  
+  
+  My zeal for the truth behind a story is
+  what got us to the answers, that's
+  for sure!
+  <3 Type='0' Data='0c00'/>Heh, aw... Who are we kidding?
+  
+  
+  <3 Type='0' Data='0701'/>We both know that you were the one who
+  did most of the heavy lifting, partner!
+Talk_0024: |
+  <3 Type='0' Data='0c00'/>True enough. You're not wrong.
+  
+  
+  <3 Type='0' Data='0701'/>But how far could you have gotten if I
+  didn't share the chirps and warbles from
+  my sources? Worth a thought.
+Talk_0025: |
+  <3 Type='0' Data='0a00'/>Nice of you to keep saying that. But look,
+  you need to see it from this angle...
+  
+  On any given story, whoever got the
+  first questions in with our sources maybe
+  gets the most credit for where we got.
+  <3 Type='0' Data='0701'/>So, which of us was the most
+  essential here?
+Talk_0008: |
+  <3 Type='0' Data='0701'/>I'll stay right here and look out across the
+  land, just like that bard. I'll get in touch
+  with my reporting instincts!
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1a00440065007400650072006d0069006e006100740069006f006e00'/>Then you bet I'll get my talons on a huge
+  scoop that will knock you flat on your
+  tail feathers, partner. You just wait!
+Enokida_00: |
+  You're an original, all right.
+Talk_0026: |
+  <3 Type='0' Data='0700'/>Well, look at this. You're the one I saw
+  flying around the sky.
+  
+  It's great to meet the first one to ever
+  be launched from a Skyview Tower.
+  A real historic moment.
+  Hey, what's your name?
+Talk_0009: |
+  <3 Type='0' Data='0700'/>A famous bard once perfected his craft in
+  this place, studying the songs of this land.
+  
+  I'll stay right here, just like him, and look
+  out across the land. I'll get in touch with
+  my reporting instincts!
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1a00440065007400650072006d0069006e006100740069006f006e00'/>You know that I'll be back in action
+  someday, partner. One half of a great
+  team—just wait and see!
+Enokida_01: |
+  News flash! This kid's odd.
+Talk_0027: |
+  <3 Type='0' Data='0c00'/>Linkette, you say?<5 Type='1'/> Hold on there...<5 Type='0'/> Really,
+  your name is Linkette?
+  
+  <3 Type='0' Data='0b01'/>Hey, buddy...
+  
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>You've got the same name as that
+  famous swordsman.<5 Type='1'/> Ha, good for you!<5 Type='1'/>
+  Pretty big name to live up to though.<5 Type='1'/>
+  <3 Type='0' Data='0700'/>I'm <0 Type='3' Data='0000'/>Penn<0 Type='3' Data='ffff'/>, by the way. I work for the
+  <0 Type='3' Data='0000'/>Lucky Clover Gazette<0 Type='3' Data='ffff'/>.
+  
+  I'm writing an article about this event,
+  so folks everywhere will know about the
+  Skyview Towers being activated!
+  I'd better get to work. Our newspaper is
+  short on staff, so I've had to flap all over
+  the place to cover the news.
+  Hey, we could use another reporter!
+  You should join us. Seem like a brave
+  type and all—that's what it takes.
+  <3 Type='0' Data='0700'/>Our newspaper is based in <0 Type='3' Data='0000'/>Hebra<0 Type='3' Data='ffff'/> to the
+  northwest. You'll find it near the bridge
+  that leads to <0 Type='3' Data='0000'/>Rito Village<0 Type='3' Data='ffff'/>.
+  Stop by if you're up for the adventure of
+  a lifetime...<5 Type='0'/>in the newspaper biz!
+  
+  Until then...
+Enokida_02: |
+  Going undercover or what?
+Talk_0010: |
+  <3 Type='0' Data='0c00'/>Mmm. I thought there'd be at least some
+  clue, but there's nothing...
+  
+  Hmm?
+Talk_0028: |
+  <3 Type='0' Data='0c00'/>Mmm. It looks like there's nothing for
+  us here...
+  
+  Hmm?
+Talk_0029: |
+  <3 Type='0' Data='0701'/>You're really missing our time together,
+  aren't you?
+  
+  <3 Type='0' Data='0701'/>Those articles investigating the rumors of
+  Princess Zelda did well, didn't they.
+  Apparently folks really enjoyed them.
+  It makes sense to me though! We made a
+  pretty perfect team.
+  
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0c004c0061007500670068005300'/>We revealed the truth behind a lot of
+  rumors, partner.
+Talk_0012: |
+  <3 Type='0' Data='0700'/>Hello there, partner. <5 Type='1'/>What's up?<5 Type='1'/>
+  Everyone else is really busy, leaving you
+  feeling a little lonely?
+NakedPlayer_00: |
+  Fairly plucky of you there...

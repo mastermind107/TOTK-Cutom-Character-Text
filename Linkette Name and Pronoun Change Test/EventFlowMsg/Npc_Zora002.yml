@@ -1,0 +1,503 @@
+talk9024: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003100'/>This time, I have prepared something
+  unbelievable!<5 Type='0'/> Behold my...<5 Type='0'/><0 Type='3' Data='0000'/>diamond<0 Type='3' Data='ffff'/>!
+  
+  I would be willing to make the trade for
+  25 bright-eyed crabs...<5 Type='0'/> So? Will you
+  shell out the goods or not?
+Com_Talk_52: |
+  Let me see... OK, <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> amounts to
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+talk9025: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0e0053006900670068005f0030003100'/>Linkette... <5 Type='1'/>My crab intuition is strong.
+  You cannot hide the truth from me.
+  
+  You do not possess even a single
+  bright-eyed crab. Poor soul.
+  
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003100'/>Greatness awaits you, Linkette.<5 Type='1'/> Please,
+  come back after you have crabbed
+  what I need.
+Com_Talk_53: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0e0053006900670068005f0030003000'/>You have changed your mind?
+talk02: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Welcome!
+talk9026: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>When you gather more bright-eyed crabs,
+  please let me know.
+  
+  <4 Type='0' Data='16004c0061007500670068004200610064005f0030003100'/>At that time, I will make a trade for some
+  products that are equal in value to the
+  number of crabs you shell out. Heh...
+Com_Talk_54: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>I'm so sorry...<5 Type='0'/> I must inform you that
+  you don't have enough <0 Type='3' Data='0000'/>rupees<0 Type='3' Data='ffff'/>.
+talk03: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Good evening!
+talk9027: |
+  <3 Type='0' Data='0800'/>Ten claw-inspiring crabs! <5 Type='0'/>Oh, yes!<5 Type='0'/>
+  Crabs galore!
+  
+  Just gazing upon them, I can feel that
+  umami goodness washing over the
+  intense pain in my mouth... <5 Type='1'/>Mmm.
+  <3 Type='0' Data='0101'/><4 Type='0' Data='16004c0061007500670068004200610064005f0030003100'/>You have my thanks! In fact...here.
+  Since this is our first crab trade, I threw
+  in a little bonus. Until we meet again!
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Wait a minute... Linkette. It seems you
+  cannot hold even a <0 Type='3' Data='0000'/>single<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>sapphire<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0701'/>Please let me know when you have freed
+  up some space.
+Com_Talk_55: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Your pouch is full... If there's anything
+  you don't need, I'd be happy to take it
+  off your hands.
+talk04: |
+  <3 Type='0' Data='0101'/>Did you need me for something?
+talk9028: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='16004c0061007500670068004200610064005f0030003100'/>Heh, fantastic! I should pincer myself to
+  prove I am not dreaming.<5 Type='1'/> As promised,
+  here is your reward.
+  <3 Type='0' Data='0001'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Oh. Linkette... It seems you cannot hold even
+  a <0 Type='3' Data='0000'/>single diamond<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0701'/>Please call on me again after you have
+  freed up some space.
+Com_Talk_05b: |
+  <3 Type='0' Data='0101'/>What do you have for me?
+Com_Talk_56: |
+  One of those will be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+talk05: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Good morning!
+talk9029: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='16004c0061007500670068004200610064005f0030003100'/>Heh, fantastic! I should pincer myself to
+  prove I'm not dreaming.<5 Type='1'/> As promised,
+  here is your reward.
+  <3 Type='0' Data='0001'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Oh. Linkette... It seems you cannot hold
+  even a <0 Type='3' Data='0000'/>single sapphire<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0701'/>Please call on me again after you have
+  freed up some space.
+Com_Talk_05c: |
+  <3 Type='0' Data='0101'/>Take your time.
+Com_Talk_05d: |
+  <3 Type='0' Data='0101'/>What would you like to sell?
+talk07: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Come back soon!
+talk9011: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>All right. I shell attempt to compose
+  myself.
+talk08: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Thanks! <5 Type='0'/>Be careful going out after dark!
+talk9025_01: |
+  <3 Type='0' Data='0000'/>Now... I shell attempt to compose myself.
+talk9013: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003100'/>That is...most unfortunate.<FontSize Value='80'/><FontSize Value='100'/>
+  
+  
+  I shell attempt to compose myself.
+talk9014: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Really?!<5 Type='0'/> Would you be willing to give me
+  10 bright-eyed crabs? Please!
+talk9015: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Wonderful! I will look forward to seeing
+  you again.
+talk9018: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0e0053006900670068005f0030003100'/>I see. Please let me know if you change
+  your mind.
+talk9019: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0e0053006900670068005f0030003100'/>Mmm... Ooh! Ah.<5 Type='1'/> Well, I certainly do smell
+  the delightful aroma of <0 Type='3' Data='0000'/>bright-eyed crab<0 Type='3' Data='ffff'/>
+  emanating from your pouch. However...
+  <3 Type='0' Data='0901'/><4 Type='0' Data='14005000610069006e00660075006c005f0030003100'/>Can we discuss the number? I fear I
+  cannot be satisfied with that! In fact,
+  it's making me a little snippy.
+  <4 Type='0' Data='1000480061007000700079005f0030003100'/>Only <0 Type='3' Data='0000'/>10<0 Type='3' Data='ffff'/> will satiate me!<5 Type='0'/> The dining table
+  will look crabulous with those <0 Type='3' Data='0000'/>10<0 Type='3' Data='ffff'/> prizes.
+  Anything less would be...<5 Type='0'/>just clawful.
+talk1010: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='10004700720065006500740069006e006700'/>This is our general store,<5 Type='0'/> the <0 Type='3' Data='0000'/>Coral Reef<0 Type='3' Data='ffff'/>!
+  
+  
+  I recommend the <0 Type='3' Data='0000'/>splash fruit<0 Type='3' Data='ffff'/>, which is
+  great for <0 Type='3' Data='0000'/>dealing with the sludge<0 Type='3' Data='ffff'/>. It's back
+  in stock at long last!
+  <3 Type='0' Data='0000'/>If you see something you like, please just
+  grab it from the table.
+  
+  <3 Type='0' Data='0401'/><4 Type='0' Data='0c004e006f007400690063006500'/>Oh!<5 Type='0'/> Unless you have some other business
+  with me?
+talk1011: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003100'/>Well...<5 Type='0'/> To be fair, I am quite lucky to have
+  my health, considering all of this sludge
+  nonsense.
+  And yet, we have already used up all of
+  the splash fruit that I gathered.
+  
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003000'/>My offerings are far from ideal for the time
+  being, but I am doing my best to keep my
+  spirits high.
+talk1012: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Crab whatever you like. Oh, or do you
+  need me for something?
+Com_Talk_31: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><0 Type='3' Data='ffff'/>So, that is what you want to purchase?
+  How many?
+talk42: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='20005100750065007300740069006f006e0053007500720070007200690073006500'/>Hm? <5 Type='1'/>My shop?
+  
+  
+  Oh, please accept my apologies.<5 Type='1'/> I must
+  ask that you wait a bit longer for us
+  to open.
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>You see, I am currently dealing with
+  ripples of regret over using up all of
+  the splash fruit so carelessly. *sigh*
+talk1013: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Can I help you with anything else?
+  Your wish shell be my command!
+talk43: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='08004500610073006500'/>Lady Yona is so very kind. She did all she
+  could to comfort me after I realized I had
+  used up all of the splash fruit in my shop.
+talk1014: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='10004700720065006500740069006e006700'/>This is our general store, <5 Type='0'/>the <0 Type='3' Data='0000'/>Coral Reef<0 Type='3' Data='ffff'/>.
+  
+  
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068005300'/>We pride ourselves on our tasty fish,
+  procured straight from the delectably
+  fresh waters of Zora's Domain!
+  <3 Type='0' Data='0000'/>If you see something you like, please just
+  crab it from the table.
+  
+  <3 Type='0' Data='0401'/><4 Type='0' Data='0c004e006f007400690063006500'/>Unless you have some other business with
+  me? Tell me and I shell not dawdle!
+talk9005: |
+  <3 Type='0' Data='0800'/>Ten claw-inspiring crabs! <5 Type='0'/>Oh, yes!<5 Type='0'/>
+  Crabs galore!
+  
+  Just gazing upon them, I can feel that
+  umami goodness washing over the
+  intense pain in my mouth... <5 Type='1'/>Mmm.
+  <3 Type='0' Data='0101'/><4 Type='0' Data='16004c0061007500670068004200610064005f0030003000'/>You have my thanks! In fact...here.
+  Since this is our first crab trade, I threw
+  in a little bonus. Until we meet again!
+Com_Talk_33: |
+  One of those will be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>...
+  Is that all right?
+talk9006: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Oh... Perhaps I am not doing a sufficient
+  job of hiding my overpowering feelings
+  about <0 Type='3' Data='0000'/>bright-eyed crabs<0 Type='3' Data='ffff'/>.
+Com_Talk_34: |
+  All of them? It will be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>
+  for all <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them.
+talk9007: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0053006900670068005f0030003100'/>Yes, the spikes were incredibly painful!<5 Type='1'/>
+  But once I was able to transcend the pain,<5 Type='1'/>
+  there was magic awaiting me...
+  No, more like it was greeting me with a
+  warm hug of savory umami goodness!<5 Type='0'/>
+  It was the tastiest thing...perhaps ever.
+  <3 Type='0' Data='0101'/><4 Type='0' Data='16004c0061007500670068004200610064005f0030003100'/>Oooh... I am positively drooling just
+  thinking about it.
+  
+  <3 Type='0' Data='0000'/>One or two is not enough...<5 Type='0'/> Not nearly!
+  No, I need <0 Type='3' Data='0000'/>10<0 Type='3' Data='ffff'/>! <5 Type='0'/>Can you please give me
+  <0 Type='3' Data='0000'/>10<0 Type='3' Data='ffff'/> of those decadent <0 Type='3' Data='0000'/>bright-eyed crabs<0 Type='3' Data='ffff'/>?
+  <4 Type='0' Data='16004c0061007500670068004200610064005f0030003000'/>Naturally, I shell make it worth your while.
+  This transaction will surely keep me from
+  becoming crabby... <5 Type='0'/>Mmm, crabby...
+Com_Talk_35: |
+  All of them? That will be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>
+  for all <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them. Is that all right?
+near1001: |
+  What now?
+talk9008: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>You see...<5 Type='0'/> I met a bright-eyed crab right
+  around the time all of that nonsense with
+  the sludge came to an end.
+  I was unable to stock any fish because
+  of the damage caused by the sludge...<5 Type='0'/>
+  and then it appeared.
+  It was a single, glorious crab. It crossed
+  my path while I was fussing and fuming.<5 Type='0'/>
+  I was irritated.<5 Type='0'/> I was famished. <5 Type='0'/>And so...
+  <FontSize Value='125'/><3 Type='0' Data='0900'/>I swallowed it whole!<FontSize Value='100'/>
+near1002: |
+  Incredible!
+talk9009: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='16004c0061007500670068004200610064005f0030003000'/>Oh?<5 Type='0'/> It seems you have what I need.
+  Care to make a crab trade?
+near1003: |
+  Crabs... Craaabs...
+talk30: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='20005100750065007300740069006f006e0053007500720070007200690073006500'/>Hm?<5 Type='1'/> The shop?
+  
+  
+  What are you saying? Now is not the time
+  for such things!
+  
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>We are also fresh out of splash fruit...
+talk1001: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003100'/>Not bad!<5 Type='1'/> Or...that is what I would like to
+  say, but it actually is bad. Very bad.
+  
+  We have fewer customers because of the
+  sludge, and we can't sell any fish.
+  
+  <3 Type='0' Data='0700'/>However! I'm now selling <0 Type='3' Data='0000'/>splash fruit <0 Type='3' Data='ffff'/>as a
+  way to help us overcome this new danger!
+  
+  <3 Type='0' Data='0c01'/>Would you like to buy one to prepare
+  yourself for the sludge?
+talk31: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>Who would have thought you would be so
+  kind as to wash away the sludge marring
+  our beloved statue!
+  <3 Type='0' Data='0a01'/>Still, I cannot help but mourn <5 Type='1'/>over the fact
+  that I will likely never manage to get
+  splash fruit back in my shop.
+talk1002: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='10004700720065006500740069006e006700'/>This is our general store, <5 Type='0'/>the <0 Type='3' Data='0000'/>Coral Reef<0 Type='3' Data='ffff'/>.
+  
+  
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068005300'/>We were finally able to restock our fish
+  thanks to His Majesty King Sidon and you,
+  the courageous Linkette!
+  <3 Type='0' Data='0000'/>You really helped us out of a pinch!
+  Anyhow, if you see something you like,
+  please just crab it from the table.
+  <3 Type='0' Data='0401'/><4 Type='0' Data='0c004e006f007400690063006500'/>Oh!<5 Type='0'/> Unless you have some other business
+  with me? Tell me and I shell not dawdle!
+talk32: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>I think it was a wonderful idea to attack it
+  with some splash fruit from a distance.
+  
+  But there's just one small thing you may
+  have neglected to consider, Cleff...
+  
+  The sludge was too far away, <5 Type='0'/>and you
+  were a tad hesitant, <5 Type='0'/>and your hands were
+  shaking, <5 Type='0'/>and you closed your eyes, <5 Type='0'/>and...
+talk33: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003100'/>That is quite enough! I get the idea...
+talk1004: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/>Our seafood is so fresh, it's fishy!<5 Type='0'/>
+  That's...<5 Type='0'/>the new motto for our general
+  store, the <0 Type='3' Data='0000'/>Coral Reef<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>Ah, but I'm not sure when we'll be able to
+  restock the fish.<5 Type='0'/> Ugh...<5 Type='0'/> I apologize for
+  the inconvenience.
+talk34: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='08005300690067006800'/>*siiigh* To think we used up all of the
+  splash fruit, and yet there is still sludge
+  on that statue.
+  My apologies, but I do not think I will be
+  able to sell more splash fruit for a while.
+talk1005: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/>Our seafood is so fresh, it's fishy!<5 Type='0'/>
+  That's...<5 Type='0'/>the new motto for our general
+  store, the <0 Type='3' Data='0000'/>Coral Reef<0 Type='3' Data='ffff'/>.
+  Please take a look at our offerings!
+talk35: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>You really were trying your best!
+  
+  
+  It's just that you weren't very confident,
+  and so you wasted a bunch and messed it
+  up again and again by rushing too much.
+talk36: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003100'/>Maybe we could just move past it
+  now...<5 Type='0'/> Please?
+Com_Talk_02b: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Understood. Would you like me to take
+  anything else off your hands?
+talk37: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>To be fair, you used up all of the
+  splash fruit trying to clean up the
+  sludge in the square.
+  You were too careful and had trouble
+  hitting the sludge, so you probably
+  wasted about half of them.
+  Lady Yona was so sweet to have
+  comforted you, Cleff.
+Com_Talk_02c: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>The deal is done, thanks. Anything else?
+talk38: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0e0053006900670068005f0030003100'/>Indeed... <5 Type='1'/>It is Lady Yona's kindness alone
+  that brings me some semblance of peace.
+talk1009: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='10004700720065006500740069006e006700'/>This is our general store,<5 Type='0'/> the <0 Type='3' Data='0000'/>Coral Reef<0 Type='3' Data='ffff'/>!
+  
+  
+  I would recommend the <0 Type='3' Data='0000'/>splash fruit<0 Type='3' Data='ffff'/>,
+  which we procured to help <0 Type='3' Data='0000'/>deal with
+  the sludge<0 Type='3' Data='ffff'/>.
+  Ah, except...we ran out of it.
+  
+  
+  <3 Type='0' Data='0000'/>If you see something you like, please just
+  grab it from the table.
+  
+  <3 Type='0' Data='0401'/><4 Type='0' Data='0c004e006f007400690063006500'/>Oh!<5 Type='0'/> Unless you have some other business
+  with me?
+0010: |
+  Some other time.
+Com_Talk_02d: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Very well. Is there anything else you
+  would like to sell?
+Com_Talk_11b_00: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Please come again!
+0011: |
+  Sure.
+talk20: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Good evening!
+0012: |
+  Bright-eyed crabs!
+talk22: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Come back soon!
+talk9021_01: |
+  <3 Type='0' Data='0700'/>Please return after you have crabbed
+  some more <0 Type='3' Data='0000'/>bright-eyed crabs<0 Type='3' Data='ffff'/>.<5 Type='0'/> Do that,
+  and I'll shell out something good!
+talk23: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Thank you!<5 Type='0'/> And please exercise caution
+  when going out at night.
+talk9021_02: |
+  <3 Type='0' Data='0700'/>Please return after you have crabbed
+  <0 Type='3' Data='0000'/>10 <0 Type='3' Data='ffff'/><0 Type='3' Data='0000'/>bright-eyed crabs<0 Type='3' Data='ffff'/>.<5 Type='0'/> Do that, and I'll
+  shell out something good!
+Com_Talk_13: |
+  So, that is what you want to sell?
+  How many?
+talk24: |
+  <3 Type='0' Data='0101'/>Do you need anything else?
+Com_Talk_14: |
+  Hm, <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of those amounts to
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>... Is that all right?
+Com_Talk_15: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a005400680069006e006b00'/>My sincerest apologies... I cannot buy
+  that from you.
+talk25: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a005400680069006e006b00'/>You just went and bought up all of them,
+  didn't you? I'll be sure to stock up soon!
+Com_Talk_16: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a005400680069006e006b00'/>I'm so sorry...but could you possibly
+  remove that article of clothing before
+  you try to sell it to me?
+talk26: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068004c00'/>Thank you for that generous spending
+  spree! You have cleaned us out, and so
+  I must restock.
+talk9030: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='16004c0061007500670068004200610064005f0030003100'/>Heh, fantastic! I should pincer myself to
+  prove I'm not dreaming.<5 Type='1'/> As promised,
+  here is your reward.
+  <3 Type='0' Data='0001'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Oh. Linkette... It seems you cannot hold
+  even a <0 Type='3' Data='0000'/>single opal<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0701'/>Please call on me again after you have
+  freed up some space.
+Com_Talk_17: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/>Thank you for your business!
+talk27: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Thank you for your purchase! We are out
+  of stock now, <5 Type='0'/>so I must happily resupply.
+talk9031: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003100'/>Linkette, <5 Type='0'/>I must apologize.
+  
+  
+  I have not yet partaken in the delights of
+  the bright-eyed crabs you traded to me
+  previously...<5 Type='1'/> Urp! <5 Type='0'/>Ahem... Pardon me.
+  Please return after a bit more time
+  has passed.
+5500: |
+  Yes.
+talk28: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/>Thank you for your purchase! Once we
+  have restocked, please come by again.
+talk29: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0e0053006900670068005f0030003100'/>I tried washing off the sludge using some
+  splash fruit...
+  
+  <3 Type='0' Data='0300'/>But now I'm feeling bitter over the fact
+  that I used it all up before I could wash
+  the sludge from that statue.
+talk9032: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>I will prepare the next product for trade.
+  All in due time!<5 Type='0'/> Please come again.<5 Type='1'/>
+  Heheheh...
+5501: |
+  No.
+Com_Talk_11c_00: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Thank you very much!
+Com_Talk_00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Certainly. What would you like to sell?
+5502: |
+  I want to buy.
+Com_Talk_01: |
+  That? The cost is <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+  Do we have a deal?
+5503: |
+  Never mind.
+0004: |
+  How's it going?
+9004: |
+  Let's trade.
+Com_Talk_02: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Thank you. Do you have anything else
+  to sell?
+Com_Talk_11d_00: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Thanks for your business!
+0005: |
+  I want to sell.
+9005: |
+  No, thanks.
+0006: |
+  Goodbye.
+Com_Talk_04: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0c005300610064005f0030003000'/>Oh, I see. That is too bad.
+0007: |
+  Tell me about this place.
+Com_Talk_05: |
+  <3 Type='0' Data='0101'/>I'll buy anything you want to sell.
+5507: |
+  I'll take 'em all!
+0008: |
+  Crabs, eh?
+5508: |
+  I'll sell 'em all.
+0009: |
+  I have the crabs.
+talk9020: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='16004c0061007500670068004200610064005f0030003100'/>Heh, fantastic! I should pincer myself to
+  prove I'm not dreaming.<5 Type='1'/> As promised,
+  here is your reward.
+talk9021: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0e0053006900670068005f0030003100'/>Mmm... Ooh! Ah.<5 Type='1'/> Well, I certainly do smell
+  the delightful aroma of <0 Type='3' Data='0000'/>bright-eyed crab<0 Type='3' Data='ffff'/>
+  emanating from your pouch. However...
+  <3 Type='0' Data='0a01'/>Sadly, you do not yet have enough to
+  make a mutually satisfying deal with me.
+talk19: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hello!
+talk9022: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>I have prepared something special...<5 Type='0'/>
+  an <0 Type='3' Data='0000'/>opal<0 Type='3' Data='ffff'/>!
+  
+  I would be willing to make the trade for
+  five bright-eyed crabs...<5 Type='0'/> So? Will you
+  shell out the goods or not?
+Com_Talk_50: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><0 Type='3' Data='ffff'/>That will be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+  Do we have a deal?
+talk9023: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003000'/>I have prepared something special...<5 Type='0'/>
+  a <0 Type='3' Data='0000'/>sapphire<0 Type='3' Data='ffff'/>!
+  
+  I would be willing to make the trade for
+  15 bright-eyed crabs...<5 Type='0'/> So? Will you
+  shell out the goods or not?

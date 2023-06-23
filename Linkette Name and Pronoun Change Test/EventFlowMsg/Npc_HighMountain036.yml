@@ -1,0 +1,30 @@
+Talk01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>I'm drawing up a special menu for those
+  out scavenging for food or investigating.<0 Type='4'/>Ingredients are hard to come by in this
+  blizzard, but we'll be fine if we get a little
+  creative with our cooking.<0 Type='4'/>With the right ingredients, a little food
+  can go a long way.<0 Type='4'/><3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>For example, a pinch of <0 Type='3' Data='0000'/>spicy pepper<0 Type='3' Data='ffff'/>
+  warms you up so you don't notice the
+  cold so much.<0 Type='4'/>We do not have many of them here, but
+  you are welcome to what's available.<0 Type='4'/><3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>In tough situations like this, everyone
+  needs to look out for each other and
+  help where we can.
+Talk21: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>I am so relieved that the blizzard stopped.
+  Thank you, Linkette, truly.<0 Type='4'/>Now everyone can return to their normal
+  lives back in the village.<0 Type='4'/>I plan to join them as soon as I have
+  finished straightening up in this lodge.
+Talk02: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>When you cannot take any more of this
+  cold, I recommend snacking on food
+  made with a pinch of <0 Type='3' Data='0000'/>spicy pepper<0 Type='3' Data='ffff'/>.<0 Type='4'/>We do not have many here, but you are
+  welcome to what's available.
+Talk22: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Once I finish tidying up around this lodge,
+  I shall rejoin the others in the village.<0 Type='4'/>I owe it to the children to cook their
+  favorite dishes. It is the least I can do
+  after all their help around the village.
+Near01: |
+  A little pinch of this...
+Near02: |
+  Not quite done here...

@@ -1,0 +1,153 @@
+Talk_1004: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>What? You want to take the class? Have
+  you asked Mr. Symin?
+Talk_6015: |
+  <3 Type='0' Data='0a00'/>My mom's a Cece fan, so she gets mad
+  if my clothes get dirty.<0 Type='4'/>Don't spread this around, but rain is
+  A-Zoom's one weakness.
+Near_6000: |
+  A-Zoom is here!
+Talk_6002: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Call me A-Zoom while I'm on patrol!
+  I gotta keep a close eye out in case any
+  bad guys show their faces!
+Talk_7006: |
+  <3 Type='0' Data='0a00'/>I got so caught up in playing A-Zoom that
+  I lost track of time.<0 Type='4'/>I'm pretty worn out now. If you need
+  something, ask somebody else, OK?
+Talk_1005: |
+  <3 Type='0' Data='0700'/>If you want to take the class, you should
+  talk to Mr. Symin.
+Talk_6016: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>So...can I get back to patrolling now?
+  Without A-Zoom on the job, the bad guys
+  might win!
+Talk_7007: |
+  <3 Type='0' Data='0a00'/>I'm pretty worn out now. If you need
+  something, ask somebody else, OK?<0 Type='4'/>I'm gonna go to sleep. Good night!
+Talk_8000: |
+  <3 Type='0' Data='0800'/>That ancient hero getup you showed us
+  was so cool!<0 Type='4'/>Someday, I gotta come up with a special
+  costume for A-Zoom too.
+Talk_1006: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Morning, Mr. Linkette! Are you gonna teach
+  us today?
+Talk_6004: |
+  <3 Type='0' Data='0c00'/>The truth is, my identity as the general-
+  store owner's son is just a cover.
+Talk_6017: |
+  <3 Type='0' Data='0a00'/>Did you know bad guys took over old man
+  Robbie's lab in northeast Akkala?<0 Type='4'/>There's also a <0 Type='3' Data='0000'/>research lab <0 Type='3' Data='ffff'/>at the top of
+  the hill here, but it's too far away for me
+  to patrol every day.<0 Type='4'/><3 Type='0' Data='0a00'/>What if the bad guys find out about
+  A-Zoom's blind spots and take it over?
+  You gotta keep my secret!
+Talk_8001: |
+  <3 Type='0' Data='0800'/>The curry you gave us was really good.<0 Type='4'/>Maybe A-Zoom should have his own
+  special curry recipe. Whaddaya think?
+Talk_6018: |
+  <3 Type='0' Data='0c00'/>Um, let's see. It doesn't look like the bad
+  guys are interested in Ms. Zelda's house
+  on the edge of town.
+  <3 Type='0' Data='0701'/>Mom said Ms. Zelda might not ever come
+  back. But I still believe!<0 Type='4'/><3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>A big reason A-Zoom keeps an eye on
+  things is so Ms. Zelda can come back
+  anytime she wants!
+Talk_6006: |
+  <3 Type='0' Data='0c00'/>Ummm, let's see... Teebo's house is the 
+  closest one, and I haven't seen any bad
+  guys there.<0 Type='4'/>Teebo's dad was the gatekeeper here,
+  but he went to help out at a place called
+  Lookout Landing.<0 Type='4'/>So now Teebo and his mom take turns
+  guarding the gate.<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Oh, my mom was talking about Teebo's
+  mom though. What was it she said?<0 Type='4'/>Something like, "It's a real shame she's
+  not more interested in fashion!"
+Talk_6019: |
+  <3 Type='0' Data='0c00'/>Hmm, let's see. <5 Type='1'/>One spot I've been
+  watching is old man Nack's field at
+  the town entrance.<0 Type='4'/><3 Type='0' Data='0801'/>Haven't seen any bad guys there so far!<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>My mom says Nack is the most
+  fashionable farmer in the village.<0 Type='4'/>But he hangs out a lot with Reede, the
+  village mayor, and that guy doesn't care
+  about fashion at all. So I don't get it.
+Talk_1009: |
+  <3 Type='0' Data='0700'/>Hey, Professor, you're gonna be late for
+  school if you don't move it!
+Talk_6007: |
+  <3 Type='0' Data='0c00'/>Hmm, let's see. Old lady Uma was fussing
+  over what to plant in the field...<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0801'/>No bad guys spotted that way though!<0 Type='4'/>That old lady grows the best veggies in
+  Hateno Village, y'know.<0 Type='4'/>That's what my mom says, so it must
+  be true!
+Talk_6009: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/>A-Zoom AWAY!
+0001: |
+  A-Zoom?
+Talk_6020: |
+  <3 Type='0' Data='0800'/>I'm Azu! <5 Type='0'/>Well, sort of.<0 Type='4'/>My identity as the general-store owner's 
+  son is just a cover. I'm actually A-Zoom,
+  the big-time hero!<0 Type='4'/><3 Type='0' Data='0b00'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Oh, but you can't tell the adults around
+  here. It's a secret! <0 Type='4'/><3 Type='0' Data='0801'/>I gotta go on patrol now. See ya!
+0006: |
+  Find any bad guys?
+Talk_1010: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Are you gonna teach us today?
+Talk_6021: |
+  <3 Type='0' Data='0800'/>I'm really A-Zoom, the big-time hero!<0 Type='4'/>It's my job to protect the school and the
+  village from bad guys until Ms. Zelda
+  comes back!
+0007: |
+  Keep it up!
+Talk_7000: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Uh-oh! I got so caught up in playing
+  A-Zoom that I didn't notice it getting late!<0 Type='4'/>I gotta get home. If you need something,
+  you should ask a grown-up.<0 Type='4'/><FontSize Value='80'/>I'm gonna get an earful if I don't make it home
+  before Mom gets back to the store.<FontSize Value='100'/>
+Talk_6010: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>You need something, Mr. Linkette? I'm on
+  patrol right now as A-Zoom. Gotta keep
+  an eye out in case any bad guys show up!
+Talk_1000: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Sorry, but I get in trouble if I'm late.
+  If you need something, can you ask
+  a grown-up?
+Talk_6011: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>You're the new teacher, aren't you?
+Talk_7002: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Mom's gonna be so mad if I don't make it
+  home before she gets back to the store.<0 Type='4'/>I don't have time to talk. If you need
+  something, you should ask a grown-up!
+Near_7000: |
+  *snore*... *snore*...
+Talk_1001: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>If I don't hurry, I'm gonna be soaked by
+  the time I get to school.<0 Type='4'/>If you need something, could you ask
+  a grown-up?
+Talk_6012: |
+  <3 Type='0' Data='0700'/>Shh! <5 Type='0'/>I'm not Azu right now. Call me
+  A-Zoom when I'm on patrol!<0 Type='4'/>Got it? See ya!
+Near_7001: |
+  Look what time it is!
+Talk_7003: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>I need to hurry, or I'll be soaked through
+  before I get home.<0 Type='4'/>My mom's a big-time Cece fan, and
+  she gets mad at me if she sees me in
+  dirty clothes.<0 Type='4'/>If you need something, ask somebody
+  else, OK?
+  
+Near_1000: |
+  Can't upset the teacher...
+Talk_6000: |
+  <3 Type='0' Data='0800'/>I'm Azu! Nice to meet ya!<0 Type='4'/>My identity as the general-store owner's 
+  son is just a cover. I'm actually A-Zoom,
+  the big-time hero!<0 Type='4'/><3 Type='0' Data='0b00'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Oh, but you can't tell the adults around
+  here. It's a secret! <0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Kickin' bad-guy butts is way cooler when
+  nobody knows it's you!
+Talk_7004: |
+  <3 Type='0' Data='0401'/>Seeya later, Mr. Linkette!
+Near_1001: |
+  Gotta hurry!
+Talk_6001: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>You need something? I'm on patrol right
+  now as A-Zoom. Gotta keep an eye out in
+  case any bad guys show up!
+Talk_7005: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0053006c00650065007000'/>I'm...the big-time hero...A-Zoom...

@@ -1,0 +1,186 @@
+GerudoDesertTreasure_Talk_01: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Linkette,<5 Type='0'/> did you find the desert treasure?
+  
+  
+  "Seek out the swordswoman upon the
+  sand and look to where she points—
+  there is treasure waiting underground."
+  <3 Type='0' Data='0c00'/>There are countless swordswomen statues
+  in this desert. The only option might be to
+  see where each one directs you...
+TerrorExplosion_01: |
+  Ack!
+TerrorInsect_02: |
+  Urk!
+GerudoDesertTreasure_Talk_02: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Linkette, is that the treasure the old
+  document mentioned?
+TerrorExplosion_02: |
+  What are you doing?
+GerudoDesertTreasure_Talk_03: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>What? You already found it?
+Shichihou: |
+  Heh, we match.
+TerrorBomb_00: |
+  What's this?!
+GerudoDesertTreasure_Talk_04: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003000'/>I see... So, the treasure was armor
+  affiliated with the ancient Gerudo...
+  
+  <3 Type='0' Data='0101'/>I knew you'd be able to find it. <5 Type='0'/>Take it
+  with you, and make good use of it.
+TerrorBomb_01: |
+  What is that...
+GerudoDesertTreasure_Talk_05: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Linkette, the helm you're wearing... Is it the
+  treasure the old document mentioned?
+TerrorBomb_02: |
+  Stop!
+GerudoDesertTreasure_Talk_06: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>What? The helm you're wearing...<5 Type='0'/>
+  That's the treasure mentioned in that
+  old document?
+TerrorArrow_00: |
+  Is this some game?
+TerrorFlash_00: |
+  Ugh...
+TerrorArrow_01: |
+  Hey! Stop that!
+TerrorFlash_01: |
+  Aaah...
+TerrorImpulse_00: |
+  Urk!
+TerrorArrow_02: |
+  Knock it off.
+TerrorFlash_02: |
+  Oof...
+TerrorImpulse_01: |
+  Urk!
+Shichihou_00: |
+  It is a great shield...
+TerrorLightning_00: |
+  Oh!
+TerrorImpulse_02: |
+  Aaah!
+SunazarashiDoll: |
+  Patricia...
+TerrorIce_00: |
+  Brr...
+TerrorLightning_01: |
+  Hm?
+Talk_10: |
+  I imagine that once you've found the fifth
+  sage, you'll be setting out to confront the
+  Demon King...
+  I'll be prepared for when that battle
+  comes. You can count on me!
+ThunderHelmet: |
+  That helm...
+TerrorIce_01: |
+  Phew, I'm cooling off...
+TerrorLightning_02: |
+  Lightning? Against me?
+GerudoDesertTreasure_Near_00: |
+  Now that I think about it...
+TerrorIce_02: |
+  I'm not used to that...
+GerudoDesertTreasure_Near_01: |
+  Where she points...
+GerudoDesertTreasure_Near_02: |
+  Is that...
+GerudoHoleCoverPalace: |
+  Patricia...
+Talk_00: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003000'/>I will do my best to learn more of what is
+  happening with Zelda before we meet
+  again. Make sure to come back and visit!
+  <3 Type='0' Data='0101'/>Oh, and don't forget... Even when I
+  cannot be by your side, you can always
+  call on my power as a sage.
+TerrorFire_00: |
+  So childish...
+Talk_01: |
+  <3 Type='0' Data='0800'/>Linkette! I'm glad to see you!<0 Type='4'/>Have you been to Lookout Landing yet?
+  I sent Buliara there. <5 Type='1'/>If you find her, say hi
+  for me, OK?
+TerrorFire_01: |
+  No effect.
+Talk_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>I haven't gotten any new information
+  about Zelda. It seems she hasn't been
+  around here recently.
+TerrorFire_02: |
+  I'm not afraid of fire.
+TerrorAnimal: |
+  Whoa!
+Talk_03: |
+  <3 Type='0' Data='0800'/>Linkette! I'm glad to see you here! <5 Type='0'/>Are you
+  finding my new power as a sage helpful?
+Talk_04: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>I haven't found any clues about the fifth
+  sage yet, but I'm not about to give up!
+TerrorSword_00: |
+  Calm down!
+TerrorEnemy_00: |
+  Oh!
+Talk_05: |
+  <3 Type='0' Data='0701'/>I don't know if you'll find this information
+  helpful, but...
+TerrorSword_01: |
+  What is all this about?
+TerrorGeneric_00: |
+  What?
+TerrorEnemy_01: |
+  Ah!
+Talk_06: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>What? You found the fifth sage?
+  
+  
+  <3 Type='0' Data='0c01'/>Interesting. So she's an ancient Zonai
+  named Mineru...
+  
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>And even though she's lost her original
+  body, she's pledged to fight alongside us
+  as the Sage of Spirit!
+TerrorSword_02: |
+  Could you calm down?
+TerrorGeneric_01: |
+  Hmm?
+TerrorEnemy_02: |
+  You'll pay for that!
+Talk_07: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Linkette! It's good to see you. How are the
+  preparations to defeat the Demon King
+  coming along?
+TerrorGeneric_02: |
+  Hm?
+Talk_08: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='140055006e006400650072007300740061006e006400'/>As sages, our power is yours.<5 Type='1'/> All that
+  remains now is for you to defeat the
+  Demon King.
+TerrorInsect_00: |
+  Ack!
+Talk_09: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>You're a welcome sight, Linkette! And how
+  is the search for the fifth sage going?
+  Her name was...Mineru?
+GerudoDesertTreasure_Talk_00: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a005400680069006e006b00'/>After I became a sage and returned
+  to town, I discovered an interesting
+  ancient reference...
+  "Seek out the swordswoman upon the
+  sand and look to where she points—
+  there is treasure waiting underground."
+  That was written in an old document
+  I discovered.
+  
+  <3 Type='0' Data='0c00'/>I doubt it holds any connection to Zelda,
+  but it might be a clue to something...
+  
+  The swordswoman upon the sand...<5 Type='0'/>
+  Treasure underground...<5 Type='0'/> It could be worth
+  looking into.
+TerrorExplosion_00: |
+  I'm used to the heat.
+TerrorInsect_01: |
+  Oh?

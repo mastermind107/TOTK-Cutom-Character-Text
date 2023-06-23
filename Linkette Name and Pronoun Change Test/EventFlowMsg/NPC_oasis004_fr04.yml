@@ -1,0 +1,109 @@
+Talk_10: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003100'/>Working hard so early in the morning!
+  Such amazing dedication!
+0003: |
+  Gloom Spawn?
+NakedPlayer: |
+  Down to the skivvies, hm?
+Talk_01: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Linkette! Is that really you?<5 Type='0'/> When did you get
+  out from the castle?!
+  
+  I'm so ashamed... I've been on watch
+  duty here this whole time, and I didn't
+  see you at all.
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0e0053006900670068005f0030003000'/>I've really got to get serious about my
+  training...
+Talk_11: |
+  <3 Type='0' Data='0700'/>Ah, it's getting dark now...
+0004: |
+  Goodbye.
+Talk_02: |
+  <3 Type='0' Data='0701'/>Captain Hoz doesn't know that you're
+  back, does he, Linkette?
+  
+  You should report to him right away. He's
+  on the gate tower at the top of the hill,
+  past the lower gates.
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>I'm sure the captain will be just as
+  surprised to see you as I was!
+Talk_12: |
+  <3 Type='0' Data='0201'/><4 Type='0' Data='0e0053006900670068005f0030003000'/>It's about time for those monsters that
+  love the dark of night to awaken!
+TerrorSword: |
+  Please, stop!
+Talk_03: |
+  <3 Type='0' Data='0701'/>Captain Hoz is going to be returning to
+  his original duties with the monster-
+  control crew.
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>I'm on guard duty here, making sure no
+  thieves sneak into the castle and steal
+  any of the <0 Type='3' Data='0000'/>treasures<0 Type='3' Data='ffff'/> there.
+  You can count on me to keep the castle
+  safe, Linkette!
+Talk_13: |
+  <3 Type='0' Data='0700'/>Captain Hoz has withdrawn from the
+  castle and is fulfilling his other duties
+  for the monster-control crew.
+  But never fear! I'm keeping watch, and I'll
+  make sure no thieves sneak past me and
+  steal any of the castle's <0 Type='3' Data='0000'/>treasures<0 Type='3' Data='ffff'/>.
+Near_01: |
+  Can barely see a thing...
+Talk_04: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='140055006e006400650072007300740061006e006400'/>I might not match you for skill, Linkette, but
+  I've been training hard, and I'm pretty
+  confident in my abilities!
+  So never fear! I'm keeping watch, and I'll
+  make sure no thieves sneak past me and
+  steal any of the castle's <0 Type='3' Data='0000'/>treasures<0 Type='3' Data='ffff'/>.
+  You can count on me to keep the castle
+  safe, Linkette!
+Talk_14: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0e00540072006f00750062006c006500'/>It's some kind of monster completely
+  coated in <0 Type='3' Data='0000'/>gloom<0 Type='3' Data='ffff'/>. And if it touches you,
+  it'll steal away your vitality!
+  It has strange wriggly things protruding all
+  over... It's a real sight.
+  
+  <3 Type='0' Data='0c01'/>If it spots you, it'll try and chase you
+  down. Sorry, but I don't know any more
+  than that...
+Near_02: |
+  Hmm?
+Talk_05: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003100'/>Working hard at such an early hour! Your
+  dedication is something to strive for!
+Talk_15: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='140055006e006400650072007300740061006e006400'/>It's important to know as much as you can
+  about your enemy. Be careful!
+Talk_06: |
+  <3 Type='0' Data='0701'/>Captain Hoz has withdrawn from the
+  castle and is fulfilling his other duties
+  for the monster-control crew.
+  I'm on guard duty here, making sure no
+  thieves sneak into the castle and steal
+  any of the <0 Type='3' Data='0000'/>treasures<0 Type='3' Data='ffff'/> there.
+  You can count on me to keep the castle
+  safe, Linkette!
+Talk_16: |
+  <3 Type='0' Data='0700'/>I might not match you for skill, Linkette, but
+  I've been training hard, and I'm pretty
+  confident in my abilities!
+  So never fear! I'm keeping watch, and I'll
+  make sure no thieves sneak past me and
+  steal any of the castle's <0 Type='3' Data='0000'/>treasures<0 Type='3' Data='ffff'/>.
+Talk_07: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='08004300680061007400'/>Your dedication is incredible. It'll keep me
+  motivated for the rest of the afternoon!
+Talk_17: |
+  <3 Type='0' Data='0701'/>But, uh...be on your guard, OK? There's a
+  terrifying monster called a <0 Type='3' Data='0000'/>Gloom Spawn<0 Type='3' Data='ffff'/>
+  lurking around here.
+  If you see a <0 Type='3' Data='0000'/>moving mass of gloom<0 Type='3' Data='ffff'/>, fall
+  back as fast as you can!
+Talk_08: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003100'/>The sun has set, but you're as dedicated
+  as ever. Well done!
+TerrorArrow: |
+  What's the matter?!

@@ -1,0 +1,283 @@
+Talk_17: |
+  <3 Type='0' Data='0700'/>Hi! Hello!
+5503: |
+  Never mind.
+Talk_18: |
+  <3 Type='0' Data='0700'/>Hi! Good evening!
+Talk_19: |
+  <3 Type='0' Data='0c00'/>I might ask the <0 Type='3' Data='0000'/>monster-control crew<0 Type='3' Data='ffff'/>
+  if they can deal with the pirates in
+  my village.
+Com_Talk_00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Whaddaya want to sell me?
+5508: |
+  I'll sell them all.
+Com_Talk_01: |
+  <3 Type='0' Data='0101'/>I'll give you <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. Sound fair?
+0000: |
+  Lurelin?
+Com_Talk_02: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0800'/><0 Type='3' Data='ffff'/>Pleasure doing business!<5 Type='0'/> Anything else
+  you want to sell?
+0001: |
+  Goodbye.
+0002: |
+  I'm here to sell.
+Com_Talk_04: |
+  <3 Type='0' Data='0a00'/>Ah, that's fair.
+Near_1002: |
+  Freshly caught—and free!
+Com_Talk_05: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0101'/><0 Type='3' Data='ffff'/>I'll buy anything!
+Near_1003: |
+  Don't climb on that!
+Com_Talk_05b: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0101'/><0 Type='3' Data='ffff'/>What'll you sell me?
+Talk_00: |
+  <3 Type='0' Data='0800'/>So you're Linkette, huh? Some of the soldiers
+  were just telling me.
+  
+  As a simple man from <0 Type='3' Data='0000'/>Lurelin<0 Type='3' Data='ffff'/>, I'm a
+  little starstruck. We don't see a lot of
+  celebrities back home!
+Com_Talk_05c: |
+  <3 Type='0' Data='0101'/>Whatever you want to sell, I'll buy!
+Talk_01: |
+  <3 Type='0' Data='0700'/>Need to buy anything?
+  
+  
+  You should talk to my wife! She's the
+  <0 Type='3' Data='0000'/>Lurelin <0 Type='3' Data='ffff'/>cutie who runs the shop upstairs.
+Talk_1010: |
+  <3 Type='0' Data='0800'/>Come in! Welcome!<0 Type='4'/>Only the freshest fish here! Outta the
+  water and into your pouch!
+Free_Talk_56_a: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0101'/><0 Type='3' Data='ffff'/>I'll remind you they're free...<5 Type='0'/> Are you sure
+  you only want one?
+Com_Talk_05d: |
+  <3 Type='0' Data='0101'/>Take your time selecting. I'm in no hurry.
+Talk_02: |
+  <3 Type='0' Data='0800'/>No matter where you go, Goddess Statues
+  look the same. I find that comforting.
+Talk_1011: |
+  <3 Type='0' Data='0800'/>Come in! Welcome! Want some fish?
+  Caught just this morning—<5 Type='0'/>still flappin'
+  their flippers!
+Free_Talk_56_b: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Aha. So you want to take the last one?
+Talk_03: |
+  <3 Type='0' Data='0700'/>As a simple man from <0 Type='3' Data='0000'/>Lurelin<0 Type='3' Data='ffff'/>, I'm a
+  little starstruck. We don't see a lot of
+  celebrities back home!
+Talk_20: |
+  <3 Type='0' Data='0c00'/>Say, did you see those books they have
+  here? I tried reading one the other day.
+  
+  Complete gibberish. How can the <0 Type='3' Data='0000'/>Zonai
+  Survey Team <0 Type='3' Data='ffff'/>make sense of that stuff?
+Talk_1012: |
+  <3 Type='0' Data='0800'/>Come in! Welcome! Look at these fish!
+  Caught just this morning—<5 Type='0'/>still flappin'
+  their flippers!
+  Whaddaya say? Might make a nice snack!
+Talk_04: |
+  <3 Type='0' Data='0100'/>There was no one in my village quite
+  like Kosi, I'll tell you that.
+Talk_21: |
+  <3 Type='0' Data='0700'/>Hi, sir! Welcome! This shop belongs to my
+  beautiful wife, Mubs!
+Talk_1013: |
+  <3 Type='0' Data='0800'/>Come in! Welcome! Look at these fish!
+  Caught just this morning—<5 Type='0'/>still flappin'
+  their flippers!
+  Whaddaya say? Little late-night snack?
+Talk_05: |
+  <3 Type='0' Data='0700'/>You're saying the pirates are gone and
+  <0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/> is safe? That's great!<0 Type='4'/>I'm looking forward to the day everything
+  there is rebuilt so we can all return home.
+  
+  Then I'll reopen my <0 Type='3' Data='0000'/>general store<0 Type='3' Data='ffff'/>!
+  
+  
+  <3 Type='0' Data='0800'/>And you'll be my first customer!
+  Won't you?
+Talk_22: |
+  <3 Type='0' Data='0700'/>Hi, sir! Welcome!<0 Type='4'/>This shop belongs to Mubs, my wife,
+  whose smile brightens rainy days!
+Talk_1014: |
+  <3 Type='0' Data='0800'/>Come in! Welcome!<0 Type='4'/>Rain or shine, we'll always have the
+  freshest fish around! That's what you
+  can expect from professionals!
+Talk_06: |
+  <3 Type='0' Data='0800'/>Beds! You believe that? In my village,
+  you couldn't find these anywhere but
+  at the <0 Type='3' Data='0000'/>inn<0 Type='3' Data='ffff'/>.
+Talk_23: |
+  <3 Type='0' Data='0700'/>Once we've rebuilt Lurelin Village and life
+  gets back to normal, we'll reopen the
+  store there!
+  In the meantime, we'll knuckle down here
+  and save our rupees.
+Talk_07: |
+  <3 Type='0' Data='0700'/>We used to have a store in Lurelin Village,
+  but we haven't been back since those
+  pirates showed up.
+  But why dwell on that? We're making
+  do here!
+Talk_24: |
+  <3 Type='0' Data='0800'/>I'm dreaming of the day when we rebuild
+  Lurelin Village and reopen our store.
+  
+  Until then, I'm trying to save some money.
+Talk_1016: |
+  <3 Type='0' Data='0800'/>How about that! You cleared us out!<0 Type='4'/>I'm just happy to keep you fed. I'm sure
+  my wife at Lookout Landing would agree.
+5510: |
+  I'll take them all.
+Talk_08: |
+  <3 Type='0' Data='0800'/>How about that hidden passageway?
+  Neat, huh? I'll have to look for one of
+  those in my village, if I ever get back.
+Talk_25: |
+  Well, I'm glad to hear everyone in the
+  village is safe.
+  
+  Now if we could just run those pirates out
+  of town...
+  
+  <3 Type='0' Data='0800'/>Mark my words—one day, we will, and the
+  village will go back to how it was.
+  
+  And when that day comes, I'll reopen <0 Type='3' Data='0000'/>the
+  Lurelin Village store<0 Type='3' Data='ffff'/>!
+  
+  You'll stop by, of course.
+Talk_09: |
+  <3 Type='0' Data='0800'/>We'll make do here until those pirates
+  have left Lurelin Village for good.
+Talk_0010: |
+  <3 Type='0' Data='0800'/>There's nothing like the feeling you get
+  when you've sold all you can sell. But I'll
+  restock, so don't stay away too long!
+Free_Talk_31: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/><0 Type='3' Data='ffff'/>How many would you like?
+Talk_0012: |
+  <3 Type='0' Data='0800'/>Glad you know what you like! Shop
+  here anytime!
+Com_Talk_02b: |
+  <3 Type='0' Data='0800'/>Thanks! Anything else to offload?
+  I'm happy to buy it!
+Talk_0013: |
+  <3 Type='0' Data='0800'/>I'll catch some fresh stock for next time,
+  so come see me again!
+Free_Talk_34: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0801'/><0 Type='3' Data='ffff'/>All of them, huh? <5 Type='0'/>You sure?
+Com_Talk_02c: |
+  <3 Type='0' Data='0800'/>Thank youuu! Got anything else for me?
+Talk_0014: |
+  <3 Type='0' Data='0800'/>There just isn't enough merchandise in
+  the world sometimes. But I'll get more in
+  stock, so come back and see me later!
+Free_Talk_52: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0101'/><0 Type='3' Data='ffff'/>So, <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of those...<5 Type='0'/> Will that be all?
+Com_Talk_02d: |
+  <3 Type='0' Data='0800'/>I'm happy with that! Is there anything else
+  you don't want?
+Com_Talk_13: |
+  <3 Type='0' Data='0101'/>Gotcha. And how many?
+Com_Talk_14: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0101'/><0 Type='3' Data='ffff'/>For <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>, I can give you <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+  Is that OK?
+Talk_9001: |
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/>Hey! <5 Type='1'/>What's the big idea?<FontSize Value='100'/>
+Com_Talk_15: |
+  <3 Type='0' Data='0a00'/>Uh...<5 Type='0'/> I can't buy that off you. Sorry.
+Talk_9002: |
+  <3 Type='0' Data='0701'/>We need that for the business! Please,
+  leave it alone!
+Talk_1001: |
+  <3 Type='0' Data='0800'/>Welcome, welcome! Want some fish?
+  Caught just this morning—<5 Type='0'/>still flappin'
+  their flippers!
+  Without your help, Linkette, we could never
+  have opened the shop back up.<0 Type='4'/>So load up, OK? You earned it!
+Com_Talk_16: |
+  <3 Type='0' Data='0a00'/>I can't buy clothes with you in them.<5 Type='0'/>
+  Take that off and we'll talk.
+Com_Talk_33: |
+  <3 Type='0' Data='0100'/>Just one, huh?<5 Type='0'/> Let's say <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+  That good by you?
+Talk_9003: |
+  <3 Type='0' Data='0701'/>Like I said, without that, we can't keep
+  the business going. I appreciate all you've
+  done for us, but please leave it alone.
+Talk_10: |
+  <3 Type='0' Data='0800'/>I feel like such a fish out of water here.
+  There's a whole lot of world outside my
+  little village!
+Talk_1002: |
+  <3 Type='0' Data='0800'/>Always happy to help!
+Talk_11: |
+  <3 Type='0' Data='0700'/>Hi, sir! Welcome!<0 Type='4'/>This shop belongs to Mubs, my wife,
+  who's as beautiful as a sunrise!
+Talk_1003: |
+  <3 Type='0' Data='0800'/>Come again!
+Com_Talk_35: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0100'/><0 Type='3' Data='ffff'/>All <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>? I can give you <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.<0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  How's that sound?
+Talk_12: |
+  <3 Type='0' Data='0700'/>Lurelin Village! It's a fishing town in
+  <0 Type='3' Data='0000'/>East Necluda<0 Type='3' Data='ffff'/>, faaar to the <0 Type='3' Data='0000'/>southeast<0 Type='3' Data='ffff'/>.
+  
+  Used to be a popular resort, thanks to its
+  sandy white beaches and gorgeous views
+  of the sparkling sea.
+  <3 Type='0' Data='0a00'/>Then we got attacked by <0 Type='3' Data='0000'/>pirates<0 Type='3' Data='ffff'/>. Now,
+  no one's living there, let alone running
+  the shops...<5 Type='1'/>
+  <3 Type='0' Data='0701'/>But listen to me getting all gloomy!
+  There is an upside. If not for the pirates,
+  my wife and I wouldn't have come here.
+  I should just shut my trap and enjoy the
+  charms of <0 Type='3' Data='0000'/>Lookout Landing<0 Type='3' Data='ffff'/>!
+Talk_1004: |
+  <3 Type='0' Data='0800'/>Glad you found something you liked!
+Com_Talk_53: |
+  <3 Type='0' Data='0a00'/>Changed your mind? Well, come back if
+  you change it again.
+Talk_13: |
+  <3 Type='0' Data='0800'/>I really am grateful they took us in and let
+  us run our business here!
+Talk_1005: |
+  <3 Type='0' Data='0800'/>Enjoy! And please come again!
+Talk_14: |
+  <3 Type='0' Data='0700'/>Hi, sir! Welcome!<0 Type='4'/>This shop belongs to Mubs, my wife,
+  who's more dazzling than the sun!
+Talk_1006: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Of course, we <0 Type='3' Data='0000'/>won't take money <0 Type='3' Data='ffff'/>from the
+  generous soul who rebuilt our village.<0 Type='4'/>Help yourself to anything in the store!
+  Clean us out, if you like!
+Com_Talk_55: |
+  <3 Type='0' Data='0b00'/>Ack! Your pouch is too full. Organize the
+  stuff in there and we'll talk, OK?
+5500: |
+  Yes.
+Talk_15: |
+  <3 Type='0' Data='0700'/>Hi, sir! Welcome!<0 Type='4'/>This shop belongs to Mubs, my wife,
+  who shines like the moon!
+Talk_1007: |
+  <3 Type='0' Data='0800'/>Welcome, welcome! Hungry for fish?
+  Caught just this morning—<5 Type='0'/>still flappin'
+  their flippers!
+  Oh, it's you! I've got to thank you, Linkette.
+  You really brought the Lurelin spirit back
+  to this community.<0 Type='4'/><3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Of course, we <0 Type='3' Data='0000'/>won't take money<0 Type='3' Data='ffff'/> from the
+  generous soul who rebuilt our village.<0 Type='4'/>Help yourself to anything and everything
+  in the store!
+5501: |
+  No.
+Talk_16: |
+  <3 Type='0' Data='0700'/>Hi! Good morning!
+Talk_1008: |
+  <3 Type='0' Data='0800'/>For the village's savior, no charge!
+  <0 Type='3' Data='0000'/>All our products are free!<0 Type='3' Data='ffff'/>

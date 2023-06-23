@@ -1,0 +1,101 @@
+NpcTalk_005: |
+  <3 Type='0' Data='0701'/>Is there anything else you want to know?
+AfterGF_NPC_001: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Once again, we owe you so much. Not
+  only did you save the village, you helped
+  set Tulin straight.<0 Type='4'/>The Rito will never forget this debt.
+  It is now our turn to aid you.<0 Type='4'/>You can leave the Hebra Mountains to us.
+  We'll scour them and find you your lead
+  on Princess Zelda.<0 Type='4'/><3 Type='0' Data='0001'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Our hearts are always with you, Linkette.
+  Remember that. And don't be a stranger.
+NpcTalk_006: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>I've told you what I know. Unless you
+  wanted to hear it again?
+AfterGF_NPC_002: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>We will repay the debt we owe to you.
+  When we turn up a lead on Princess
+  Zelda, you'll be the first to know.
+NpcTalk_008: |
+  <3 Type='0' Data='0700'/>That's the name of a ship that features in
+  an old Rito children's song.<0 Type='4'/>As the song goes, long ago when a
+  disaster threatened our village, a god
+  sent us a <0 Type='3' Data='0000'/>great flying ship<0 Type='3' Data='ffff'/>.<0 Type='4'/>The blessed winds created by the ship
+  put everything right.<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Doesn't sound like something that really
+  happened, huh? But this never-ending
+  blizzard counts as a disaster to me.<0 Type='4'/>I'd take anything if it would save us from
+  this. Even a children's story.<0 Type='4'/><3 Type='0' Data='0200'/>I guess the truth is somewhere up there
+  past that ominous cloud...
+Talk0015: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Why don't you have the Great Eagle Bow?
+  Did it break or something?<0 Type='4'/>Well, if you collect some materials and
+  bring them here, I can remake it for you.<0 Type='4'/>I'll need five bundles of wood, three
+  diamonds, and a swallow bow.<0 Type='4'/>I can't help you without all of those
+  things, so be sure to bring back enough.
+NpcTalk_009: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0a005400680069006e006b00'/>Haven't heard anything myself. Did you
+  try asking Harth?<0 Type='4'/>He has good sources. If anyone has a lead
+  on Princess Zelda, it would be him.<0 Type='4'/><3 Type='0' Data='0001'/>You'll find Harth in the <0 Type='3' Data='0000'/>lodge to the north<0 Type='3' Data='ffff'/>.
+  If you get lost, use the <0 Type='3' Data='0000'/>pair of bonfires<0 Type='3' Data='ffff'/>
+  they keep burning as a landmark.
+Talk0016: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>That Great Eagle Bow is nice, right?<0 Type='4'/><3 Type='0' Data='0001'/>I made it, but my work has the seal
+  of approval from Harth, the Rito's
+  greatest craftsman.<0 Type='4'/><3 Type='0' Data='0700'/>Take good care of it, and it'll take care of
+  you in return.
+Talk0017: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Oh? I don't see the Great Eagle Bow on
+  you anywhere. Did you decide not to
+  take it with you?<0 Type='4'/>I'll remind you that bow is a masterpiece
+  which has the seal of approval from
+  Harth, the Rito's greatest craftsman.<0 Type='4'/><3 Type='0' Data='0300'/>So try not to lose it, will you?<3 Type='0' Data='0000'/>
+Talk0020_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey, Linkette. Good of you to come!
+Near01: |
+  So much to do...
+Near02: |
+  Can't relax yet...
+0001: |
+  The Stormwind Ark?
+NpcTalk_011: |
+  <3 Type='0' Data='0700'/>All right, then. If you decide to visit Harth,
+  take care of yourself.<0 Type='4'/>The closer you get to that cloud, the
+  <0 Type='3' Data='0000'/>colder it'll get<0 Type='3' Data='ffff'/>. <5 Type='1'/>You'll need to take extra
+  precautions against the blizzard.
+Talk0009: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Until we get our old lives back, there's
+  a mountain of things I need to see to.<0 Type='4'/>I'm on my way home to think about our
+  next steps.<0 Type='4'/><3 Type='0' Data='0701'/>I've got a long way before I can live up to
+  Kaneli when it comes to being elder.
+Near03: |
+  You don't have the bow?
+0002: |
+  Anyone seen Zelda?
+Near04: |
+  Problem with the bow?
+Near05: |
+  What a relief...
+Talk0020: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>None of us had any time for leisure while
+  the blizzard was still a problem.<0 Type='4'/>But now that it's behind us, I can take the
+  time to tinker with my newly crafted bow.<0 Type='4'/><3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>It's nice knowing my son is using the
+  same bow that I do.
+NpcTalk_001: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0c005300610064005f0030003100'/>Managing food reserves and supplies,
+  granting audiences and such...this village-
+  elder gig just isn't sitting right with me.<0 Type='4'/>Life was so much easier when all I had to
+  do was hunt. Just me and my bow...<0 Type='4'/><3 Type='0' Data='0700'/>But you didn't come to hear me complain.<5 Type='0'/>
+  What can I help you with?
+0004: |
+  Nothing.
+NpcTalk_002: |
+  <3 Type='0' Data='0700'/>Hello, Linkette. Is there something you need
+  help with?
+0005: |
+  Remake it, please!
+NpcTalk_003: |
+  <3 Type='0' Data='0001'/>Anything else you want help with?
+0006: |
+  Never mind.
+NpcTalk_004: |
+  <3 Type='0' Data='0701'/>If there's anything I can answer for
+  you, ask.

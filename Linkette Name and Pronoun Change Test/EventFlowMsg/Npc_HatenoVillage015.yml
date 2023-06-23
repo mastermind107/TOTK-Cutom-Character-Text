@@ -1,0 +1,88 @@
+Ballon01_03: |
+  I wonder if they're OK.
+Greeting_04: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Oh!<5 Type='0'/> Why did you bother coming here in
+  all this rain? <5 Type='0'/>You that interested in the
+  view, huh?
+Talk_11: |
+  <3 Type='0' Data='0701'/>Have you seen the <0 Type='3' Data='0000'/>ring-shaped ruins<0 Type='3' Data='ffff'/> on
+  the horizon? <5 Type='0'/>They're off to the southeast.
+  
+  But when I'm looking out that way, I'm
+  thinking of what's beyond the ruins—
+  my dear <0 Type='3' Data='0000'/>Hateno Village<0 Type='3' Data='ffff'/>.
+  So, I'm keeping watch for monsters, of
+  course, but I also keep <0 Type='3' Data='0000'/>seeing those
+  strange ruins<0 Type='3' Data='ffff'/>...
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>Which then leads me to worry more about
+  my family, who I left behind so I could
+  help out here...
+  <0 Type='3' Data='0200'/><FontSize Value='80'/>Tamana... Teebo... <5 Type='0'/>Please be all right...<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+near_00: |
+  Not as quiet today.
+Ballon01_04: |
+  This hat...in this rain?
+Talk_19: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Huh? Just now, I saw something moving
+  over at Hyrule Castle... Can't be... I must
+  have imagined it.
+Talk_06: |
+  <3 Type='0' Data='0700'/>You're a curious one, being up here
+  when everyone's down below.<5 Type='0'/>
+  The name's Thadd.
+  I'm from a place that's almost as far
+  to the <0 Type='3' Data='0000'/>southeast<0 Type='3' Data='ffff'/> as you can get from
+  here. It's called <0 Type='3' Data='0000'/>Hateno Village<0 Type='3' Data='ffff'/>.
+  I've been worried about my family back
+  home. So if you catch me sneaking a
+  peek thataway, <5 Type='0'/>well, that's why.
+Talk_00: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>I know you...<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>You're that Linkette fellow, aren't you!
+  
+  
+  What are you doing over here?! Go find
+  <0 Type='3' Data='0000'/>Purah<0 Type='3' Data='ffff'/> right away!
+Ballon01_01: |
+  Over that way...
+Greeting_02: |
+  <3 Type='0' Data='0700'/>You're back? You that interested in the
+  view, huh?
+Talk_07: |
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/>Gah!<FontSize Value='100'/>
+  
+  
+  I was NOT just gazing off toward my
+  hometown. Of course not. I'm on the
+  lookout for monsters.
+  ...
+  
+  
+  <3 Type='0' Data='0a00'/>Problem is, when I keep watch from
+  here, I see the<0 Type='3' Data='0000'/> ring-shaped ruins<0 Type='3' Data='ffff'/> in
+  the distance.
+  Just so happens that <0 Type='3' Data='0000'/>Hateno Village<0 Type='3' Data='ffff'/> is
+  out that way, beyond the horizon.
+  
+  <0 Type='3' Data='0200'/><FontSize Value='80'/>Tamana... Teebo... Tell me you're all right...<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>You know <0 Type='3' Data='0000'/>Purah<0 Type='3' Data='ffff'/> will want to see that
+  you're actually back, right? Don't waste
+  time talking to me. Go find her!
+Talk_08: |
+  <3 Type='0' Data='0700'/>My village is indebted to Princess Zelda.
+  
+  
+  I wanted to offer some kind of assistance
+  in return, so I came here.
+  
+  <3 Type='0' Data='0c00'/>But I'm worried sick about my wife and
+  son back in <0 Type='3' Data='0000'/>Hateno Village<0 Type='3' Data='ffff'/>...
+  
+  That's far beyond those <0 Type='3' Data='0000'/>ring-shaped
+  ruins<0 Type='3' Data='ffff'/> in the distance, so I keep looking
+  out that way.
+  <3 Type='0' Data='0b01'/>But I'm keeping proper watch, don't
+  you worry!

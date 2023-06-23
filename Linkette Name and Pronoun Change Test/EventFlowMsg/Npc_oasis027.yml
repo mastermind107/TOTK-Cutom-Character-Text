@@ -1,0 +1,443 @@
+talk0023: |
+  <3 Type='0' Data='0701'/>Oh, you brought the orb.<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0800'/>So you agree that it contains one of the
+  heroines' spirits, right?
+near0002: |
+  What is this place?
+talk0024: |
+  <3 Type='0' Data='0701'/>That...is not the orb I found.<0 Type='4'/><3 Type='0' Data='0800'/>I'm impressed that you tracked down
+  another orb already!<0 Type='4'/><3 Type='0' Data='0701'/>Since you brought it here, I take it you
+  agree with me that the orbs contain the
+  spirits of the heroines.
+near0003: |
+  The sanctuary, hmm?
+talk0039: |
+  <3 Type='0' Data='0800'/>Huh? Linkette? You knew this was my house?<5 Type='1'/>
+  Well, I shouldn't be surprised that such an
+  expert investigator found me.<0 Type='4'/>I'm in the middle of writing up my report
+  about the eighth hero.<0 Type='4'/>I've got all my old documents and field
+  notes from previous expeditions to go off
+  of, to be extra thorough.<0 Type='4'/>This will be a history text they'll teach for
+  ages to come.<0 Type='4'/><3 Type='0' Data='0800'/>And it's co-authored by Rotana and Linkette!
+  You and I will soon be the stars of the
+  archaeological society!
+near0004: |
+  Pretty sure it's this way...
+talk0025: |
+  <3 Type='0' Data='0800'/>Incredible... <5 Type='0'/>It fits perfectly!<5 Type='1'/><0 Type='4'/>I had a feeling, based on the shape, that
+  placing the orb there was the right thing
+  to do.<0 Type='4'/><3 Type='0' Data='0c01'/>But placing one doesn't seem to have
+  had much effect. <5 Type='0'/>Hmmm...<5 Type='1'/><0 Type='4'/>Maybe once we return orbs to <0 Type='3' Data='0000'/>all seven of
+  the heroines<0 Type='3' Data='ffff'/>, we'll see something.<0 Type='4'/><3 Type='0' Data='0800'/>We might even finally meet the <0 Type='3' Data='0000'/>eighth<0 Type='3' Data='ffff'/>
+  of them!<0 Type='4'/>This could turn out to be the biggest
+  discovery in Gerudo history!
+talk0011: |
+  <3 Type='0' Data='0c00'/>But I don't know how we're meant to
+  return the orbs to the statues in the
+  first place.<0 Type='4'/>Even if we had it narrowed down to the
+  Gerudo region, the orbs are small enough
+  to fit anywhere. <5 Type='0'/>Where would we start?
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>This is nearly impossible to solve on
+  my own. <5 Type='1'/>If only I could ask <0 Type='3' Data='0000'/>Patricia<0 Type='3' Data='ffff'/>
+  for a <0 Type='3' Data='0000'/>prophecy<0 Type='3' Data='ffff'/>.<0 Type='4'/>But she's out with Lady Riju right now.<0 Type='4'/>Besides, even if I knew where the orbs
+  belonged, I couldn't get there with the
+  <0 Type='3' Data='0000'/>sand shroud<0 Type='3' Data='ffff'/> in my way.
+talk0026: |
+  <3 Type='0' Data='0b00'/>That was the last orb. <5 Type='0'/>Wasn't it?<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0801'/>This is so exciting! We've returned the
+  spirits to all seven of the heroines!
+talk0012: |
+  <3 Type='0' Data='0c00'/>But I don't know how we're expected
+  to return the orbs to the statues in the
+  first place.<0 Type='4'/>Even if we had it narrowed down to the
+  Gerudo region, the orbs are small enough
+  to fit anywhere. <5 Type='0'/>Where would we start?
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0600530061006400'/>This is nearly impossible to solve on
+  my own. <5 Type='1'/>Maybe I should ask <0 Type='3' Data='0000'/>Patricia<0 Type='3' Data='ffff'/>
+  for a <0 Type='3' Data='0000'/>prophecy<0 Type='3' Data='ffff'/>.<0 Type='4'/>She should be in the <0 Type='3' Data='0000'/>palace courtyard<0 Type='3' Data='ffff'/>,
+  I think.
+talk0027: |
+  <3 Type='0' Data='0b00'/>A hidden room?!<0 Type='4'/>Let's...go inside?<5 Type='1'/>
+talk0013: |
+  <3 Type='0' Data='0c00'/>This has to be the place mentioned on
+  the <0 Type='3' Data='0000'/>six stelae<0 Type='3' Data='ffff'/> where the spirits want to
+  be placed.<0 Type='4'/>Now we just need to figure out <0 Type='3' Data='0000'/>which
+  orb goes with which statue<0 Type='3' Data='ffff'/>...
+talk0028: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c005300610064005f0030003000'/>I'm sorry. In all the excitement, I almost
+  forgot my manners.<0 Type='4'/>We wouldn't have found this hidden room
+  without you. <5 Type='0'/>So you should go in first.
+talk0014: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0300'/><0 Type='3' Data='ffff'/><4 Type='0' Data='0a005400680069006e006b00'/>It would be nice if <0 Type='3' Data='0000'/>Patricia<0 Type='3' Data='ffff'/> had a <0 Type='3' Data='0000'/>prophecy<0 Type='3' Data='ffff'/>
+  for us. But she's out with <0 Type='3' Data='0000'/>Lady Riju<0 Type='3' Data='ffff'/> right
+  now, so no such luck.<0 Type='4'/><3 Type='0' Data='0c01'/>Besides, even if I knew where to get the
+  orbs, I wouldn't want to risk going outside
+  into that <0 Type='3' Data='0000'/>sand shroud<0 Type='3' Data='ffff'/>.<0 Type='4'/>I'm not sure what progress I can make
+  right now...
+talk0029: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='20005100750065007300740069006f006e0053007500720070007200690073006500'/>Hm?
+talk0000: |
+  <3 Type='0' Data='0c00'/>As I thought, this seems to be the place
+  to return the spirits described on the
+  <0 Type='3' Data='0000'/>six stelae<0 Type='3' Data='ffff'/>.
+talk0015: |
+  <3 Type='0' Data='0700'/>I'm eager to investigate such a huge
+  discovery right away, of course, but you
+  were the one who found the hidden room.<0 Type='4'/>So it's fine if you want to go in first.
+  I-I'll be in right after you.
+talk0001: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/><4 Type='0' Data='0600530061006400'/>A good place to start would be searching for other
+  <0 Type='3' Data='0000'/>orbs <0 Type='3' Data='ffff'/>like that one.<0 Type='4'/>Hmm...<5 Type='0'/>maybe it's time to go to <0 Type='3' Data='0000'/>Patricia for a
+  prophecy<0 Type='3' Data='ffff'/>. She should be in the <0 Type='3' Data='0000'/>palace courtyard<0 Type='3' Data='ffff'/>.<FontSize Value='100'/>
+talk0090: |
+  <3 Type='0' Data='0700'/>I can't be certain, but...the <0 Type='3' Data='0000'/>stone stelae<0 Type='3' Data='ffff'/>
+  did seem to have similar drawings
+  on them.<0 Type='4'/>I sincerely believe that the <0 Type='3' Data='0000'/>orbs <0 Type='3' Data='ffff'/>you
+  brought must have been some of the
+  seven heroines' spirits.
+talk0004: |
+  <3 Type='0' Data='0700'/>Every inscription on the stelae starts with,
+  "the seven heroines who protect the
+  Gerudo." After that, it goes...
+  "Their secret will be expressed on
+  six monuments.<0 Type='4'/>"An eighth channels and guides the
+  powers of these seven.<0 Type='4'/>"The powers of the seven are heart,
+  skill, fortitude, wisdom, flight, mobility,
+  and compassion.<0 Type='4'/>"Their power is housed within the
+  seven spirits.<0 Type='4'/>"Their spirits rest within the land of
+  the Gerudo.<0 Type='4'/>"When their powers return to them,
+  the shrouded eighth will be known."
+  That's all six of the inscriptions.<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0c00'/>So to sum it all up...<0 Type='4'/>The eighth directs the powers of the
+  seven—<5 Type='0'/>heart, skill, fortitude, wisdom,
+  flight, mobility, and compassion.<0 Type='4'/>To meet this eighth, we have to return
+  the seven heroines' spirits to them.<0 Type='4'/>And those <0 Type='3' Data='0000'/>spirits<0 Type='3' Data='ffff'/> are each hidden within
+  the Gerudo region.<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0700'/>Does that help?
+talk0019: |
+  <3 Type='0' Data='0700'/>They're some <0 Type='3' Data='0000'/>large ruins <0 Type='3' Data='ffff'/>located just
+  <0 Type='3' Data='0000'/>north<0 Type='3' Data='ffff'/> of Gerudo Town.<0 Type='4'/>Beneath them is a place called the
+  <0 Type='3' Data='0000'/>Gerudo Sanctuary<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0c00'/>I've been there often in my research.
+  Once, I found an entrance leading below
+  ground on the north side, but...<0 Type='4'/>At the time, I couldn't figure out how to
+  get inside.
+talk0005: |
+  <3 Type='0' Data='0700'/>I think I'll return to the <0 Type='3' Data='0000'/>site of the statues
+  of the seven heroines<0 Type='3' Data='ffff'/> to take a last look.<0 Type='4'/>If you're interested, why not come along?
+talk0006: |
+  <3 Type='0' Data='0700'/>I can't be completely certain, but I believe
+  I saw similar images depicted on the
+  <0 Type='3' Data='0000'/>stone stelae<0 Type='3' Data='ffff'/>.<0 Type='4'/>I think that <0 Type='3' Data='0000'/>orb <0 Type='3' Data='ffff'/>that I gave you must be
+  one of the seven heroines' spirits.
+talk0007: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh, are you here to investigate too?
+talk0080: |
+  So...<5 Type='1'/>any moment now...<5 Type='1'/>something
+  should happen...<5 Type='1'/>
+talk0081: |
+  If we're right, then something interesting
+  should happen when we <0 Type='3' Data='0000'/>return the orb<0 Type='3' Data='ffff'/> to
+  a <0 Type='3' Data='0000'/>heroine statue<0 Type='3' Data='ffff'/>.<0 Type='4'/>Could I ask you to try placing the orb <0 Type='3' Data='0000'/>in
+  a statue's hands<0 Type='3' Data='ffff'/>?
+talk0009: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/><4 Type='0' Data='0600530061006400'/>A good place to start would be searching for
+  similar <0 Type='3' Data='0000'/>orbs<0 Type='3' Data='ffff'/>.
+  
+  Hmm...<5 Type='0'/>maybe it's time to go to <0 Type='3' Data='0000'/>Patricia for a
+  prophecy<0 Type='3' Data='ffff'/>. She should be in the <0 Type='3' Data='0000'/>palace courtyard<0 Type='3' Data='ffff'/>.<FontSize Value='100'/>
+talk0082: |
+  If we're right, then something interesting
+  should happen if we <0 Type='3' Data='0000'/>return the orb<0 Type='3' Data='ffff'/> to <0 Type='3' Data='0000'/>a
+  heroine statue<0 Type='3' Data='ffff'/>!<0 Type='4'/><3 Type='0' Data='0800'/>Could I ask you to place the orb <0 Type='3' Data='0000'/>in a
+  statue's hands<0 Type='3' Data='ffff'/>?
+talk0083: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/><4 Type='0' Data='0600530061006400'/>A good place to start would be searching for other
+  <0 Type='3' Data='0000'/>orbs <0 Type='3' Data='ffff'/>like that one.<0 Type='4'/>One of <0 Type='3' Data='0000'/>Patricia's<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>prophecies<0 Type='3' Data='ffff'/> might be what I need
+  here, but she's out with <0 Type='3' Data='0000'/>Lady Riju<0 Type='3' Data='ffff'/> right now.<0 Type='4'/><0 Type='3' Data='0000'/><3 Type='0' Data='0c01'/><0 Type='3' Data='ffff'/>And even if I did know where to find the orbs,
+  I couldn't go get them as long as the <0 Type='3' Data='0000'/>sand shroud<0 Type='3' Data='ffff'/>
+  is in the way. What in the world can we do?<FontSize Value='100'/>
+talk0084: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/><4 Type='0' Data='0600530061006400'/>A good place to start would be searching for other
+  <0 Type='3' Data='0000'/>orbs <0 Type='3' Data='ffff'/>like that one.
+  
+  One of <0 Type='3' Data='0000'/>Patricia's<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>prophecies<0 Type='3' Data='ffff'/> might be what I need
+  here, but she's out with <0 Type='3' Data='0000'/>Lady Riju<0 Type='3' Data='ffff'/> right now.
+  
+  <4 Type='0' Data='0a005400680069006e006b00'/>And even if I did know where to find the orbs,
+  I couldn't go get them as long as the <0 Type='3' Data='0000'/>sand shroud<0 Type='3' Data='ffff'/>
+  is in the way. What in the world can we do?<FontSize Value='100'/>
+talk0085: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Oh...<5 Type='0'/>did you come here to do your
+  own research?<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0c01'/>I see that the orb I gave you earlier is
+  here now.<5 Type='0'/>
+talk0070: |
+  <3 Type='0' Data='0800'/>I knew there was a reason the chief
+  approved of you!<0 Type='4'/>If you find another orb, I'd love it if you
+  carry it back here for me again.
+talk0086: |
+  <3 Type='0' Data='0800'/>Which means you must have carried it
+  here for me!<0 Type='4'/><3 Type='0' Data='0801'/>Nice work.<5 Type='0'/> Voe have their uses, eh?
+talk0071: |
+  <3 Type='0' Data='0700'/>Let's see... <5 Type='0'/>We've got seven of them
+  here now.<0 Type='4'/>And there are seven statues. So if we
+  return all the orbs to the statues,
+  something should happen!<0 Type='4'/>While you're here, <5 Type='0'/>could I ask you to put
+  the orbs in the statues' hands?
+talk0087: |
+  <3 Type='0' Data='0801'/>And that's not the only orb you brought,
+  I see. <5 Type='0'/>This is a big help!
+talk0072: |
+  <3 Type='0' Data='0800'/>Voe do have their uses, don't they?<0 Type='4'/>If you find any more orbs, I'd be thrilled
+  if you bring them here to me!
+talk0088: |
+  <3 Type='0' Data='0700'/>All right. <5 Type='0'/>This is all seven of the orbs.
+  Which means we've restored all seven
+  heroines' spirits.<5 Type='0'/>
+talk0073: |
+  <3 Type='0' Data='0801'/>Oh!<5 Type='0'/> You brought me another orb? Sarqso.<0 Type='4'/>Lugging that thing all the way here must
+  have been tough. You deserve something
+  for working so hard.
+talk0074: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Oh,<5 Type='0'/> did you come for a firsthand look?<5 Type='1'/><0 Type='4'/>If so, you've got great timing! <5 Type='0'/>I just
+  discovered something here.
+talk0089: |
+  <3 Type='0' Data='0800'/>We did it!<5 Type='0'/> If we're correct, then something
+  should happen right...about...now.
+talk0075: |
+  <3 Type='0' Data='0b00'/>What?! <5 Type='0'/>You were already searching for
+  the orbs?<0 Type='4'/><3 Type='0' Data='0801'/>Look at you! <5 Type='0'/>Who knew voe could be
+  so reliable?
+talk0060: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Next time you see me, I'll be the star of
+  the archaeological society!<0 Type='4'/>Well then, sav'orq.
+talk0076: |
+  <3 Type='0' Data='0801'/>Sarqso. <5 Type='0'/>That must've been hard, huh?<5 Type='0'/>
+  Here, let me reward you.
+talk0061: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>"The seven heroines who protect the
+  Gerudo. Their secret will be expressed
+  on six stelae.<0 Type='4'/>"The seven heroines who protect the
+  Gerudo. An eighth channels and guides
+  the powers of these seven.<0 Type='4'/>"The seven heroines protect the Gerudo
+  with the powers of heart, skill, fortitude,
+  wisdom, flight, mobility, and compassion.<0 Type='4'/>"The seven heroines who protect the
+  Gerudo. Their power is housed within
+  the seven spirits.<0 Type='4'/>"The seven heroines who protect the
+  Gerudo. Their spirits rest within the
+  land of the Gerudo.<0 Type='4'/>"The seven heroines who protect the
+  Gerudo. When their powers return to
+  them, the shrouded eighth will be known."<0 Type='4'/>These six stelae set us on our journey to
+  learn the truth...<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0800'/>Hee-hee. <5 Type='0'/>Not a bad way to begin a
+  report, wouldn't you say?
+talk0077: |
+  <3 Type='0' Data='0700'/>If you brought an orb here, you must also
+  believe they house the heroines' spirits.<0 Type='4'/>If we're right, then something should
+  happen once we <0 Type='3' Data='0000'/>return an orb <0 Type='3' Data='ffff'/>to <0 Type='3' Data='0000'/>a
+  heroine statue<0 Type='3' Data='ffff'/>.
+  Hmm. <5 Type='0'/>Could I ask you to try placing an
+  orb <0 Type='3' Data='0000'/>in a statue's hands<0 Type='3' Data='ffff'/>?
+talk0062: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>What I found deep within the place we call
+  our sanctuary was a treasure meant for
+  the eighth hero, along with a final stela.<0 Type='4'/><3 Type='0' Data='0701'/>This part's a bit long, but bear with me,
+  and I'll zip right through it, OK?<0 Type='4'/><3 Type='0' Data='0c00'/>"Long ago, a monstrosity of the sands
+  attacked Gerudo Town. Its war cry rang
+  out over the dunes like a raging demon.<0 Type='4'/>"We seven heroines of the Gerudo—the
+  most stalwart, chosen vai—surged forth
+  to engage it.<0 Type='4'/>"Yet this monstrosity tossed us about like
+  the tumbling weeds. We feared that the
+  proud Gerudo would be extinguished.<0 Type='4'/>"And then...a hero appeared from afar.
+  He marshaled the seven heroines,
+  counseling us to combine our strengths.<0 Type='4'/>"With strength upon strength, we seven
+  routed the monstrosity. We named our
+  benefactor, 'the guiding light of Gerudo.'<0 Type='4'/>"Yet though we had naught but the
+  highest praise for him, he was refused
+  entry into Gerudo Town.<0 Type='4'/>"'Twas Gerudo law that all those like him
+  were barred.<0 Type='4'/>"How hollow our gratitude and praise
+  must have rung in this hero's ears!<0 Type='4'/>"Thus was the link between his people
+  and the Gerudo severed.<0 Type='4'/>"Though we never bequeathed it to him,
+  the gift into which our feelings are bound
+  is enshrined at this sanctuary."<0 Type='4'/><3 Type='0' Data='0701'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Phew, that's all of it. I didn't get any of
+  that wrong, did I?<0 Type='4'/><3 Type='0' Data='0801'/>Anyway, that's the big moment of the
+  third volume.
+talk0078: |
+  <3 Type='0' Data='0700'/>So...<5 Type='0'/>you already tried placing an orb on
+  a heroine statue?<0 Type='4'/>But according to you, nothing happened.<0 Type='4'/><3 Type='0' Data='0c01'/>The shape has me convinced that they
+  belong in the statues' arms.<0 Type='4'/>Guess we'll have to return the orbs to <0 Type='3' Data='0000'/>all
+  seven of the heroines<0 Type='3' Data='ffff'/> before we'll know.<0 Type='4'/><3 Type='0' Data='0800'/>But this means we're one step closer to
+  the truth about our <0 Type='3' Data='0000'/>mysterious eighth<0 Type='3' Data='ffff'/>!<0 Type='4'/>We could be on the verge of the biggest
+  discovery in Gerudo history!
+talk0063: |
+  <3 Type='0' Data='0900'/>"Your choice"?! <5 Type='1'/>You've got a co-author
+  credit on these! You could at least
+  pretend to show some interest!
+0000: |
+  What did they say?
+talk0079: |
+  <3 Type='0' Data='0801'/>That orb you found is a new one, isn't it?<5 Type='0'/>
+  This is a big breakthrough!
+talk0064: |
+  <3 Type='0' Data='0800'/>Sarqso for listening!<0 Type='4'/>Once this is complete, we'll be the toast
+  of the archaeological society!<0 Type='4'/>Hee-hee. I'd better bear down and get
+  it done as soon as I can!
+0001: |
+  Spirits?
+talk0050: |
+  <3 Type='0' Data='0700'/>The giant orb is the key to the
+  North Gerudo Ruins sanctuary...<0 Type='4'/>You know...between the six stone stelae
+  in the shelter and this hidden room,
+  someone worked hard to hide the eighth.<0 Type='4'/>Just what was the big deal?
+talk0065: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Oh?<0 Type='4'/>I thought I'd give you a diamond as your
+  reward, but it won't fit in your pouch.<0 Type='4'/>You did too much work to come away
+  with nothing though. What if you made
+  some room for this and came back later?
+0002: |
+  Goodbye.
+talk0066: |
+  <3 Type='0' Data='0800'/>Have you made some room in your pack?<5 Type='0'/>
+  In that case, consider this yours!
+talk0051: |
+  <3 Type='0' Data='0800'/>My research report has expanded into
+  a grand trilogy.<0 Type='4'/>Do you want to hear some excerpts?<5 Type='0'/>
+  What am I saying. Of course you do.<0 Type='4'/>Which volume do you want to hear about?
+0003: |
+  North Gerudo Ruins?
+talk0052: |
+  <3 Type='0' Data='0700'/>Good idea. Going back to square one is
+  sometimes the only way to get anywhere.
+talk0067: |
+  <3 Type='0' Data='0700'/>Listen, I went all-out and splurged on
+  a diamond as thanks for helping with
+  my research.<0 Type='4'/>The least you can do is meet me halfway
+  and make some room for it!<0 Type='4'/>Come speak to me again once you've
+  made some room in your belongings for,
+  I remind you, an extremely valuable gem.
+talk0068: |
+  <3 Type='0' Data='0700'/>I can't be certain, but...the <0 Type='3' Data='0000'/>stone stelae<0 Type='3' Data='ffff'/>
+  did seem to have similar drawings
+  on them.<0 Type='4'/>I sincerely believe that the <0 Type='3' Data='0000'/>orb <0 Type='3' Data='ffff'/>you
+  brought must have been one of the
+  seven heroines' spirits.
+talk0053: |
+  <3 Type='0' Data='0800'/>I'm going to entrust the task to you!<0 Type='4'/>You only have to <0 Type='3' Data='0000'/>carry <0 Type='3' Data='ffff'/>it a little ways, up
+  to the <0 Type='3' Data='0000'/>North Gerudo Ruins<0 Type='3' Data='ffff'/>. It should be
+  no trouble for you!<0 Type='4'/>Do this much for me, and I'll consider
+  you a full research partner.<0 Type='4'/>The truth about our mystery eighth will be
+  something you and I uncover together!
+talk0069: |
+  <3 Type='0' Data='0801'/>Oh!<5 Type='0'/> You brought me another orb? Sarqso.<0 Type='4'/>You deserve something for the trouble
+  you went to carrying it all the way here.<0 Type='4'/><3 Type='0' Data='0700'/>Will this do?
+0005: |
+  Six stone stelae?
+talk0054: |
+  <3 Type='0' Data='0701'/>This is why I rely on you.
+talk0040: |
+  <3 Type='0' Data='0c00'/>There might be nothing for it but to meet
+  with <0 Type='3' Data='0000'/>Patricia<0 Type='3' Data='ffff'/>—Lady Riju's pet sand seal—
+  and hope her <0 Type='3' Data='0000'/>prophecies <0 Type='3' Data='ffff'/>steer me right.<0 Type='4'/>She should be in the <0 Type='3' Data='0000'/>palace courtyard<0 Type='3' Data='ffff'/>.
+  Patricia, I mean. Not Lady Riju.
+talk0055: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>What? <5 Type='0'/>You found your way into
+  the sanctuary?!<0 Type='4'/>So that giant orb was the key after all.<5 Type='1'/>
+  Well? <5 Type='0'/>Did you learn anything about our
+  mystery eighth?
+0006: |
+  The Hidden Truth.
+talk0041: |
+  <3 Type='0' Data='0700'/>Something is supposed to happen when
+  a heroine's spirit is returned to its statue.<0 Type='4'/>Hey, why don't you try putting an orb <0 Type='3' Data='0000'/>in
+  a statue's hands<0 Type='3' Data='ffff'/>?
+TerrorImpulse: |
+  Stop messing around!
+0007: |
+  The Buried Secret.
+talk0056: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Once we returned the spirits to all seven
+  heroines,<5 Type='0'/> the ground shook, and a hidden
+  room appeared.<0 Type='4'/>"Our hearts are full with gratitude and
+  praise for the one who saw in us all that
+  we could be.<0 Type='4'/>"We have enshrined an appropriate gift in
+  the sanctuary at North Gerudo Ruins.<0 Type='4'/>"The outsized orb near the eighth statue
+  shall be the key that opens the way."<0 Type='4'/>Tucked away in that room was a key that
+  would guide us to a long-hidden truth.<0 Type='4'/><3 Type='0' Data='0800'/>Nice, eh? <5 Type='0'/>That's how the second volume
+  kicks off!
+talk0042: |
+  <3 Type='0' Data='0700'/>If what's written on those six stone stelae
+  is true, then this is a good sign.<0 Type='4'/>Once we return the orbs to <0 Type='3' Data='0000'/>all seven
+  heroine statues<0 Type='3' Data='ffff'/>, we should be on the
+  right track to learning about the <0 Type='3' Data='0000'/>eighth<0 Type='3' Data='ffff'/>!<0 Type='4'/>Based on their shape, I have no doubt
+  that the orbs need to be placed on the
+  stone statues here.
+talk0057: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>What? <5 Type='1'/>The eighth was a voe?<5 Type='1'/>
+  Is that true?!<0 Type='4'/>Sa'oten... <5 Type='1'/>If you asked me what I thought
+  the truth would turn out to be, I'd never
+  have guessed THIS.<5 Type='1'/><0 Type='4'/>To say that what we learned here will
+  upend what we know of Gerudo history
+  is an understatement.<0 Type='4'/><3 Type='0' Data='0800'/>I've got to write up these findings as soon
+  as I can! <5 Type='1'/>Don't worry, I'll mention your
+  contributions as well!<0 Type='4'/>Uh...<5 Type='1'/>hang on.<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>What name should I credit you as?
+0008: |
+  The Deep Sanctum.
+talk0043: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh, you're back again. <5 Type='0'/>You really mean
+  to see this through, don't you?
+talk0058: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Huh? <5 Type='0'/>What happened to that big orb?
+0009: |
+  Your choice.
+talk0059: |
+  <3 Type='0' Data='0800'/>Linkette, eh? That's a funny coincidence.<0 Type='4'/>Must be nice, having the same name as
+  Princess Zelda's favored swordsman.<0 Type='4'/>I'll write this report up nice and thorough.
+  I know you're excited to read it!<0 Type='4'/>Oh! <5 Type='0'/>Before I forget, this is your reward!
+talk0030: |
+  <3 Type='0' Data='0400'/>Huh?<0 Type='4'/>I can't help but notice that...<5 Type='1'/>nothing
+  is happening...<5 Type='1'/>
+talk0045: |
+  <3 Type='0' Data='0b00'/>Hey! I know I told you to go in first...<0 Type='4'/>But give me a chance to have a proper
+  look around before you go messing with
+  anything in there.<0 Type='4'/>There's something that looks like a <0 Type='3' Data='0000'/>stone
+  stela<0 Type='3' Data='ffff'/> in the back. That seems like a good
+  place for us to start.
+talk0031: |
+  <3 Type='0' Data='0c00'/>Hmm. I'm still certain that the orbs are
+  their spirits, and that we need to return
+  them to the heroine statues.<0 Type='4'/>That means there's something else we
+  haven't figured out. <5 Type='1'/>Could the <0 Type='3' Data='0000'/>patterns<0 Type='3' Data='ffff'/>
+  on the orbs have anything to do with it?
+talk0046: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>It should be fine to come inside now,
+  right? <5 Type='1'/>I want to get a better look at that
+  stone stela!
+talk0032: |
+  <3 Type='0' Data='0b00'/>Hang on a minute!
+talk0047: |
+  <3 Type='0' Data='0c00'/>Hmm... <5 Type='1'/>I see.<0 Type='4'/>The North Gerudo Ruins sanctuary...<5 Type='1'/>
+  It says the giant orb is the key?
+talk0033: |
+  <3 Type='0' Data='0b01'/>Hey...does the ground feel to you like
+  it's shaking?!
+talk0048: |
+  <3 Type='0' Data='0700'/>Except... <5 Type='1'/>I'd have to carry that thing.<0 Type='4'/><3 Type='0' Data='0a01'/>And I got into archaeology to look at
+  things, not carry them.<5 Type='1'/>
+talk0049: |
+  <3 Type='0' Data='0700'/>They're <0 Type='3' Data='0000'/>some large ruins <0 Type='3' Data='ffff'/>located just
+  <0 Type='3' Data='0000'/>north<0 Type='3' Data='ffff'/> of Gerudo Town.<0 Type='4'/>Beneath them is a place called the
+  <0 Type='3' Data='0000'/>Gerudo Sanctuary<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0c01'/>I've been there often in my research.
+  Once, I found an entrance leading below
+  ground on the north side, but...<0 Type='4'/>At the time, I couldn't figure out how to
+  get inside. <5 Type='1'/>Now though...<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0b00'/>I think this large orb might be the key
+  that opens the way beneath!<5 Type='1'/><0 Type='4'/>And...<5 Type='1'/>if I'm right...<0 Type='4'/>The truth about the mysterious eighth,
+  which no one has ever learned before,
+  will finally come to light!
+talk0035: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Eek! <5 Type='1'/>Th— <5 Type='0'/>The floor is moving!<5 Type='1'/><0 Type='4'/>Quick, over here!
+near0000: |
+  The spirits go here...
+talk0021: |
+  <3 Type='0' Data='0c00'/>I'm still certain that the orbs are their
+  spirits, and that we need to return them
+  to the heroine statues.<0 Type='4'/>That means there's something else we
+  haven't figured out. <5 Type='1'/>Could the <0 Type='3' Data='0000'/>patterns<0 Type='3' Data='ffff'/>
+  on the orbs have anything to do with it?
+talk0036: |
+  <3 Type='0' Data='0800'/>That orb was the last one, right? Now all
+  seven heroines have their spirits back!<0 Type='4'/>Brace yourself—we have no idea what
+  might happen next!

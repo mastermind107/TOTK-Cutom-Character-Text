@@ -1,0 +1,558 @@
+near0002: |
+  This is so much cleaner.
+talk0023: |
+  <3 Type='0' Data='0701'/>Anyway, I'll get back to clean—
+talk0038: |
+  <3 Type='0' Data='0101'/>I don't need any of this stuff, so feel free
+  to take whatever you want!
+talk0039: |
+  <3 Type='0' Data='0401'/>Hm? <4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/><5 Type='0'/>Oh, I forgot about those!<5 Type='0'/><0 Type='4'/>The stable association sent us those
+  frames a while back.<0 Type='4'/><4 Type='0' Data='0c005300610064005f0030003000'/>They just sorta got buried under all
+  the junk.
+talk0027: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Er, wait, uh— Huh?! All that junk
+  is...<5 Type='1'/>gone?
+Photo_10: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>If you need a place to rest your head,
+  you should head back out of here and go
+  <0 Type='3' Data='0000'/>west <0 Type='3' Data='ffff'/>until you find <0 Type='3' Data='0000'/>Kara Kara Bazaar<0 Type='3' Data='ffff'/>.
+  It's a long walk, but you can make it a
+  short ride if you rent some <0 Type='3' Data='0000'/>transportation<0 Type='3' Data='ffff'/>
+  at the desert entrance.
+  <3 Type='0' Data='0301'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>As for my tidying, well... I keep finding
+  stuff that brings back memories and
+  letting my mind wander.
+  This stable and I are old friends, though,
+  so I want to make sure I get it cleaned up
+  and looking nice.
+talk0028: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>Sorry, but I need to focus on cleaning this
+  place up for now...
+Photo_11: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Is there anything I can help you with?
+9001: |
+  Here's a picture.
+Change_Photo_1: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>So, <5 Type='0'/>did you want to do something with
+  that <0 Type='3' Data='0000'/>smiling Spectacle Rock picture<0 Type='3' Data='ffff'/>?
+talk0029: |
+  <3 Type='0' Data='0801'/>I sort of let the junk pile build and build
+  until it blocked the entrance, which was
+  a real problem.
+  <3 Type='0' Data='0101'/>There's still some work to be done, but
+  thanks to you, I can get out of this place.
+  
+  That said, given that I'm wearing the
+  uniform and this stable's still standing...
+  would you be my final customer?
+Photo_12: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>I like the enthusiasm, but you don't seem
+  to have the pictures I'm looking for.
+9002: |
+  Gotta go.
+Change_Photo_2: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Ah, <5 Type='0'/>any thoughts about that <0 Type='3' Data='0000'/>picture of
+  the giant sword<0 Type='3' Data='ffff'/>?
+talk0000: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Oh! Um... <5 Type='1'/>G-good job making it in here.
+9003: |
+  Nothing to see here.
+talk0001: |
+  <3 Type='0' Data='0301'/>I mean, it's impressive that you came all
+  this way, but the stable has closed its
+  doors for good.
+  Thanks to this <0 Type='3' Data='0000'/>extreme weather<0 Type='3' Data='ffff'/>, almost
+  no one rides through here. We get very
+  few visitors of any sort.
+  <3 Type='0' Data='0a01'/>Making things worse, <0 Type='3' Data='0000'/>Princess Zelda<0 Type='3' Data='ffff'/> gave
+  the order that everyone had to stay away
+  from our well.
+  But we need that water, not to mention
+  the <0 Type='3' Data='0000'/>mushrooms<0 Type='3' Data='ffff'/> that grow inside it...<5 Type='0'/>
+  
+  <FontSize Value='80'/><3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003100'/>"It's only temporary—it'll help," she said. "I'll
+  be right back to fix it," she said.<5 Type='0'/> And then she
+  completely abandoned us...<FontSize Value='100'/>
+talk0003: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Y-you're saying Princess Zelda sealed the
+  well to keep monsters from coming out of
+  it? <5 Type='0'/>To save the stable?!
+  <3 Type='0' Data='0a01'/>I'm ashamed of myself for even imagining
+  that she would abandon us. She really did
+  have our best interests at heart.
+  <3 Type='0' Data='0301'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Come to think of it, we did have a surge in
+  monster sightings after building the well
+  that only ended once it was sealed off...
+  <3 Type='0' Data='0701'/>But I was so busy cleaning out the stable,
+  I never even considered that they might
+  be connected.
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Thank you for looking into it for me.<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0101'/>Next time I see Princess Zelda, I'll be sure
+  to thank her too!
+Photo_01: |
+  Property of the Stable Association.
+  Please do not touch.
+  　　                                   -Stable Owner
+9006: |
+  Let's swap the picture.
+talk0004: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>It's nice to have a guest again. <5 Type='0'/>Even if,
+  like I told you, this stable is officially no
+  longer in operation.
+  <3 Type='0' Data='0301'/>Thanks to this <0 Type='3' Data='0000'/>extreme weather<0 Type='3' Data='ffff'/>, almost
+  no one rides through here. We get very
+  few visitors of any sort.<5 Type='0'/>
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003100'/>Making things worse, <0 Type='3' Data='0000'/>Princess Zelda <0 Type='3' Data='ffff'/>gave
+  the order that everyone had to stay away
+  from our well.
+  But we need that water, not to mention
+  the <0 Type='3' Data='0000'/>mushrooms<0 Type='3' Data='ffff'/> growing inside it...
+  
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/>"It's only temporary—it'll help," she said. "I'll
+  be right back to fix it," she said.<5 Type='0'/> And then she
+  completely abandoned us...<FontSize Value='100'/>
+Photo_02: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Oh, Linkette,<5 Type='0'/> did that <0 Type='3' Data='0000'/>picture frame<0 Type='3' Data='ffff'/> pique
+  your curiosity?
+9007: |
+  Looks good to me.
+TerrorImpulse_00: |
+  What's all the ruckus?
+talk0005: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Whoa, huh? All that junk is just...<5 Type='1'/>gone?
+Photo_03: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Thanks to you, I've put up pictures of
+  both smiling Spectacle Rock and the
+  Forgotten Sword.
+  Having to close the stable down had me
+  feeling blue, but these pictures have given
+  me courage and a smile.
+  <3 Type='0' Data='0801'/>If the day ever comes when I have to
+  leave this place, I'm tucking one under
+  each arm before I walk out the door!
+TerrorImpulse_01: |
+  Careful, now!
+talk0006: |
+  <3 Type='0' Data='0401'/>I wasn't sure what you were up to, truth
+  be told, but clearly it was all part of
+  masterfully removing that junk!
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>You saved me! Thank you!
+TerrorImpulse_02: |
+  Wh-whoa!
+Photo_05: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Really?! You brought me both of the
+  pictures I wanted?
+  
+  <3 Type='0' Data='0001'/>So, which one do I get to see first? <5 Type='0'/>
+  <0 Type='3' Data='0000'/>The grin on Spectacle Rock<0 Type='3' Data='ffff'/> or <0 Type='3' Data='0000'/>that
+  massive sword<0 Type='3' Data='ffff'/>?
+Photo_06: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>You're back! You're really back! Oh, it's
+  good to see another face around here.
+  Thank you so much!
+  <3 Type='0' Data='0101'/>Now, how can I help?
+7001: |
+  Let's frame a picture!
+talk0009: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Anything else? <5 Type='0'/>If you want to stay the
+  night somewhere, I recommend you try
+  your luck at <0 Type='3' Data='0000'/>Kara Kara Bazaar<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0701'/>You'll find it if you head out of here, look
+  <0 Type='3' Data='0000'/>west<0 Type='3' Data='ffff'/>, and just keep going and going.
+  
+  It's a bit of a hike, but if you can find
+  some <0 Type='3' Data='0000'/>transportation<0 Type='3' Data='ffff'/> at the desert's
+  entrance, you can get there in a flash.
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>As for me, I've got a mountain of junk to
+  clear out of here, so I should get back to
+  it. <5 Type='0'/>Otherwise, I'll never be able to leave...
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/>Let's just hope I can figure out something to <0 Type='3' Data='0000'/>do<0 Type='3' Data='ffff'/>
+  with it all...<5 Type='0'/><FontSize Value='100'/>
+7002: |
+  The happy rock.
+Photo_07: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0a005400680069006e006b00'/>Like I said, this stable's done for.
+  
+  
+  <3 Type='0' Data='0301'/>With this <0 Type='3' Data='0000'/>wild weather<0 Type='3' Data='ffff'/>, we're not getting
+  any visitors here whatsoever. I've got
+  no choice but to close things down.
+7003: |
+  The big sword.
+Photo_08: |
+  <3 Type='0' Data='0701'/>So if you need a place to stay, I suggest
+  you head out that door and go <0 Type='3' Data='0000'/>west <0 Type='3' Data='ffff'/>until
+  you find <0 Type='3' Data='0000'/>Kara Kara Bazaar<0 Type='3' Data='ffff'/>.
+  It's a long walk, but if you can rent some
+  <0 Type='3' Data='0000'/>transportation<0 Type='3' Data='ffff'/> at the desert's entrance,
+  you'll get there in no time flat.
+  <3 Type='0' Data='0301'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>As for my tidying, well... I keep finding
+  stuff that brings back memories and
+  letting my mind wander.
+  This stable and I are old friends, though,
+  so I want to make sure I get it cleaned up
+  and looking nice.
+Com_Photo_20: |
+  <3 Type='0' Data='0101'/>So this is the giant sword, huh? It's so
+  much bigger than I ever imagined!
+  
+  <4 Type='0' Data='12004c00610075006700680053005f0030003000'/>I knew it was out there, but finally getting
+  my eyes on it... Wow, just wow!
+7004: |
+  See you around.
+Photo_09: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003100'/>On top of everything else, <0 Type='3' Data='0000'/>Princess Zelda<0 Type='3' Data='ffff'/>
+  gave the order that everyone had to stay
+  away from our well.
+  But we need that water, not to mention
+  the <0 Type='3' Data='0000'/>mushrooms <0 Type='3' Data='ffff'/>growing inside of it.
+  
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/>"It's only temporary—it'll help," she said. "I'll
+  be right back to fix it," she said.<5 Type='0'/> And then she
+  completely abandoned us...<FontSize Value='100'/>
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003000'/>Whoops, <5 Type='0'/>there I go, letting my despair
+  crush me again. <5 Type='1'/>Anyway, if you need a
+  place to stay...
+  <3 Type='0' Data='0701'/>I recommend you walk out that door,
+  turn <0 Type='3' Data='0000'/>west<0 Type='3' Data='ffff'/>, and keep going until you find
+  yourself at <0 Type='3' Data='0000'/>Kara Kara Bazaar<0 Type='3' Data='ffff'/>.
+  It's a long haul, but if you can rent some
+  <0 Type='3' Data='0000'/>transportation<0 Type='3' Data='ffff'/> at the desert's entrance,
+  you'll get there in no time flat.
+  <3 Type='0' Data='0301'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>As for my tidying, well... I keep finding
+  stuff that brings back memories and
+  letting my mind wander.
+  This stable and I are old friends, though,
+  so I want to make sure I get it cleaned up
+  and looking nice.
+Com_Photo_21: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>There are all sorts of rumors about that
+  sword. Nobody knows who made it, when
+  it came from, or how it was used.
+  Some even think that it was wielded in
+  battle. But who could be big enough to
+  swing something like that around?
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/>Maybe when I close this stable for good, I should
+  take a trip to see the sword in person...<FontSize Value='100'/>
+  
+  <3 Type='0' Data='0301'/>Oh, sorry, <5 Type='0'/>got lost in thought there.
+Com_Photo_22: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Wow! With two great pictures, <5 Type='0'/>this stable
+  is practically a museum!
+ClearTerrorEnemy_01: |
+  Good grief...
+Com_Photo_24: |
+  <3 Type='0' Data='0a01'/><FontSize Value='80'/>If only I had beds for any visitors...<FontSize Value='100'/>
+Com_Photo_10: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>I gotta say,<5 Type='0'/> looking at that picture always
+  puts a grin on my face.
+Com_Photo_12: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>It turns out the Stable Association sent
+  me two frames by mistake.<5 Type='0'/><0 Type='4'/><3 Type='0' Data='0301'/>Kind of ironic, given we're about to close.<0 Type='4'/><3 Type='0' Data='0001'/>But far be it from me to look a gift horse
+  in the mouth. I might as well use the other
+  frame to bid the stable farewell in style.
+  <3 Type='0' Data='0801'/>I think a picture of the <0 Type='3' Data='0000'/>giant sword <0 Type='3' Data='ffff'/>stuck
+  into <0 Type='3' Data='0000'/>a peak in the Gerudo Highlands <0 Type='3' Data='ffff'/>is
+  the neat goodbye this stable deserves.<0 Type='3' Data='0000'/>
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0a005400680069006e006b00'/><0 Type='3' Data='ffff'/>It's just northwest of here, <5 Type='0'/>but I won't be
+  able to go see it. I have cleaning to do.<0 Type='4'/><FontSize Value='80'/>Besides, it's COLD in the Gerudo Highlands...<0 Type='4'/><3 Type='0' Data='0301'/><FontSize Value='100'/>Even a copied picture of the <0 Type='3' Data='0000'/>giant sword<0 Type='3' Data='ffff'/>
+  would liven up this old place.
+Com_Photo_13: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>What's that?<5 Type='0'/> You have a <0 Type='3' Data='0000'/>picture of the
+  giant sword<0 Type='3' Data='ffff'/>?!
+TerrorFire_01: |
+  That's hot!
+Com_Photo_14: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>I'd like to give this stable an appropriately
+  cool farewell by putting something really
+  exciting in that frame.
+  <3 Type='0' Data='0801'/>And just northwest of here, there's a <0 Type='3' Data='0000'/>giant
+  sword<0 Type='3' Data='ffff'/> sticking out of <0 Type='3' Data='0000'/>a mountain peak in
+  the Gerudo Highlands<0 Type='3' Data='ffff'/>! It'd be perfect!<5 Type='0'/>
+  <3 Type='0' Data='0c01'/>Unfortunately, <5 Type='0'/>there's no way I'll ever be
+  able to go see it. I need to clean the
+  stable, and it's COLD in those highlands.
+TerrorFire_02: |
+  Yikes!
+Com_Photo_15: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>I wish I had a picture of that <0 Type='3' Data='0000'/>huge sword<0 Type='3' Data='ffff'/>
+  stuck into the peak of <0 Type='3' Data='0000'/>the mountain in
+  the Gerudo Highlands<0 Type='3' Data='ffff'/>.
+  This stable deserves to have something
+  neat on its wall to see it off, y'know?
+Com_Photo_01: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>I was so focused on cleaning up, I
+  completely forgot about these frames
+  the Stable Association sent me!
+  <3 Type='0' Data='0501'/>I owe this stable a lot. After all the good
+  years it's given me, I'd like to put up
+  something nice so it can go out in style.
+  <3 Type='0' Data='0001'/>Y'know, I heard an interesting story from
+  a Rito traveler who stopped by here once.<0 Type='4'/><3 Type='0' Data='0101'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>There's this local attraction nearby—
+  <5 Type='0'/>Spectacle Rock.<5 Type='0'/> Just check your <0 Type='3' Data='0000'/>map<0 Type='3' Data='ffff'/>.
+  The place is famous!
+  And this traveler told me that while they
+  were flying <0 Type='3' Data='0000'/>over Spectacle Rock<0 Type='3' Data='ffff'/>, they
+  glanced down and saw it <0 Type='3' Data='0000'/>smiling<0 Type='3' Data='ffff'/>!
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>That's what I want to frame. <5 Type='0'/>What could
+  be better than sending the stable off with
+  a smile?
+  <3 Type='0' Data='0a01'/>It's just a shame that I can't fly to capture
+  that view for myself.<0 Type='4'/><3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>But if I had even a picture of the <0 Type='3' Data='0000'/>smiling
+  Spectacle Rock<0 Type='3' Data='ffff'/>, I could copy it for the
+  frame and cheer things up in here!
+Com_Photo_16: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Oh?<5 Type='0'/> Did you bring me a <0 Type='3' Data='0000'/>drawing of the
+  giant sword<0 Type='3' Data='ffff'/>?
+talk0050: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>They're even nicer than I thought!<0 Type='4'/><3 Type='0' Data='0c01'/>Maybe a little art on the walls would be
+  nice, just so the stable's final days don't
+  have to be so lonely...
+Com_Photo_02: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>What's that?<5 Type='0'/> You have a <0 Type='3' Data='0000'/>picture of the
+  smiling Spectacle Rock<0 Type='3' Data='ffff'/>?!
+Com_Photo_17: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>If only I had a <0 Type='3' Data='0000'/>picture of the giant sword<0 Type='3' Data='ffff'/>
+  to look at, I could just copy it!
+talk0051: |
+  <FontSize Value='80'/><FontSize Value='100'/><3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003000'/>Sorry, sorry. There I go, getting all blue
+  again. <5 Type='0'/>Anyway, if you're looking for a
+  place to rest your head...
+  <3 Type='0' Data='0001'/>I recommend <0 Type='3' Data='0000'/>Kara Kara Bazaar<0 Type='3' Data='ffff'/>. Just head
+  out of here, point yourself <0 Type='3' Data='0000'/>west<0 Type='3' Data='ffff'/>, then
+  keep going until you stumble onto it.<FontSize Value='80'/>
+  <FontSize Value='100'/>It's a bit of a hike, but if you can find
+  some <0 Type='3' Data='0000'/>transportation<0 Type='3' Data='ffff'/> at the desert's
+  entrance, you can get there in a flash.<FontSize Value='80'/>
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0e0045006100730065005f0030003000'/><FontSize Value='100'/>As for me, I've got a mountain of junk to
+  clear out of here, so I should get back to
+  it. Otherwise, I'll never be able to leave!
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/>Not that I know what to <0 Type='3' Data='0000'/>do<0 Type='3' Data='ffff'/> with it all...<FontSize Value='100'/>
+Com_Photo_03: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='1200570061006b006500750070005f0030003100'/>I'd like to send this stable off with a smile,<5 Type='0'/>
+  and the best way to do that is to put up a
+  picture of <0 Type='3' Data='0000'/>Spectacle Rock smiling<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0101'/><0 Type='3' Data='0000'/>Spectacle Rock<0 Type='3' Data='ffff'/> is a local attraction. <5 Type='0'/>You'll
+  find it on your <0 Type='3' Data='0000'/>map<0 Type='3' Data='ffff'/>! <5 Type='0'/>And when seen from
+  <0 Type='3' Data='0000'/>above<0 Type='3' Data='ffff'/>, it apparently looks like it's smiling.
+  <3 Type='0' Data='0c01'/>I wish I could fly like a Rito.<5 Type='0'/> Then I could
+  capture the sight on canvas and bring a
+  little happiness to these walls.
+Com_Photo_18: |
+  <3 Type='0' Data='0801'/>This is a great picture, but if you happen
+  to have <0 Type='3' Data='0000'/>one of the giant sword<0 Type='3' Data='ffff'/>, I'd love to
+  see it!
+talk0052: |
+  <FontSize Value='80'/><3 Type='0' Data='0301'/><FontSize Value='100'/>Oh, sorry about that. The sadness just<5 Type='0'/>
+  gets to me sometimes...<5 Type='1'/> Anyway, if you're
+  looking for a place to rest...
+  I recommend <0 Type='3' Data='0000'/>Kara Kara Bazaar<0 Type='3' Data='ffff'/>! Just head
+  out of here, turn <0 Type='3' Data='0000'/>west<0 Type='3' Data='ffff'/>, keep going for a
+  whiiile, and there you'll find it.<FontSize Value='80'/>
+  <FontSize Value='100'/>It's a bit of a hike, but if you can find
+  some <0 Type='3' Data='0000'/>transportation<0 Type='3' Data='ffff'/> at the desert's
+  entrance, you can get there in no time.<FontSize Value='80'/><FontSize Value='100'/>
+Com_Photo_04: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Wait, really?!<5 Type='0'/> Did you seriously bring me
+  a <0 Type='3' Data='0000'/>picture of the smiling Spectacle Rock<0 Type='3' Data='ffff'/>?!
+Com_Photo_19: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c005300610064005f0030003000'/>So it's called "the Forgotten Sword"?
+  Even abandoned in a harsh land, it still
+  cuts an imposing figure...<5 Type='0'/>
+  <3 Type='0' Data='0801'/>And so do I! There's fight in me yet!<5 Type='0'/><0 Type='4'/>If you've got <0 Type='3' Data='0000'/>pictures of the giant sword<0 Type='3' Data='ffff'/>,
+  show 'em to me, and I'll copy and display
+  whichever you want!
+  Just let me know if you want to swap out!
+talk0053: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>As for me, I've got a mountain of junk to
+  clear out, so I'll get back to it. <5 Type='0'/>Can't leave
+  a mess when I close things down.
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/>But just how am I going to <0 Type='3' Data='0000'/>deal<0 Type='3' Data='ffff'/> with all this stuff?<FontSize Value='100'/>
+Com_Photo_05: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003000'/>I'd even be fine seeing someone else's
+  painting of <0 Type='3' Data='0000'/>the smiling Spectacle Rock<0 Type='3' Data='ffff'/>.
+  That way, I could at least copy it!
+Com_Photo_Thank_00: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Now that I've got this awesome <0 Type='3' Data='0000'/>picture of
+  the giant sword<0 Type='3' Data='ffff'/> on the wall, the stable
+  itself feels happier!
+  Thank you, truly!
+Com_Photo_06: |
+  <3 Type='0' Data='0801'/>If you happen to have a picture of <0 Type='3' Data='0000'/>the
+  smiling Spectacle Rock<0 Type='3' Data='ffff'/>, I'd be really glad
+  if you showed it to me!
+talk0040: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1c0055006e0063006f006e007300630069006f00750073005f0030003000'/>Um, sir...<5 Type='1'/> That is quite the outfit you have
+  on. <5 Type='1'/>Or...don't have on, as it were.
+Com_Photo_07: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>Yes...<5 Type='0'/> Yes, I knew this sight would be just
+  the thing to cheer me up! <5 Type='0'/>Reminds me of
+  when this place was full of smiles.
+  Still, if you ever have a different picture
+  of <0 Type='3' Data='0000'/>Spectacle Rock smiling<0 Type='3' Data='ffff'/>, I'd be happy to
+  copy it down and put it up instead.
+  <3 Type='0' Data='0801'/>Just let me know when you want to see
+  something else in this lovely frame!
+Com_Photo_Thank: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>You brought a smile to my stable wall and
+  to my face as well!
+  
+  Now I feel like I can finally finish cleaning
+  this place up. Thank you!
+talk0041: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>You came back! <5 Type='0'/>Thank you! <5 Type='0'/>I mean, the
+  stable still isn't in operation, but it's nice
+  to see a friendly face.
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0301'/><0 Type='3' Data='ffff'/>Thanks to this <0 Type='3' Data='0000'/>extreme weather<0 Type='3' Data='ffff'/>, almost
+  no one rides through here. We get very
+  few visitors of any sort.
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003100'/>Making things worse, <0 Type='3' Data='0000'/>Princess Zelda<0 Type='3' Data='ffff'/> gave
+  the order that everyone had to stay away
+  from our well.
+  But we need that water, not to mention
+  the <0 Type='3' Data='0000'/>mushrooms<0 Type='3' Data='ffff'/> growing inside it.
+  
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/>"It's only temporary—it'll help," she said. "I'll
+  be right back to fix it," she said.<5 Type='0'/> And then she
+  completely abandoned us...<FontSize Value='100'/>
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003000'/>Sorry, sorry. <5 Type='0'/>I just get...sad sometimes
+  lately. <5 Type='1'/>Anyway, if you're looking for a
+  place to rest your head...
+  I'd give <0 Type='3' Data='0000'/>Kara Kara Bazaar <0 Type='3' Data='ffff'/>a try. If you
+  head out of here, turn <0 Type='3' Data='0000'/>west<0 Type='3' Data='ffff'/>, and keep
+  going and going, you'll find it in time.
+  It's a bit of a hike, but if you can find
+  some <0 Type='3' Data='0000'/>transportation<0 Type='3' Data='ffff'/> at the desert's
+  entrance, you can get there in a flash.
+  <3 Type='0' Data='0301'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>As for my tidying, well... I found some
+  stuff that brought back memories, and my
+  progress ground to a nostalgic halt.
+  I mean, this stable's like an old friend of
+  mine. If I clean it up, I want to clean it up
+  right. Give it the proper respect, y'know?
+Com_Photo_08: |
+  <3 Type='0' Data='0101'/>It really does look like it's smiling!<5 Type='0'/>
+  Hee-hee...<5 Type='0'/> Every time I look at it,
+  I smile too!
+  <4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Things got a little lonely around here once
+  the stable closed, but having this here
+  makes me feel all warm and fuzzy inside.
+talk0042: |
+  <3 Type='0' Data='0801'/>In the form of <0 Type='3' Data='0000'/>one Pony Point<0 Type='3' Data='ffff'/>!
+Com_Photo_09: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>That Rito traveler said they saw <0 Type='3' Data='0000'/>Spectacle
+  Rock<0 Type='3' Data='ffff'/> wearing a big <0 Type='3' Data='0000'/>smile<0 Type='3' Data='ffff'/>.<0 Type='4'/>I'd love to hang that grin up on my wall
+  and bring a little light to this place.
+talk0043: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>You're up and about awfully early.
+talk0044: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>Fancy seeing you up and about. Not the
+  type to set with the sun, are you?
+talk0045: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>Bit of a night owl, aren't you?
+talk0030: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>OK! Welcome to Gerudo Canyon Stable!
+  You, sir, have the honor of being the very
+  last guest this stable will ever have!
+  And that, dear customer, deserves
+  commemoration...
+talk0046: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Oh? <5 Type='0'/>You're...not actually a stable
+  association member?<5 Type='0'/><0 Type='4'/><3 Type='0' Data='0301'/>Yeah, I can see how the Pony Point thing
+  could be confusing. It was going to be
+  your reward for helping me clean...
+  <3 Type='0' Data='0001'/>But you can't earn Pony Points until
+  you've registered at another stable. <5 Type='0'/>Come
+  back and get your point once you do!
+talk0032: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Whoa, what? Is the massive pile of junk
+  getting less...<5 Type='1'/>massive?
+talk0047: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Hey, it looks like you're now officially a
+  member! Allow me to offer you thanks for
+  helping me finally clean this stable, then.
+talk0033: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Well, that appears to be the end of my
+  time as a stablehand.<5 Type='0'/>
+  
+  <3 Type='0' Data='0801'/>It's been a pleasure, sir, and I sincerely
+  hope your journey ahead is a fruitful one!
+  
+  Now then,<5 Type='1'/> I still have a little more junk
+  to clear away, so I better get back to it.
+  Thank you again for all your help!
+talk0048: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0e0057006f0072006b005f0030003100'/>Let me just take off that wrapping...
+talk0049: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Ah, welcome back!
+talk0034: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Thank you for helping with the cleaning!<0 Type='4'/>We're closed, so obviously we can't
+  offer you lodging, but you're welcome
+  to shelter from the weather in here.
+  Yep...<5 Type='1'/>just stand around passing the time
+  until the weather clears...<FontSize Value='80'/><5 Type='1'/><0 Type='4'/><3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003100'/>Come on, Piaffe... <5 Type='1'/>You could've left at least one
+  bed out. Oh, well...<FontSize Value='100'/>
+talk0035: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>You came back! Thank you! I mean, the
+  stable still isn't in operation, but it's nice
+  to see a friendly face.
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>Thanks to this <0 Type='3' Data='0000'/>extreme weather<0 Type='3' Data='ffff'/>, almost
+  no one rides through here. We get very
+  few visitors of any sort.
+  <3 Type='0' Data='0701'/>So if you're looking for a place to stay
+  the night...
+  
+  I'd give <0 Type='3' Data='0000'/>Kara Kara Bazaar <0 Type='3' Data='ffff'/>a try. If you
+  head out of here, turn <0 Type='3' Data='0000'/>west<0 Type='3' Data='ffff'/>, and keep
+  going and going, you'll find it in time.
+  It's a bit of a hike, but if you can find
+  some <0 Type='3' Data='0000'/>transportation<0 Type='3' Data='ffff'/> at the desert's
+  entrance, you can get there in a flash.
+  <3 Type='0' Data='0301'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>As for my tidying, well... I found some
+  stuff that brought back memories, and my
+  progress has come to a nostalgic halt.
+  I mean, this stable's like an old friend of
+  mine. If I clean it up, I want to clean it up
+  right. Give it the proper respect, y'know?
+near0000: |
+  Will I ever clean all this up?
+talk0021: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>It's nice to have a guest again.<5 Type='0'/> Even if,
+  like I told you, this stable is officially no
+  longer in operation.
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/><0 Type='3' Data='ffff'/>Thanks to this <0 Type='3' Data='0000'/>extreme weather<0 Type='3' Data='ffff'/>, almost
+  no one ever rides through here. We get
+  very few visitors.
+  <3 Type='0' Data='0001'/>I'm afraid we don't have any lodgings for
+  you, but if you're looking for a place to
+  rest your head...
+  <3 Type='0' Data='0701'/>I recommend <0 Type='3' Data='0000'/>Kara Kara Bazaar<0 Type='3' Data='ffff'/>. Just head
+  out of here, turn <0 Type='3' Data='0000'/>west<0 Type='3' Data='ffff'/>, and keep going
+  and going until you find it.
+  It's a bit of a hike, but if you can find
+  some <0 Type='3' Data='0000'/>transportation<0 Type='3' Data='ffff'/> at the desert's
+  entrance, you can get there in a flash.
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>As for me, I've got a mountain of junk to
+  clear out of here, so I should get back to
+  it. <5 Type='0'/>Otherwise, I'll never be able to leave...
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/>Ugh, how will I ever to <0 Type='3' Data='0000'/>get rid of<0 Type='3' Data='ffff'/> all this stuff?<5 Type='0'/><FontSize Value='100'/>
+talk0036: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Something else?<5 Type='1'/> If you want to stay the
+  night somewhere, I recommend you try
+  your luck at <0 Type='3' Data='0000'/>Kara Kara Bazaar<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0701'/>Just step outside and keep going <0 Type='3' Data='0000'/>west<0 Type='3' Data='ffff'/>.
+  You're sure to find it in due time.
+  
+  It's a bit of a hike, but if you can find
+  some <0 Type='3' Data='0000'/>transportation<0 Type='3' Data='ffff'/> at the desert's
+  entrance, you can get there in a flash.
+  <3 Type='0' Data='0301'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>As for my tidying, well... I found some
+  stuff that brought back memories, and my
+  progress ground to a nostalgic halt.
+  I mean, this stable's like an old friend of
+  mine. If I clean it up, I want to clean it up
+  right. Give it the proper respect, y'know?
+near0001: |
+  I'd like a good picture...

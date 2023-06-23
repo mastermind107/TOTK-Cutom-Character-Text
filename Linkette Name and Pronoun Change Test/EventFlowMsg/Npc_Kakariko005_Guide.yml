@@ -1,0 +1,85 @@
+Talk25: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>Lady Impa is standing on the ruins over
+  there. Don't mind me. Go see her!
+Talk01: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Hm?<5 Type='1'/> Ah,<5 Type='0'/> Linkette!
+  
+  
+  <3 Type='0' Data='0801'/>I'd heard that you and Princess Zelda
+  had gone missing. I'm thrilled to see
+  you alive and well!
+  But where's Princess Zelda?
+Talk26: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Hmm?!<5 Type='1'/>
+Talk02: |
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>What?!<5 Type='1'/><FontSize Value='100'/>
+  
+  
+  <3 Type='0' Data='0c01'/>So, Princess Zelda is still missing.<5 Type='1'/>
+  Well then, Linkette...
+  
+  You may want to meet with <0 Type='3' Data='0000'/>Lady Impa<0 Type='3' Data='ffff'/>.
+  
+  
+  <3 Type='0' Data='0700'/>She's investigating the <0 Type='3' Data='0000'/>geoglyphs<0 Type='3' Data='ffff'/> that
+  have appeared across the land—a curious
+  name for this strange phenomenon.
+  Lady Impa believes that they're crucial
+  to the search for Princess Zelda.
+  
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>She's traveling in one of those new
+  balloon contraptions and should be at
+  <0 Type='3' Data='0000'/>New Serenne Stable <0 Type='3' Data='ffff'/>right now.
+  <3 Type='0' Data='0000'/>I'm in a hurry to meet with Lady Impa,
+  but I can't go anywhere nearly as fast as
+  she can in her balloon.
+  Let's see... <0 Type='3' Data='0000'/>New Serenne Stable <0 Type='3' Data='ffff'/>is just a
+  little to the northwest of central Hyrule.
+  
+  If you'll excuse me, I need to be on
+  my way!
+Talk03: |
+  <3 Type='0' Data='0800'/>Ah, Linkette! We meet again!
+  
+  
+  <3 Type='0' Data='0701'/>Have you found any clues as to where
+  Princess Zelda might be?
+  
+  Lady Impa believes she has found a
+  source of information that might help
+  in the search for Princess Zelda.
+  <3 Type='0' Data='0700'/>I'd suggest that you go meet with
+  Lady Impa.
+  
+  She should be at <0 Type='3' Data='0000'/>New Serenne Stable <0 Type='3' Data='ffff'/>in
+  North Hyrule Plain.
+  
+  <3 Type='0' Data='0300'/>I'm trying to reach her myself, but I'm
+  sorry to say that I'm so bad with
+  directions, I haven't gotten there yet.
+  <3 Type='0' Data='0000'/>I hope to get there soon though, so
+  forgive me if I excuse myself!
+Talk21: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0a0054006900720065006400'/>L...Lady Impa... I caught up with you...
+Talk04: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Hmm?! You...<5 Type='1'/> You...<5 Type='0'/>are Linkette, right?
+  
+  
+  <3 Type='0' Data='0100'/>Ha! I've been around a long time. You're
+  not going to fool me!
+  
+  <3 Type='0' Data='0801'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>I'd heard that both you and Princess
+  Zelda had gone missing. I'm thrilled to
+  see you alive and well!
+  But where's Princess Zelda?
+Talk22: |
+  <3 Type='0' Data='0800'/>Ah, <5 Type='0'/>Linkette! I was finally able to make my
+  way to Lady Impa!
+Talk23: |
+  She is standing on the ruins over there.
+  Please, go see her.
+Near01: |
+  Must hurry...
+Talk24: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>I'll join you both just as soon as I catch
+  my breath.

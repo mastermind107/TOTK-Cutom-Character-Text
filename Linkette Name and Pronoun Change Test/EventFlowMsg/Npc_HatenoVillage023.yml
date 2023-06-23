@@ -1,0 +1,238 @@
+Talk_2003: |
+  <3 Type='0' Data='0700'/>I've got to get home and rest up so I'm
+  ready to work the fields again tomorrow.
+Talk_3105: |
+  <3 Type='0' Data='0701'/>So what're we growin' instead?
+Talk_3106: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>I gotcha. I'll take great care of 'em.<0 Type='4'/>And if you change your mind again, that's
+  fine. Just come talk to me about it.<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>It takes time to raise crops, but once
+  they're grown, you can harvest 'em when
+  you want. It's your field, Professor Linkette!
+Talk_3107: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>I can hardly wait for the harvest.
+Talk_1000: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>You're a traveler, aren't ya? <5 Type='0'/>I'd like to
+  go traveling myself sometime.<0 Type='4'/>But today, I've got my hands full <0 Type='3' Data='0000'/>tending
+  the field near the school<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0100'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Good journey to you, traveler. <5 Type='0'/>And <0 Type='3' Data='0000'/>good
+  harvest <0 Type='3' Data='ffff'/>to me, I s'pose.
+Talk_3108: |
+  <3 Type='0' Data='0700'/>You worried about the field? <5 Type='0'/>Can't think
+  of why else you'd be out here in the rain.
+Talk_1001: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>It's good to see you again, traveler.<0 Type='4'/>I'm off to<0 Type='3' Data='0000'/> tend the field near the school<0 Type='3' Data='ffff'/>.<5 Type='1'/>
+  Safe travels, young fella.
+Talk_3109: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>No need to fuss over the field so.
+  The plants aren't going anywhere!
+Talk_1002: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>I'm up to the same as ever. Goin' off to
+  <0 Type='3' Data='0000'/>tend the field<0 Type='3' Data='ffff'/>. Here's hopin' we both have
+  a good one.
+Near_1100: |
+  It's gonna be a good crop.
+Talk_1003: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Well now, traveler! I see the rain hasn't
+  kept you from runnin' to and fro.<0 Type='4'/>Time was, I'd have been runnin' around
+  myself, but now...well. If you want to keep
+  jawin', we should find some cover.
+Talk_3200: |
+  <3 Type='0' Data='0800'/>Aren't they beauties? It's so good to see
+  the planties I took special care to grow
+  all ready for the harvest.<0 Type='4'/>If you want to rotate crops after this,
+  we can talk about it after you're done
+  harvestin'.
+Talk_1004: |
+  <3 Type='0' Data='0700'/>Rain doesn't bother me none! <5 Type='0'/>Aw, who
+  am I kiddin'? At my age, I can feel a
+  storm comin' in my bones.<0 Type='4'/>If you want to jaw awhile, could we do it
+  after we've found a bit of cover?
+Talk_3010: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Means a lot that you'd leave the care and
+  tending of the field to me.<0 Type='4'/>If there's any kind of <0 Type='3' Data='0000'/>crop you need for
+  your journey<0 Type='3' Data='ffff'/>, Professor Linkette, you can
+  count on me to grow it up right.<0 Type='4'/>Just talk to me whenever you decide what
+  you want this field to be used for.
+Talk_3201: |
+  <3 Type='0' Data='0700'/>If you want to rotate crops after this,
+  we can talk about it after you're done
+  harvestin'.
+Talk_1005: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>"Look at me, I'm a traveler. I don't raise
+  a fuss about a little rain!" <5 Type='0'/>That's what
+  you're thinking, aren't ya?<0 Type='4'/>I tend crops, so I'm all for the rain.
+  Even so, I'd rather not get drenched if I
+  don't have to.<0 Type='4'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>If you want to jaw awhile, could we do it
+  after we've found a bit of cover?
+Talk_2100: |
+  <3 Type='0' Data='0a00'/>Well, now. What could you need with me
+  so late at night?<0 Type='4'/>I'm getting on in years, as you can see.
+  I need my full night's rest if I don't want
+  to wake up tired tomorrow.<0 Type='4'/>And I've got an early start, so if you don't
+  mind, I'll be getting back to sleep.
+Talk_3011: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Anything else you want to know about
+  farmwork? Or are you ready to roll up
+  our sleeves and get planting?
+Talk_2101: |
+  <3 Type='0' Data='0a00'/>I'm at the age when I need to get a full
+  night's rest before I'm ready to tend the
+  school's field again.<0 Type='4'/>Meanin' you'll have to let me sleep some
+  more tonight. Sorry 'bout that.
+Talk_1100: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Can't hardly call this a field yet. It'll need
+  a lot more work before it's through.
+Talk_1101: |
+  <3 Type='0' Data='0700'/>You're that traveler who stopped by
+  before, aren't ya? The one who likes
+  to take the scenic route?<0 Type='4'/>There must be somethin' about this empty
+  lot that draws you in, but darn if I know
+  what it is.<0 Type='4'/>It'll be a spell before the Hateno School
+  field can <0 Type='3' Data='0000'/>support crops <0 Type='3' Data='ffff'/>again.
+Talk_4000: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Nice morning, isn't it?
+Talk_1102: |
+  <3 Type='0' Data='0700'/>You're that traveler who stopped by
+  before, aren't ya? The kinda nosy one?<0 Type='4'/>Rain's good for the crops, but it always
+  does a number on my lower back.<0 Type='4'/>Every time it rains, I gotta put my work on
+  hold. It'll be a spell before the Hateno
+  School field can <0 Type='3' Data='0000'/>support crops<0 Type='3' Data='ffff'/> again.
+0001: |
+  What can we grow?
+Talk_4001: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hello there!
+Talk_1103: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>It'll be a spell before the Hateno School
+  field can <0 Type='3' Data='0000'/>support crops <0 Type='3' Data='ffff'/>again.
+Talk_4002: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Nice evening, isn't it?
+Talk_1104: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Well, now. <5 Type='0'/>What's a wanderer doing in our
+  neck of the woods?<0 Type='4'/><3 Type='0' Data='0700'/>Going where you please is a perk of being
+  a traveler, eh? <5 Type='1'/>Chalk it up to fate, and let
+  me tell you about this place.<0 Type='4'/>This is the <0 Type='3' Data='0000'/>Hateno School<0 Type='3' Data='ffff'/> field. <5 Type='0'/>Right now,
+  it's more like an empty lot, but it used to
+  be a good li'l field.<0 Type='4'/>I aim to get it back in shape so it can
+  support crops again.<0 Type='4'/><3 Type='0' Data='0a01'/>It's hard work, fixin' up a plot after it's
+  gone to seed. <5 Type='1'/>It'll be a spell before
+  anyone can <0 Type='3' Data='0000'/>plant anything<0 Type='3' Data='ffff'/> here.
+Near_2000: |
+  I put in a good day's work.
+0003: |
+  See you later.
+Talk_4003: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>Well, I'll be. <5 Type='0'/>Don't you know how to rest?
+0004: |
+  Yes.
+0005: |
+  Maybe something else.
+0006: |
+  How's the garden?
+NakedPlayer_00: |
+  No clothes, hm?
+0007: |
+  Plant something else.
+NakedPlayer_01: |
+  He hasn't got a stitch on...
+Near_3100: |
+  Drink up the sun, planties!
+0008: |
+  Go ahead.
+NakedPlayer_02: |
+  You're a wild one!
+Talk_3003: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>I'll rattle off the list for you. I can grow...
+  
+  
+  Pumpkins, <5 Type='0'/>carrots, <5 Type='0'/>tomatoes, <5 Type='0'/>radishes,<5 Type='0'/>
+  wildberries,<5 Type='0'/> or hydromelons. Wheat and
+  rice too. Can't forget those.
+  Oh, and if it's wheat or rice you're after,
+  remember you gotta <0 Type='3' Data='0000'/>cut the plants before
+  you can harvest 'em<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0c005300610064005f0030003000'/>Also, I should come clean about one
+  thing. <5 Type='0'/>I have more experience with some
+  crops than others.
+  I don't know too much yet about raising
+  endura carrots and hearty radishes.<0 Type='4'/><3 Type='0' Data='0701'/>You'll have to forgive me if the yield on
+  those ends up a little lower than the rest.
+0009: |
+  Never mind.
+Talk_3004: |
+  <3 Type='0' Data='0700'/>All right, what're we growing?
+Near_3102: |
+  Still thinking about plants...
+0021: |
+  I'm good.
+Talk_3005: |
+  <3 Type='0' Data='0700'/>Just talk to me whenever you decide on
+  what we're growin' here.<0 Type='4'/>I've worked hard to get this field ready,
+  so it's pretty excitin' to think about it
+  bein' ready for planting!
+Near_3103: |
+  Look, planties! Rain!
+Talk_4100: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>By the way, that hat you're wearing...<5 Type='0'/>
+  Cece designed it, didn't she?<0 Type='4'/>I think it's nice that she's added some
+  color to our village.
+Talk_3006: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0600530061006400'/>Looks like you don't have anything we
+  can plant here.<0 Type='4'/>Tell you what though. The general store
+  here in the village sells a few things we
+  could try.<0 Type='4'/>Why don't you see if anything they got
+  grabs you and come back later?
+Talk_3007: |
+  <3 Type='0' Data='0701'/>You want to go with
+  <0 Type='3' Data='0000'/><2 Type='11' Data='58004e0070006300470061007200640065006e0049006e0066006f005f0048006100740065006e006f00560069006c006c006100670065003000320033002e00470072006f0077004100630074006f0072004e0061006d006500ffff'/><0 Type='3' Data='ffff'/>?
+Talk_4102: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Yeeek!
+Near_2100: |
+  Zzz... Zzz...
+Talk_3008: |
+  <3 Type='0' Data='0700'/>Take your time. I'm in no hurry to
+  get plantin'.
+Talk_4103: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>Thank goodness it's just a traveler. I was
+  so scared that I shrieked before I even
+  saw who you were.
+Talk_3009: |
+  <3 Type='0' Data='0800'/>You can leave me to it. Just know that this
+  kind of work takes time.<0 Type='4'/>That's all there really is to raisin' crops,
+  you know. Love and patience.<0 Type='4'/>The veggies take life at their own pace.
+  Try to hurry things along at an inn or a
+  fire and you make 'em feel unappreciated.<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Once they're ripe for pluckin', they're all
+  yours, Professor Linkette. Happy trails.
+Talk_4104: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>Ah, it's only you. I was afraid it might
+  be someone suspicious.
+Near_1000: |
+  Back to the fields I go.
+Talk_3100: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Here to check on the field?
+Talk_2000: |
+  <3 Type='0' Data='0700'/>You look like a man who gets around.<5 Type='0'/>
+  Wish I wasn't so tied down like I am.<0 Type='4'/>On days like this, my <0 Type='3' Data='0000'/>work to tend the
+  field near the school<0 Type='3' Data='ffff'/> hurts my lower
+  back so.<0 Type='4'/>It makes the road home feel longer than
+  it did comin' in.<0 Type='4'/>It's tough work, no mistake. But y'know
+  what keeps me at it on the hard days?<0 Type='4'/><3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Knowin' that way, way down the line, what
+  I do today is gonna keep someone fed.
+Talk_3102: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>You won't be able to get back what you've
+  planted. You don't mind?
+Near_3200: |
+  They're healthy and ripe!
+Talk_2001: |
+  <3 Type='0' Data='0700'/>Good seein' you again, traveler.<0 Type='4'/>I'm on my way home after <0 Type='3' Data='0000'/>tending the
+  field near the school<0 Type='3' Data='ffff'/>. I've been at it all
+  day, and I'm tuckered out now.<0 Type='4'/>It's tough work, no mistake. But y'know
+  what keeps me at it on the hard days?<0 Type='4'/><3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Knowin' that way, way down the line, what
+  I do today is gonna keep someone fed.
+Talk_3103: |
+  <3 Type='0' Data='0700'/>You sure? <5 Type='0'/>All right, then.
+Talk_2002: |
+  <3 Type='0' Data='0700'/>Good seein' you again, traveler. <5 Type='0'/>Not
+  letting the rain or the dark keep you from
+  getting around, are you?<0 Type='4'/>I'm on my way home from <0 Type='3' Data='0000'/>tending the
+  field near the school<0 Type='3' Data='ffff'/>. Bein' out in the wet
+  doesn't do wonders for my achin' back.<0 Type='4'/>The sooner I get home, the better.<5 Type='0'/>
+  Safe travels to you, wanderer.

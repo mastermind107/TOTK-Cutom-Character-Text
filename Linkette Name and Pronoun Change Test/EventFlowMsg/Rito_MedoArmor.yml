@@ -1,0 +1,61 @@
+Talk01: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey, Linkette! <5 Type='1'/>Thanks to you, life in Rito
+  Village is slowly getting back to normal.<0 Type='4'/>I've been looking into leads about
+  Princess Zelda, and I'll let you know right
+  away if any of them go somewhere!<0 Type='4'/><3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Oh, yeah, one other thing! <5 Type='1'/>I don't think
+  this has anything to do with where the
+  princess went, but...
+Talk06: |
+  <3 Type='0' Data='0701'/>Harth asked me to help him sort through
+  some ancient literature.<0 Type='4'/>You'll never believe what I found written
+  in one of his books!<0 Type='4'/><3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>"Sturnida, <5 Type='0'/>Goflam's, <5 Type='0'/>and Sherfin's. <5 Type='1'/>Hidden
+  treasure sleeps in the center of the three
+  secret hot springs in the mountains.<0 Type='4'/>"Guide the three waters to that place.
+  When it fills, <5 Type='0'/>the slumbering treasure
+  will awaken once more."<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>There's got to be something good waiting
+  for whoever solves the riddle, right?!
+Talk06_00: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Oh yeah, one other thing!<5 Type='1'/> Something else
+  came up that I wanted to ask you about.
+Talk07: |
+  <3 Type='0' Data='0001'/>Secret hot springs, huh? I've been to
+  <0 Type='3' Data='0000'/>Sturnida Secret Hot Spring<0 Type='3' Data='ffff'/> a few times.
+  It's northwest of Rito Village.<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>It's the best! A quick soak is enough to
+  heal your wounds in the blink of an eye.
+  It keeps you from freezing too.<0 Type='4'/><3 Type='0' Data='0c01'/>But I dunno about the others. The Hebra
+  Mountains are a big place. I'm not sure
+  we could cover all of them.<0 Type='4'/>But that slumbering treasure is pretty
+  tempting...<5 Type='0'/>if only we could find it.
+Talk03: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>"Sturnida, <5 Type='0'/>Goflam's, <5 Type='0'/>and Sherfin's. <5 Type='1'/>Hidden
+  treasure sleeps in the center of the three
+  secret hot springs in the mountains.<0 Type='4'/>"Guide the three waters to that place.
+  When it fills, <5 Type='0'/>the slumbering treasure
+  will awaken once more." Hmm.
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>I know about the <0 Type='3' Data='0000'/>Sturnida secret hot
+  spring<0 Type='3' Data='ffff'/> northwest of the village, but the
+  other ones I'm not too familiar with.<0 Type='4'/>Without a <0 Type='3' Data='0000'/>map<0 Type='3' Data='ffff'/> that shows the Hebra
+  Mountains from high in the sky, I don't
+  see how you'd ever find them.<0 Type='4'/><3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>"Slumbering treasure," huh? <5 Type='0'/>Where could
+  it be?
+Near01: |
+  Who knows, right?
+Talk01_01: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I've been looking into leads about
+  Princess Zelda, and I'll let you know right
+  away if any of them go somewhere!<0 Type='4'/>Oh, yeah, one other thing! <5 Type='1'/>I don't think
+  this has anything to do with where the
+  princess went, but...
+Talk05: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey, Linkette! <5 Type='1'/>Life in Rito Village is just about
+  back to normal now.<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Who could have guessed that the blizzard
+  that hit Rito Village was the work of the
+  Demon King?<0 Type='4'/>Or that Princess Zelda was sent to the
+  world of the past? No wonder we couldn't
+  find her.<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>The big thing left to do now is to round
+  up all the information we can find on
+  <0 Type='3' Data='0000'/>the fifth sage<0 Type='3' Data='ffff'/>.
+  I'll do my part to turn up whatever I can
+  about ruins from the age of legends!
+Near02: |
+  A hidden treasure...

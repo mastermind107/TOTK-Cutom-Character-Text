@@ -1,0 +1,169 @@
+Talk_0041: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Ah, Linkette! Might you be heading out?<5 Type='0'/>
+  
+  
+  Right when the night monsters begin
+  to rouse. Brave of you, as always.
+0008: |
+  Its various peoples?
+Talk_0019: |
+  <3 Type='0' Data='0700'/>Hyrule has eight major places that its
+  various peoples call home.
+Talk_0042: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Ah, Linkette!<5 Type='0'/> Will you be heading out?
+0009: |
+  Towns and villages?
+Talk_0043: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Thank you for all you do.
+  
+  
+  While we're stunned that the Demon King
+  is back, we won't allow it to dampen the
+  spirits of the monster-control crew!
+  I imagine you may be heading out shortly.
+Talk_0030: |
+  <3 Type='0' Data='0700'/>I work with the monster-control crew.<0 Type='4'/>We're tasked with protecting everyone
+  from monsters. There's been an uptick in
+  their populations since the Upheaval.
+  But I'm not really the most skilled
+  in combat.<0 Type='4'/>So instead, I use my knowledge of the
+  areas to help determine where we should
+  make deployments.
+Talk_0031: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='140055006e006400650072007300740061006e006400'/>There's been an increase in the number of
+  <0 Type='3' Data='0000'/>unfamiliar monsters<0 Type='3' Data='ffff'/> since the Upheaval,
+  as well. Be careful out there.
+Talk_0044: |
+  <3 Type='0' Data='0800'/>Oh! If you're interested, I'm happy to
+  oblige you!
+Talk_OnTheDesk: |
+  <3 Type='0' Data='0800'/>You can see the map better from up there.
+  I do that myself when no one is watching!
+  
+  <3 Type='0' Data='0701'/>But there are some important documents
+  laid out too, so please watch your step.
+Talk_0032: |
+  <3 Type='0' Data='0700'/>I'm quite confident in my knowledge of
+  Hyrule's <0 Type='3' Data='0000'/>peoples and places<0 Type='3' Data='ffff'/>.
+  
+  So if there's anything you're wondering
+  about its <0 Type='3' Data='0000'/>various peoples <0 Type='3' Data='ffff'/>or their
+  <0 Type='3' Data='0000'/>towns and villages<0 Type='3' Data='ffff'/>, please ask!
+Talk_0045: |
+  <3 Type='0' Data='0800'/>If you're curious about them, I'm happy to
+  indulge that curiosity!
+Talk_0033: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Ah, Linkette! Will you be leaving?<5 Type='0'/>
+  
+  
+  Smart thinking, taking off when the night
+  monsters go to sleep. Just as I'd expect.
+Talk_0020: |
+  <3 Type='0' Data='0701'/>Up northwest of here, there's Rito Village
+  in <0 Type='3' Data='0000'/>Hebra<0 Type='3' Data='ffff'/>.
+Talk_0046: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0e00540072006f00750062006c006500'/>Well... I don't like to talk about myself
+  that much, buuut...
+  
+  I'm with the monster-control crew.<0 Type='4'/><3 Type='0' Data='0701'/>Our role is to keep everyone safe, what
+  with the rise in monster attacks after
+  the Upheaval.
+  But I'm not a warrior at heart.<0 Type='4'/>I use my knowledge of the peoples and
+  places of Hyrule to help the monster-
+  control crew deploy its forces.
+Talk_0021: |
+  <3 Type='0' Data='0701'/>You'll find Goron City to the northeast
+  in <0 Type='3' Data='0000'/>Eldin<0 Type='3' Data='ffff'/>.
+0010: |
+  What about you?
+Talk_0047: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='140055006e006400650072007300740061006e006400'/>Now that the Gerudo have come to offer
+  their support, Lookout Landing has
+  stronger defenses than ever before.
+  Even so...there's been an increase in the
+  number of <0 Type='3' Data='0000'/>unfamiliar monsters<0 Type='3' Data='ffff'/> since
+  the Upheaval. Be careful out there.
+Talk_0022: |
+  <3 Type='0' Data='0701'/>Travel a bit farther east, and you'll come
+  across Tarrey Town in <0 Type='3' Data='0000'/>Akkala<0 Type='3' Data='ffff'/>.
+Talk_0048: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='140055006e006400650072007300740061006e006400'/>Thanks to you, Linkette, things have gotten
+  very busy here! It's become quite the hub
+  for everyone.
+  <3 Type='0' Data='0800'/>All the people of Hyrule are banding
+  together, and united we can stand against
+  any threat, including the Demon King!
+Talk_0023: |
+  <3 Type='0' Data='0701'/>Not too far from there is Zora's Domain.
+  That's within the <0 Type='3' Data='0000'/>Lanayru<0 Type='3' Data='ffff'/> region.
+Talk_0037: |
+  <3 Type='0' Data='0701'/>Lookout Landing is located here in
+  Central Hyrule.
+Talk_0024: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Continuing into southeast Hyrule, you'll
+  come across a cluster of Hylian villages.
+  These are within an area called <0 Type='3' Data='0000'/>Necluda<0 Type='3' Data='ffff'/>.
+0000: |
+  Goodbye.
+Talk_0025: |
+  <3 Type='0' Data='0701'/>Within that cluster, you'll find Kakariko
+  Village, where the <0 Type='3' Data='0000'/>Sheikah <0 Type='3' Data='ffff'/>live.<5 Type='0'/> I hear the
+  village leader is quite lovely.
+Talk_0039: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Ah, Linkette! Good morning!<5 Type='0'/> Will you be
+  heading out?
+Talk_0026: |
+  <3 Type='0' Data='0701'/>Then there's Gerudo Town. That's located
+  to the southwest in the <0 Type='3' Data='0000'/>Gerudo<0 Type='3' Data='ffff'/> region.
+Talk_0001: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Hm?<0 Type='4'/><3 Type='0' Data='0b00'/>Oh!<5 Type='0'/> It's you, Linkette! Pardon me for being
+  lost in my work here. This <0 Type='3' Data='0000'/>map<0 Type='3' Data='ffff'/> tends
+  to get all my attention.
+  <3 Type='0' Data='0700'/>Are you interested in the different
+  peoples of Hyrule and where they live?
+  That's my entire field of study.
+  When I'm out on a deployment with the
+  monster-control crew, I spend hours
+  poring over our maps.
+  As such, I'm the most knowledgeable in
+  Lookout Landing about Hyrule's <0 Type='3' Data='0000'/>various
+  peoples<0 Type='3' Data='ffff'/> and their <0 Type='3' Data='0000'/>towns and villages<0 Type='3' Data='ffff'/>.
+Talk_0027: |
+  <3 Type='0' Data='0701'/>If you're seeking a tranquil spot, Hateno
+  Village is worth a visit.<5 Type='0'/> I also hear it's
+  become Hyrule's <0 Type='3' Data='0000'/>center of fashion<0 Type='3' Data='ffff'/>!
+Talk_0028: |
+  <3 Type='0' Data='0701'/>Finally, there's Lurelin Village. It's a
+  wonderful getaway destination.<5 Type='0'/>
+Talk_0029: |
+  <3 Type='0' Data='0c00'/>Many of the aforementioned towns and
+  villages have been deeply affected by
+  the Upheaval.
+  <3 Type='0' Data='0701'/>If removing even a fraction of the
+  monsters helps soothe the peoples of
+  Hyrule, then that's what we'll do.
+  Our monster-control crew is on patrol
+  each day, gathering information from
+  everyone...<5 Type='0'/>everywhere.
+Talk_0040: |
+  It would be a complicating factor if you
+  get lost during your travels. Please make
+  sure to check your <0 Type='3' Data='0000'/>destination<0 Type='3' Data='ffff'/>.
+Talk_0018: |
+  <3 Type='0' Data='0700'/>Aside from us Hylians, there are four
+  other peoples here in Hyrule.
+  
+  The Rito,<5 Type='0'/> the Gorons,<5 Type='0'/> the Zora,<5 Type='0'/> and
+  the Gerudo.
+  
+  Each live in a different area and have their
+  own unique traits—whether it's soaring
+  the sky or feasting on rocks.
+  <3 Type='0' Data='0700'/>We Hylians also live in villages that
+  reflect our unique cultures.
+  
+  The <0 Type='3' Data='0000'/>Sheikah<0 Type='3' Data='ffff'/> are renowned for their
+  wisdom. In fact, our most prolific
+  researchers are among them.
+  The leader of Lookout Landing, Purah,
+  is from the Sheikah tribe.

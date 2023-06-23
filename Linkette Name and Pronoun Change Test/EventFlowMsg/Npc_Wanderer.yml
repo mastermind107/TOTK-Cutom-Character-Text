@@ -1,0 +1,199 @@
+Talk_14: |
+  <3 Type='0' Data='0700'/>I wanted to see with my own eyes what
+  I had previously only read of in books.
+  
+  That was why I ceded my position as chief
+  and left with Cado.
+  
+  Poor Paya. She was shocked to have
+  the mantle of leadership thrust upon her
+  so suddenly.
+  <3 Type='0' Data='0500'/>But I knew that within her lay the seeds
+  of a capable chief.
+  
+  All those seeds needed was a chance
+  to grow.
+  
+  <3 Type='0' Data='0800'/>Now Paya is firmly on her own path as the
+  leader of the village.
+  
+  <3 Type='0' Data='0801'/>To see my granddaughter learning to
+  <0 Type='3' Data='0000'/>decipher the Zonai language<0 Type='3' Data='ffff'/>... It is a
+  delight, if certainly not a surprise.
+  And it means that I can rest easy in
+  my retirement.
+Talk_15: |
+  <3 Type='0' Data='0c00'/>You have caught glimpses of Princess
+  Zelda's memories...
+  
+  That certainly seems as though it must be
+  an omen of some kind.
+  
+  <3 Type='0' Data='0700'/>The village is now in Paya's hands
+  as chief, so I can pour over the
+  literature freely.
+  You ought to devote your efforts to
+  calming the effects of the Upheaval.
+Talk_16: |
+  <3 Type='0' Data='0700'/>So... Linkette...
+TerrorEnemy_00: |
+  Away from me!
+Talk_18: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Ah. I see that you are wearing the attire of
+  the ancient hero.
+  
+  <3 Type='0' Data='0100'/>How amusing. <5 Type='0'/>You almost look like that
+  figure depicted on the screen...
+TerrorEnemy_01: |
+  I dropped my guard...
+Talk_19: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>...But first, you should at least put a
+  shirt on.
+TerrorEnemy_02: |
+  If only I was younger...
+TerrorImpulse_00: |
+  W-watch out!
+TerrorHorse_00: |
+  Keep your distance!
+Talk_20: |
+  <3 Type='0' Data='0a01'/>And Linkette... We may be old friends, but I
+  still expect you to show respect in the
+  chief's hall.<5 Type='1'/>
+  <3 Type='0' Data='0200'/>Would you at least put a shirt on?
+TerrorImpulse_01: |
+  Not so close!
+TerrorHorse_01: |
+  Settle down!
+Talk_21: |
+  <3 Type='0' Data='0a01'/>And Linkette... I will remind you this village
+  has a history with the Yiga Clan.<5 Type='1'/>
+  
+  <3 Type='0' Data='0200'/>So please, stop this tasteless prank, and
+  put something else on!
+TerrorImpulse_02: |
+  What is it?!
+TerrorHorse_02: |
+  Stop the horse!
+TerrorSword_00: |
+  Enough of that!
+TerrorSword_01: |
+  The joke has gone too far!
+TerrorSword_02: |
+  Settle down!
+Talk_01: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Well, if it isn't Linkette. I am always pleased
+  to find you in good health.
+  
+  I only just came back to the village myself.
+  
+  
+  <3 Type='0' Data='0c00'/>I have been thinking of those glimpses
+  you had of the Light Dragon's—or rather,
+  Princess Zelda's—memories.
+  It seems as though that must be an omen
+  of some kind.
+  
+  <3 Type='0' Data='0700'/>The village is now in Paya's hands as
+  chief, so I intend to keep looking for a
+  way to restore the princess.
+  You ought to devote your efforts to
+  calming the effects of the Upheaval.
+Talk_02: |
+  <3 Type='0' Data='0701'/>Perhaps you recognize what is shown
+  on that screen.
+0002: |
+  The Calamity?
+TerrorBomb_01: |
+  Wh-what are you up to?
+0003: |
+  Goodbye.
+Talk_03: |
+  <3 Type='0' Data='0c00'/>That reminds me. Purah left a
+  journal here.
+  
+  But where did I put it?
+  
+  
+  <3 Type='0' Data='0000'/>She told me to hide the thing. Perhaps I
+  followed her instructions too well.
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>I managed to conceal it from myself.
+TerrorBomb_02: |
+  I detect ill intent...
+TerrorInsect: |
+  Away from me!
+TerrorFire_00: |
+  The joke has gone too far!
+TerrorFire_01: |
+  Hot!
+Enokida_00: |
+  I still see your foot.
+TerrorFire_02: |
+  Hot, hot, hot!
+TerrorFlash_00: |
+  Not at me!
+Enokida_01: |
+  What are you doing?
+Talk_07: |
+  <3 Type='0' Data='0700'/>Ah, Linkette. You are here early.
+TerrorFlash_01: |
+  Enough of that!
+Enokida_02: |
+  Enjoying yourself?
+Talk_08: |
+  <3 Type='0' Data='0700'/>Ah, Linkette. You are here.
+TerrorArrow_00: |
+  Enough of that!
+TerrorFlash_02: |
+  You must stop this!
+Talk_09: |
+  <3 Type='0' Data='0700'/>Ah, Linkette. You chose a late hour to
+  drop by.
+TerrorArrow_01: |
+  Wh-what are you up to?
+Talk_10: |
+  <3 Type='0' Data='0700'/>Ah, Linkette. Isn't it raining outside?
+  And still you came.
+TerrorArrow_02: |
+  I detect ill intent...
+Talk_11: |
+  <3 Type='0' Data='0700'/>The Calamity was the Demon King of
+  ancient times, brought back to existence
+  in the form of hatred manifest.
+  Some of our youths believe the Calamity
+  to be mere legend. You and I know better,
+  of course.
+  Shown here are the royal princess with
+  the power to seal away evil...<5 Type='0'/>and a warrior
+  chosen by a legendary sword.
+  This image depicts how, using four
+  relics called Divine Beasts built by our
+  ancestors, they drove off the Calamity.
+TerrorGeneric_00: |
+  I detect ill intent...
+TerrorExplosion_00: |
+  No matter.
+Talk_12: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>It is a part of our history which must never
+  be forgotten—the Calamity.
+TerrorGeneric_01: |
+  What is it?!
+TerrorExplosion_01: |
+  Enough of that!
+Talk_13: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>That reminds me. Symin told me he is
+  teaching the children at <0 Type='3' Data='0000'/>Hateno School<0 Type='3' Data='ffff'/>
+  a <0 Type='3' Data='0000'/>lesson about the Calamity<0 Type='3' Data='ffff'/>.
+  The school is in <0 Type='3' Data='0000'/>Hateno Village<0 Type='3' Data='ffff'/> to the
+  <0 Type='3' Data='0000'/>southeast<0 Type='3' Data='ffff'/>, not far from here.
+  
+  Why not drop by and take the
+  lesson yourself?
+TerrorGeneric_02: |
+  Hm?
+TerrorExplosion_02: |
+  Oof...
+TerrorLightning: |
+  Lightning?!
+TerrorAnimal: |
+  Away from me!

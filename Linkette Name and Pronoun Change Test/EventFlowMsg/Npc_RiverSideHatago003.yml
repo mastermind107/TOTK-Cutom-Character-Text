@@ -1,0 +1,144 @@
+Com_Welcome: |
+  <3 Type='0' Data='0800'/>Hey there! Welcome to <0 Type='3' Data='0000'/>Riverside Stable<0 Type='3' Data='ffff'/>.
+Com_Photo_03: |
+  <3 Type='0' Data='0700'/>The <0 Type='3' Data='0000'/>Great Goddess Statues<0 Type='3' Data='ffff'/> stand tall
+  and tranquil, quietly watching over all
+  of Hyrule.
+  If I could paint a picture of one of them
+  for my wall, I'm sure it would keep our
+  stable peaceful too.
+  Apparently there's a Great Goddess
+  Statue enshrined in a sacred place
+  to the <0 Type='3' Data='0000'/>southwest of Hyrule Field<0 Type='3' Data='ffff'/>...
+  <3 Type='0' Data='0a00'/>But I sure can't find it.<5 Type='0'/> It might be in a
+  place that's difficult to get to by horse.
+Com_Photo_Thank: |
+  <3 Type='0' Data='0800'/>Oh, Linkette, with the gift of one blessed
+  painting,<5 Type='0'/> you've wrapped this stable in
+  a warm, cozy light.
+  With this Great Goddess Statue adorning
+  our walls, I'm sure the Goddess herself
+  will be watching over our visitors!
+9001: |
+  Here's a picture.
+Com_Photo_04: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Huh?<5 Type='0'/> Did you bring me a <0 Type='3' Data='0000'/>picture of
+  a Great Goddess Statue<0 Type='3' Data='ffff'/>?!
+BurnedWakka_01: |
+  <3 Type='0' Data='0701'/>If you like our <0 Type='3' Data='0000'/>ring garland <0 Type='3' Data='ffff'/>that much,
+  then maybe you should go to <0 Type='3' Data='0000'/>Kakariko
+  Village<0 Type='3' Data='ffff'/> and buy your own.
+  It's near the <0 Type='3' Data='0000'/>Skyview Tower<0 Type='3' Data='ffff'/> to the east,
+  so it shouldn't take you long to figure out
+  your way there.
+9002: |
+  Goodbye.
+Com_Photo_05: |
+  <3 Type='0' Data='0c01'/>Even a drawing would be fine. As long as
+  I could just see a <0 Type='3' Data='0000'/>Great Goddess Statue<0 Type='3' Data='ffff'/>,<5 Type='0'/>
+  I could copy it down and hang it up!
+9003: |
+  No pictures here...
+Com_Photo_06: |
+  <3 Type='0' Data='0701'/>If you've got <0 Type='3' Data='0000'/>a picture of a Great Goddess
+  Statue <0 Type='3' Data='ffff'/>somewhere, please show me!
+Com_Photo_07: |
+  <3 Type='0' Data='0800'/>It's a real blessing,<5 Type='0'/> having an image of a
+  Great Goddess Statue watching over us.
+  Towering over us, really!
+  If you'd prefer a different angle or even a
+  different <0 Type='3' Data='0000'/>Great Goddess Statue<0 Type='3' Data='ffff'/>, I'm happy
+  to copy and display a new one too.
+  Simply give me the word, and show me
+  the new picture!
+WakkaCharm: |
+  Oh, we have one of those!
+Com_Photo_08: |
+  <3 Type='0' Data='0801'/>Whoa...<5 Type='0'/> She is...TREMENDOUS!<5 Type='0'/> Both in
+  terms of size and tranquil beauty!
+  
+  What a divine figure she cuts!<5 Type='0'/> It's as if my
+  heart is fuller just looking at her!
+Com_Photo_09: |
+  <3 Type='0' Data='0700'/>The <0 Type='3' Data='0000'/>Great Goddess Statues<0 Type='3' Data='ffff'/> stand tall and
+  tranquil, quietly enshrined all over Hyrule.
+  
+  If I could paint a picture of one to watch
+  over my stable, I bet it would make this
+  place feel even more peaceful.
+9006: |
+  Replace it.
+9007: |
+  It's fine how it is.
+Com_Photo_10: |
+  <3 Type='0' Data='0700'/>When I think that the Great Goddess
+  Statue is watching over me, it makes me
+  want to work a bit harder than usual!
+Talk_0001: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>That's right! <5 Type='0'/>Have you already been to
+  <0 Type='3' Data='0000'/>Kakariko Village <0 Type='3' Data='ffff'/>out <0 Type='3' Data='0000'/>east<0 Type='3' Data='ffff'/>?
+  
+  Kakariko Village is located between two
+  steep mountains, so visitors to the village
+  used to be few and far between.
+  <3 Type='0' Data='0801'/>However, ever since those distinctive
+  <0 Type='3' Data='0000'/>ring-shaped Zonai ruins <0 Type='3' Data='ffff'/>landed there,<5 Type='0'/>
+  things have been pretty lively!
+Com_Photo_12: |
+  <3 Type='0' Data='0700'/>Oh, yes, was there something you wanted
+  with the <0 Type='3' Data='0000'/>Great Goddess Statue painting<0 Type='3' Data='ffff'/>?
+Com_FirstTime_Only01: |
+  <3 Type='0' Data='0701'/>Now then, as this is your first use of
+  Riverside Stable...
+Talk_0003: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003000'/>Aha. Our decoration caught your fancy,
+  did it? Clearly you have a discerning eye!
+  
+  That lovely little wreath is a souvenir from
+  nearby <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>.
+  
+  The artisan apparently based it on the
+  unusual ring-shaped Zonai ruins that
+  landed over there.
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>If you'd like one to take with you, it's only
+  a short trip <0 Type='3' Data='0000'/>east<0 Type='3' Data='ffff'/> to <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>!
+  
+  There's a <0 Type='3' Data='0000'/>Skyview Tower <0 Type='3' Data='ffff'/>just nearby, so
+  I can't imagine you'll have any trouble
+  finding the place.
+Com_FirstTime_Only02: |
+  <3 Type='0' Data='0701'/>Not only are we celebrating your first use
+  of Riverside Stable but you've also
+  <0 Type='3' Data='0000'/>registered a horse<0 Type='3' Data='ffff'/>, so...
+Talk_0004: |
+  <3 Type='0' Data='0b00'/>If you're really that taken with our
+  <0 Type='3' Data='0000'/>ring garland<0 Type='3' Data='ffff'/>, you should get one of
+  your own in <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0701'/>It's right near the <0 Type='3' Data='0000'/>Skyview Tower <0 Type='3' Data='ffff'/>east of
+  our stable, so I don't think you'll have any
+  trouble finding it.
+Com_Photo_01: |
+  <3 Type='0' Data='0700'/>My mind is made up. I know just what to
+  hang on that wall...<5 Type='0'/>a picture of a mystical,
+  blessed, <5 Type='0'/><0 Type='3' Data='0000'/>Great Goddess Statue<0 Type='3' Data='ffff'/>!
+  Oh, and if you're not already aware,<5 Type='0'/> the
+  "great" in the name refers to how BIG
+  these statues are.
+  <3 Type='0' Data='0c01'/>They're quietly enshrined throughout
+  Hyrule, but not many people know their
+  exact locations...
+  The closest Great Goddess Statue to us
+  allegedly stands in a temple <0 Type='3' Data='0000'/>southwest of
+  Hyrule Field<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003000'/>But all my search attempts have come
+  up empty. <5 Type='0'/>Maybe it's somewhere that's
+  difficult to get to by horse...
+  But I don't need to see the real thing!<5 Type='0'/>
+  If I had a drawing of the Great Goddess
+  Statue, I could copy it down and put it up!
+Com_FirstTime_Only03: |
+  <3 Type='0' Data='0701'/>To celebrate your first use of Riverside
+  Stable and your <0 Type='3' Data='0000'/>lodging with us<0 Type='3' Data='ffff'/>...
+Com_Photo_02: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Wait...<5 Type='0'/> You have a <0 Type='3' Data='0000'/>picture of a Great
+  Goddess Statue<0 Type='3' Data='ffff'/>?

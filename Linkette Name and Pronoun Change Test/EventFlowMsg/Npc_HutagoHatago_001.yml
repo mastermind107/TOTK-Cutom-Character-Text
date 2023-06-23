@@ -1,0 +1,149 @@
+Com_Welcome: |
+  <3 Type='0' Data='0701'/>Welcome to <0 Type='3' Data='0000'/>Dueling Peaks Stable<0 Type='3' Data='ffff'/>.
+Com_Photo_03: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003000'/><0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/>, a small fishing town on the
+  edge of the sea <0 Type='3' Data='0000'/>southeast <0 Type='3' Data='ffff'/>of here, is a
+  famous resort spot.
+  And it's home to <0 Type='3' Data='0000'/>Hyrule's finest sunrise<0 Type='3' Data='ffff'/>!
+  The moment the sun clears the horizon
+  and lights the village is truly a must-see.
+  They say it's best experienced from the
+  <0 Type='3' Data='0000'/>summit of Tuft Mountain<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0301'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>But I can't leave my job to go sightseeing
+  any more than I can, well, climb a
+  mountain. And it's so far away...
+Com_Photo_Thank: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>You've given us an incredible gift, Linkette.
+  I can practically feel the light of the
+  sunrise warming up our stable!
+  Right now, the whole world is in chaos
+  because of <0 Type='3' Data='0000'/>the Upheaval<0 Type='3' Data='ffff'/>...
+  
+  But no matter how dark the night, it's
+  always followed by the dawn. <5 Type='0'/>That's the
+  feeling that will carry me through this.
+9001: |
+  See for yourself.
+Com_Photo_04: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Huh?<5 Type='0'/> Do you have <0 Type='3' Data='0000'/>a picture of Hyrule's
+  finest sunrise<0 Type='3' Data='ffff'/>?
+BurnedWakka_01: |
+  <3 Type='0' Data='0701'/>If you're really that fixated on our garland,
+  you should head to <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/> and
+  buy your own.
+  Just head north. You can't miss it.
+9002: |
+  Gotta go.
+Com_Photo_05: |
+  <3 Type='0' Data='0701'/>I wish I had some sort of picture of
+  <0 Type='3' Data='0000'/>Hyrule's finest sunrise<0 Type='3' Data='ffff'/>. <5 Type='0'/>Then I could
+  paint it for myself!
+9003: |
+  Sorry, no pictures here.
+Com_Photo_06: |
+  <3 Type='0' Data='0701'/>If you have a <0 Type='3' Data='0000'/>picture of Hyrule's finest
+  sunrise<0 Type='3' Data='ffff'/>, please show it to me!
+Com_Photo_07: |
+  <3 Type='0' Data='0800'/>Doesn't it look spectacular?<5 Type='0'/> It wasn't the
+  easiest painting I've ever done, but what
+  a view!
+  If you can top that with another <0 Type='3' Data='0000'/>picture of<0 Type='3' Data='ffff'/>
+  <0 Type='3' Data='0000'/>Hyrule's finest sunrise<0 Type='3' Data='ffff'/>, I'm happy to copy
+  and frame a new one.
+  So if you're ever struck by the urge to
+  replace the picture, don't be shy about
+  showing me something new!
+WakkaCharm: |
+  Oh, we have one of those.
+Com_Photo_08: |
+  <3 Type='0' Data='0101'/>There it is! Hyrule's best sunrise over
+  Lurelin!<5 Type='0'/> What majesty!<5 Type='0'/> What breathtaking
+  natural splendor!
+  <3 Type='0' Data='0100'/>Thank you, Linkette. Thank you for bringing
+  me such an amazing sight!
+Com_Photo_09: |
+  <3 Type='0' Data='0c00'/>It makes me smile just thinking of seeing
+  <0 Type='3' Data='0000'/>that beautiful sunrise over Lurelin Village<0 Type='3' Data='ffff'/>
+  from the summit of Tuft Mountain.
+  I would love to paint that view for myself,
+  but I'm afraid my job comes first...
+9006: |
+  Let's try something new.
+9007: |
+  I like it how it is.
+Talk_0011: |
+  <3 Type='0' Data='0700'/>The drawings at this stable have gotten
+  out of hand, haven't they?
+  
+  I'm sorry about that. No matter how many
+  times I scold them, those sons of mine
+  just don't listen.
+  <3 Type='0' Data='0c00'/>If you ask them, they'll tell you they saw
+  some <0 Type='3' Data='0000'/>big footprints<0 Type='3' Data='ffff'/>, the likes of which
+  nobody has ever seen!
+  <3 Type='0' Data='0701'/>I swear, I'll never stop being surprised by
+  the things my kids can imagine.
+Talk_0013: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>That ring garland catch your fancy?<5 Type='1'/>
+  It's pretty cute, right?
+  
+  A young girl in <0 Type='3' Data='0000'/>Kakariko Village <0 Type='3' Data='ffff'/>to the
+  <0 Type='3' Data='0000'/>north<0 Type='3' Data='ffff'/> made it.
+  
+  I put it up hoping it might bring some calm
+  to the travelers that visit this place.
+Com_Photo_10: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>I've already had customers tell me that
+  the sight of this painting lifts their spirits!
+Talk_0014: |
+  <3 Type='0' Data='0700'/>I can't give you ours, but if you really
+  want a ring garland of your own...
+  
+  Then I recommend you buy one at
+  <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>, directly north of here.
+Talk_0015: |
+  <3 Type='0' Data='0700'/>Oh, you just reminded me. Apparently a
+  new species of animal called a "Dondon"
+  has been discovered in Faron.
+  This old world of ours is just full of
+  surprises, isn't it?
+Com_Photo_12: |
+  <3 Type='0' Data='0700'/>Anyway,<5 Type='0'/> did you have thoughts about
+  that <0 Type='3' Data='0000'/>picture of Hyrule's finest sunrise<0 Type='3' Data='ffff'/>?
+Com_FirstTime_Only01: |
+  <3 Type='0' Data='0701'/>Now for the fun part. Because this is your
+  first time here at Dueling Peaks Stable...
+Com_FirstTime_Only02: |
+  <3 Type='0' Data='0701'/>In addition to celebrating your first use of
+  Dueling Peaks Stable, we want to thank
+  you for <0 Type='3' Data='0000'/>registering a horse<0 Type='3' Data='ffff'/>. So...
+Com_Photo_01: |
+  <3 Type='0' Data='0701'/>Quite the frame, isn't it?<5 Type='0'/> I want to fill it
+  with an appropriately grand scene of
+  natural splendor, but, well...
+  Tell me, Linkette, do you know where to find
+  <0 Type='3' Data='0000'/>Hyrule's most beautiful sunrise<0 Type='3' Data='ffff'/>?
+  
+  At the edge of the sea <0 Type='3' Data='0000'/>southeast <0 Type='3' Data='ffff'/>of here
+  is a small fishing village called <0 Type='3' Data='0000'/>Lurelin<0 Type='3' Data='ffff'/>.
+  It has a reputation as a resort town.
+  <3 Type='0' Data='0800'/>But its real claim to fame is the beautiful
+  moment where the sun rises over the
+  horizon and lights up the whole village!
+  And they say the most breathtaking view
+  of this sunrise is from the <0 Type='3' Data='0000'/>summit of
+  Tuft Mountain<0 Type='3' Data='ffff'/>...
+  <3 Type='0' Data='0500'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>I'd love to see that view myself, but it's
+  so far away, and I can't just leave work...<5 Type='0'/>
+  Nor can I climb mountains.
+  If only I could see <0 Type='3' Data='0000'/>Hyrule's finest sunrise<0 Type='3' Data='ffff'/>,<5 Type='0'/>
+  I'd paint my own picture of it and finally
+  put that frame to use.
+Com_FirstTime_Only03: |
+  <3 Type='0' Data='0701'/>Not only is this your first use of Dueling
+  Peaks Stable but you've even <0 Type='3' Data='0000'/>lodged
+  with us<0 Type='3' Data='ffff'/>. That deserves a reward, so...
+Com_Photo_02: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Hmm?<5 Type='0'/> Do you have <0 Type='3' Data='0000'/>a picture of Hyrule's
+  finest sunrise<0 Type='3' Data='ffff'/>?

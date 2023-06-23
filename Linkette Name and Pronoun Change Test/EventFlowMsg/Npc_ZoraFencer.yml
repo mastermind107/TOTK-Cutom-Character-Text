@@ -1,0 +1,158 @@
+Near_11: |
+  <4 Type='0' Data='08004500610073006500'/>Ah, sweet rainfall...
+Talk_30: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>I thought I was prepared to become a
+  queen, but now that it is actually coming
+  to pass...I am in disbelief.
+  At the very least, I must strive very hard
+  to ensure that I do not embarrass myself!
+  
+  <4 Type='0' Data='0e0043006800610074005f0030003000'/>To start, I shall prepare my dear Sidon's
+  throne. I hear the Exalted Dorephan will
+  be returning to his palace as well.
+Talk_31: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>In time, and little by little, I will perhaps
+  become used to this new position of mine.<5 Type='0'/>
+  I already have much to do!
+  I intend to prepare Sidon's throne for him.<5 Type='1'/>
+  Ah, and I must make arrangements for
+  the Exalted Dorephan's new abode.
+Near_07: |
+  At long last!
+Talk_26: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>I finally had the opportunity to have a
+  meaningful conversation with my
+  dear Sidon.
+  Ever since the sludge started falling,
+  we simply could not manage the time
+  for it, as much we both needed it.
+  Once all of these strange phenomena are
+  taken care of, <5 Type='1'/>he and I will be able to have
+  many more important conversations.
+  <3 Type='0' Data='0d01'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>I am certain that his sweet sister, Mipha,
+  is looking down on us, through our
+  struggles as well as our triumphs.
+Talk_27: |
+  <3 Type='0' Data='0d00'/><4 Type='0' Data='0c004c0061007500670068005300'/>From here on out, I shall make it a point
+  to always keep the lines of communication
+  open with my dear Sidon.
+  It is my duty as a queen and as his
+  adoring wife!
+Comment_20: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Oh? Could it be that you already have
+  an ancient arowana?
+Near_09: |
+  From this moment on...
+Comment_21: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Linkette!<5 Type='0'/> Thank you ever so much for saving
+  the domain!
+  
+  Oh, that reminds me. I can finally give you
+  your precious <0 Type='3' Data='0000'/>Zora armor<0 Type='3' Data='ffff'/>, which is once
+  again as good as new.
+TerrorFire: |
+  Yikes!
+Comment_16: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>It is about an item of yours that you
+  entrusted the domain with repairing—
+  your <0 Type='3' Data='0000'/>Zora armor<0 Type='3' Data='ffff'/>!
+  The repair is mostly complete, but it does
+  require just one more thing...
+  
+  I need a fish called an <0 Type='3' Data='0000'/>ancient arowana<0 Type='3' Data='ffff'/>.
+  
+  
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>I can finish the armor right away if I can
+  somehow acquire a scale from that fish.
+  
+  We have not seen <0 Type='3' Data='0000'/>ancient arowanas<0 Type='3' Data='ffff'/>
+  around lately, <5 Type='0'/>and I have no idea where
+  they can be found.
+  <3 Type='0' Data='0001'/>If you locate one, Sir Linkette, please bring it
+  to me.
+  
+  Do so, and I shall fix your precious item
+  at once and return it to your care!
+  
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>As you well know, the <0 Type='3' Data='0000'/>Zora armor <0 Type='3' Data='ffff'/>allows
+  even a Hylian like you to climb waterfalls
+  with ease.
+  I am certain that such a skill will aid you
+  on your journey, so please do not forget!
+0021: |
+  Ancient arowana time!
+Comment_17: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>In order to finish repairing your <0 Type='3' Data='0000'/>Zora
+  armor<0 Type='3' Data='ffff'/>, I must acquire a fish called an
+  <0 Type='3' Data='0000'/>ancient arowana<0 Type='3' Data='ffff'/>.
+  We have not seen them here recently, and
+  I have no idea where they can be found.
+  
+  <3 Type='0' Data='0701'/>If you locate one, Sir Linkette, could you
+  please bring it to me?
+  
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068005300'/>Do so, and I shall fix your precious item
+  at once and return it to your care!
+  
+  As you well know, the Zora armor allows
+  even a Hylian like you to <0 Type='3' Data='0000'/>climb waterfalls<0 Type='3' Data='ffff'/>
+  with ease.
+  I am certain that such a skill will aid you
+  on your journey, <5 Type='1'/>so please do not forget!
+0022: |
+  I'll see you later.
+Comment_23: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068005300'/>Here you are!
+Comment_18: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Sir Linkette! <5 Type='0'/>Thank you ever so much for
+  saving the domain. You are everything
+  that Sidon claimed you to be.
+  Though this is hardly sufficient remittance
+  for the debt we owe, know that your <0 Type='3' Data='0000'/>Zora
+  armor <0 Type='3' Data='ffff'/>is nearly repaired.
+  As you well know, the Zora armor allows
+  even a Hylian like you to <0 Type='3' Data='0000'/>climb waterfalls<0 Type='3' Data='ffff'/>
+  with ease.
+  I am certain that such a skill will prove
+  useful to you, Sir Linkette.
+  
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>The only trouble is that I cannot find an
+  <0 Type='3' Data='0000'/>ancient arowana<0 Type='3' Data='ffff'/>, the last thing I need to
+  finish the repair. I am at a standstill.
+  We have not seen them here recently, and
+  I have no idea where they can be found.
+  
+  I must find a way to acquire an <0 Type='3' Data='0000'/>ancient
+  arowana <0 Type='3' Data='ffff'/>as soon as possible...<5 Type='0'/>
+Comment_24: |
+  <3 Type='0' Data='0d01'/>Please, take this.
+  
+  
+  <4 Type='0' Data='0e0045006100730065005f0030003100'/>I am so happy that I was able to repair it
+  for you. It is a precious piece of armor,
+  after all.
+  As you well know, that Zora armor allows
+  you to climb waterfalls with the ease of
+  us Zora.
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>I hope that this will aid in you your
+  search for Princess Zelda!
+Comment_19: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Linkette!<5 Type='0'/> Thank you ever so much for saving
+  the domain!
+  
+  As it were, there is something that I would
+  like to speak with you about, if you have a
+  moment to spare.
+TerrorImpulse: |
+  Aaah!
+Comment_26: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>As you well know, the Zora armor allows
+  even a Hylian like you to <0 Type='3' Data='0000'/>climb waterfalls<0 Type='3' Data='ffff'/>
+  with ease.
+  <3 Type='0' Data='0c01'/>However, in order to finish the repair,
+  I must acquire a fish called an ancient
+  arowana.
+  Oh, <0 Type='3' Data='0000'/>ancient arowana<0 Type='3' Data='ffff'/>...<5 Type='0'/> Where in the world
+  are you?
+Near_10: |
+  The Zora armor...

@@ -1,0 +1,302 @@
+0014: |
+  Zora armor?
+talk0041: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>I'll work extra hard to provide top-notch
+  security in order to protect Prince Sidon
+  and Lady Yona!
+near0029: |
+  Nothing unusual...
+0015: |
+  See ya later.
+talk0042: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='0a0041006e00670072007900'/>We'll protect Lady Yona from all danger!
+near0030: |
+  This rain is wonderful.
+talk036_01: |
+  <4 Type='0' Data='0e0057006f0072006b005f0030003100'/>I will redouble my focus and devote myself
+  to daily training to be the best guard that
+  I can be!
+talk0043: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>Us Zora soldiers must be strong, just like
+  Prince Sidon and you, our hero!
+  
+  From now on, I'll double my efforts at
+  training! Maybe even triple!
+talk0044: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>The water that Prince Sidon has cleansed
+  flows from Mipha Court to Zora's Domain.
+  
+  That's why we can climb the waterfalls
+  from the domain all the way here.
+  
+  <4 Type='0' Data='0c005300610064005f0030003000'/>I really wish we had been able to return
+  your <0 Type='3' Data='0000'/>Zora armor <0 Type='3' Data='ffff'/>to you, Linkette. It would be
+  really useful to you about now.
+talk035_01: |
+  <4 Type='0' Data='12004c00610075006700680053005f0030003100'/>As for me, I'm vigilantly guarding the
+  domain.<5 Type='0'/> Not even a single fish will swim
+  through without my notice!
+talk0045: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>That's right, Linkette! You know the drill.
+  With your faithful <0 Type='3' Data='0000'/>Zora armor<0 Type='3' Data='ffff'/>, even a
+  Hylian like you can climb waterfalls.
+  I believe Lady Yona is trying to repair it.
+  She's in the domain.<5 Type='1'/> Have you asked her
+  about it yet?
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Please speak with her.<5 Type='1'/> I'm sure your <0 Type='3' Data='0000'/>Zora
+  armor <0 Type='3' Data='ffff'/>would be really useful about now!
+talk0046: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>We can climb the waterfalls from the
+  domain all the way here because the
+  prince is cleansing the water for us.
+  I really wish we had been able to return
+  your <0 Type='3' Data='0000'/>Zora armor <0 Type='3' Data='ffff'/>to you, Linkette. It would be
+  really useful to you about now.
+talk032: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Take care, Linkette.
+near0006: |
+  Come now. Honestly...
+talk0047: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0a0048006100700070007900'/>That's right, Linkette! You know the drill.
+  With your faithful <0 Type='3' Data='0000'/>Zora armor<0 Type='3' Data='ffff'/>, even a
+  Hylian like you can climb waterfalls.
+  I believe Lady Yona is trying to repair it.
+  She's in the domain.
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Please speak with her.<5 Type='1'/> I'm sure your
+  <0 Type='3' Data='0000'/>Zora armor <0 Type='3' Data='ffff'/>would be really useful
+  about now!
+talk033: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>You have saved our domain when it was in
+  crisis—not once but twice! <5 Type='0'/>I'll never forget
+  what you've done for us, Linkette!
+talk0048: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Right! I'm looking forward to our
+  next chat.
+talk034: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Linkette!<5 Type='1'/> You'll be happy to know that
+  Zora's Domain is enjoying its
+  hard-earned peace!
+talk0020: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/><FontSize Value='80'/>Shhh!<5 Type='0'/> Keep it down!<5 Type='0'/> The prince requires absolute
+  quiet to concentrate on his important work...<FontSize Value='100'/>
+  
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Wait... Linkette?!
+  
+  
+  You came here to see Prince Sidon?
+  
+  
+  <3 Type='0' Data='0001'/>Well, since it's you, that should be no
+  problem at all.<5 Type='0'/> I'm sure Prince Sidon
+  will be thrilled to see you.
+talk0049: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Oh, my mistake!<5 Type='1'/> I didn't realize you had
+  already spoken with Lady Yona.
+  
+  You know the drill. With your faithful
+  <0 Type='3' Data='0000'/>Zora armor<0 Type='3' Data='ffff'/>, even a Hylian like you
+  can climb waterfalls.
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>But I hear she needs some kind of special
+  fish in order to finish repairing the armor.<5 Type='1'/>
+  Hm...<5 Type='0'/> I wonder kind of fish.
+  That reminds me that Gruve is over by
+  Mipha's statue, and he said he's seen
+  some unusual fish there recently.
+talk035: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>The red moon has brought back all the
+  monsters in the Ja'Abu Ridge fort, alas.<0 Type='4'/><3 Type='0' Data='0000'/>But I think they're afraid of you, Linkette,
+  because they seem to be hesitant to
+  move on the domain.
+talk0021: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Only Prince Sidon could keep purifying
+  that amount of filthy water.
+  
+  Naturally, Lady Yona can also control the
+  water like that, but there's a good reason
+  that she isn't here.
+  You see, Prince Sidon asked her to watch
+  over the infirmary.
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>It turns out she really was the best Zora
+  for the job!<5 Type='0'/> That role was perfect for
+  Lady Yona, who is kindness incarnate.
+  While the young ones are in the
+  throne room, <5 Type='0'/>he's generating water and
+  overseeing the investigation of the ruins.
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Prince Sidon's command is exceptional,
+  to say the least!
+talk0050: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Lady Yona is in the domain trying her best
+  to finish repairing your <0 Type='3' Data='0000'/>Zora armor<0 Type='3' Data='ffff'/>.
+  
+  You know the drill. With your faithful
+  <0 Type='3' Data='0000'/>Zora armor<0 Type='3' Data='ffff'/>, even a Hylian like you
+  can climb waterfalls.
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>But I hear she needs some kind of special
+  fish in order to finish repairing the armor.<5 Type='1'/>
+  Hm...<5 Type='0'/> I wonder kind of fish.
+  That reminds me that Gruve is over by
+  Mipha's statue, and he said he's seen
+  some unusual fish there recently.
+talk036: |
+  <3 Type='0' Data='0700'/>We'll still need to protect the domain from
+  menaces such as the sludge, even under
+  King Sidon's rule.
+talk0051: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Ever since the Upheaval, Prince Sidon
+  has been working so tirelessly, he hasn't
+  been able to return home to the domain.
+  Lady Yona has been providing leadership
+  at Zora's Domain in his stead.
+  
+  <4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Our precious Zora's Domain is to the <0 Type='3' Data='0000'/>west<0 Type='3' Data='ffff'/>
+  of here, as it ever was.
+talk0022: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>To think Lady Yona has also come here.
+  I must focus even more intently on
+  defending them.
+talk0052: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Lady Yona has been providing leadership
+  at the domain in the prince's stead.
+  
+  Our precious Zora's Domain is to the <0 Type='3' Data='0000'/>west<0 Type='3' Data='ffff'/>
+  of here, as it ever was.
+talk0023: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>A sludge monster?!
+talk0024: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>You're amazing! The way you defeated
+  that monster... Wow!
+  
+  If it had only been me and Rivan, we
+  might have been in big trouble.
+  
+  <4 Type='0' Data='1000480061007000700079005f0030003100'/>Thank you so much, Linkette!
+talk0025: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Rivan is fussing again...
+talk0026: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Linkette! Thank you for saving the domain
+  once again! I could never repay you for
+  all that you have done for us.
+  <3 Type='0' Data='0501'/>But even though the sludge is gone,
+  these foul villains keep showing up!
+talk0027: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c005300610064005f0030003000'/>They're monsters.<5 Type='1'/><0 Type='4'/>They built a fort past East Reservoir Lake<5 Type='0'/>
+  in the <0 Type='3' Data='0000'/>north of Ja'Abu Ridge<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0201'/>They're taking advantage of the chaos
+  that was caused by the sludge.<5 Type='0'/> What
+  rotten villains!
+talk0028: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0600530061006400'/>Some villainous monsters built a fort
+  nearby recently.
+  
+  <3 Type='0' Data='0701'/>It's on the other side of the reservoir
+  that's to the east of here...<5 Type='0'/><0 Type='3' Data='0000'/>north of
+  Ja'Abu Ridge<0 Type='3' Data='ffff'/>.
+  There's no way to know if it's true,<5 Type='0'/>
+  but there's a rumor that a Hylian has
+  been captured.
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Please be careful out there, Linkette.
+talk0029: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Linkette!<5 Type='0'/> Regarding the subject of that
+  monster fort...
+  
+  We decided to gather some soldiers to
+  go and dispense justice.
+  
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>We'll make them pay for their actions!<5 Type='1'/>
+  Ah, my fins are shivering with excitement!
+talk0030: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/><FontSize Value='125'/>What?!<FontSize Value='100'/>
+  
+  
+  So, I guess that means...<5 Type='0'/>you did all that...<5 Type='0'/>
+  on your own?!
+talk0031: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Well, now. That...<5 Type='0'/>is quite impressive, Linkette.<5 Type='1'/>
+  Haha!<5 Type='0'/> Ha...
+  
+  <3 Type='0' Data='0301'/>We put together a team and prepared all
+  night.<5 Type='1'/> Yet you did this all by yourself...<5 Type='0'/>
+  Ha, indeed.
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Well, let's leave it at that.<5 Type='0'/> I'm so grateful
+  that the domain is safe once again!
+  
+  Please, allow me to thank you. Take this.
+talk0032: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>This was our war fund for striking down
+  our enemy. However, since our objective
+  has already been achieved...
+  Please accept this as a reward, Linkette!
+  You've more than earned it with your
+  distinguished service.
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/><FontSize Value='80'/>As for me, I should report that the threat is gone
+  at once...<FontSize Value='100'/>
+talk0033: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>There's no way to know if it's true,
+  but there's a rumor that a Hylian has
+  been captured.
+  That is unacceptable, and for all we
+  know, the domain could be targeted
+  next. We can't just sit back and watch.
+  <4 Type='0' Data='0a005400680069006e006b00'/>Hmm...<5 Type='0'/> We need a plan, and fast.
+talk0034: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Wow.<5 Type='0'/> That certainly is impressive, Linkette!<5 Type='1'/>
+  Hahaha! <5 Type='0'/>Ha...
+  
+  <3 Type='0' Data='0301'/>We assembled our troops and prepared
+  all night.<5 Type='1'/> Yet you did this all alone...<5 Type='0'/> That
+  truly is humorous, heh.
+  <3 Type='0' Data='0700'/>Well, I suppose that is that.<5 Type='0'/> It's such a
+  relief that the domain is safe once more!
+  
+  Please allow me to thank you.
+talk0035: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Still... <5 Type='1'/>Please do not fret.<5 Type='0'/>
+  
+  
+  We have already gathered our troops and
+  are preparing to take out our enemy!
+  
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>We'll make them pay for their actions!<5 Type='1'/> Ah,
+  my fins are shivering with excitement!
+talk0036: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>His only daughter, Dunma, is on a
+  solo assignment. I can understand
+  why he'd be worried.
+  But Dunma is over 60 years old. Sure,
+  she still has some of the mannerisms of
+  childhood, but she's a first-rate soldier.
+talk0037: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0600530061006400'/>As a veteran soldier himself, it's simply
+  not fitting for him to get distracted just
+  because he's apart from his daughter.
+talk0038: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Please go on ahead! I'm sure Prince
+  Sidon will be thrilled to see you.
+near0026: |
+  Villains...
+0011: |
+  What's wrong?
+talk0039: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Rivan <5 Type='0'/>is still fussing...
+talk0026_01: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0a005400680069006e006b00'/>Hm... <5 Type='0'/>Even though the sludge is gone,
+  these foul villains keep showing up.
+near0027: |
+  We need a plan.
+0012: |
+  I defeated them!
+talk0040: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>It's no small task to continuously clean
+  that amount of dirty water.
+  
+  On top of that, he must also deploy
+  everyone where they're needed most and
+  oversee the investigation of the ruins.
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Prince Sidon really is amazing!
+near0028: |
+  My shivering fins!
+0013: |
+  Good luck!

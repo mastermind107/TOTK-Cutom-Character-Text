@@ -1,0 +1,30 @@
+Talk_0001: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Ah, hello, Linkette. I should have known we
+  would run into you here.<0 Type='4'/>We came to investigate the geoglyph in
+  this region, but the sludge falling from
+  the sky complicated things.
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Fortunately, that muck is gone now, and
+  our efforts to research the local geoglyph
+  may resume.
+Talk_0004: |
+  <3 Type='0' Data='0700'/>The ancient literature states that the
+  <0 Type='3' Data='0000'/>Forgotten Temple<0 Type='3' Data='ffff'/> is at the bottom of
+  a canyon in Hebra.
+  We believe that it will be integral to our
+  understanding of the geoglyphs.
+  
+  Investigating the local geoglyph is still
+  important, but I would like to find that
+  temple as soon as possible.
+Talk_0002: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0a005400680069006e006b00'/>The ancient literature says that the
+  <0 Type='3' Data='0000'/>Forgotten Temple<0 Type='3' Data='ffff'/> holds information that
+  could aid us in finding the geoglyphs.
+  I propose we start there. We can find the
+  temple in a canyon in Hebra.
+Near_0001: |
+  It should be nearby...
+Talk_0003: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0e00540072006f00750062006c006500'/>There have been reports of a geoglyph in
+  this area. We plan on taking to the skies
+  to look for it.
