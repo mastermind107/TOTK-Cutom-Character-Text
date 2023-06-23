@@ -1,0 +1,137 @@
+Talk_0013: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>That's incredible! C-could you give
+  us a demonstration?
+Talk_0048: |
+  <3 Type='0' Data='0900'/>See how the vehicle on the <0 Type='3' Data='0000'/>round
+  pedestal<0 Type='3' Data='ffff'/> is missing a wheel?
+  Fix it, please.
+Talk_0049: |
+  <3 Type='0' Data='0800'/>You'd be doing us a favor!
+0000: |
+  Power?
+Talk_0050: |
+  <3 Type='0' Data='0900'/>Just use your fancy <0 Type='3' Data='0000'/>ancient power<0 Type='3' Data='ffff'/>! Do I
+  have to beg?
+0001: |
+  Vehicles?
+Talk_0051: |
+  Now it's time for the main event...<5 Type='0'/>the one
+  in pieces on the <0 Type='3' Data='0000'/>square pedestal<0 Type='3' Data='ffff'/>!
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Use that new <0 Type='3' Data='0000'/>power<0 Type='3' Data='ffff'/> of yours,<5 Type='0'/> and fix it up
+  lickety-split.
+0002: |
+  Talk to you later.
+Talk_0052: |
+  <3 Type='0' Data='0900'/>No! Not like that!
+Talk_0001: |
+  <4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Authorizer verified.
+Talk_0053: |
+  <3 Type='0' Data='0900'/>Hey, what's the big idea?!
+Talk_0002: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/><FontSize Value='125'/>It—<5 Type='0'/> It's moving!<FontSize Value='100'/>
+Talk_0054: |
+  <3 Type='0' Data='0900'/>Stop! What are you doing?!
+Talk_0003: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Conferring <0 Type='3' Data='0000'/>Autobuild<0 Type='3' Data='ffff'/> to authorizer now.<5 Type='0'/><0 Type='4'/>Please utilize it as you explore and
+  excavate the Depths for zonaite.
+Talk_0038: |
+  <3 Type='0' Data='0700'/>Please, use your<0 Type='3' Data='0000'/> power <0 Type='3' Data='ffff'/>to fix our <0 Type='3' Data='0000'/>vehicles<0 Type='3' Data='ffff'/>!
+Talk_0055: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068004c00'/>Use your new <0 Type='3' Data='0000'/>power<0 Type='3' Data='ffff'/> to fix our vehicles!<5 Type='0'/>
+  If you need more details...<5 Type='0'/>go ask her.
+Talk_0004: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>Did I...<5 Type='0'/>see what I thought I saw?
+  
+  
+  Did that thing just...<5 Type='0'/>give you the <0 Type='3' Data='0000'/>power<0 Type='3' Data='ffff'/>
+  we've been researching?
+Talk_0039: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>The text claims that power can <0 Type='3' Data='0000'/>reproduce<0 Type='3' Data='ffff'/>
+  anything you've built.
+  
+  <3 Type='0' Data='0801'/>And that would mean...<5 Type='0'/>you could fix our
+  vehicles in the blink of an eye!
+Talk_0005: |
+  <3 Type='0' Data='0701'/>Let me see what the <0 Type='3' Data='0000'/>text<0 Type='3' Data='ffff'/> has to say.<5 Type='0'/><0 Type='4'/>Hold on, um...
+  
+  
+  "This ability will allow you to <0 Type='3' Data='0000'/>commit any
+  structure you create to memory<0 Type='3' Data='ffff'/>.
+  
+  "Any object committed to memory <0 Type='3' Data='0000'/>can be
+  instantly reproduced<0 Type='3' Data='ffff'/>."
+Talk_0057: |
+  <3 Type='0' Data='0900'/>Ugh, seriously?! What are you doing?!
+Talk_0006: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>I know just what to use it on!<5 Type='0'/>
+  
+  
+  As luck would have it, <0 Type='3' Data='0000'/>both of our vehicles
+  just broke<0 Type='3' Data='ffff'/>, <5 Type='0'/>and we've been struggling to
+  put them back together again.
+Talk_0040: |
+  <3 Type='0' Data='0a00'/>The vehicles we used to get here
+  are broken.
+  
+  The vehicle on the <0 Type='3' Data='0000'/>round pedestal<0 Type='3' Data='ffff'/> is only
+  missing a <0 Type='3' Data='0000'/>wheel<0 Type='3' Data='ffff'/>, so it should be a fairly
+  easy fix...
+  Conversely, the one on the <0 Type='3' Data='0000'/>square
+  pedestal <0 Type='3' Data='ffff'/>was broken to pieces.<5 Type='0'/> It
+  would take a long time to repair.
+  <3 Type='0' Data='0800'/>But with your power, after you <0 Type='3' Data='0000'/>put the
+  wheel back on the first one<0 Type='3' Data='ffff'/>, you should
+  be able to <0 Type='3' Data='0000'/>fix the second<0 Type='3' Data='ffff'/> in a blink!
+Talk_0058: |
+  <3 Type='0' Data='0900'/>Start over! Hurry up and fix the <0 Type='3' Data='0000'/>wheel<0 Type='3' Data='ffff'/>
+  on that one! On the <0 Type='3' Data='0000'/>round pedestal<0 Type='3' Data='ffff'/>!
+Talk_0041: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Linkette. I have something else to give you.
+Talk_0007: |
+  <3 Type='0' Data='0900'/>Hands off! If you want to tinker with
+  something, then come take a look at
+  this <0 Type='3' Data='0000'/>weird stone statue<0 Type='3' Data='ffff'/> instead!
+Talk_0008: |
+  <3 Type='0' Data='0a00'/>And the one on the <0 Type='3' Data='0000'/>square pedestal<0 Type='3' Data='ffff'/>
+  has fallen to pieces.
+  
+  But I think,<5 Type='0'/> if you put the wheel back onto
+  <0 Type='3' Data='0000'/>the first one<0 Type='3' Data='ffff'/>...
+  
+  You should be able use your power to
+  <0 Type='3' Data='0000'/>repair the second<0 Type='3' Data='ffff'/> in no time flat!
+Talk_0042: |
+  <3 Type='0' Data='0900'/>Hang on just a minute! Are you gonna fix
+  our vehicles for us or not?!
+  
+  And isn't one special <0 Type='3' Data='0000'/>power<0 Type='3' Data='ffff'/> enough? How
+  greedy can you be?! That's so unfai—
+  
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Ahem, excuse me, I lost my
+  composure there...
+  
+  <3 Type='0' Data='0701'/>W-we are really in a bind, you know.
+  Could you please use your <0 Type='3' Data='0000'/>power<0 Type='3' Data='ffff'/> so
+  we can go home?
+Talk_0009: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>So come on, let's see it in action!
+  Fix 'em up quick!
+Talk_0043: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Wow, look at that! <5 Type='0'/>That wheel's right back
+  on there, snug as a bug!
+Talk_0010: |
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>The one on the <0 Type='3' Data='0000'/>round pedestal <0 Type='3' Data='ffff'/>lost
+  a <0 Type='3' Data='0000'/>wheel<0 Type='3' Data='ffff'/>...
+Talk_0045: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>Whoa. It's like I'm seeing double!<0 Type='4'/>Built in less than no time flat too.<5 Type='0'/> This is
+  exactly what I was hoping for. Thank you,
+  <0 Type='3' Data='0000'/>ancient power<0 Type='3' Data='ffff'/>!
+Talk_0011: |
+  You can start by repairing the one
+  on the <0 Type='3' Data='0000'/>round pedestal<0 Type='3' Data='ffff'/>.
+Talk_0012: |
+  <3 Type='0' Data='0900'/>Hey!
+Talk_0047: |
+  <3 Type='0' Data='0900'/>Use that new<0 Type='3' Data='0000'/> power<0 Type='3' Data='ffff'/> already! Come on,
+  snappy-snappy, fixy-fixy!

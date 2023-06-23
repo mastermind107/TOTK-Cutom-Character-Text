@@ -1,0 +1,43 @@
+Talk_00: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Linkette? You look distracted. What's wrong?
+Talk_02: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Goodness! <5 Type='1'/>You say you had a vision?
+  Saw mysterious figures?
+  
+  <3 Type='0' Data='0c01'/>And then Princess Zelda?! <5 Type='1'/>Hmm...
+  
+  
+  The geoglyphs, the literature, the
+  Dragon's Tears...and now, a vision
+  of the lost princess.
+  <3 Type='0' Data='0400'/>What if these are all connected?
+  
+  
+  <3 Type='0' Data='0701'/>Let us continue to examine the geoglyphs.
+  They may contain further clues that lead
+  to Princess Zelda.
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003000'/>I am also curious about whatever it
+  was the Light Dragon dropped. <5 Type='1'/>Worth
+  investigating, I think.
+Talk_01: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Goodness! <5 Type='1'/>You say you had a vision?
+  Saw mysterious figures?
+  
+  <3 Type='0' Data='0c01'/>And then Princess Zelda?! <5 Type='1'/>Hmm...
+  
+  
+  The geoglyphs, the literature, the
+  Dragon's Tears...and now, a vision
+  of the lost princess.
+  <3 Type='0' Data='0400'/>What if these are all connected?
+  
+  
+  <3 Type='0' Data='0701'/>Let us continue to examine the geoglyphs.
+  They may contain further clues that lead
+  to Princess Zelda.
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003000'/>You know, according to the literature,
+  there is something to do with geoglyphs
+  in the <0 Type='3' Data='0000'/>Forgotten Temple<0 Type='3' Data='ffff'/>.
+  The <0 Type='3' Data='0000'/>Forgotten Temple <0 Type='3' Data='ffff'/>lies at the bottom
+  of a canyon in <0 Type='3' Data='0000'/>Hebra<0 Type='3' Data='ffff'/>. I think we should
+  make our way there soon.

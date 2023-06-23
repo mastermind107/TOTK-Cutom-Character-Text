@@ -1,0 +1,27 @@
+Dm_RT_0009_02: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Wha— Linkette? Where did you come from?!
+Dm_RT_0009_03: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='1800540075006c00690041006e006700720079005f0030003000'/>I've gotta get it back! Help me out, Linkette?
+Dm_RT_0009_05: |
+  <3 Type='0' Data='0c01'/>That rotten monster took my good bow.
+0005: |
+  Sure!
+Dm_RT_0009_06: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>See? That's the bow-napper!
+0006: |
+  Not just yet.
+Dm_RT_0009_15: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Really?! Thanks!<0 Type='4'/><3 Type='0' Data='0701'/>Didja know I can <0 Type='3' Data='0000'/>blow a strong gust of
+  wind anywhere I feel like<0 Type='3' Data='ffff'/>?<0 Type='4'/>I'll do it for you too. That way, you can
+  <0 Type='3' Data='0000'/>glide <0 Type='3' Data='ffff'/>over to where that monster went.<0 Type='4'/><3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Just <0 Type='3' Data='0000'/>tell me<0 Type='3' Data='ffff'/> where to point the gust, and
+  I'll <0 Type='3' Data='0000'/>make it for you<0 Type='3' Data='ffff'/>! 
+Dm_RT_0009_Near01: |
+  Shoulda kept my guard up!
+0007: |
+  What happened?
+Dm_RT_0009_07: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>OK. I can wait.
+Dm_RT_0009_01: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='1600540075006c00690048006f0077006c005f0030003000'/>Stupid monster!
+Dm_RT_0009_08: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='14005000610069006e00660075006c005f0030003000'/>Oh, uh, you see...

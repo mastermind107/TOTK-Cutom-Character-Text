@@ -1,0 +1,45 @@
+Talk_0029: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0e00540061006c006b005f0030003100'/>I've been waiting for you.<0 Type='4'/>Your disguises will do you no good, Linkette.
+NewText_09: |
+  <3 Type='0' Data='0d00'/><4 Type='0' Data='0c004a006f0079005f0030003400'/>will be reborn!
+Near_0000: |
+  ...
+NewText_00: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0e00540061006c006b005f0030003400'/>And now...
+NewText_01: |
+  <3 Type='0' Data='0d01'/>Behold this feat of engineering...
+NewText_02: |
+  <3 Type='0' Data='0d00'/><4 Type='0' Data='16004c0061007500670068004200610064005f0030003100'/>This unstoppable Zonai construct!
+NewText_03: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Count your blessings, Linkette! Your death
+  will prove the Yiga Clan's might!
+Talk_0030: |
+  It is done.
+NewText_04: |
+  <3 Type='0' Data='0d00'/><4 Type='0' Data='0c004a006f0079005f0030003100'/>our gift to the Demon King...
+NewText_10: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004d005f0030003100'/>Today will go down in infamy...
+NewText_11: |
+  as the day of our ultimate weapon's
+  resurrection!
+NewText_05: |
+  Then I'll go take my rightful place...
+NewText_12: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0c004a006f0079005f0030003500'/>And the day the world faced its end!
+NewText_06: |
+  Now, <5 Type='1'/>come and get me.
+Talk_0027: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0e00540061006c006b005f0030003100'/>I've been waiting for you.
+NewText_13: |
+  in the darkness below the castle, where
+  the <0 Type='3' Data='0000'/>Demon King<0 Type='3' Data='ffff'/> now dwells.
+NewText_07: |
+  <FontSize Value='125'/><3 Type='0' Data='0d00'/><4 Type='0' Data='160050006f0069006e00740069006e0067005f0030003000'/>This time,<5 Type='1'/> I'll bury you!<5 Type='1'/><FontSize Value='100'/>
+NewText: |
+  <3 Type='0' Data='0801'/>We have enough <0 Type='3' Data='0000'/>crystallized charges<0 Type='3' Data='ffff'/>
+  at last!
+NewText_08: |
+  <3 Type='0' Data='0d00'/><4 Type='0' Data='0c004a006f0079005f0030003300'/>a weapon beyond compare...
+NewText_14: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Yes, where the end of all things will begin!<0 Type='4'/>In the <0 Type='3' Data='0000'/>deepest reaches of the Depths<0 Type='3' Data='ffff'/>...
+  Far beneath Hyrule Castle!

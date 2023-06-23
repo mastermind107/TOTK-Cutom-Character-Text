@@ -1,0 +1,117 @@
+Talk_01_06: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Well, well. This is a fine-looking <0 Type='3' Data='0000'/>stable<0 Type='3' Data='ffff'/>!
+Talk_01_19: |
+  <3 Type='0' Data='0c00'/>I heard that <0 Type='3' Data='0000'/>Princess Zelda<0 Type='3' Data='ffff'/> was sighted
+  at Hyrule Castle, which has me all kinds
+  of curious.
+  But it's my job to care for the horses
+  properly so those who go out searching
+  have healthy transport.
+  I'll leave the business regarding Princess
+  Zelda to everyone else.
+Talk_01_07: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003000'/>And thanks for your help with this little
+  project, son. <5 Type='0'/>Looks great.
+  
+  Now we can board horses at Lookout
+  Landing. If you need help with <0 Type='3' Data='0000'/>horses<0 Type='3' Data='ffff'/>,
+  please talk to me anytime.
+Talk_01_08: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>I heard that <0 Type='3' Data='0000'/>Princess Zelda<0 Type='3' Data='ffff'/> was
+  seen recently.
+  
+  <3 Type='0' Data='0701'/>But first things first. I need to finish up
+  my work!
+Talk_01_09: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Are you interested in horses?
+  Unfortunately our <0 Type='3' Data='0000'/>stable<0 Type='3' Data='ffff'/> here is
+  under construction.
+  If you want to register or take any horses
+  out, you'll need to use one of the other
+  nearby <0 Type='3' Data='0000'/>stables<0 Type='3' Data='ffff'/>.
+near_00: |
+  That's odd...
+Talk_00_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Karson, when do you think the <0 Type='3' Data='0000'/>stable<0 Type='3' Data='ffff'/>
+  will be ready?
+Talk_00_01: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0c005300610064005f0030003100'/>It'll still be a while yet.
+Talk_01_20: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Thanks for helping out! <5 Type='0'/>I was having a
+  hard time figuring out how to fit it.
+  
+  With the roof done, all that's left is to add
+  the finishing touches! I'll get cracking.
+  <5 Type='0'/>Son and done!
+Talk_00_02: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='08005300690067006800'/>Well, until the <0 Type='3' Data='0000'/>stable<0 Type='3' Data='ffff'/> is ready, we can't
+  board any more horses. What a shame.
+Talk_01_21: |
+  <3 Type='0' Data='0701'/>Can't say I'm surprised, considering
+  you're <0 Type='3' Data='0000'/>Hudson Construction<0 Type='3' Data='ffff'/>'s
+  number one.
+Talk_00_03: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>I need to get the last of the <0 Type='3' Data='0000'/>roof planks<0 Type='3' Data='ffff'/>
+  correctly fitted.
+Talk_00_04: |
+  <3 Type='0' Data='0c01'/>There's only <0 Type='3' Data='0000'/>one spot<0 Type='3' Data='ffff'/> to finish.
+Talk_01_10: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>Around here, the closest one is
+  <0 Type='3' Data='0000'/>New Serenne Stable<0 Type='3' Data='ffff'/> to the west.
+Talk_01_11: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1400480075006d006d0069006e0067005f0030003100'/>♪Quick and quality, blink and we're
+  done. That's why everyson chooses
+  Hudson Constructiooon.♪<5 Type='1'/>
+  Okey dokes! <5 Type='1'/>Feeling pumped! Gonna get
+  this done in one fell swoop.
+Talk_00_06: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Ah, Linkette. What is it?
+0001: |
+  Stable?
+Talk_01_12: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Ah yes, this is where we care for
+  the horses.
+  
+  <3 Type='0' Data='0300'/>Normally we can <0 Type='3' Data='0000'/>board<0 Type='3' Data='ffff'/> travelers' precious
+  <0 Type='3' Data='0000'/>horses <0 Type='3' Data='ffff'/>here, but with an incomplete
+  <0 Type='3' Data='0000'/>stable<0 Type='3' Data='ffff'/>, there's only so much we can do.
+  <3 Type='0' Data='0701'/>So if you're in a hurry, please use one of
+  the other nearby <0 Type='3' Data='0000'/>stables<0 Type='3' Data='ffff'/> for now.
+Talk_00_07: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Hang on... <5 Type='0'/>The roof <5 Type='0'/>is done?
+0002: |
+  Goodbye.
+Talk_01_00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Well look at that—<5 Type='0'/>it fits perfectly!
+Talk_01_13: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='08005300690067006800'/>Apologies, but this <0 Type='3' Data='0000'/>stable<0 Type='3' Data='ffff'/> is currently
+  under construction.
+  
+  If you need help with horse handling,
+  please use one of the other
+  nearby <0 Type='3' Data='0000'/>stables<0 Type='3' Data='ffff'/>.
+Talk_00_08: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0c005300610064005f0030003100'/>I heard that <0 Type='3' Data='0000'/>Princess Zelda<0 Type='3' Data='ffff'/> has been
+  sighted.
+  
+  That news is making it challenging to
+  focus on the task at hand...
+Talk_01_01: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>I want to finish up construction on the
+  <0 Type='3' Data='0000'/>stable<0 Type='3' Data='ffff'/>, but I'm not sure how best to
+  tackle fitting this <0 Type='3' Data='0000'/>roof plank <0 Type='3' Data='ffff'/>in...
+Talk_01_02: |
+  <3 Type='0' Data='0c00'/>Travelers come by here often, so there's
+  a lot of <0 Type='3' Data='0000'/>requests for horses<0 Type='3' Data='ffff'/>.
+  
+  I do wish I could build the <0 Type='3' Data='0000'/>stable<0 Type='3' Data='ffff'/> in our
+  classic son-and-done fashion...
+0005: |
+  Fix the Rito bridge.
+Talk_01_04: |
+  <3 Type='0' Data='0a00'/>With things as they are now, I really feel
+  for the horses... <5 Type='1'/>Hm?
+0006: |
+  Goodbye.
+Talk_01_05: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>How's that!

@@ -1,0 +1,104 @@
+Talk_010: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Oh! I didn't expect to find you here.<5 Type='0'/> I see
+  you rushed off to these Zonai Ruins ahead
+  of us researchers.
+  <3 Type='0' Data='0701'/>We came when we saw what looked like
+  lightning striking this dragon statue. I'm
+  glad to see you weren't hurt.
+Talk_011: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Oh! I didn't expect to find you here.<5 Type='0'/> I see
+  you rushed off ahead of us researchers.<0 Type='4'/><3 Type='0' Data='0701'/>Tauro told me he didn't see you, so I was
+  worried something might have happened.
+Talk_012: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>I'm glad you're all right! I've never seen
+  lightning strike like that before.<0 Type='4'/><3 Type='0' Data='0400'/>And even stranger, the dragon statues'
+  eyes seemed to flash just before it. If you
+  know anything about this, fill us in!
+Talk_000: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/><FontSize Value='80'/>Calip! Did you see that?! Lightning struck that
+  dragon pillar too!<0 Type='4'/>Huh? Is someone in those ruins?!<FontSize Value='100'/>
+Talk_013: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Unbelievable...<0 Type='4'/>A mechanism in the ancient ruins got
+  rid of the thunderclouds and revealed
+  some new sky islands?
+Talk_001: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Oh! It's you again.<0 Type='4'/><3 Type='0' Data='0701'/>We think a terrible lightning strike hit
+  here, but I'm glad to see you weren't hurt.
+Talk_200: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh, it's you. I see you've found my base
+  of operations for surveying.
+Talk_002: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I've never seen lightning strike like that!
+  And even stranger, the dragon statues'
+  eyes seemed to glow just before it.<0 Type='4'/><3 Type='0' Data='0701'/>Linkette, if you know anything about this,
+  fill us in on what happened!
+Talk_201: |
+  <3 Type='0' Data='0701'/>No doubt an amateur ruins enthusiast
+  like you is curious how that's proceeding.<0 Type='4'/>Sad to say, it's a bit early for that now.
+  The investigation is still underway.<0 Type='4'/>Even now, I'm hard at work processing
+  everything I've learned. <5 Type='1'/>NOT resting idly,
+  as some dullards might believe.
+Talk_003: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Great catch! Another amazing discovery
+  on the books. <5 Type='0'/>In fact, I'd say...
+Talk_202: |
+  <3 Type='0' Data='0c00'/><FontSize Value='80'/>Yes... This is my chance to do some solo work.<0 Type='4'/>I'll get results, and with them, recognition at last!<FontSize Value='100'/>
+Talk_004: |
+  <FontSize Value='125'/><3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>It's the haul of the century!<FontSize Value='100'/>
+Talk_017: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/><4 Type='0' Data='0c005300610064005f0030003000'/>He wants me to investigate alone? Fieldwork isn't
+  my strongest suit...<0 Type='4'/>But this may be my chance to make a historic
+  discovery!<FontSize Value='100'/>
+Talk_203: |
+  <3 Type='0' Data='0900'/>Not now! Can't you see it's raining?
+  This is no time for a leisurely chat!
+Talk_005: |
+  <3 Type='0' Data='0c00'/>It's a significant discovery, to be sure.<0 Type='4'/><3 Type='0' Data='0701'/>I'd like to go investigate further, but we
+  have no way of getting up there.
+Talk_018: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Right! <5 Type='1'/>Leave this to me, Tauro. <5 Type='0'/>I'll begin
+  preparing at once.<0 Type='4'/>I'll need to head back to our base of
+  operations for a bit first.
+Near_200: |
+  Phew...
+Talk_204: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0c004e006f007400690063006500'/>Excuse me, but you're standing in the
+  way of science. Talk to me once I get to
+  where I'm going, eh?
+Talk_006: |
+  <3 Type='0' Data='0a00'/>Hmm. You're right.<0 Type='4'/><3 Type='0' Data='0c01'/>That doesn't make it any less exciting,
+  though. We need to report this to Purah
+  right away.
+Near_201: |
+  Of course it's raining.
+Talk_205: |
+  <3 Type='0' Data='0700'/>No time now. I must rest and think on
+  what I've learned. We'll talk tomorrow.
+Talk_007: |
+  <3 Type='0' Data='0700'/>Calip, I'm going back to Kakariko Village.<0 Type='4'/>I want to write up the recent events
+  around the floating Ring Ruin in a report
+  for Purah.<0 Type='4'/>You should stick around here to conduct
+  a thorough investigation. Find out if there
+  are any more discoveries to be made!
+Near_202: |
+  Zzz... All the credit...
+Talk_206: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0c004e006f007400690063006500'/>Please, let me enjoy this lovely morning.
+  We can chat once I've left my tent to
+  start the day.
+Talk_008: |
+  <3 Type='0' Data='0b00'/>Wha— <5 Type='0'/>Remain here? You mean...alone?
+Talk_207: |
+  <4 Type='0' Data='0a0053006c00650065007000'/>Zzz... That's right... I found it all...
+  by myself...
+Talk_009: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Yes! Even if we can't get up to the sky,
+  there's so much to discover on land!<0 Type='4'/>It's our duty to unravel all of it. You can
+  do this, Calip!
+Talk_208: |
+  <3 Type='0' Data='0800'/>The new sky islands you discovered were
+  an amazing find.<0 Type='4'/><3 Type='0' Data='0701'/>I'd love to explore them myself, but we
+  have no way of getting up that high.<0 Type='4'/><3 Type='0' Data='0c01'/><FontSize Value='80'/>If only I could fly. <5 Type='1'/>Think of all the research
+  breakthroughs I could make!<0 Type='4'/><3 Type='0' Data='0701'/><FontSize Value='100'/>Oh yes, what was I saying? <5 Type='0'/>I lost myself
+  in thought there.<0 Type='4'/><3 Type='0' Data='0700'/>Since last we met, I've been keeping up
+  my investigation of the ruins.

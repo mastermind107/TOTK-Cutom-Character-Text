@@ -1,0 +1,27 @@
+Dm_RT_0014_Text_033_b_05: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1a00540075006c0069004e006f0074006900630065005f0030003000'/>OK, I heard it for sure this time.<0 Type='4'/>It was calling out to me loud and clear!
+Dm_RT_0014_Text_016_b: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Looks like it's shut tight. But the source
+  of the blizzard has gotta be right under
+  that hatch!
+Dm_RT_0014_Text_033_b_06: |
+  <3 Type='0' Data='0601'/>The source of the blizzard messing up the
+  village has gotta be <0 Type='3' Data='0000'/>under this hatch<0 Type='3' Data='ffff'/>.<0 Type='4'/>If that voice was right, <0 Type='3' Data='0000'/>it'll open <0 Type='3' Data='ffff'/>once we
+  <0 Type='3' Data='0000'/>find a way to release all five locks<0 Type='3' Data='ffff'/>.
+Dm_RT_0014_Text_017_b: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/><1 Type='3' Data='5a000000'/>That sound! There it is again!
+Dm_RT_0014_Text_033_b_07: |
+  <3 Type='0' Data='0d01'/><4 Type='0' Data='2000440065007400650072006d0069006e006100740069006f006e005f0030003000'/>We're so close!<0 Type='4'/>C'mon, Linkette. Let's go figure out how to
+  open up those <0 Type='3' Data='0000'/>locks<0 Type='3' Data='ffff'/>!
+Dm_RT_0014_Text_016_b_00: |
+  <3 Type='0' Data='0c01'/>Isn't there some way we can get it open?
+Dm_RT_0014_Text_020_b: |
+  There are still five locks securing the
+  hatch on the deck.
+Dm_RT_0014_Text_019_b: |
+  Brave fledgling...
+Dm_RT_0014_Text_021_b: |
+  Use your power to release all five locks
+  and the hatch should open.
+Dm_RT_0014_Text_023_b: |
+  Heed my words...
