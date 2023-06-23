@@ -1,0 +1,56 @@
+ZonauRemains_ArriveObservatory: |
+  You deciphered the Zonai text carved in the
+  stone slab inside the Ring Ruin. Tauro and
+  his colleague are following a lead to the Zonai
+  Ruins in balmy Faron in the southeast.
+  
+  They're gathering at the <0 Type='3' Data='0000'/>Skyview Tower near
+  the ruins<0 Type='3' Data='ffff'/>.
+ZonauRemains_TalkResearcher: |
+  You traveled to the Skyview Tower in the
+  Popla Foothills.
+  
+  Calip, who industriously assembled the team's
+  base of operations, informed you that Tauro
+  planned to start investigating the Zonai Ruins
+  to the southeast by <0 Type='3' Data='0000'/>Dracozu Lake<0 Type='3' Data='ffff'/>.
+Name: |
+  Secret of the Ring Ruins
+ZonauRemains_AppearsSkyIsland: |
+  You reunited with Tauro in ruins presided over
+  by stone dragon statues. Tauro deciphered the
+  code found on an ancient mural in the ruins:
+  
+  <0 Type='3' Data='0000'/>Wear the electric garb hidden at long-necked
+  dragons along the wide-mouthed forest serpent.
+  Offer a Zonai charge to the altar at the tail.<0 Type='3' Data='ffff'/>
+Complete: |
+  The floor of the chamber on Dragonhead Island
+  opened when you touched the relic. After the
+  relic fired a beam of green light to the ground,
+  you heard a mysterious voice in your head:
+  
+  "Linkette... Chosen protector of Zelda... Take this...
+  Follow the light..."
+ZonauRemains_OpenedTheDoor: |
+  You donned the charged attire found in the
+  dragon-pillar ruins and offered a Zonai charge
+  at the altar.
+  
+  A fork of lightning heralded the appearance of
+  a <0 Type='3' Data='0000'/>new sky island<0 Type='3' Data='ffff'/>.
+ZonauRemains_TouchTheHead: |
+  You opened the door on Dragonhead Island.
+  
+  Inside, you discovered what appears to be a
+  <0 Type='3' Data='0000'/>Zonai relic<0 Type='3' Data='ffff'/> on a pedestal in the center of
+  the chamber.
+DecipherTheIithograph: |
+  After you told Paya and Tauro about the false
+  Princess Zelda, they began exploring the Ring
+  Ruin previously forbidden by the impostor.
+  They believe there is a stone slab carved with
+  Zonai writing inside.
+  
+  <0 Type='3' Data='0000'/>Entering the site and investigating the slab<0 Type='3' Data='ffff'/> will
+  assist their research.

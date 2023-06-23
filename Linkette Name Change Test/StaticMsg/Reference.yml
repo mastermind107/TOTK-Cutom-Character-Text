@@ -1,0 +1,893 @@
+MAP_00: |
+  Scope
+Antlion: |
+  sinkhole
+FashionNpcNakedTalk_M_001: |
+  <3 Type='0' Data='0700'/>Hey, whoa!<5 Type='1'/> I'm a free spirit too, but...<0 Type='4'/>You have to put on a shirt or some
+  trousers before you talk to me!
+Sagono_Hat_03: |
+  A new Cece piece?
+Enokida_Kanban_06: |
+  Don't I know you?
+Npc_Terror_21: |
+  Attack!
+Zora_Hero_Name: |
+  Mipha
+GerudoDungeon: |
+  Pyramid
+Tornado: |
+  updraft
+CaveMasterMedal: |
+  Bubbul Gem
+ServantGolem: |
+  Steward Construct
+DeliciousRock_Before: |
+  Marbled Rock Roast
+FashionNpcNakedTalk_M_002: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>Nope, nope, nope.<5 Type='1'/> Don't you come talk to
+  me looking like that. I can't be seen with
+  someone who cares so little for clothing.
+  I'm not saying you have to dress fancy,
+  but at least put on a shirt or some
+  trousers, you know?
+TerrorImpulse_sample_10: |
+  Oooh no! Hot, hot, hot!
+Sagono_Hat_04: |
+  I was gonna get that hat.
+Enokida_Kanban_07: |
+  Nice disguise!
+Npc_Terror_22: |
+  What was that?
+Npc_HatenoVillage019_SisterA_Terror_01: |
+  Wha?!
+TerrorImpulse_sample_11: |
+  Hyeee!
+Sagono_Hat_05: |
+  You're a true Cece fan!
+Enokida_Kanban_08: |
+  You're dressed weird...
+RemainsWind: |
+  Divine Beast Vah Medoh
+KorokShop_Kinoko: |
+  Spore Store
+Npc_HatenoVillage019_SisterA_Terror_02: |
+  Stop it!
+TerrorImpulse_sample_12: |
+  Eeep!
+Sagono_Hat_06: |
+  That's a very stylish hat!
+Sagono_Hat_Npc_HatenoVillage019: |
+  It looks good on you.
+Npc_Terror_24: |
+  Yikes!
+Gerudo_Hero_Name: |
+  Urbosa
+Drake: |
+  Gleeok
+HorseInn_PlayerName0: |
+  sir
+Npc_HatenoVillage019_SisterA_Terror_03: |
+  What's this?!
+TerrorImpulse_sample_13: |
+  Fwaaah!
+GerudoStone: |
+  The seven heroines who protect the
+  Gerudo. Their secret will be expressed
+  on six stelae.
+ResistHotMedicine: |
+  Chilly Elixir
+HorseInn_PlayerName1: |
+  Linkette
+FigureStage: |
+  stage
+Npc_HatenoVillage019_SisterA_Terror_04: |
+  That's dangerous!
+TerrorImpulse_sample_14: |
+  Oof! That was close.
+Enokida_Kanban: |
+  Hudson Construction?
+Npc_Terror_26: |
+  Please be careful!
+Gerudo_IgaMask_Interest_00: |
+  Yiga?!
+Bokobrin_00: |
+  Tumbleweed
+Spike: |
+  spike
+ShopGeneral: |
+  General Store
+HorseInn_PlayerName2: |
+  Master Linkette
+FashionNpcNakedTalk_F_001: |
+  <3 Type='0' Data='0b00'/>Oh, please! <5 Type='1'/>Don't waste your time talking
+  to me looking like that.<0 Type='4'/>Listen, your fashion sense—or lack of
+  fashion sense—is your own, but...<0 Type='4'/>I simply can NOT be guilty by association
+  of the fashion crimes you're committing
+  right now.
+TerrorImpulse_sample_15: |
+  Stop! Please!
+Npc_Terror_27: |
+  Ehhh?!
+Common_Greeting_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Good morning.
+Gerudo_IgaMask_Interest_01: |
+  That look is in bad taste.
+SageOfSoul: |
+  Sage of Spirit
+HorseInn_Basecamp: |
+  mini stable
+System_Unknown: |
+  ???
+FashionNpcNakedTalk_F_002: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003100'/>Sorry...<0 Type='4'/>I don't think you and I will have a
+  lot in common if you're wearing so
+  little clothing.
+  So, if you'll excuse me...
+BoneHorse_M: |
+  Is that a monster, or...
+LargeHorse_W: |
+  Will that fit in the stable?
+TerrorImpulse_sample_16: |
+  Meanie on the loose!
+Npc_Terror_28: |
+  Eh?! EH?!
+Common_Greeting_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hello.
+Gerudo_IgaMask_Interest_02: |
+  Yiga? Oh, never mind.
+Bokobrin: |
+  Bokoblin
+GerudoGreetingNoon: |
+  Sav'a
+CookGolem: |
+  Culinary Construct
+GoronLargeDungeonTerminal: |
+  padlock
+System_MainCH: |
+  Main Quest
+Gatehouse: |
+  Gatehouse
+LargeHorse_X: |
+  That's a splendid horse.
+TerrorImpulse_sample_17: |
+  Eeek!
+Npc_Terror_29: |
+  Look out!
+Common_Greeting_03: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Good evening.
+Stamp: |
+  Stamp
+Shelter: |
+  Emergency Shelter
+SandWorm: |
+  Molduga
+System_SubCH: |
+  Shrine Quest
+LargeHorse_Y: |
+  You tamed that thing?
+TerrorImpulse_sample_18: |
+  They're out for blood!
+Common_Greeting_04: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Some weather, hm?
+RecycleBox: |
+  Device Dispenser
+TerrorImpulse_sample_19: |
+  Hey! Hey!
+WoodPole: |
+  log
+CaravanWagon: |
+  wagon
+AttackUpMedicine: |
+  Mighty Elixir
+Npc_WaterPump_00: |
+  Precious water...
+RemainsWind_NickName: |
+  Medoh
+Item: |
+  Item
+Gambari: |
+  Stamina
+MapPin: |
+  Pin
+SmeltGolem: |
+  Forge Construct
+ResearchTeam: |
+  Zonai Survey Team
+MinusDevilStatue_Large: |
+  Bargainer Statue
+Hadaka_Goron: |
+  Nice underclothes.
+BoneHorse_W: |
+  Is that thing a horse?
+SekibanBook: |
+  Deciphered Slabs
+BoneHorse_X: |
+  What a strange mount.
+Saddle: |
+  saddle
+Zonau: |
+  Zonai
+BoneHorse_Y: |
+  What an odd horse.
+Sagono_Hat_Npc_HatenoVillage019_SisterA: |
+  That hat is...perfection.
+Wakka_Balloon: |
+  Have a friend-filled day!
+ExGutsMaxUpMedicine: |
+  Enduring Elixir
+ResistColdMedicine: |
+  Spicy Elixir
+RemainsWater: |
+  Divine Beast Vah Ruta
+Hadaka_Enokida_00: |
+  Not many layers there, eh?
+DeathMountainTop: |
+  Death Mountain Summit
+AllSpeedMedicine: |
+  Hasty Elixir
+Hadaka_Enokida_01: |
+  Who am I to judge?
+Shline: |
+  Shrine
+DeliciousRock: |
+  Marbled Rock Roast
+RitoDungeon: |
+  Stormwind Ark
+LegendarySword: |
+  legendary sword
+Tland: |
+  Mine-Cart Land
+SageOfWind: |
+  Sage of Wind
+Catastrophe: |
+  the Upheaval
+Kakariko_Takadai: |
+  East Hill
+BoneHorse_GT: |
+  That thing is...rattling...
+Sagono: |
+  Cece
+AncientDoctor_Terror_01: |
+  Hm?
+Pocketbook_01: |
+  Memories
+SkyDrop: |
+  droplet
+ZoraShop_Yado: |
+  Seabed Inn
+FireproofMedicine: |
+  Fireproof Elixir
+System_New: |
+  New
+AncientDoctor_Terror_02: |
+  What?!
+Hadaka_Cold_00: |
+  Aren't you cold?
+GerudoLargeDungeonTerminal: |
+  battery
+Ring: |
+  Ring Garland
+AncientDoctor_Terror_03: |
+  Goodness gracious!
+Hadaka_Cold_01: |
+  I don't have spare clothes.
+Sagono_Hat_Npc_Road_013: |
+  A new Cece piece!
+SageOfWater: |
+  Sage of Water
+SageOfThunder: |
+  Sage of Lightning
+GoronShop_Yado: |
+  Rollin' Inn
+ForestGiant: |
+  Hinox
+DefenseUpMedicine: |
+  Tough Elixir
+CaveMaster: |
+  Bubbulfrog
+SafeOffspring: |
+  descendants
+Hadaka_Cold_03: |
+  What a tough kid...
+TerrorImpulse_sample: |
+  Hmm?
+GardenOfTime: |
+  Garden of Time
+Hadaka_Cold_04: |
+  Youngsters these days...
+TimeAnnounce: |
+  time bell
+HatenoShop_Yado: |
+  Ton Pu Inn
+RitoShop_Bougu: |
+  Brazen Beak
+GoronShop_Ishiyaki: |
+  Protein Palace
+ZoraShop_Factory: |
+  The Hammerhead
+HatenoVillage032_Terror_01: |
+  Hey, whoa! What is that?
+Hadaka_Cold_05: |
+  Careful not to catch cold.
+Walker: |
+  Hero's Path Mode
+RockGolem: |
+  Talus
+HatenoVillage032_Terror_02: |
+  That is NOT safe!
+Hadaka_Cold_06: |
+  Aren't you chilly?
+BoneHorse_BT: |
+  A bone horse?!
+RemainsFire: |
+  Divine Beast Vah Rudania
+Relics: |
+  relic
+GoldenHorse: |
+  golden horse
+HatenoVillage032_Terror_03: |
+  Hey now!
+HatenoShop_Yorozu: |
+  East Wind
+HatenoVillage032_Terror_04: |
+  NO, thank you!
+Energy: |
+  Energy
+Yun_Company: |
+  YunoboCo
+HatenoVillage032_Terror_05: |
+  What's the big idea?!
+RitoLargeDungeonTerminal: |
+  lock
+HorseInnMenber: |
+  stable member
+MinusDevilStatue: |
+  Bargainer Statue
+HatenoVillage032_Terror_06: |
+  Too close! Too close!
+Inpa_Terror_00: |
+  I detect ill intent...
+Goron_Boss: |
+  Boss
+FUNSUI: |
+  Unity Bell
+HatenoVillage032_Terror_07: |
+  Yikes, careful!
+Hadaka_Uotori_00: |
+  That's the underpants way!
+Inpa_Terror_01: |
+  Settle down!
+GerudoGreetingMorning: |
+  Votta
+IchikaraShop_Yorozu: |
+  Slippery Falcon (Tarrey Town Branch)
+HatenoVillage032_Terror_08: |
+  Hey, I just styled my hair!
+Hadaka_Uotori_01: |
+  Hey, where's your shirt?
+Inpa_Terror_02: |
+  The joke has gone too far!
+Pocketbook: |
+  Adventure Log
+DeepHole: |
+  chasm
+GutsRecoverMedicine: |
+  Energizing Elixir
+Hadaka_Uotori_02: |
+  Hee-hee! No clothes!
+Inpa_Terror_03: |
+  Away from me!
+Hadaka_Uotori_03: |
+  Underpants! Underpants!
+Inpa_Terror_04: |
+  Wh-what are you up to?
+Npc_Terror_11: |
+  Hot, hot, hot!
+LoinRock: |
+  Rock Roast
+KingRoom: |
+  Throne Room
+Minus_Southwest_AbandonedMine: |
+  Southwestern Abandoned Mine
+GoldHorse_B: |
+  So shiny and golden...
+TerrorImpulse_sample_00: |
+  What?
+Inpa_Terror_05: |
+  What is it?!
+Bridle: |
+  bridle
+WaterJar: |
+  water vessel
+TerrorImpulse_sample_01: |
+  Whoa!
+DekuTree_Korok: |
+  Great Deku Tree
+Miasma: |
+  gloom
+GerudoSekihi: |
+  Monument to Seven Heroines
+TerrorImpulse_sample_02: |
+  Aaah!
+Npc_Terror_14: |
+  Oooooo...
+TerrorImpulse_sample_03: |
+  Ah!
+Npc_Terror_15: |
+  C-c-c-cold...
+Ganondorf: |
+  Ganondorf
+KorokShop_Yado: |
+  Great Deku Tree's Navel
+TauronoSekihi_00: |
+  ancient Hyrulean
+TerrorImpulse_sample_04: |
+  Ngh!
+Lambda: |
+  Misko
+TBT: |
+  monster-control crew
+GoldHorse_G: |
+  How enchanting!
+TerrorImpulse_sample_05: |
+  Quit it!
+Npc_Terror_17: |
+  Watch out!
+RemainsElectric_NickName: |
+  Naboris
+EnokidaConstruction: |
+  Hudson Construction
+LargeHorse_W_00: |
+  What a big creature...
+TerrorImpulse_sample_06: |
+  Watch it!
+Npc_Terror_18: |
+  Under attack!
+Goron_Hero_Name: |
+  Daruk
+Stand_Weapon: |
+  Weapon Rack
+ZonauMagic: |
+  Zonai Magic
+HINAN: |
+  shelter
+DeliciousRock_After: |
+  Rock Roast
+SunazarashiDoll: |
+  Sand Seal plush toy
+Hadaka_Elder: |
+  Armorless defense, eh?
+GoldHorse_BT: |
+  That horse sure is a beaut.
+TerrorImpulse_sample_07: |
+  Look out!
+Npc_Helmet_00: |
+  The Lightning Helm!
+TauronoSekihi: |
+  tablet in ancient Hyrulean
+Hadaka_Enokida: |
+  What a wild streak!
+TerrorImpulse_sample_08: |
+  Yeeek!
+Npc_Helmet_01: |
+  Can't believe it's his now...
+SoldierGolem: |
+  Soldier Construct
+IchikaraRally_AdvancedTime: |
+  3 minutes
+TerrorImpulse_sample_09: |
+  Oh no! The stage!
+Sagono_Hat: |
+  That's a Cece exclusive!
+Npc_Helmet_02: |
+  That helm's a big deal.
+Golem_Worker: |
+  Crafter Construct
+HorseInn_Association: |
+  Stable Association
+KingsSymbol: |
+  mark of the king
+ResistElectricMedicine: |
+  Electro Elixir
+GoldHorse_G_00: |
+  Such a pretty color.
+ZoraFencer_After: |
+  Yona
+Hadaka_Monban_00: |
+  Pulling that off takes guts.
+GoldHorse_M: |
+  That's a special horse.
+Sagono_Hat_Npc_HatenoVillage021: |
+  Very chic!
+TokageSong: |
+  One brother hunts what the other
+  brother hides—two lizards fighting
+  over what's inside.
+Hadaka_Monban_01: |
+  What a free spirit!
+Stand_Bow: |
+  Bow Rack
+NpcBalloon_PouchFull: |
+  Your reward...
+Hadaka_Monban: |
+  Where are your clothes?
+Hadaka_Monban_02: |
+  It takes all kinds, I guess.
+WaterBridge: |
+  watery bridge
+LambdaArmorLocation: |
+  Misko's Treasure
+KorokShop_Yorozu: |
+  General Shoppe
+Hadaka_Monban_03: |
+  Aren't you cold?
+Hadaka_Elder_00: |
+  You're past needing armor.
+Hylia_M_00: |
+  At least get dressed.
+RemainsElectric: |
+  Divine Beast Vah Naboris
+HunterGolem: |
+  Ranger Construct
+Geoglyph: |
+  geoglyph
+UmanariGO: |
+  Breezer
+LightMedicine: |
+  Bright Elixir
+Hadaka_Monban_04: |
+  Wish I were that brave...
+Npc_Terror_30: |
+  Phew...
+P_Cannon: |
+  Skyview Tower
+SkyFish: |
+  land of the sky fish
+UnderStatue: |
+  picture of a figure
+HatenoShop_Bougu: |
+  Ventest Clothing
+Hadaka_Monban_05: |
+  You seem defenseless...
+MAP: |
+  Map
+Korok: |
+  Korok
+SandDust: |
+  sand shroud
+Mask: |
+  mask
+Uotorally_Car: |
+  Boat
+TerrorImpulse_sample_20: |
+  Watch out!
+Npc_Terror_32: |
+  What happened?!
+Sanatorium: |
+  infirmary
+TerrorImpulse_sample_21: |
+  What?!
+Npc_Terror_33: |
+  This is too much!
+CircuitDesertTime_00: |
+  Training Area
+Kakariko_Remains: |
+  Ring Ruins
+Mane: |
+  mane
+SkyIsland: |
+  sky island
+ZoraShop_Yorozu: |
+  Coral Reef
+Hadaka_Fashion01: |
+  What primitive fashion.
+Hadaka_Goron_00: |
+  Pretty scrawny, aren'tcha?
+Hadaka_Fashion02: |
+  Is this man...all right?
+Gadget: |
+  Zonai Device
+ShopArmor: |
+  Armor Shop
+Knife: |
+  Scimitar
+Hadaka_Fashion03: |
+  Down to the skivvies, hm?
+Hadaka_Goron_02: |
+  We got a live one!
+GoldHorse_W: |
+  Take care of that horse.
+SecretStone: |
+  Secret Stone
+Balloon: |
+  balloon
+EnokidaCutout: |
+  President Hudson Cutout
+Hadaka_Fashion04: |
+  No interest in fashion?
+Hadaka_Goron_03: |
+  We don't sell clothes here.
+GoldHorse_X: |
+  It's clearly fond of you.
+Hadaka_Fashion05: |
+  Where's the style in that?
+Hadaka_Uotori: |
+  Still no clothes, huh?
+GoldHorse_Y: |
+  What a beautiful creature...
+Picture: |
+  Picture
+BatteryExchange: |
+  crystal refinery
+Hadaka_Fashion06: |
+  How gauche.
+Hadaka_Goron_05: |
+  You call that armor?
+Wallpainting: |
+  mural
+PhotospotChallenge_01: |
+  geoglyph
+Hadaka_Goron_06: |
+  You look like a twig!
+GerudoGreetingNight: |
+  Sav'a
+MiningGolem: |
+  Mining Construct
+Base_Labo: |
+  research lab
+Epona: |
+  Epona
+PhotospotChallenge_02: |
+  Goron soaking in hot springs
+RemainsWater_NickName: |
+  Ruta
+ZoraLargeDungeonTerminal: |
+  faucet
+ShopInn: |
+  Inn
+PhotospotChallenge_03: |
+  Ring Ruins
+Npc_WaterPump: |
+  Ah... The water feels nice.
+Guardian: |
+  Guardian
+Gland: |
+  Gorondia
+ShopDye: |
+  Dye Shop
+PhotospotChallenge_04: |
+  cherry-blossom tree
+Ichikara_Way: |
+  railcar
+HatenoShop_Ranch: |
+  Hateno Pasture
+System_New_00: |
+  Recipe Book
+MJ: |
+  Malanya Buns
+PlayerName: |
+  Linkette
+Sonia: |
+  Sonia
+PhotospotChallenge_06: |
+  Hyrule's finest sunrise
+Hylia_M: |
+  You look comfortable.
+LargeHorse_Y_00: |
+  The strength of that thing!
+Sagono_Hat_Npc_Road_005: |
+  That's a dashing hat.
+Album: |
+  Album
+RemainsFire_NickName: |
+  Rudania
+Bonfire: |
+  Fire
+Gibdo: |
+  Gibdo
+SageOfLight: |
+  Sage of Light
+PhotospotChallenge_08: |
+  Daruk sculpture
+CircuitDesert: |
+  Desert Race
+Kenzai: |
+  building materials
+KingHyrule: |
+  Rhoam Bosphoramus Hyrule
+WarpPoint: |
+  Travel Gate
+GoldHorse_W_00: |
+  That's Princess Zelda's...
+SkyIsland_DivingMinigame: |
+  dive ceremony
+GreagHorse: |
+  giant white stallion
+StylishNPC_ArmorCheck_01: |
+  full set
+Hammer: |
+  Hammer
+Hadaka_Shop: |
+  It's risky to go unarmored.
+IchikaraRally: |
+  Tarrey Town Race
+RitoShop_Yado: |
+  Swallow's Roost
+FifthSage: |
+  the fifth sage
+Inpa_Terror: |
+  Enough of that!
+HatenoShop_Somemono: |
+  Kochi Dye Shop
+GoronShop_Yorozu: |
+  Goron Gusto Shop
+Npc_Terror_00: |
+  Please, stop!
+Heros: |
+  Champion
+Npc_RitoHatago001_Horse: |
+  Spot
+Capsule: |
+  Zonai Capsule
+Hadaka_Shop_00: |
+  You can buy armor here.
+Npc_Terror_01: |
+  What are you doing?!
+Porch: |
+  Pouch
+MamonoGoods_00: |
+  Monster
+GerudoStone_00: |
+  The seven heroines who protect the
+  Gerudo. An eighth channels and guides
+  the powers of these seven.
+GoronShop_Bougu: |
+  Ripped and Shredded
+Hadaka_Shop_01: |
+  This customer's not right.
+Yun: |
+  President Yunobo
+BadCar_00: |
+  HOVERDOOM MK.3
+YigaMotto: |
+  Glory to Master Kohga.
+GerudoStone_01: |
+  The seven heroines protect the Gerudo
+  with the powers of heart, skill, fortitude,
+  wisdom, flight, mobility, and compassion.
+Hadaka_Shop_02: |
+  We never turn folks away!
+Npc_Terror_03: |
+  Waaaaaah!
+Hyrule_People: |
+  Hylian
+PicturePack: |
+  Picture Pack
+GerudoStone_02: |
+  The seven heroines who protect the
+  Gerudo. Their power is housed within
+  the seven spirits.
+AntiSlipMedicine: |
+  Sticky Elixir
+Hadaka_Shop_03: |
+  What a striking figure!
+LargeHorse_B: |
+  It's huuuge!
+LargeHorse_GT: |
+  I want a ride on that.
+Npc_Terror_04: |
+  What's the matter?!
+GerudoStone_03: |
+  The seven heroines who protect the
+  Gerudo. Their spirits rest within the
+  land of the Gerudo.
+Parts: |
+  Travel medallion prototype
+Hadaka_Shop_04: |
+  Do what your heart feels.
+Npc_Terror_05: |
+  What is happening?
+Tar: |
+  sludge
+GerudoStone_04: |
+  The seven heroines who protect the
+  Gerudo. When their powers return to
+  them, the shrouded eighth will be known.
+ShopJewelry: |
+  Jewelry Shop
+Hadaka_Shop_05: |
+  Care to buy some clothes?
+Npc_Terror_06: |
+  Gah!
+CarpenterGolem: |
+  Maker Construct
+GerudoStone_05: |
+  Sanctuary
+RitoShop_Yorozu: |
+  Slippery Falcon
+Npc_Terror_07: |
+  Ugh!
+Stand_Shield: |
+  Shield Rack
+SageOfFire: |
+  Sage of Fire
+Kenzai_00: |
+  materials cache
+PuruaPad: |
+  Purah Pad
+Sage: |
+  sage
+Orchestra: |
+  Stable Trotters
+Npc_Terror_09: |
+  Whoa!
+CharaDirectory: |
+  Character Profiles
+SledSunazarashi: |
+  Sleigh Seal
+RitoDungeonSong: |
+  Song of the Stormwind Ark
+Enemy_MiasmaSwarm_Name: |
+  Gloom Spawn
+DekuTree: |
+  Deku Tree
+StoneRectangle: |
+  monolith
+LifeMaxUpMedicine: |
+  Hearty Elixir
+Minus_Northwest_AbandonedMine: |
+  Northwestern Abandoned Mine
+Enokida_Kanban_00: |
+  Won't forget this soon...
+Zelda: |
+  Zelda
+RedStone: |
+  gloom rock
+GameRomHorseNushi: |
+  Satori
+MinusDevilStatue_Small: |
+  Bargainer Statue
+System_MiniCH: |
+  Side Quest
+Enokida_Kanban_01: |
+  Is that hairstyle in now?
+QuietnessMedicine: |
+  Sneaky Elixir
+Minus_East_AbandonedMine: |
+  Eastern Abandoned Mine
+BoneHorse_B: |
+  A skeleton...horse?
+Enokida_Kanban_02: |
+  This sign is everywhere.
+KorokCarry_Friend: |
+  Friend
+LargeHorse_M: |
+  Very impressive...
+Sagono_Hat_00: |
+  I must have that hat.
+Enokida_Kanban_03: |
+  Ah, "son and done," right?
+Rito_Hero_Name: |
+  Revali
+DragonMemories: |
+  Tear Memories
+Sagono_Hat_01: |
+  How stylish!
+Enokida_Kanban_04: |
+  Isn't that in Tarrey Town?
+KingdomOfHyrule: |
+  Hyrule
+SageOfTime: |
+  Sage of Time
+UotoriRally: |
+  Lurelin Water Rally
+BadCar: |
+  Gloomdredger
+ZoraFencer_Before: |
+  ???
+Sagono_Hat_02: |
+  So on trend...
+Enokida_Kanban_05: |
+  They build houses, right?
+Npc_Terror_20: |
+  Whoa!
