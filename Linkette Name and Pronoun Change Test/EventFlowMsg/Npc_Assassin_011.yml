@@ -1,0 +1,112 @@
+talk_1046: |
+  <4 Type='0' Data='0c004c0061007500670068005300'/>Then get into that light there.<5 Type='1'/> It can <0 Type='3' Data='0000'/>heal
+  any vitality lost<0 Type='3' Data='ffff'/> to gloom, just like the
+  rumors say.
+talk_1020: |
+  <3 Type='0' Data='0900'/><FontSize Value='125'/>I'm taking you down!<FontSize Value='100'/><1 Type='3' Data='5a000000'/>
+talk_1047: |
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>That's rough. Hate to tell you, we still
+  haven't figured out the deal with that
+  <0 Type='3' Data='0000'/>bright core<0 Type='3' Data='ffff'/>. <5 Type='0'/>You best head to the surface.
+talk_1021: |
+  <FontSize Value='125'/><3 Type='0' Data='0900'/>In memory of Master Kohga!<1 Type='3' Data='5a000000'/><FontSize Value='100'/>
+talk_1048: |
+  <3 Type='0' Data='0c00'/>Is there really a way to amplify that light?
+talk_1010: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>What, <5 Type='0'/>was I wrong?<5 Type='1'/> I thought for sure
+  you were here to help investigate this
+  humongous tree...
+  <3 Type='0' Data='0701'/>I mean, just take a look. You see the
+  tree's...<5 Type='0'/><0 Type='3' Data='0000'/>glowy core<0 Type='3' Data='ffff'/>-looking thing?
+talk_1049: |
+  <4 Type='0' Data='0600530061006400'/>We still don't know what's going on with
+  that <0 Type='3' Data='0000'/>bright core<0 Type='3' Data='ffff'/>.
+talk_1011: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>That's right!<5 Type='1'/> The <0 Type='3' Data='0000'/>bright core<0 Type='3' Data='ffff'/> of this
+  gigantic tree<5 Type='0'/> has the sacred power to <0 Type='3' Data='0000'/>heal
+  vitality lost<0 Type='3' Data='ffff'/> to gloom...<5 Type='0'/>or so they say.
+  But when I got here, the light was weak.<5 Type='0'/>
+  It wasn't able to heal anything at all, until
+  just now.
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c005300610064005f0030003000'/>I was watching, you know.<5 Type='1'/> It was you.
+  
+  
+  You lit up this tree, didn't you, Linkette?<5 Type='0'/>
+  It feels like something the archenemy
+  of the Yiga Clan would do.
+  As does being fooled by my disguise!
+talk_1012: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Somehow that light is capable of <0 Type='3' Data='0000'/>restoring
+  vitality lost to gloom<0 Type='3' Data='ffff'/>...
+  
+  Or so the rumor goes, anyway.<5 Type='0'/> I'm here to
+  find out if that's true.
+near_0000: |
+  That light...
+talk_1000: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Gyah! You startled me...
+  
+  
+  Wait, what's someone else doing here?<5 Type='1'/>
+  Oooh...<5 Type='0'/> You must be reinforcements for
+  <0 Type='3' Data='0000'/>investigating the tree<0 Type='3' Data='ffff'/>.
+talk_1013: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a005400680069006e006b00'/>Ah, but you know, that's not my only
+  mission down here.
+  
+  I've been asked to approach and eliminate
+  the Yiga Clan's greatest foe...<5 Type='0'/> YOU!
+near_0001: |
+  It lit up?!
+talk_1001: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Ah, you're <0 Type='3' Data='0000'/>investigating the tree<0 Type='3' Data='ffff'/> too?
+near_0002: |
+  The light's incredible.
+talk_1002: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Look at this cleansing light...<5 Type='0'/> The rumors
+  were true!<5 Type='0'/> It really can <0 Type='3' Data='0000'/>restore vitality lost
+  to gloom<0 Type='3' Data='ffff'/>.
+talk_1050: |
+  <3 Type='0' Data='0c00'/>Is there really no way we can make that
+  light shine brighter?
+0000: |
+  Investigating the tree?
+talk_1003: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Ah, this light...<5 Type='0'/> I've never felt anything
+  like it.<5 Type='0'/>
+  
+  It can <0 Type='3' Data='0000'/>restore vitality lost to gloom <0 Type='3' Data='ffff'/>in the
+  blink of an eye.
+talk_1051: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>Come on, hurry it up.
+0001: |
+  Just passing through.
+talk_1052: |
+  <4 Type='0' Data='0c004c0061007500670068005300'/>It'll <0 Type='3' Data='0000'/>restore whatever vitality<0 Type='3' Data='ffff'/> the gloom
+  took out of you, just like the rumors said!
+talk_1040: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0c005300610064005f0030003000'/>The heroic Linkette, <5 Type='0'/>sworn enemy of the
+  Yiga Clan, tricked by my simple disguise!<0 Type='4'/>It seems the stories are merely stories!
+0002: |
+  It can restore vitality?
+talk_1053: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>Make it snappy. If you-know-who sees
+  you, he's gonna suspect something's up!
+0003: |
+  I'll leave you to it.
+talk_1041: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>What's wrong? Get hit with <0 Type='3' Data='0000'/>gloom<0 Type='3' Data='ffff'/>?
+talk_1042: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>If you got <0 Type='3' Data='0000'/>gloomed<0 Type='3' Data='ffff'/>,<5 Type='0'/> go step into that light.
+talk_1030: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Not interested in hearing me out? <5 Type='1'/>There
+  are all sorts of interesting rumors about
+  this tree here...
+  <3 Type='0' Data='0701'/>Well, <5 Type='0'/>it's not like they'll do you any good
+  after I've done you in.
+talk_1044: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>What's up? Did the <0 Type='3' Data='0000'/>gloom<0 Type='3' Data='ffff'/> get you
+  or something?
+talk_1045: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>If you've been <0 Type='3' Data='0000'/>gloomed<0 Type='3' Data='ffff'/>,<5 Type='0'/> you better head
+  straight back up to the surface.

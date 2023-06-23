@@ -1,0 +1,53 @@
+0003: |
+  Indeed.
+talk_1010: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Haha, it's natural that you wouldn't
+  understand... If anything, I'd rather
+  you DIDN'T understand.
+talk_1011: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>What do you mean, "indeed"?<5 Type='0'/> There's
+  no way you understand! You, you...
+  intellectual charlatan!
+talk_1041: |
+  <3 Type='0' Data='0c00'/>So it seems like...<0 Type='4'/>That bit moves this way and does that,<5 Type='1'/>
+  and this one comes over here like so,
+  then suddenly that does this.
+  <3 Type='0' Data='0000'/>Or so it seems, at least... You know what
+  I mean?
+talk_1012: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0c005300610064005f0030003000'/>Falling for it again, are you? You really
+  are a fool.
+talk_1021: |
+  <3 Type='0' Data='0900'/>Master Kohga! I shall purge the world of
+  this meddlesome nuisance!<1 Type='3' Data='5a000000'/>
+near_0000: |
+  So if that does that, then...
+talk_1000: |
+  <3 Type='0' Data='0c00'/>If that goes like this, then this happens.
+  But then that has to be like this or else...
+  
+  Ugh, I don't get it at all...
+  
+  
+  <3 Type='0' Data='0000'/>Do you get it?
+0000: |
+  Nope.
+talk_1030: |
+  <3 Type='0' Data='0900'/>Curiosity killed the swordsman!<1 Type='3' Data='5a000000'/>
+0001: |
+  I get it.
+talk_1002: |
+  <3 Type='0' Data='0700'/>That's an awfully fresh outfit... A newbie,
+  I take it? I understand wanting to show
+  off your duds, but...
+  we DO work in secret, you know. Keep
+  making such amateur mistakes, and
+  I won't help you if Linkette attacks.
+0002: |
+  I'm stumped.
+talk_1003: |
+  <3 Type='0' Data='0700'/>I understand wanting to show off the new
+  outfit, but we work in secret.
+  
+  If you don't keep that in mind, I won't lift
+  a finger to help you if Linkette attacks.

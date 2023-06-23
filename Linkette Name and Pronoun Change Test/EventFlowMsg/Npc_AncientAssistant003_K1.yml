@@ -1,0 +1,365 @@
+0014: |
+  I'll help.
+talk0128: |
+  <3 Type='0' Data='0800'/>Linkette! I'm pleased as a pickled pike to see
+  you again!<5 Type='1'/>
+  
+  <3 Type='0' Data='0700'/>Uh...<5 Type='1'/> Pardon me. I was so happy to see
+  your face that I let loose with an old
+  hometown saying.
+  I'm from a little <0 Type='3' Data='0000'/>fishing village <0 Type='3' Data='ffff'/>in the
+  <0 Type='3' Data='0000'/>southeast of Hyrule<0 Type='3' Data='ffff'/>, if you didn't know.
+  
+  It's been a while since I left, but you know
+  what they say. You can take the boy out
+  of Lurelin...<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>It's a small village, but the culture and
+  food are like none other. People travel
+  far and wide for the atmosphere.
+  If you're ever in the area, you should
+  pay a visit!
+talk0041: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>That whole story about Princess Zelda
+  had me reeling, so I never introduced
+  myself properly.<0 Type='4'/>Sorry about that. Once again, my name
+  is <0 Type='3' Data='0000'/>Tauro<0 Type='3' Data='ffff'/>.<0 Type='4'/>I'm here on Paya's request to investigate
+  the ruins that fell around this village.
+0015: |
+  I won't help.
+talk0129: |
+  <3 Type='0' Data='0700'/>Are you interested in the lab?
+  
+  
+  You're not going to find much of interest
+  in the research documents there unless
+  you're into that kind of thing.
+  However, if you're interested in anything
+  Zonai related, poke around some of the
+  other researchers' tents.
+  Some are knowledgeable about the
+  <0 Type='3' Data='0000'/>sky islands <0 Type='3' Data='ffff'/>and <0 Type='3' Data='0000'/>gloom<0 Type='3' Data='ffff'/>. That might
+  appeal to you more.
+talk0101: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>I'm sorry, Tauro. You're not the right
+  one for the job.
+talk0130: |
+  <3 Type='0' Data='0700'/>I think the only one who likes visiting
+  this kind of place is the village chief.
+  
+  She's just as passionate about her
+  research as we are.
+  
+  And she's taken to deciphering Zonai
+  script like a fish to water!
+  
+  She's so good, in fact, it feels like a waste
+  to stick her on chief duties.
+  
+  <3 Type='0' Data='0700'/>But I'm getting off track. You're interested
+  in Zonai stuff, yeah?
+  
+  The documents here might be too high-
+  level for you, but the other researchers
+  love to chat about their work. Just ask!
+talk0043: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Feeling bold, are we?
+talk0102: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Ah, Swordsman!
+talk0131: |
+  <3 Type='0' Data='0b00'/>Uh, someone else is here for the job?
+  Already?
+  
+  <FontSize Value='80'/><3 Type='0' Data='0a00'/>I guess it's a lost cause.
+  
+  
+  Everyone seems kind of busy.
+  
+  
+  I'll head back to <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/> and...just stare up
+  at those <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/>. May as well head out before
+  I get in anyone's way.<FontSize Value='100'/>
+talk0044: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Thanks for helping with Wortsworth's
+  research!<0 Type='4'/>I can't say I understand ancient Hyrulean
+  at all. <5 Type='1'/>But I know the joy that comes from
+  brushing up against an unknown world.<0 Type='4'/>So I can imagine how excited Wortsworth
+  must be.<0 Type='4'/><3 Type='0' Data='0800'/>I'm right there with him!<0 Type='4'/>Hey, Wortsworth gave you some <0 Type='3' Data='0000'/>Zonai
+  Survey Team fabric<0 Type='3' Data='ffff'/>, right?<0 Type='4'/>There's a shop at <0 Type='3' Data='0000'/>Hateno Village <0 Type='3' Data='ffff'/>that
+  makes interesting stuff from bits of fabric
+  like that.<0 Type='4'/>You're a bona fide member of the Zonai
+  Survey Team now, Linkette.<0 Type='4'/>When you use that fabric, it'll show that
+  you're one of us!
+talk0103: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Uh, someone else is here for the job?
+  Already?
+  
+  <FontSize Value='80'/><3 Type='0' Data='0a00'/>*sigh* I guess it's a lost cause.
+  
+  
+  I'll head back to <0 Type='3' Data='0000'/>Kakariko Village <0 Type='3' Data='ffff'/>and...just stare up
+  at those <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/>.<FontSize Value='100'/>
+Ballon01_09_Clear: |
+  So fascinating.
+talk0045: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>The hero?<5 Type='0'/> The ANCIENT hero?!
+  
+  
+  ...
+  
+  
+  Oh, wait. You're Linkette. For a moment,
+  I thought the ancient hero had been
+  resurrected!
+  <3 Type='0' Data='0800'/>That is quite the getup. I'd love to try
+  it on, myself.
+talk0104: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>C'mon, don't say that! You've got to let
+  me cast my line into the Depths too.
+  
+  I'm capable of deciphering some <0 Type='3' Data='0000'/>Zonai
+  script<0 Type='3' Data='ffff'/>—who else can tackle that stuff?
+talk0133: |
+  <3 Type='0' Data='0800'/>Thank you!
+  
+  
+  I'm sure everyone will feel better knowing
+  you're on the case.
+  
+  Y'know... I'm curious about what I heard
+  about Hyrule Castle too. Doc is chasing
+  that, so I think it'll be OK.
+  <3 Type='0' Data='0800'/>Besides, my discovery might hold a clue
+  about finding Princess Zelda.
+  
+  <3 Type='0' Data='0801'/>Well, I'll explain everything to you.
+  This way!
+talk0046: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Anyway, you appear to be the bold type,
+  judging by your...outfit.
+talk0105: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>I mean, your skills would be super helpful
+  to me... You're the one in charge of the
+  Zonai Survey Team, after all.
+  But aren't you heading up the <0 Type='3' Data='0000'/>Ring
+  Ruins<0 Type='3' Data='ffff'/> investigation in <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>,
+  anyway, Tauro?
+  That's where your focus should be. Those
+  fallen ruins are huge and exciting! Big
+  enough to <0 Type='3' Data='0000'/>see from<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>Lookout Landing<0 Type='3' Data='ffff'/>!
+  So, please, finish your work there before
+  asking to join in new research.
+talk0134: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Are you <5 Type='0'/>curious about the figure that was
+  sighted at Hyrule Castle or something?
+  
+  <3 Type='0' Data='0701'/>Doc is looking into that, so she's got
+  it handled.
+  
+  <3 Type='0' Data='0800'/>Besides, my discovery might hold a clue
+  about finding Princess Zelda.
+  
+  I'll explain more. This way—come, come!
+talk0047: |
+  <3 Type='0' Data='0801'/>Trust me, I understand. If I could run
+  around in nothing but my unmentionables,
+  I just might.
+  But there's a certain amount of decorum
+  required in my field. Especially when Paya
+  is around.
+  Otherwise, I wouldn't bother so much with
+  clothing. Better to feel the breeze on my
+  skin while I work!
+  <3 Type='0' Data='0800'/>It warms my heart to see I've found a
+  kindred spirit in you, Linkette.
+talk0106: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>But!<5 Type='0'/>
+  
+  
+  <3 Type='0' Data='0c01'/>But to read firsthand Zonai history...<5 Type='1'/>
+  That bait's too juicy to pass up!
+talk0048: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Investigating the floating Ring Ruin was
+  the single biggest discovery in my career.<0 Type='4'/><3 Type='0' Data='0800'/>Due in part to you, Linkette.<0 Type='4'/>Our ancestors left behind such a rich
+  history. <5 Type='1'/>It's crucial that we pass that
+  knowledge on to future generations.<0 Type='4'/>But any history needs to be accurate. So
+  I intend to continue my work translating
+  Zonai inscriptions!<0 Type='4'/>Thank you for all your contributions.
+talk0107: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0a00'/>Tauro <0 Type='3' Data='ffff'/>is an amazing person. And he's a
+  first-rate archaeologist too!
+  
+  But he loves Zonai research so much
+  that he'll bolt from a project to chase
+  any new discoveries.
+talk0108: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Oh, Swordsman, did you perhaps come to
+  help with our <0 Type='3' Data='0000'/>investigation of the Depths<0 Type='3' Data='ffff'/>?
+talk0137: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>What's up?
+  
+  
+  I can't stop thinking about the floating
+  <0 Type='3' Data='0000'/>Ring Ruin<0 Type='3' Data='ffff'/>...
+talk0109: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>I've been looking for someone to help
+  with my <0 Type='3' Data='0000'/>investigation of the Depths<0 Type='3' Data='ffff'/>.
+  
+  I mean, you'd be best for the job...
+talk0138: |
+  <3 Type='0' Data='0700'/>Paya is working away studying Zonai
+  scripts and researching old documents.
+  
+  If she's working that hard, then I should
+  be too.
+  
+  Her talents are wasted stuck here
+  as chief.
+talk0110: |
+  <3 Type='0' Data='0800'/>Thank you!
+  
+  
+  Having you help out is such a relief.
+  
+  
+  We'll explain all the details to you. Come
+  with me!
+talk0139: |
+  <3 Type='0' Data='0700'/>Linkette, have you been feeling the urge to
+  learn more about the ruins?
+  
+  I'd encourage you to explore the Ring
+  Ruins that fell around the village. Nothing
+  like hands-on study!
+  A <0 Type='3' Data='0000'/>translation of the text<0 Type='3' Data='ffff'/> has been placed
+  near each of the slabs inside.
+  
+  If you're curious, it's all there to be read.
+near_0007: |
+  Just give me a chance...
+talk0111: |
+  <3 Type='0' Data='0800'/>Aw, c'mon! At least let me tell you some
+  of the details!
+  
+  See, I made an amazing discovery. Come
+  here—I wanna show you!
+talk0140: |
+  <3 Type='0' Data='0700'/>Even though we've deciphered the stone
+  slabs, we have to continue investigating
+  the Ring Ruins.<0 Type='4'/>The most minute detail could actually
+  be meaningful.<0 Type='4'/>Or something in the debris could have a
+  medicinal purpose. There's always
+  the potential for new discoveries.
+  <3 Type='0' Data='0800'/>This is why it's crucial for us to continue
+  our research.
+near_0008: |
+  Sorry, Tauro...
+talk0112: |
+  <3 Type='0' Data='0c00'/>I don't plan on disobeying Princess
+  Zelda's orders, but it's not easy to abide
+  by them, and I'll tell you why.
+  Each of the other <0 Type='3' Data='0000'/>four Ring Ruins <0 Type='3' Data='ffff'/>we're
+  allowed to enter has a stone slab with
+  Zonai writing on it.
+  They're precious artifacts, with records
+  from an ancient people about purported
+  sages.
+  <3 Type='0' Data='0700'/>There's got to be a fifth slab in that
+  floating Ring Ruin with even more
+  information on the sage.
+  I'm beside myself imagining all the details
+  we might be missing out on!
+Ballon01_01: |
+  Just look at them...
+talk0114: |
+  <3 Type='0' Data='0700'/>You're not going to find much of interest
+  in the research documents here unless
+  you're into that kind of thing.
+  However, if you're interested in anything
+  Zonai related, poke around some of the
+  other researchers' tents.
+  Some are knowledgeable about the
+  <0 Type='3' Data='0000'/>sky islands <0 Type='3' Data='ffff'/>and <0 Type='3' Data='0000'/>gloom<0 Type='3' Data='ffff'/>. That might
+  appeal to you more.
+talk0143: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>Thanks to your contributions, Linkette,
+  we've learned new things about the
+  age of legends.<0 Type='4'/>Wortsworth told me all about how much
+  you've helped him. He's been worked up
+  with excitement for a while now.<0 Type='4'/>And thanks to you, I got a look at some
+  important ruins and records myself.<0 Type='4'/><3 Type='0' Data='0800'/>There's plenty of excitement to
+  go around!
+talk0115: |
+  <3 Type='0' Data='0700'/>I think the only one who likes visiting
+  this kind of place is the village chief.
+  
+  She's just as passionate about her
+  research as we are.
+  
+  And she's taken to deciphering Zonai
+  script like a fish to water!
+  
+  She's so good, in fact, it feels like a waste
+  to stick her on chief duties.
+  
+  <3 Type='0' Data='0700'/>But I'm getting off track. You're interested
+  in Zonai stuff, yeah?
+  
+  The documents here might be too high-
+  level for you, but the other researchers
+  love to chat about their work. Just ask!
+Ballon01_03: |
+  My curiosity is killing me!
+talk0116: |
+  <3 Type='0' Data='0700'/>Have you been to all <0 Type='3' Data='0000'/>four <0 Type='3' Data='ffff'/>of the <0 Type='3' Data='0000'/>Ring
+  Ruins<0 Type='3' Data='ffff'/> that fell around the village yet?<0 Type='4'/>Most of them broke apart when they
+  landed. We found a <0 Type='3' Data='0000'/>stone slab with
+  some writing <0 Type='3' Data='ffff'/>inside each of the sites.
+  <3 Type='0' Data='0800'/>I deciphered the inscriptions and found
+  out they'd been written by those the
+  ancients knew as <0 Type='3' Data='0000'/>sages<0 Type='3' Data='ffff'/>.
+  My guess is that the floating Ring Ruin
+  also has a stone slab with even more
+  details about these <0 Type='3' Data='0000'/>sages<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0a00'/>But Princess Zelda has put her foot down
+  and forbidden anyone from going inside,
+  so there's no way to know.
+Ballon01_04: |
+  Princess Zelda ordered it...
+talk0117: |
+  <3 Type='0' Data='0700'/>Princess Zelda ordered everyone to stay
+  out of the floating Ring Ruins. It's a hard
+  thing to ask of us, but she's the princess.
+  Nothing to do in the meantime but keep
+  investigating the other ruins.
+  
+  <3 Type='0' Data='0c00'/>Have you been to them yet? There's <0 Type='3' Data='0000'/>four<0 Type='3' Data='ffff'/>
+  other <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/> around the village.
+  
+  Most of them broke apart on impact.
+  Inside each site, we found an intriguing
+  stone slab.
+  <3 Type='0' Data='0800'/>If you ask me, these slabs will be the
+  key unlocking the mysteries of the
+  Zonai civilization!
+Ballon01_05: |
+  Woke up just in time!
+talk0118: |
+  <3 Type='0' Data='0700'/>I knew there'd be something big tucked
+  away in that floating Ring Ruin, but this
+  was bigger than I imagined.
+  The moment Paya set eyes on those
+  ruins, she called the Zonai Survey Team
+  right away.
+  It was the right call, but that's no
+  surprise. Every time I look at these
+  ruins, I'm in awe of her effectiveness.
+  The chief sure is something, isn't she?
+Ballon01_10: |
+  Maybe from this angle?
+talk0123: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>What's up?
+  
+  
+  I can't stop thinking about that floating
+  <0 Type='3' Data='0000'/>Ring Ruin<0 Type='3' Data='ffff'/>...
+talk0124: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hm? <5 Type='0'/>What are you doing out at this hour?

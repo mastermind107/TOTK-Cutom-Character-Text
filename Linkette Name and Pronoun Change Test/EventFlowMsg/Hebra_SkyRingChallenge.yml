@@ -1,0 +1,281 @@
+Talk29: |
+  <3 Type='0' Data='0700'/>Hoo hoo hoo... <5 Type='0'/>This time, you cleared
+  <0 Type='3' Data='0000'/><2 Type='2' Data='4a00480065006200720061005f0053006b007900520069006e0067004300680061006c006c0065006e00670065005f004d0069006e006900470061006d0065005f00530063006f0072006500ffff00cd'/> <201 Type='6' Data='0800720069006e0067000a00720069006e00670073000000'/><0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0401'/>That's a new record!<5 Type='0'/>
+Near11: |
+  How are you faring?
+Talk201: |
+  <3 Type='0' Data='0700'/>Linkette, you have proven you are ready for
+  more of a challenge. I suggest you try the
+  <0 Type='3' Data='0000'/>advanced course<0 Type='3' Data='ffff'/>.
+Near31: |
+  Who will try it?
+Talk203: |
+  <3 Type='0' Data='0700'/>You simply pass through as many of the
+  <0 Type='3' Data='0000'/>floating rings <0 Type='3' Data='ffff'/>as you can <0 Type='3' Data='0000'/>before time
+  runs out<0 Type='3' Data='ffff'/>.
+  And don't stray too far, hm? You'll be
+  disqualified if you leave the Flight Range
+  partway through.<0 Type='4'/>Score high enough and I'll give you
+  a reward.
+  
+  Note that in the advanced course, the
+  <0 Type='3' Data='0000'/>number <0 Type='3' Data='ffff'/>and <0 Type='3' Data='0000'/>location <0 Type='3' Data='ffff'/>of the rings is
+  different than in the beginner course.
+Talk204: |
+  <3 Type='0' Data='0500'/>Hoo hoo! Was advanced too difficult?
+  Perhaps you should spend some time
+  practicing on the beginner course.
+0001: |
+  Let's do this!
+Talk205: |
+  <3 Type='0' Data='0700'/>Not bad, but if I may... You do have some 
+  room for improvement. For a start, try to
+  memorize the locations of all the rings.
+0002: |
+  What are the rules?
+Talk206: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>Now that was some fancy flying!
+  I look forward to seeing you try the
+  course again.
+Talk10: |
+  In this course, individuals will train their
+  wits and agility by passing through a
+  series of <0 Type='3' Data='0000'/>floating rings<0 Type='3' Data='ffff'/>.
+0003: |
+  Maybe later.
+Talk207: |
+  <3 Type='0' Data='0700'/>Hoo hoo! Amazing! A little more practice
+  and you'll be able to clear all the rings.
+Talk11: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='0c004e006f007400690063006500'/>Hoo? <5 Type='0'/>What is it, Linkette?<5 Type='0'/> Do you want to
+  stop training?
+0004: |
+  I quit.
+Talk208: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Well, I never... <5 Type='0'/>You cleared all the rings
+  again? <5 Type='1'/>That's one for the history books!
+Talk12: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003000'/>Very well.<5 Type='1'/>
+0005: |
+  I want to keep going!
+Near101: |
+  Seeking a challenge?
+Talk101: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Hoo hoo hoo... <5 Type='0'/>What do you say?<5 Type='0'/> Want to
+  try the training course again?<0 Type='4'/>I may give you a reward, depending on
+  how well you perform...
+Talk209: |
+  <3 Type='0' Data='0700'/>Care to go again?
+Talk13: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Very good... <5 Type='0'/>Just pass through as many
+  <0 Type='3' Data='0000'/>floating rings <0 Type='3' Data='ffff'/>as you can <0 Type='3' Data='0000'/>before time
+  runs out<0 Type='3' Data='ffff'/>. <5 Type='0'/>That's all there is to it!
+Talk30: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>You cleared all of the rings on your very
+  first try? <5 Type='0'/>Astonishing!
+0006: |
+  Sounds good.
+Talk14: |
+  <3 Type='0' Data='0c01'/>That said, no one has actually attempted
+  the course, as I only just finished it.<0 Type='4'/>Hopefully a brave volunteer comes along
+  soon to try it out...
+Talk31: |
+  <3 Type='0' Data='0700'/>Ah, Linkette. Care to try the course again?
+0007: |
+  I'll pass.
+Talk103: |
+  <3 Type='0' Data='0301'/>It seems you didn't quite hit your stride.<5 Type='0'/><0 Type='4'/><3 Type='0' Data='0001'/>I can't give you a reward, I'm afraid.<5 Type='0'/>
+  But I hope you'll try again!
+Talk15: |
+  <3 Type='0' Data='0000'/>My hope is that this will teach young
+  warriors to fly more confidently even in
+  unfriendly skies.
+Talk32: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003000'/>I see... <5 Type='0'/>If you change your mind, do let
+  me know.
+Talk104: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0a005400680069006e006b00'/>Hmm. <5 Type='0'/>Not a spectacular result, but not
+  bad by any means.<5 Type='0'/>
+Talk201_01: |
+  <3 Type='0' Data='0001'/>You're welcome to train here as often as
+  you like, in exchange for a nominal
+  participation fee.
+  Please do come again, Linkette. Your feats
+  are an inspiration to others.
+0008: |
+  Beginner course.
+Talk16: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hoo hoo! Care to try my new
+  training course?
+Talk33: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>You cleared all of the rings? <5 Type='0'/>Astonishing!
+Talk105: |
+  <3 Type='0' Data='0700'/>Well done, Linkette! <5 Type='0'/>Who knew you could
+  move so gracefully?
+0009: |
+  Advanced course.
+Talk17: |
+  <3 Type='0' Data='0700'/>I understand. But if you stop now, I can't
+  return your <0 Type='3' Data='0000'/>20 rupee <0 Type='3' Data='ffff'/>participation fee.
+Talk106: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Hoo hoo hoo! You positively soared!
+  Are you sure you're not part Rito?<5 Type='0'/>
+Talk107: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>You flew so well, I could have sworn you
+  had wings!<5 Type='0'/><0 Type='4'/><3 Type='0' Data='0801'/>We Rito could stand to learn a thing or
+  two from you.
+Talk108: |
+  <3 Type='0' Data='0000'/>That will serve as a good reference for
+  instructing the young warriors who train
+  here. <5 Type='0'/>Now, take this.
+Talk101_00_01: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Linkette! <5 Type='1'/>Thank you for coming all this way.
+Talk109: |
+  <3 Type='0' Data='0700'/>Please return if ever you feel like
+  trying again.<5 Type='0'/><0 Type='4'/><3 Type='0' Data='0101'/>You're welcome anytime! <5 Type='0'/>Hoo hoo!
+Near01: |
+  I need a volunteer...
+Talk101_00_02: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Linkette! <5 Type='1'/>What a pleasant surprise, seeing you
+  here so bright and early.
+Near02: |
+  Care to try it?
+Talk101_00_03: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Linkette! <5 Type='1'/>Thank you for making your way
+  here at such a late hour.
+Talk101_00_04: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Linkette! <5 Type='1'/>Thank you for coming in spite of
+  the snow.
+Talk211_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Your record for the advanced course is a
+  perfect score of <0 Type='3' Data='0000'/><2 Type='2' Data='6200480065006200720061005f0053006b007900520069006e0067004300680061006c006c0065006e00670065005f004d0069006e006900470061006d0065005f0043006f00750072007300650042005f004200650073007400530063006f0072006500ffff00cd'/> rings<0 Type='3' Data='ffff'/>.<5 Type='1'/> Try for
+  another flawless performance this time!
+Talk208_01: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/>I can't believe it!<5 Type='1'/> You passed through all
+  of the rings.
+  
+  What an incredible showing.<5 Type='1'/> I'll record
+  what I saw today so that posterity will
+  know of the flying Hylian.
+  <3 Type='0' Data='0000'/>Please, take this in exchange for your
+  tremendous efforts.
+Talk210: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Your record for the beginner course
+  is <0 Type='3' Data='0000'/><2 Type='2' Data='5200480065006200720061005f0053006b007900520069006e0067004300680061006c006c0065006e00670065005f004d0069006e006900470061006d0065005f004200650073007400530063006f0072006500ffff00cd'/> <201 Type='6' Data='0800720069006e0067000a00720069006e00670073000000'/><0 Type='3' Data='ffff'/>.<5 Type='1'/> I bet you can do even
+  better this time.
+Talk211: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Your record for the advanced course is
+  <0 Type='3' Data='0000'/><2 Type='2' Data='6200480065006200720061005f0053006b007900520069006e0067004300680061006c006c0065006e00670065005f004d0069006e006900470061006d0065005f0043006f00750072007300650042005f004200650073007400530063006f0072006500ffff00cd'/> <201 Type='6' Data='0800720069006e0067000a00720069006e00670073000000'/><0 Type='3' Data='ffff'/>.<5 Type='1'/> Keep at it! Challenge your
+  own limits!
+Talk01_01: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Hoo hoo hoo! <5 Type='0'/>Hello there, Linkette!<5 Type='1'/> It's been
+  a while, hasn't it?
+  
+  Teba told me all about what you did—<5 Type='1'/>how
+  with your help, that wretched blizzard is
+  finally lifted.
+  <3 Type='0' Data='0701'/>What's more, I hear you looked after
+  young Tulin every step of the way.
+  
+  You have my thanks and my admiration,
+  for whatever an old bird's admiration is
+  worth.<5 Type='0'/> Hoo hoo...
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>As you've no doubt surmised, I retired
+  from my position as elder and entrusted
+  the village to Teba's leadership.
+  Now I spend my days here, at the Flight
+  Range, helping mold the next generation
+  of Rito warriors.
+Talk213: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Your record is <0 Type='3' Data='0000'/><2 Type='2' Data='5200480065006200720061005f0053006b007900520069006e0067004300680061006c006c0065006e00670065005f004d0069006e006900470061006d0065005f004200650073007400530063006f0072006500ffff00cd'/> <201 Type='6' Data='0800720069006e0067000a00720069006e00670073000000'/><0 Type='3' Data='ffff'/>.<5 Type='1'/><0 Type='4'/>I will consider <0 Type='3' Data='0000'/>15 rings<0 Type='3' Data='ffff'/> or higher to be a
+  passing grade. Show me what you can do.
+Talk01: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Hoo hoo hoo!<5 Type='0'/> It's Linkette!<0 Type='4'/>Thank you for aiding Rito Village in our
+  struggle. With your help, that wretched
+  blizzard is finally lifted.<5 Type='1'/>
+  <3 Type='0' Data='0701'/>What's more, I hear you looked after
+  young Tulin every step of the way.<0 Type='4'/>You have my thanks and my admiration,
+  for whatever an old bird's esteem is
+  worth.<5 Type='0'/> Hoo hoo...
+0011: |
+  I still want to quit.
+Talk02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hoo hoo! So you're stepping up? You
+  want to try my training course?<0 Type='4'/><3 Type='0' Data='0100'/>What a surprise, hoo hoo! And an honor!
+0012: |
+  I've changed my mind!
+Talk210_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Your record for the beginner course is
+  a perfect <0 Type='3' Data='0000'/><2 Type='2' Data='5200480065006200720061005f0053006b007900520069006e0067004300680061006c006c0065006e00670065005f004d0069006e006900470061006d0065005f004200650073007400530063006f0072006500ffff00cd'/> rings<0 Type='3' Data='ffff'/>.<5 Type='1'/> No doubt you'll
+  match that score this time, hm?
+Talk03: |
+  <3 Type='0' Data='0701'/>The rules are simple. You pass through as
+  many of the <0 Type='3' Data='0000'/>floating rings <0 Type='3' Data='ffff'/>as you can
+  <0 Type='3' Data='0000'/>before time runs out<0 Type='3' Data='ffff'/>.<5 Type='0'/>
+  Oh, and don't stray too far, hm? You'll be
+  <0 Type='3' Data='0000'/>disqualified <0 Type='3' Data='ffff'/>if you leave the Flight Range.<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Since this is your first attempt, I'll go easy
+  on you... <5 Type='0'/>Let's say <0 Type='3' Data='0000'/>15 rings <0 Type='3' Data='ffff'/>is enough to
+  earn a passing grade.
+  <3 Type='0' Data='0001'/>Manage that and I'll give you a
+  fitting reward.
+Talk04: |
+  So! <5 Type='0'/>Care to give it a try?
+Talk21: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1400520075006e0061007700610079005f0030003000'/>Time's up!
+Talk110: |
+  <3 Type='0' Data='0700'/>The training course costs <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/>...
+  Will that be all right?
+Talk05: |
+  <3 Type='0' Data='0800'/>Hoo hoo hoo! <5 Type='0'/>Marvelous. <5 Type='0'/>I'll show you
+  to the starting position.
+Talk22: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0a0048006100700070007900'/>Hoo hoo!<5 Type='1'/> You cleared all of the rings?
+  Well done!<5 Type='0'/>
+Talk111: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Oh dear... You don't appear to have
+  enough rupees. Please come again
+  after you've saved up a little.
+Talk06: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Ready?<0 Type='4'/>Then on your mark... <5 Type='0'/>Get set...<5 Type='0'/>
+Talk23: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Hoo hoo... <5 Type='0'/>What's the matter? Did you
+  have a mishap?<5 Type='1'/><0 Type='4'/>You're welcome to attempt the course
+  again, if you'd like.
+Talk07: |
+  <3 Type='0' Data='0700'/>You simply pass through as many of the
+  <0 Type='3' Data='0000'/>floating rings <0 Type='3' Data='ffff'/>as you can <0 Type='3' Data='0000'/>before time
+  runs out<0 Type='3' Data='ffff'/>.
+  And don't stray too far, hm? You'll be
+  disqualified if you leave the Flight Range
+  partway through.
+  To start, let's call <0 Type='3' Data='0000'/>15 rings<0 Type='3' Data='ffff'/> a passing
+  score. <5 Type='0'/>Clear that many and I'll give you
+  a reward.
+Talk24: |
+  <3 Type='0' Data='0301'/>Oh dear... <5 Type='0'/>I'm afraid you did not pass
+  the course.<5 Type='1'/>
+Talk41: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Linkette? <5 Type='0'/>Where are you going?<5 Type='0'/> You're not
+  allowed to leave the Flight Range!
+Talk08: |
+  <3 Type='0' Data='0700'/>I see. If you change your mind and want
+  to try the course, do let me know.
+Talk09: |
+  <3 Type='0' Data='0701'/>I regret to say that the blizzard ruined our
+  old training equipment.
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>But rather than try to re-create the
+  original course,<5 Type='0'/> I've taken this opportunity
+  to prepare a new one.
+Talk26: |
+  <3 Type='0' Data='0800'/>Well done, Linkette! You <0 Type='3' Data='0000'/>passed<0 Type='3' Data='ffff'/> with flying
+  colors, hoo hoo! <5 Type='1'/>Do you have a pair of
+  wings hidden under there?
+  You've set a high-water mark for my
+  trainees to aspire to.
+  
+  Clearly I picked the right Hylian to give
+  this course a spin! <5 Type='1'/>Please, take this.
+Talk28: |
+  <3 Type='0' Data='0700'/>Hoo hoo hoo... <5 Type='0'/>This time, you cleared
+  <0 Type='3' Data='0000'/><2 Type='2' Data='4a00480065006200720061005f0053006b007900520069006e0067004300680061006c006c0065006e00670065005f004d0069006e006900470061006d0065005f00530063006f0072006500ffff00cd'/> <201 Type='6' Data='0800720069006e0067000a00720069006e00670073000000'/><0 Type='3' Data='ffff'/>.

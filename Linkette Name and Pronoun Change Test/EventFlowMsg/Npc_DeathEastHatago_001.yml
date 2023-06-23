@@ -1,0 +1,173 @@
+Com_Welcome: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Ah, welcome to <0 Type='3' Data='0000'/>Foothill Stable<0 Type='3' Data='ffff'/>.
+Com_Photo_03: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='08004300680061007400'/>The carvings of all those heroes—they're
+  really something. Such craftsmanship.
+  
+  They were carved right into the mountain
+  <0 Type='3' Data='0000'/>northwest <0 Type='3' Data='ffff'/>of here to protect <0 Type='3' Data='0000'/>Goron City<0 Type='3' Data='ffff'/>.
+  
+  What I'd like to do is hang up a painting
+  of the Champion <0 Type='3' Data='0000'/>Daruk<0 Type='3' Data='ffff'/>. His carving is up
+  there at the highest point.
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0600530061006400'/>Hmm, but I'll need to go get a look at it
+  if I'm going to paint it. I just don't have
+  time for that.
+Com_Photo_Thank: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Thanks to you, Linkette, the stable's whole
+  feel has changed completely.
+  
+  May Daruk's divine strength protect
+  everyone who visits this stable.
+9001: |
+  I have just the picture!
+Com_Photo_04: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>What's this?<5 Type='0'/> Did you bring me a <0 Type='3' Data='0000'/>picture of
+  the Daruk sculpture<0 Type='3' Data='ffff'/>?!
+Talk0001: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Well, the mountain path that leads to
+  the <0 Type='3' Data='0000'/>northwest <0 Type='3' Data='ffff'/>from here connects with
+  Goron City.
+  But the road's been busted up since
+  the Upheaval and isn't used much.
+  
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003100'/>These days, it's mostly just a den for
+  monsters—and a dangerous one at that.
+  
+  <3 Type='0' Data='0701'/>You may want to take a safer route to
+  Goron City.
+  
+  If so, I recommend you head south along
+  the road, turn to the west, and then take
+  the mountain path from Woodland Stable.
+DoNotWakka_01: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Sir, has that caught your eye?<5 Type='0'/> Attractive,
+  isn't it?<5 Type='0'/> It's called a <0 Type='3' Data='0000'/>ring garland<0 Type='3' Data='ffff'/>.
+  
+  They're sold in a place called <0 Type='3' Data='0000'/>Kakariko
+  Village<0 Type='3' Data='ffff'/>. It's in a mountain range to the
+  south of here.
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>The shape of the garland is supposed to
+  bring good luck. You might say it's the
+  inn's lucky charm.
+BurnedWakka_01: |
+  <3 Type='0' Data='0001'/>You seem very focused on this garland.
+  Perhaps you should just go buy one
+  for yourself, hm?
+  Head to the mountains south of here
+  and you'll find them for sale in
+  <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>.
+9002: |
+  Goodbye.
+Com_Photo_05: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>If I had a <0 Type='3' Data='0000'/>picture <0 Type='3' Data='ffff'/>I could use as reference,
+  I'm certain I could do up a painting, quick
+  and easy.
+DoNotWakka_02: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Sir! Please!<5 Type='0'/> Just because you want it
+  doesn't mean you can just up and
+  take it like that.
+  <3 Type='0' Data='0701'/>They're sold in a place called <0 Type='3' Data='0000'/>Kakariko
+  Village<0 Type='3' Data='ffff'/>, off in a mountain range to the
+  south of here.
+  If you'd like one, please go and buy
+  one yourself.
+9003: |
+  I changed my mind.
+Com_Photo_06: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>If you happen to have a <0 Type='3' Data='0000'/>picture of the
+  Daruk sculpture<0 Type='3' Data='ffff'/>, well, I hope you'll
+  show it to me.
+Talk0003: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Now that I think about it, Linkette,<5 Type='0'/> I hear
+  that things in <0 Type='3' Data='0000'/>Zora's Domain<0 Type='3' Data='ffff'/> aren't
+  so good right now.
+  Word is some goopy stuff called <0 Type='3' Data='0000'/>sludge <0 Type='3' Data='ffff'/>is
+  falling out of the sky.
+  
+  <3 Type='0' Data='0701'/>Zora's Domain is to the <0 Type='3' Data='0000'/>southeast <0 Type='3' Data='ffff'/>of here,
+  and a bit out of the way.
+  
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003100'/>Still, I can't help but worry this sludge will
+  start falling from the sky here too.
+Com_Photo_07: |
+  <3 Type='0' Data='0801'/>I have to say, I'm quite proud of how this
+  turned out! *sigh* It was so much fun to
+  paint again after all this time.
+  In fact, I'm enjoying this so much that if
+  you end up with a different <0 Type='3' Data='0000'/>picture of
+  the Daruk sculpture<0 Type='3' Data='ffff'/>, please let me know.
+  <3 Type='0' Data='0801'/>I'll be sure to paint that one too and
+  hang it in the frame!
+WakkaCharm: |
+  We have the same thing.
+Talk0004: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Oh, something else, Linkette...<5 Type='0'/>
+  
+  
+  I heard rumors that the horse god moved
+  to<0 Type='3' Data='0000'/> Akkala<0 Type='3' Data='ffff'/>.
+  
+  Talk is he can resurrect dead horses. Just
+  the kinda thing you'd expect of a god.
+  
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>I can't help but think things would've
+  gotten a lot livelier around this stable
+  if he'd come by here.
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>Aw, don't listen to me. I should stop
+  complaining about things I can't change.<5 Type='1'/>
+  Back to work, back to work!
+Com_Photo_08: |
+  <3 Type='0' Data='0801'/>It captures the essence of the renowned
+  Champion, don't you think? You can really
+  sense Daruk's strength, even here.
+Com_Photo_09: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='08004300680061007400'/>We get a lot of customers stopping by this
+  stable on their way to visit Goron City.
+  
+  <3 Type='0' Data='0c01'/>So I've been thinking it might be nice
+  for them if I hung up a <0 Type='3' Data='0000'/>picture of the
+  Daruk sculpture<0 Type='3' Data='ffff'/> overlooking the city.
+9006: |
+  I want to change it.
+9007: |
+  It's perfect as it is.
+Com_Photo_10: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='08004500610073006500'/>You can really feel the power overflowing
+  from this painting.
+  
+  It's almost as if the Champion Daruk is
+  watching over us.
+Com_Photo_12: |
+  <3 Type='0' Data='0701'/>Anyway,<5 Type='0'/> is there something you'd like to
+  do with the <0 Type='3' Data='0000'/>Daruk-sculpture painting<0 Type='3' Data='ffff'/>?
+Com_FirstTime_Only01: |
+  <3 Type='0' Data='0701'/>Now, since this is your first time here with
+  us at <0 Type='3' Data='0000'/>Foothill Stable<0 Type='3' Data='ffff'/>...
+Com_FirstTime_Only02: |
+  <3 Type='0' Data='0701'/>Since this is your very first time at
+  <0 Type='3' Data='0000'/>Foothill Stable<0 Type='3' Data='ffff'/>, and you've also
+  <0 Type='3' Data='0000'/>registered a horse<0 Type='3' Data='ffff'/>...
+Com_Photo_01: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>We're a stepping-stone for folks who want
+  to do some sightseeing in <0 Type='3' Data='0000'/>Goron City <0 Type='3' Data='ffff'/>off
+  to the <0 Type='3' Data='0000'/>northwest<0 Type='3' Data='ffff'/>.
+  So, I was thinking, maybe I'll hang a
+  painting of the sculpture of the Goron
+  Champion, <0 Type='3' Data='0000'/>Daruk<0 Type='3' Data='ffff'/>.
+  You know...<5 Type='0'/>the big statue that's sculpted
+  into the mountain overlooking the city.
+  
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Ah,<5 Type='0'/> but I'll need to go get a look at it if
+  I'm going to paint it. And there's just no
+  time for that.
+  If I had some kind of <0 Type='3' Data='0000'/>image<0 Type='3' Data='ffff'/> to use as
+  reference,<5 Type='0'/> well, it'd be no problem to
+  paint up something nice for the wall here.
+Com_FirstTime_Only03: |
+  <3 Type='0' Data='0701'/>Seeing as this marks not only your first
+  time visiting us at <0 Type='3' Data='0000'/>Foothill Stable<0 Type='3' Data='ffff'/> but
+  your first time <0 Type='3' Data='0000'/>lodging <0 Type='3' Data='ffff'/>here as well...
+Com_Photo_02: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Hold on!<5 Type='0'/> You have a <0 Type='3' Data='0000'/>picture of the
+  Daruk sculpture<0 Type='3' Data='ffff'/>?

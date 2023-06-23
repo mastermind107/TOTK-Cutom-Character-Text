@@ -1,0 +1,106 @@
+NakedPlayer: |
+  Wish I were that brave...
+Talk_00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/><FontSize Value='125'/>Huh? Linkette?!<FontSize Value='100'/><0 Type='4'/>You're back! I thought things felt different
+  around here!<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>I knew you'd escape the castle. You are
+  <0 Type='3' Data='0000'/>Princess Zelda<0 Type='3' Data='ffff'/>'s swordsman, after all!<0 Type='4'/>By the way, where's the princess? I can't
+  wait to welcome her back!
+Talk_10: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>I'm so relieved to see you back at
+  last, Linkette!<0 Type='4'/>The journey here must have been
+  difficult. Please, get whatever rest you
+  need here at Lookout Landing.
+near_00: |
+  Things feel different...
+Talk_01: |
+  <3 Type='0' Data='0701'/>Well, it's a big relief having you back.<0 Type='4'/>I'm sure you've been through a lot,
+  returning to us. So, just know that
+  Lookout Landing is here for you.
+  Be sure to get some rest, Linkette.
+Talk_12: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>You looked so heroic when you soared
+  from our <0 Type='3' Data='0000'/>Skyview Tower<0 Type='3' Data='ffff'/> here!
+  
+  I helped construct the tower, since we're
+  short on workers.
+  
+  Ever since it was finished, we all
+  wondered who'd be brave enough
+  to launch for the first time.
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Of course it was you, Linkette!
+Talk_02: |
+  <3 Type='0' Data='0a01'/>Princess Zelda must still be stuck up
+  there in <0 Type='3' Data='0000'/>Hyrule Castle<0 Type='3' Data='ffff'/>.<5 Type='1'/><0 Type='4'/><0 Type='3' Data='0000'/><3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/><0 Type='3' Data='ffff'/>I wonder. If I used the <0 Type='3' Data='0000'/>Skyview Tower<0 Type='3' Data='ffff'/>,
+  could I launch high enough to... No,
+  that won't work.<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0a01'/>I'm so scared of heights—even being
+  up here makes me a bit trembly.
+Talk_13: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Hello, Linkette! I was hoping you'd come up
+  and talk to me.
+  
+  To be honest, I saw you from the top of
+  the wall as soon as you got back.
+  
+  You looked a little preoccupied, so I
+  decided not to say anything.
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Anyway, you looked brilliant soaring
+  through the sky just now!
+  
+  We're short on workers, so I actually
+  helped construct the <0 Type='3' Data='0000'/>Skyview Tower<0 Type='3' Data='ffff'/>.
+  
+  Ever since it was finished, we all
+  wondered who'd be brave enough to
+  launch for the first time.
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Should've guessed it would be you.
+Talk_14: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Good morning, Linkette!
+Talk_15: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Hello, Linkette!
+Near_02: |
+  All clear!
+Talk_16: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Good evening, Linkette!
+Near_03: |
+  No biggie! Just a little rain!
+Talk_06: |
+  <3 Type='0' Data='0a01'/>Poor <0 Type='3' Data='0000'/>Princess Zelda<0 Type='3' Data='ffff'/>. She must still be
+  stuck in Hyrule Castle.<0 Type='4'/>We have to rescue her... But how do we
+  get up there?
+Talk_17: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Hey, Linkette! Thanks for all your hard work!
+Near_04: |
+  No issues to report!
+Talk_07: |
+  <3 Type='0' Data='0a00'/>If I could, I'd go and save Princess Zelda
+  myself right now.<0 Type='4'/>But how can I get to Hyrule Castle?
+  It's so high up!
+BlackZelda_01: |
+  <3 Type='0' Data='0b00'/>Linkette! Did you hear? <0 Type='3' Data='0000'/>Princess Zelda <0 Type='3' Data='ffff'/>was
+  spotted up in Hyrule Castle!<0 Type='4'/>We need to get her down somehow!
+  It's not safe being that high up!
+  
+  <3 Type='0' Data='0200'/>Grrr...<5 Type='0'/> Curse my debilitating fear
+  of heights!
+  
+  <3 Type='0' Data='0a00'/>If I was even a foot higher than this, my
+  legs would be stone stiff right now.
+Talk_18: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Watch out, Linkette! Get to cover before the
+  lightning hits you!
+Near_05: |
+  Nothing unusual!
+Talk_08: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/><0 Type='3' Data='ffff'/>I wonder. If I used the <0 Type='3' Data='0000'/>Skyview Tower<0 Type='3' Data='ffff'/>,
+  could I launch high enough to...
+  No, never mind.<5 Type='1'/>
+  <3 Type='0' Data='0a01'/>I'm so scared of heights—even being up
+  here makes me a bit trembly.
+Talk_09: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0c005300610064005f0030003000'/>I see... <5 Type='1'/>So she's still missing...<5 Type='1'/>
+Near_06: |
+  Now there's an idea.
+BlackZelda_04: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0600530061006400'/>Poor Princess Zelda, stuck way up there
+  all on her own!<0 Type='4'/>We have to go get her soon!

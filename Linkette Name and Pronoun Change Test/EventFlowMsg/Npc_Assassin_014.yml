@@ -1,0 +1,70 @@
+talk_1010: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Ah!<5 Type='0'/> I'm saved...<5 Type='0'/> Thank you!
+talk_1011: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>Though I suppose that's neither here
+  nor there...
+  
+  Because the gloom won't even have the
+  chance to do you in!
+talk_1040: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Some "hero" you are.<5 Type='0'/> So heartless...
+  I feel my rage giving me strength!
+talk_1012: |
+  <3 Type='0' Data='0100'/>Thank you, you're a real lifesaver!
+  
+  
+  <4 Type='0' Data='12004c00610075006700680053005f0030003000'/>This area is riddled with gloom, <5 Type='0'/>and
+  I stepped right into it.
+  
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><0 Type='3' Data='ffff'/>One touch of <0 Type='3' Data='0000'/>gloom<0 Type='3' Data='ffff'/> will eat away at your
+  vitality.<5 Type='0'/> Be careful to keep a safe distance.
+  
+  <3 Type='0' Data='0500'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>If the gloom does get you, <5 Type='0'/>you should
+  either <0 Type='3' Data='0000'/>go up to the surface<0 Type='3' Data='ffff'/> or use a
+  <0 Type='3' Data='0000'/>sundelion<0 Type='3' Data='ffff'/> as soon as you can.
+  I've heard rumors that the light of those
+  giant trees can help too...
+talk_1041: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Hey, be careful walking around down
+  here.<5 Type='1'/> Everything's covered in <0 Type='3' Data='0000'/>gloom<0 Type='3' Data='ffff'/>,<5 Type='0'/>
+  so try to watch your step.
+  If you do get any gloom on you, use a
+  <0 Type='3' Data='0000'/>sundelion<0 Type='3' Data='ffff'/>.<5 Type='0'/> The base should've told you
+  to always keep a few on hand.
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>If you don't have any, some time on the
+  surface should fix you up.<5 Type='0'/> I hear those
+  glowing trees can help too, but I dunno...
+  <3 Type='0' Data='0c00'/>Anyway, I hope Linkette comes through here
+  soon. <5 Type='0'/>Pretending to be sick really takes it
+  out of you.
+talk_1042: |
+  <3 Type='0' Data='0700'/>Watch your step around here.<5 Type='0'/> The place
+  is covered in <0 Type='3' Data='0000'/>gloom<0 Type='3' Data='ffff'/>.<0 Type='4'/>If you touch any,<5 Type='0'/> you'll need a <0 Type='3' Data='0000'/>sundelion<0 Type='3' Data='ffff'/>
+  or some time on the surface.
+  
+  I've heard that those big trees can help
+  with gloom too, but I haven't been able
+  to confirm that yet.
+  <3 Type='0' Data='0c00'/>Anyway, I hope Linkette comes through here
+  before too long.<5 Type='0'/> I really wanna get back
+  to the surface.
+talk_1020: |
+  <3 Type='0' Data='0900'/><FontSize Value='125'/>Prepare to die, Linkette!<FontSize Value='100'/><1 Type='3' Data='5a000000'/>
+talk_1021: |
+  <FontSize Value='125'/><3 Type='0' Data='0900'/>This is for Master Kohga!<1 Type='3' Data='5a000000'/><FontSize Value='100'/>
+near_0000: |
+  The gloom got me...
+talk_1000: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Urgh...<5 Type='0'/> Are...<5 Type='0'/> Are you here to help?<0 Type='4'/>Please...<5 Type='0'/> This is misery.<5 Type='0'/> I'm covered in
+  <0 Type='3' Data='0000'/>gloom<0 Type='3' Data='ffff'/>,<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/><5 Type='1'/>and I need a <0 Type='3' Data='0000'/>sundelion<0 Type='3' Data='ffff'/>...
+talk_1001: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>It's over for me.<5 Type='0'/> All this <0 Type='3' Data='0000'/>gloom<0 Type='3' Data='ffff'/>...<5 Type='1'/> *hack*
+  <0 Type='3' Data='0000'/>Sundelion<0 Type='3' Data='ffff'/>...<5 Type='0'/> If I only had a sundelion.
+0000: |
+  I've got one here.
+talk_1030: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>You'd walk away...<5 Type='0'/>from someone in need?
+0001: |
+  Sorry, can't help.
+talk_1031: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0300'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/><0 Type='3' Data='ffff'/>But you...<5 Type='0'/>don't have any <0 Type='3' Data='0000'/>sundelions<0 Type='3' Data='ffff'/>...

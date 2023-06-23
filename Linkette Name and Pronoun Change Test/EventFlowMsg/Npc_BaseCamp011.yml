@@ -1,0 +1,71 @@
+Talk_1_2: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Indeed! This place was originally used by
+  the royal family as a safe haven in times
+  of need.
+  It's quite old, so we've been fixing it up
+  as we go, you see.
+  
+  At this point, we've stockpiled
+  some supplies, and I find it to be
+  downright cozy!
+Talk_1_10: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>The word is that Princess Zelda was
+  sighted in <0 Type='3' Data='0000'/>Hyrule Castle<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0c01'/>If only I, Monte, weren't tasked with this
+  most important duty, I would be out there
+  looking for her myself.
+Talk_1_3: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>I, Monte, have been tasked with the
+  illustrious duty of watching the entrance
+  of this renowned emergency shelter.
+  My tasks involve taking orders from my
+  superiors regarding when to open—or
+  SHUT—the entryway!
+  A noble task indeed.
+Talk_1_11: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>I'll be keeping up with your exploits in the
+  paper, Linkette! Good day to you!
+0005: |
+  Emergency shelter?
+Talk_1_4: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Watch your footing when using the ladder.
+  
+  
+  If only one could go straight through the
+  ceiling rather than using a tiresome
+  ladder, ha! But I digress.
+Talk_1_5: |
+  <3 Type='0' Data='0101'/>This is the <0 Type='3' Data='0000'/>emergency shelter<0 Type='3' Data='ffff'/>, where all
+  are welcome.<5 Type='0'/> Please! Stay as long as
+  you like.
+0006: |
+  What are you doing here?
+Talk_1_6: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Linkette! Welcome, welcome!
+  
+  
+  Call me Monte. You will find me
+  employed as the gatekeeper of this
+  fine establishment.
+0007: |
+  Goodbye.
+Talk_1_7: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Linkette! Welcome, welcome!
+Talk_1_8: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Though you see before you a hole in the
+  wall, fear not! This place is solid as
+  a rock.
+NakedPlayer_00: |
+  What a striking figure!
+Talk_1_9: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Our cook, Burmano, is out at the moment.
+  Feel free to use his pot whenever you like.
+NakedPlayer_01: |
+  It's risky to go unarmored.
+NakedPlayer_02: |
+  Down to the skivvies, hm?
+Talk_1_1: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>There is no need to worry about monsters<0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  while you're in the <0 Type='3' Data='0000'/>emergency shelter<0 Type='3' Data='ffff'/>.<5 Type='0'/>
+  Just relax, and go about your business!

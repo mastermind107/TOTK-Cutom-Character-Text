@@ -1,0 +1,199 @@
+NakedPlayer_00: |
+  You seem defenseless...
+Talk_14: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Good morning. Heading out?
+NakedPlayer_01: |
+  Where are your clothes?
+Talk_15: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>How goes it, Linkette?
+NakedPlayer_02: |
+  It takes all kinds, I guess.
+Talk_16: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>How goes it, Linkette? Getting dark out here,
+  isn't it?
+Talk_17: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>How goes it, Linkette? You're out pretty late,
+  you know!
+Talk_18: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>What are you doing out in the rain? Go
+  inside before you get hit by lightning!
+Talk_19: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>All these Gerudo are really making my
+  heart race.
+  
+  It's amazing that they're here. Only you
+  could have inspired an entire people to
+  spring into action... You or the princess.
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/><4 Type='0' Data='0c005300610064005f0030003100'/>Speaking of which, I can't believe she's still in
+  that dangerous <0 Type='3' Data='0000'/>area under Hyrule Castle<0 Type='3' Data='ffff'/>...<FontSize Value='100'/><0 Type='4'/><3 Type='0' Data='0701'/>Aah! Mind, stop wandering! I have
+  guarding to do!
+Talk_20: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>I hope you take some time to see the
+  extra facilities we have in here. They're
+  very helpful.
+  As for us, we'll keep watch over <0 Type='3' Data='0000'/>Lookout
+  Landing<0 Type='3' Data='ffff'/> until we have both you and the
+  princess back safe and sound.
+Talk_21: |
+  <3 Type='0' Data='0701'/>Keep your wits about you.
+Talk_22: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Linkette, look!<0 Type='4'/>You see those Gerudo? They're here to
+  defend Lookout Landing with us.<0 Type='4'/>Gerudo soldiers are the best of the best.
+  With them on our side, we'll have no
+  problem keeping this place safe!
+BlackZelda_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Linkette! <5 Type='0'/>Did you hear that rumor about
+  Princess Zelda?<0 Type='4'/>They're saying she was spotted at
+  Hyrule Castle.
+TerrorSword: |
+  What are you doing?!
+Talk_23: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>The Gerudo heard about what happened
+  and came to support us. Isn't that great?
+  
+  They're going to help protect <0 Type='3' Data='0000'/>Lookout
+  Landing <0 Type='3' Data='ffff'/>from now on.
+  
+  I know I'm not as impressive as them, but
+  don't forget about me!
+BlackZelda_02: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>We've been trying to spot her, but so far,
+  no luck.<0 Type='4'/>You might be able to see something
+  with <0 Type='3' Data='0000'/>Purah's telescope<0 Type='3' Data='ffff'/> though...
+Talk_24: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Linkette! At last you come talk to me!<0 Type='4'/>This whole time, I never stopped keeping
+  my eye out for you.
+BlackZelda_03: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>There's a rumor going around that
+  Princess Zelda was spotted at
+  Hyrule Castle.
+Talk_25: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Linkette, you're here! We've all been hoping
+  that you'd return!<0 Type='4'/>I've watched for any sign of you this
+  whole time!
+BlackZelda_04: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>By the way, Linkette! <5 Type='0'/>Did you hear that rumor
+  about Princess Zelda?<0 Type='4'/>They're saying she was spotted at
+  Hyrule Castle.
+Talk_26: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>I'm sure Purah is glad to have you
+  back, Linkette.
+  
+  Now we'll bring Princess Zelda back, too,
+  <5 Type='0'/>whatever it takes!
+Talk_27: |
+  <3 Type='0' Data='0701'/>The monsters may thin out a bit after
+  daybreak, but that's no reason to let
+  your guard down.
+Talk_28: |
+  <3 Type='0' Data='0701'/>This is the time of night when monsters
+  come out. Be safe out there.
+Near_01: |
+  Could it be?
+Talk_00: |
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Linkette?<0 Type='4'/>It's you! You're back!<0 Type='4'/><FontSize Value='100'/><3 Type='0' Data='0b01'/><FontSize Value='125'/>Wh-where have you been?!<FontSize Value='100'/>
+0000: |
+  Lookout Landing?
+Talk_29: |
+  <3 Type='0' Data='0701'/>Looks like rain, I'm afraid. We might be in
+  for lightning strikes.
+  
+  Watch out. You don't want to be holding
+  anything that's made of metal.
+Near_02: |
+  All clear.
+Talk_01: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>Last that anyone saw of either you or
+  <0 Type='3' Data='0000'/>Princess<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>Zelda<0 Type='3' Data='ffff'/> was when you went to
+  investigate the gloom...
+  And then the castle rose into the sky, and
+  everyone's been so worried about what
+  happened to you both!<0 Type='4'/><0 Type='3' Data='0000'/>Purah<0 Type='3' Data='ffff'/> has nearly worn herself out trying
+  to figure out where you two went.
+Talk_30: |
+  <3 Type='0' Data='0701'/>It's almost that time of night when
+  monsters come out. Be safe out there.
+Near_03: |
+  Rain? Now?
+Talk_02: |
+  <3 Type='0' Data='0000'/>Purah is working in that large <0 Type='3' Data='0000'/>building
+  over there<0 Type='3' Data='ffff'/>.
+0002: |
+  Goodbye.
+Talk_31: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>We'll put everything we've got into things
+  here, Linkette.
+  
+  Anything we can do to support you and
+  Purah in finding the princess, <5 Type='0'/>we'll do it!
+Near_04: |
+  Nothing suspicious.
+Talk_03: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Please, report to her right away! She'll
+  want to know you're all right.
+0003: |
+  Goodbye.
+Near_05: |
+  No issues here.
+Talk_04: |
+  <3 Type='0' Data='0701'/>Right after Hyrule Castle rose into
+  the sky, no one could find you or
+  the princess.<0 Type='4'/>When news of your disappearance made
+  its way here to <0 Type='3' Data='0000'/>Lookout Landing<0 Type='3' Data='ffff'/>...
+  
+  <3 Type='0' Data='0a01'/>Well...<5 Type='0'/>I heard <0 Type='3' Data='0000'/>Purah<0 Type='3' Data='ffff'/> went into a
+  serious panic.
+Talk_05: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c005300610064005f0030003100'/>I'll never forget that awful day when you
+  two disappeared and no one could
+  find you.<0 Type='4'/>The way Purah went into a serious panic...<5 Type='0'/>
+  Well, it's the same way we've all felt
+  at <0 Type='3' Data='0000'/>Lookout Landing <0 Type='3' Data='ffff'/>since then.
+Near_06: |
+  I wonder if it's true.
+TerrorArrow: |
+  Gah!
+Talk_08: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>This place is known as Lookout Landing.
+  
+  
+  When the <0 Type='3' Data='0000'/>gloom<0 Type='3' Data='ffff'/> began to seep up from
+  under Hyrule Castle, <0 Type='3' Data='0000'/>Purah<0 Type='3' Data='ffff'/> started
+  observing it from here.
+  <3 Type='0' Data='0701'/>But now we're all here looking out for
+  any signs of Princess Zelda. The whole
+  effort is coordinated from this place.
+Talk_09: |
+  <3 Type='0' Data='0701'/>I hope you take some time to see the
+  extra facilities that are available in here.
+  You'll find them very helpful.
+  As for us, we'll keep watch over <0 Type='3' Data='0000'/>Lookout
+  Landing<0 Type='3' Data='ffff'/> until we have both you and the
+  princess back safe and sound.
+Talk_10: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>We don't see a lot of monsters right
+  around here, but we do have two of
+  those strange <0 Type='3' Data='0000'/>chasms<0 Type='3' Data='ffff'/> nearby.
+  One's <0 Type='3' Data='0000'/>north<0 Type='3' Data='ffff'/> of here. The other's off to
+  the <0 Type='3' Data='0000'/>south<0 Type='3' Data='ffff'/>.
+Talk_11: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Purah is in that <0 Type='3' Data='0000'/>building over there<0 Type='3' Data='ffff'/>.
+  Please, report to her right away. She'll
+  want to know you're safe.
+TerrorIce: |
+  What are you doing?!
+Talk_12: |
+  <3 Type='0' Data='0801'/>All the Gerudo here at <0 Type='3' Data='0000'/>Lookout Landing<0 Type='3' Data='ffff'/>...
+  They came because of you.
+  
+  You inspired an entire people to spring
+  into action. Not many can do that.
+  
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003100'/>Though I know someone else who does—
+  Princess Zelda. *sigh*
+  
+  Where do you think she is? Still in that
+  dangerous <0 Type='3' Data='0000'/>area under Hyrule Castle<0 Type='3' Data='ffff'/>?
+Talk_13: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>L-Linkette, you're here! We've all been hoping
+  that you'd return!

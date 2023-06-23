@@ -1,0 +1,61 @@
+talk_1010: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Look around you! None of this is naturally
+  occurring, right?<5 Type='0'/> And do you see that?
+  That's a <0 Type='3' Data='0000'/>construct<0 Type='3' Data='ffff'/>! They're really real!
+talk_1011: |
+  <3 Type='0' Data='0800'/>Which means this is an <0 Type='3' Data='0000'/>abandoned mine<0 Type='3' Data='ffff'/>!
+  I know that doesn't sound exciting, but
+  they're the crown jewels of the Depths!
+  Not only are they full of <0 Type='3' Data='0000'/>crystallized
+  charges<0 Type='3' Data='ffff'/>,<5 Type='0'/> but if you talk to a <0 Type='3' Data='0000'/>construct<0 Type='3' Data='ffff'/>,
+  I hear they'll give you treasure! <5 Type='0'/>So yeah!
+talk_1040: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>Or kill the only other person who knows
+  about my discovery?
+talk_1041: |
+  <3 Type='0' Data='0800'/>Ah, great timing! <5 Type='0'/>Get a load of this!
+  
+  
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Another <0 Type='3' Data='0000'/>abandoned mine<0 Type='3' Data='ffff'/>! Can you
+  believe it?!
+  
+  There should be a big <0 Type='3' Data='0000'/>crystallized charge<0 Type='3' Data='ffff'/>
+  somewhere around here.<5 Type='0'/> If you're free,
+  would you mind taking a look?
+  <3 Type='0' Data='0c00'/>There're more <0 Type='3' Data='0000'/>constructs<0 Type='3' Data='ffff'/> here too.<5 Type='0'/>
+  Wonder if we'll ever actually learn how
+  to activate 'em...
+talk_1013: |
+  <3 Type='0' Data='0c00'/>I obviously can't let you take all these
+  riches from me, can I,<5 Type='0'/> Linkette?
+talk_1042: |
+  <3 Type='0' Data='0800'/>Oh, hey, check out this <0 Type='3' Data='0000'/>abandoned mine<0 Type='3' Data='ffff'/>!
+  
+  
+  There's gotta be a big <0 Type='3' Data='0000'/>crystallized charge<0 Type='3' Data='ffff'/>
+  around here somewhere. Mind helping
+  me look?
+  <3 Type='0' Data='0c00'/>We can worry about the <0 Type='3' Data='0000'/>constructs<0 Type='3' Data='ffff'/> later.<5 Type='0'/>
+  Like,<5 Type='0'/> whenever we figure out how to
+  activate them, later.
+talk_1020: |
+  <3 Type='0' Data='0900'/><FontSize Value='125'/>I'll have your life!<FontSize Value='100'/><1 Type='3' Data='5a000000'/>
+talk_1021: |
+  <FontSize Value='125'/><3 Type='0' Data='0900'/>This is for Master Kohga!<1 Type='3' Data='5a000000'/><FontSize Value='100'/>
+near_0000: |
+  Wow! Another mine!
+talk_1000: |
+  <3 Type='0' Data='0800'/>Can you believe this?!
+talk_1001: |
+  <3 Type='0' Data='0800'/>I've never seen anything like this!
+0000: |
+  What is it?
+talk_1030: |
+  <3 Type='0' Data='0c00'/>Ancient ruins, real <0 Type='3' Data='0000'/>constructs<0 Type='3' Data='ffff'/>...<5 Type='0'/> This must
+  be an <0 Type='3' Data='0000'/>abandoned mine<0 Type='3' Data='ffff'/>!
+  
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Oh, lucky day! What should I do first?<5 Type='0'/>
+  Mine <0 Type='3' Data='0000'/>crystallized charges<0 Type='3' Data='ffff'/>? Try asking a
+  <0 Type='3' Data='0000'/>construct<0 Type='3' Data='ffff'/> for its treasure?
+0001: |
+  ...

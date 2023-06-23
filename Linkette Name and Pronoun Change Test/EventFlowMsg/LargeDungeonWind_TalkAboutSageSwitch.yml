@@ -1,0 +1,14 @@
+Talk01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Is this for one of the locks? It's kinda
+  shaped like a windmill.<5 Type='1'/>
+Talk02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Linkette! Do you see that?
+Talk03: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>I am certain that this water wheel must be
+  connected to the temple's faucets!<5 Type='1'/>
+Talk04: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Whoa, Linkette, check that out!
+Talk00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Hey, look at that!
+Talk05: |
+  <3 Type='0' Data='0700'/>What is that thing? <5 Type='1'/>It looks like a gong...

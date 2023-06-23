@@ -1,0 +1,35 @@
+Talk06: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>I've eagerly awaited this moment...<5 Type='0'/>Linkette.
+Talk01: |
+  <3 Type='0' Data='0900'/><FontSize Value='125'/>This is for my kin!<1 Type='3' Data='5a000000'/><FontSize Value='100'/>
+0000: |
+  What're you counting?
+0001: |
+  Can I count with you?
+Talk03: |
+  <3 Type='0' Data='0a00'/>So many of my brethren have been cut
+  down.<5 Type='1'/> The harm we have suffered is
+  beyond counting...
+  <3 Type='0' Data='0801'/>Which is why I've so eagerly awaited this
+  moment...<5 Type='0'/>Linkette.
+Near00: |
+  Ooone...
+Talk04: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>Oh, you know...<5 Type='1'/> Just the number of
+  grievances I have against a certain
+  someone.
+  My brethren have been cut down, you
+  see.<5 Type='1'/> The harm we've suffered is truly
+  beyond measure...
+Talk00: |
+  <3 Type='0' Data='0c00'/>Ooone...<5 Type='1'/> Twooo...<5 Type='1'/>
+Talk05: |
+  <3 Type='0' Data='0a00'/>No, no.<5 Type='1'/> I'm afraid you'd only make the
+  count more difficult.
+  
+  Truth be told,<5 Type='0'/> I was just counting the
+  number of grievances I have against a
+  certain someone.
+  So many of my brethren have been cut
+  down, you see.<5 Type='1'/> The harm we've suffered
+  is truly beyond measure...

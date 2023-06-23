@@ -1,0 +1,420 @@
+Talk_006: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>It may be the middle of the day, but
+  I can't say it seems safe to go in there
+  alone, if that's what you were thinking.
+Talk_012: |
+  <3 Type='0' Data='0700'/>You thinking about going in there alone?
+  Sure, <0 Type='3' Data='0000'/>you'll be harder to spot in the rain<0 Type='3' Data='ffff'/>,
+  but I'm still not sure it's a good idea.
+Talk1022: |
+  <3 Type='0' Data='0800'/><FontSize Value='125'/>What a warrior! <5 Type='0'/>You're incredible!<FontSize Value='100'/>
+Talk1016: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>We have to train. We have to get stronger.
+  We have to get ready for what's next.
+  
+  The plan is to head northwest to the
+  <0 Type='3' Data='0000'/>South Tabantha Snowfield <0 Type='3' Data='ffff'/>in <0 Type='3' Data='0000'/>Hebra<0 Type='3' Data='ffff'/>.
+Talk_007: |
+  <3 Type='0' Data='0700'/>If you're thinking about heading in there
+  alone, I can't say I'd advise it. It won't
+  be long before it's dark, you know.
+Talk_013: |
+  <3 Type='0' Data='0700'/>I'm not sure it's wise to venture over
+  there in this <0 Type='3' Data='0000'/>thunderstorm<0 Type='3' Data='ffff'/>. Hey, you're
+  not wearing <0 Type='3' Data='0000'/>metal <0 Type='3' Data='ffff'/>equipment, are you?!
+Talk1023: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>First, we have to treat the wounded.<5 Type='1'/>
+  Then, as soon as everyone's OK, we'll
+  get together and plan our next move.
+Common_000: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='0a0041006e00670072007900'/>Stop right there! You can't just walk up
+  to my squad and start jabbering at them
+  like that!
+Talk_008: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Our attacks can't reach 'em from here.
+  Ugh, if only something could be done
+  about that <0 Type='3' Data='0000'/>collapsed bridge<0 Type='3' Data='ffff'/>!
+Talk_020: |
+  <3 Type='0' Data='0701'/>Just make sure you take off any <0 Type='3' Data='0000'/>metal
+  equipment<0 Type='3' Data='ffff'/> first! Help us out and there's
+  a nice <0 Type='3' Data='0000'/>reward<0 Type='3' Data='ffff'/> in it for you!
+Talk1030: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='0a0041006e00670072007900'/>Bring it on, creeps! You're about to
+  regret you ever laid eyes on us!
+Talk1018: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003000'/><FontSize Value='125'/>We won!<FontSize Value='100'/>
+Talk1024: |
+  <3 Type='0' Data='0700'/>You have to be rewarded. Do you have
+  a minute?
+Talk_009: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>We have to get across the broken bridge
+  if we're going to board that ship.<0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  
+  If we could just <0 Type='3' Data='0000'/>fix the bridge<0 Type='3' Data='ffff'/>, we'd clean
+  up those monsters for good.
+Talk_021: |
+  <3 Type='0' Data='0701'/>We can't afford to waste time here!
+  If you help us out, there's a <0 Type='3' Data='0000'/>reward<0 Type='3' Data='ffff'/>
+  in it for you!
+Talk1019: |
+  <3 Type='0' Data='0700'/>That thing you've got there...<5 Type='0'/> That's the
+  <0 Type='3' Data='0000'/>Master Sword<0 Type='3' Data='ffff'/>, isn't it?
+  
+  I hear it's an incredible weapon.
+  Legendary even! <5 Type='1'/>I guess it's no
+  wonder you're so strong.
+  Never thought I'd get the chance to
+  lay eyes on it myself.
+Talk1031: |
+  <3 Type='0' Data='0800'/>As always, I'm totally awed by your
+  incredible stren—<5 Type='0'/> Huh?
+  
+  <3 Type='0' Data='0400'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>That thing you've got there...<5 Type='0'/> That's the
+  <0 Type='3' Data='0000'/>Master Sword<0 Type='3' Data='ffff'/>, isn't it?
+  
+  I hear it's an amazing sword. A legendary
+  sword, actually! <5 Type='1'/>No wonder you're
+  so strong!
+  <3 Type='0' Data='0000'/>Never thought I'd get a chance to lay
+  eyes on it myself. <5 Type='1'/>Thanks for giving me
+  that chance.
+Talk_016: |
+  <3 Type='0' Data='0701'/>Now's our chance! The monsters are
+  groggy! Help us out and there's a nice
+  <0 Type='3' Data='0000'/>reward <0 Type='3' Data='ffff'/>in it for you.
+Talk1032: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='0a0041006e00670072007900'/>I'm not gonna lie, I'm terrified of fighting
+  these monsters. But all I have to do is
+  remember my training, right?
+Talk1026: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>You really surprised me. Taking care of
+  the bridge is one thing, but your power
+  on the battlefield is awe-inspiring!
+Talk_017: |
+  <3 Type='0' Data='0701'/>We can't just let these monsters go and
+  walk all over everyone! Help us out and
+  there's a nice <0 Type='3' Data='0000'/>reward <0 Type='3' Data='ffff'/>in it for you!
+Talk1027: |
+  <3 Type='0' Data='0900'/>Captain Flaxel says we should wipe out
+  every last monster.
+Talk1033: |
+  <3 Type='0' Data='0700'/>Hey, it's you! What an honor to run
+  into you again.
+Talk_018: |
+  <3 Type='0' Data='0701'/>My forces need some rest, you know?
+  But look, if you help us out, we'll make
+  sure you're well <0 Type='3' Data='0000'/>rewarded<0 Type='3' Data='ffff'/>.
+Talk1034: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0a0041006e00670072007900'/>You monsters have no idea what you're
+  in for! That's right, you're about to see
+  the mighty Flaxel squad in action!
+Talk1028: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='0a0041006e00670072007900'/>My fists of justice are gonna pound some
+  peace back into this world!
+Talk1040: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='0a0041006e00670072007900'/>Come and get it, you fiends!
+Talk_019: |
+  <3 Type='0' Data='0701'/>Now's our chance! The <0 Type='3' Data='0000'/>rain makes it
+  harder to hear our footsteps<0 Type='3' Data='ffff'/>. Help us out
+  and there's a nice <0 Type='3' Data='0000'/>reward<0 Type='3' Data='ffff'/> in it for you!
+Near2000: |
+  <4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Ch-chaaarge!
+Talk1035: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='0a0041006e00670072007900'/>We're in the middle of a battle! Like
+  I said, this isn't the place for casual
+  chitchat, OK?
+Talk1041: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='0a0041006e00670072007900'/>Didn't someone once say that trembling is
+  just a sign of excitement? I can do this.
+  I can do this. I can do this.
+Talk1029: |
+  <3 Type='0' Data='0800'/>As usual, I'm in awe of that incredible
+  strength of yours.
+Talk1036: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0c004c0061007500670068004c00'/>I warn you, voe, you are sure to be
+  quite envious of how I handle a spear
+  in battle.
+Talk1042: |
+  <3 Type='0' Data='0700'/>Well, here is your reward.
+Talk1050: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0a0041006e00670072007900'/>What do you want? We're in the middle of
+  an important mission right now.
+Talk1044: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c005300610064005f0030003000'/>I guess we don't have what it takes.
+  Beaten at our own game...<5 Type='0'/> Talk about
+  a pathetic monster-control crew.
+  Look, if I go down, not only will the whole
+  squad be knocked out...<5 Type='0'/>I won't be able to
+  treat anyone's wounds.
+  So I'm pretty much stuck here.
+  
+  
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>You're the only one I trust enough to
+  ask this of...<5 Type='1'/> Please, can you take out
+  those monsters for me?
+Talk1038: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='0a0041006e00670072007900'/>I'm gonna get rid of every last stinkin'
+  monster there is!
+Talk1051: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Sorry, but this really isn't a good time
+  for chitchat.
+Talk1039: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='0a0041006e00670072007900'/>These fists are 'bout to start a fire!
+Talk1045: |
+  <3 Type='0' Data='0700'/>The monsters we defeated in the
+  <0 Type='3' Data='0000'/>South Tabantha Snowfield <0 Type='3' Data='ffff'/>in <0 Type='3' Data='0000'/>Hebra<0 Type='3' Data='ffff'/>
+  to the northwest...
+  I think they've come back because of the
+  <0 Type='3' Data='0000'/>blood moon<0 Type='3' Data='ffff'/> too.
+  
+  We've gotta do some serious training
+  so they can't turn the tables on us.
+  
+  You be careful out there too, OK? Don't
+  be reckless. Your life is worth looking out
+  for, you got that?
+Talk1052: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0c004e006f007400690063006500'/>I've got to focus on the battle, so
+  no talkin'.
+Talk1046: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003000'/>As you can see, the monsters are back
+  and strong as ever all because of the
+  <0 Type='3' Data='0000'/>blood moon<0 Type='3' Data='ffff'/>.<0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  But<5 Type='0'/> with the bridge fixed,<5 Type='1'/> we'll be putting
+  an end to their fun.
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>You should join us. It'll give everyone just
+  the monster-battling boost they need. 
+Talk1053: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0c004e006f007400690063006500'/>Huh? So you're gonna join the fight too?
+Talk1047: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003000'/>Look at that... The monsters have come
+  back good as new, all because of the
+  <0 Type='3' Data='0000'/>blood moon<0 Type='3' Data='ffff'/>.
+  And this time...<5 Type='1'/>they've beaten us.
+  
+  
+  If I get taken out, there'll be no one left to
+  treat the wounded. And that would be an
+  even worse defeat.
+  <4 Type='0' Data='1600540061006c006b00440065006e0079005f0030003100'/>I hate to ask, but...can you help us again?<5 Type='1'/>
+  Please, <5 Type='0'/>go,<5 Type='0'/> destroy those monsters!
+Talk1054: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0c004e006f007400690063006500'/>Preparation is everything. It is how a
+  battle is truly won.
+Talk1060: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1600540061006c006b00440065006e0079005f0030003000'/>You...<5 Type='0'/>know something about this,
+  don't you?
+Talk1048: |
+  <3 Type='0' Data='0000'/>If we happen to cross paths in the future,
+  I hope you'll consider fighting alongside
+  us again.
+Talk1055: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0c004e006f007400690063006500'/>I am waiting for the right moment.
+Talk1061: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>Haha, whoa!<5 Type='1'/> You're saying you defeated
+  the monsters all by yourself AGAIN?!
+  
+  <3 Type='0' Data='0000'/>Your strength is unbelievable. Surprises
+  me every time!
+Talk1049: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/><1 Type='3' Data='6e000000'/>May the Goddess Hylia keep you safe,
+  brave warrior!
+Talk1056: |
+  <3 Type='0' Data='0001'/>We were gonna take out a bunch of
+  monsters, but...
+  
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0e0053006900670068005f0030003100'/>Now that we're here, they're...gone.
+  All of 'em.
+Talk1063: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/><FontSize Value='125'/>Great work, everyone!<FontSize Value='100'/>
+Talk1057: |
+  <3 Type='0' Data='0000'/>If we happen to meet again, consider
+  fighting beside us, OK?
+Talk1070: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Do you need something right now?<5 Type='1'/> If so,
+  you should go talk to the captain.
+Talk1058: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Haha!<5 Type='1'/> So you're saying that you defeated
+  the monsters all by yourself?!
+  
+  <3 Type='0' Data='0000'/>With someone as strong as you around,
+  who needs a monster-control crew?
+Talk1064: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>It was a hard-fought battle, but thanks
+  to Linkette, we did it! We won!
+  
+  First, we have to treat the wounded.
+  Then, when everyone's ready, we'll
+  start planning our next moves.
+Talk1071: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0a005400680069006e006b00'/>You're gonna get an earful from
+  the captain if she finds you just
+  loitering around.
+Talk1059: |
+  <3 Type='0' Data='0000'/>Do you <5 Type='0'/>know anything about this?
+Talk1065: |
+  As for you, Linkette,<5 Type='1'/> you deserve a reward.
+  
+  
+  Can we talk?
+Talk1066: |
+  As for you, Linkette, <5 Type='1'/>you deserve thanks.
+  
+  
+  Can I talk to you for a minute?
+Talk1067: |
+  <4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>As for you, Linkette,<5 Type='1'/> you came back!<0 Type='4'/>I won't let you walk away empty-handed.<5 Type='1'/>
+  Can we talk?
+Talk1068: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003000'/>As you can see, the monsters are back
+  and strong as ever, all because of the
+  <0 Type='3' Data='0000'/>blood moon<0 Type='3' Data='ffff'/>.<0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  Still,<5 Type='0'/> the bridge has been repaired,<5 Type='1'/> so
+  their fun is about to come to an end.
+  
+  <4 Type='0' Data='12004c00610075006700680053005f0030003100'/>My squad is gonna rush that ship as soon
+  as I see an opening. Those monsters will
+  wish they never came back!
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>You should join us. It'll give everyone just
+  the monster-battling boost they need.
+Talk1007_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003000'/>Not only did it look like you were taking
+  on all the monsters by yourself but you
+  even came and fixed the bridge for us!
+  <4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>We can't keep letting you have all the fun.<5 Type='1'/>
+  We'll back you up from here on out!
+PosterMessage: |
+  Headed <0 Type='3' Data='0000'/>west to the Menoat River <0 Type='3' Data='ffff'/>to fight
+  monsters on a ship there. -Captain Flaxel,
+  Monster-Control Crew, Squad Three
+Near1003: |
+  The bridge collapsed...
+Near1010: |
+  <4 Type='0' Data='100041006e006700720079005f0030003100'/>Prepare to be skewered!
+Near1005: |
+  Take 'em out!
+Near1006: |
+  If we can just get aboard!
+Near1012: |
+  <4 Type='0' Data='100041006e006700720079005f0030003100'/>Let's wipe 'em out!
+Talk1002: |
+  <FontSize Value='125'/><3 Type='0' Data='0900'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003000'/>Victory will be ours!<FontSize Value='100'/>
+Near1007: |
+  <4 Type='0' Data='1400430061006c006c004600610072005f0030003000'/>Attack!
+Near1013: |
+  <4 Type='0' Data='0e0057006f0072006b005f0030003000'/>Here come my fists!
+Near1008: |
+  <4 Type='0' Data='180057006f0072006b00480065006100760079005f0030003000'/>Victory will be ours!
+Near1014: |
+  <4 Type='0' Data='100041006e006700720079005f0030003000'/>They're no match for us!
+Near1020: |
+  Prepare to be skewered!
+Talk1026_01: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>I can't believe how generous you are!<5 Type='1'/>
+  You helped us out again. Just...out of
+  the kindness of your heart?
+Talk1004: |
+  <FontSize Value='125'/><3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>OK, you lot!<5 Type='0'/> Are you ready?!<FontSize Value='100'/><0 Type='4'/>On our honor as members of the
+  monster-control crew, we will take down
+  every last one of those fiends!
+Near1009: |
+  <4 Type='0' Data='1400430061006c006c004600610072005f0030003100'/>I'm taking you down!
+Near1015: |
+  <4 Type='0' Data='100041006e006700720079005f0030003100'/>Remember your training...
+Near1021: |
+  Wipe them ooout!
+Talk1010: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='0a0041006e00670072007900'/>I'd prefer it if you didn't try to strike up
+  a random conversation with me in the
+  middle of battle.
+Talk1005: |
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>H-hey!<5 Type='1'/> Did you just—<FontSize Value='100'/>
+Talk1011: |
+  <3 Type='0' Data='0700'/>If the whole squad falls and I fall
+  with them...
+  
+  I won't be able to treat anyone's wounds,
+  you see? <5 Type='0'/>So I have to stay put.
+  
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>You're the only one I can ask this of...<5 Type='1'/>
+  Please, can you help take out those
+  monsters for me?
+Near1016: |
+  Victory will be ours!
+Near1022: |
+  Here come my fists!
+Near1017: |
+  This can't be happening...
+Near1023: |
+  They're no match for us!
+Talk1012: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='0c004c0061007500670068004c00'/>My spear technique is worth observing.
+  Forged in Gerudo, it is a thing of beauty.
+  Voe are always quite impressed.
+Talk1007: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003000'/>You did! You fixed the bridge for us!
+  Incredible!
+  
+  I can't thank you enough. I guess the rest
+  is up to us now.
+Near1018: |
+  I'm taking you down!
+Near1024: |
+  Just like in practice...
+Talk1013: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>Did you ever surprise me! There we were,
+  totally flummoxed by the collapsed bridge.
+  
+  Then you come swooping in and wipe out
+  every last monster. All by yourself too!
+Talk_004: |
+  <3 Type='0' Data='0700'/>If you're thinking about heading in there
+  alone in the dead of night... Yeah, I'm
+  not sure that sounds like a good idea.
+Talk1008: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Hm? <5 Type='1'/>Oh, hey, I thought I recognized
+  you from somewhere.<5 Type='1'/><0 Type='4'/>Aren't you that missing swordsman?<0 Type='4'/>You're all anyone at Lookout Landing
+  talked about when I was there.<5 Type='1'/> Ah, but
+  you seem good. Happy to see it!
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1600540061006c006b00440065006e0079005f0030003100'/>Anyway, this is the <0 Type='3' Data='0000'/>monster-control crew<0 Type='3' Data='ffff'/>.
+  We help keep the peace in Hyrule by
+  taking out as many monsters as we can.
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>I'm Flaxel, <5 Type='1'/>captain of squad three. It's real
+  nice to meet you.
+Talk1020: |
+  <3 Type='0' Data='0700'/>Hm?<5 Type='1'/> Oh hey, I thought I recognized you
+  from somewhere!
+  
+  Don't you remember me?<5 Type='0'/> Come on!<5 Type='0'/> We
+  chatted back at Lookout Landing.
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Anyway, let me introduce myself again...<5 Type='0'/>
+  I'm the captain of squad three of the
+  monster-control crew.
+  Name's Flaxel.<5 Type='0'/> Nice to meet you.
+Near1019: |
+  Where'd the monsters go?
+Near1025: |
+  As many times as it takes.
+Talk_005: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>No matter how groggy those monsters
+  might be this morning, I'm not sure it's
+  a good idea to head in there alone.
+Talk1021: |
+  <3 Type='0' Data='0001'/>We were just on our way to rough up
+  those monsters over there.
+  
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0c005300610064005f0030003100'/>But the bridge to the ship collapsed,
+  so we don't have a way to board it.
+  
+  <3 Type='0' Data='0000'/>We can give those monsters a real
+  whoopin' if we can just <0 Type='3' Data='0000'/>get that
+  bridge fixed<0 Type='3' Data='ffff'/>.
+Talk1009: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I won't be holding anything back!
+  Yeah, that's right, you monsters have
+  been warned!
+Talk1015: |
+  <3 Type='0' Data='0700'/>Oh, hey. I've still got to give you
+  your reward.

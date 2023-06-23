@@ -1,0 +1,57 @@
+talk_1010: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>That's right, we are Theega Clan!<5 Type='1'/><0 Type='4'/>...<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Wait, no!<0 Type='4'/><FontSize Value='125'/>The<5 Type='0'/> Yi<5 Type='0'/>ga <5 Type='0'/>Clan!<0 Type='4'/><FontSize Value='100'/>The YIGA Clan, not Theega Clan!<0 Type='4'/><3 Type='0' Data='0701'/>Oh, never mind...<5 Type='0'/> You clearly need an
+  explanation. <5 Type='1'/>The Yiga Clan is...
+talk_1011: |
+  <3 Type='0' Data='0800'/>a powerful, brave group of warriors
+  founded by Master Kohga and dedicated
+  to defeating a truly repugnant hero!
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>All things considered...<5 Type='1'/>I'd say our meeting
+  here was fairly fortunate.<0 Type='4'/>Wouldn't you agree,<5 Type='0'/> my<5 Type='0'/> dear <5 Type='0'/>Linkette?
+talk_1040: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>What? You're refusing?
+talk_1041: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>Well, just hear me out before you turn
+  down the offer. The Yiga Clan is...
+talk_1042: |
+  <3 Type='0' Data='0900'/>That's a foolish choice. One that you
+  will not survive making...
+talk_1043: |
+  <3 Type='0' Data='0900'/>I was foolish to think you might have the
+  skill and cunning to replace our master...<0 Type='4'/>But not as foolish as you!
+talk_1020: |
+  <FontSize Value='125'/><3 Type='0' Data='0900'/>NOW DIE!<1 Type='3' Data='5a000000'/><FontSize Value='100'/>
+talk_1021: |
+  <FontSize Value='125'/><3 Type='0' Data='0900'/>Join Master Kohga in defeat!<1 Type='3' Data='5a000000'/><FontSize Value='100'/>
+near_0000: |
+  You there!
+talk_1000: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>I can tell you've trained your body well.<5 Type='1'/>
+  Just looking at you, I'd say...you're
+  familiar with sword and bow alike, yes?
+  I'd wager you could learn to manipulate
+  the ground with the Earthwake technique.
+  Why not join the Yiga Clan and do so?
+talk_1001: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>You can't avoid us forever, you know.
+  Will you join the Yiga Clan?
+0000: |
+  Theega Clan?
+talk_1030: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>a group of brave warriors, founded by
+  Master Kohga—who YOU defeated—<5 Type='1'/>set
+  on defeating a vile, twisted hero!
+0001: |
+  I'll pass.
+talk_1002: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Are you on a job too?<5 Type='1'/> Well, this is my
+  territory, so go somewhere else.<0 Type='4'/>I'm keeping an eye out for Linkette, our
+  clan's archenemy!<0 Type='4'/><3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>But he's going to be suspicious if he sees
+  you hanging around in full Yiga Clan garb.<0 Type='4'/>After all the effort it took to perfect this
+  <0 Type='3' Data='0000'/>disguise<0 Type='3' Data='ffff'/>, I am not letting you ruin my
+  plan. Get lost!
+talk_1003: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Are you new? Look, I get that you want to
+  show off that magnificent gear, but...
+  
+  <3 Type='0' Data='0900'/>If you stand around looking like that,
+  it'll tip Linkette off that I'm in the Yiga Clan!<0 Type='4'/>Go hide over there!

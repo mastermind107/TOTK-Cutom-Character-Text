@@ -1,0 +1,54 @@
+talk_1010: |
+  <3 Type='0' Data='0800'/>Ah, overheard me, did you?
+talk_1011: |
+  And I know it's dark and hard to see,<5 Type='0'/> but
+  look—there's one over there too.
+talk_1040: |
+  <3 Type='0' Data='0701'/>Such a shame, Linkette.
+talk_1012: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>It seems that each statue <0 Type='3' Data='0000'/>points in the
+  direction of the next<0 Type='3' Data='ffff'/>,<5 Type='0'/> forming a long chain
+  of statues.
+talk_1041: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>What is it? You lost?
+talk_1013: |
+  <3 Type='0' Data='0700'/>Take a look at this giant stone statue!
+talk_1042: |
+  <3 Type='0' Data='0700'/>If you're lost, then go past this stone
+  statue.<5 Type='0'/> It should lead you to an
+  abandoned mine somewhere.
+  Keep loitering around here and you'll ruin
+  my ambush, so get moving.
+talk_1014: |
+  But you're not going to live long enough
+  to see any more of it,<5 Type='0'/> are you, Linkette?
+talk_1043: |
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Just<5 Type='0'/> <0 Type='3' Data='0000'/>start at this stone statue<0 Type='3' Data='ffff'/>...
+talk_1020: |
+  <3 Type='0' Data='0900'/><FontSize Value='125'/>You die here!<FontSize Value='100'/><1 Type='3' Data='5a000000'/>
+talk_1044: |
+  and <0 Type='3' Data='0000'/>follow its line of sight<5 Type='0'/> to the next
+  stone statue<0 Type='3' Data='ffff'/>.
+talk_1021: |
+  <FontSize Value='125'/><3 Type='0' Data='0900'/>Vengeance for Master Kohga!<1 Type='3' Data='5a000000'/><FontSize Value='100'/>
+near_0000: |
+  Such strange statues...
+talk_1045: |
+  <3 Type='0' Data='0700'/>If you stick around here, you'll get in the
+  way of my ambush.<5 Type='0'/> So leave. Now.
+talk_1000: |
+  <3 Type='0' Data='0c00'/>These stone statues have suspicious
+  written all over them.
+talk_1001: |
+  <3 Type='0' Data='0c00'/>From <0 Type='3' Data='0000'/>stone statue<0 Type='3' Data='ffff'/> to stone statue...<5 Type='0'/>
+  They really do form an unbroken <0 Type='3' Data='0000'/>chain<0 Type='3' Data='ffff'/>.
+0000: |
+  What's up?
+talk_1030: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh, leaving so soon?
+  
+  
+  That's a shame, <5 Type='0'/>I was going to tell you
+  about<5 Type='0'/> <0 Type='3' Data='0000'/>the secret within these statues<0 Type='3' Data='ffff'/> too.
+0001: |
+  I'll leave you to it.

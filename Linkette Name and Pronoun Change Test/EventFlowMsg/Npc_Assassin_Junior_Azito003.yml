@@ -1,0 +1,128 @@
+Talk_01: |
+  <3 Type='0' Data='0900'/>What is it, jerk? Are you trying to get
+  your hands on these <0 Type='3' Data='0000'/>spikes<0 Type='3' Data='ffff'/>?
+Talk_02: |
+  <3 Type='0' Data='0a00'/>Tch... Bought out all my stock, huh?
+  
+  
+  Getting to walk past that looming wall of
+  spikes was such a thrill too... Oh, well.
+Talk_03: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='0a005400680069006e006b00'/>*sigh* Now I need to rebuild my
+  spike collection...
+Talk_04: |
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/>Hyaaah!<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/><FontSize Value='100'/>Hyeh hyeh hyeh. Did I scare ya? Just
+  having a little bit of fun...
+  
+  But if you try to lay a hand on one of my
+  babies again...<5 Type='1'/><FontSize Value='125'/>
+  
+  <3 Type='0' Data='0900'/><4 Type='0' Data='0a005400680069006e006b00'/><FontSize Value='100'/>I really will cut you.
+Talk_05: |
+  <3 Type='0' Data='0900'/>Do not...<5 Type='1'/>lay a hand on my babies. <5 Type='0'/>I told
+  you that already.
+  
+  Or do you want to get cut?
+  
+  
+  If you want some spikes of your own,
+  come over here and we'll get you
+  squared away.
+Com_Talk_33: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>Just one? How's <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/> sound?
+Talk_06: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/>Hyeh hyeh... Aww, how cute. You're too
+  scared to embrace the spikes.
+Talk_07: |
+  <3 Type='0' Data='0900'/>You're done, right? Get outta here.
+Com_Talk_35: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>OK, then... You give me all <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>, and I'll
+  give you <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+Com_Talk_02b: |
+  <3 Type='0' Data='0700'/>Surprise me.
+Talk_08: |
+  <3 Type='0' Data='0900'/>Don't talk to me if you're not here
+  for business.
+Com_Talk_02c: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Hyeh hyeh. What else ya got?
+Talk_09: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Hyeh hyeh... How I love my little <0 Type='3' Data='0000'/>spikes<0 Type='3' Data='ffff'/>.
+  There's something so deliciously
+  dangerous about having them around...
+  Hey, jerk...
+  
+  
+  <3 Type='0' Data='0900'/>Anyone ever tell you it's rude to stare?
+  Don't tell me you're here to get some
+  <0 Type='3' Data='0000'/>spikes <0 Type='3' Data='ffff'/>of your very own!
+Com_Talk_02d: |
+  <3 Type='0' Data='0700'/>Don't try to sell me anything weird, or I'll
+  toss ya on the spikes!
+0001: |
+  Buy my stuff!
+5500: |
+  You got a deal.
+Com_Talk_00: |
+  <3 Type='0' Data='0800'/>Hyeh hyeh hyeh... All right, all right,
+  what're ya sellin'?
+Com_Talk_13: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>How many you selling?
+0002: |
+  Goodbye.
+5501: |
+  Not a chance.
+Com_Talk_01: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>Fine. <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>, coming up.
+Com_Talk_14: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>So, <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of those babies would net you 
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+0003: |
+  I'm spike shopping.
+5502: |
+  Deal.
+Com_Talk_02: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Hyeh hyeh. Done already?
+Com_Talk_15: |
+  <3 Type='0' Data='0900'/>I don't want that. Sell me something else.
+5503: |
+  Never mind.
+Com_Talk_16: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/>Hyeh hyeh hyeh, are you for real?
+  You wanna sell me your uniform?<5 Type='1'/>
+  If that's a joke, I'm not laughing.
+Com_Talk_04: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/>Hyeh hyeh...<5 Type='1'/>huh?
+  
+  
+  <3 Type='0' Data='0900'/>Why show me something if you're not
+  gonna sell it?!
+Com_Talk_05: |
+  <3 Type='0' Data='0801'/>Hyeh hyeh. Got anything dangerous?
+5508: |
+  I'll sell them all.
+Talk_10: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/>Hyeh hyeh...<5 Type='1'/>huh?
+  
+  
+  <3 Type='0' Data='0900'/>You trying to pull a fast one on me?
+  You're broke!
+Talk_11: |
+  <3 Type='0' Data='0700'/>I'd just restocked my spiky babies too...
+  
+  
+  But I guess they are for sale, so I can't
+  really stop you. Hand over <0 Type='3' Data='0000'/>100 rupees<0 Type='3' Data='ffff'/>.
+Com_Talk_05b: |
+  <3 Type='0' Data='0701'/>Whaddaya got?
+Talk_12: |
+  <3 Type='0' Data='0a00'/>They're yours now. Take 'em and go.
+Com_Talk_05c: |
+  <3 Type='0' Data='0801'/>Hyeh hyeh... Make it something good.
+Talk_13: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='0a005400680069006e006b00'/>Which spikes would allow for the most
+  vengeful Linkette-skewering?<0 Type='4'/>That's what's on my mind right now.
+Com_Talk_05d: |
+  <3 Type='0' Data='0701'/>Don't sell me anything weird, OK, weirdo?

@@ -1,0 +1,75 @@
+Talk_01: |
+  <3 Type='0' Data='0701'/>Our number of <0 Type='3' Data='0000'/>bases<0 Type='3' Data='ffff'/> in the Depths grows
+  by the day.
+  
+  But we still don't have enough supplies!
+  What are you standing around for? Hurry
+  up and get to work!
+Talk_05_2: |
+  <3 Type='0' Data='0701'/>From new recruit to blademaster faster
+  than anyone in Yiga history. Impressive.<0 Type='4'/>But don't expect any special treatment.
+  Master Kohga's the only special one
+  around here!
+Talk_02: |
+  <3 Type='0' Data='0700'/>You the new guy they're all talking about?
+Talk_03: |
+  <3 Type='0' Data='0701'/>You've got a reputation for mastering the
+  <0 Type='3' Data='0000'/>Earthwake technique<0 Type='3' Data='ffff'/> faster than anybody
+  we've ever seen.
+  Keep it up. The more you use that power,
+  the greater Master Kohga's infamy grows.
+Talk_01_2: |
+  <3 Type='0' Data='0701'/>Our number of <0 Type='3' Data='0000'/>bases<0 Type='3' Data='ffff'/> in the Depths only
+  continues to increase.
+  
+  We're still short on supplies of course,
+  so we'll be counting on you to help keep
+  everyone in line.
+Talk_04: |
+  <3 Type='0' Data='0701'/>You've got a reputation for being the
+  chosen user of the <0 Type='3' Data='0000'/>Lightning Helm<0 Type='3' Data='ffff'/>.
+  Nobody else could handle that thing.
+  Wear it everywhere you go and show off
+  its power as much as you can to honor
+  our great Master Kohga!
+Talk_05: |
+  <3 Type='0' Data='0701'/>You've got a reputation for being the
+  fastest recruit ever to <0 Type='3' Data='0000'/>earn their place<0 Type='3' Data='ffff'/>
+  in the Yiga Clan.
+  But that doesn't mean you get any special
+  treatment. Master Kohga's the only
+  special one around here!
+Talk_06: |
+  <3 Type='0' Data='0700'/>If it isn't the new recruit I've heard so
+  much about...
+Talk_06_2: |
+  <3 Type='0' Data='0700'/>So the new blademaster everyone's 
+  talking about makes his appearance...<5 Type='1'/>
+Talk_07: |
+  <3 Type='0' Data='0700'/>If it isn't the new recruit I've heard so
+  much about... The Depths squad might
+  have some use for you.
+Talk_08: |
+  <3 Type='0' Data='0701'/>Rumors are swirling that Master Kohga
+  was defeated by Linkette. Impossible!<0 Type='4'/>Do not concern yourself with these lies,
+  but redouble your devotion.
+Talk_02_2: |
+  <3 Type='0' Data='0700'/>The way you carry yourself...<5 Type='1'/> You must be
+  the one I've heard all the stories about.
+ThunderHelmet_00: |
+  That's really the helm!
+ThunderHelmet_01: |
+  The Lightning Helm!
+ThunderHelmet_02: |
+  Can't believe it's his now...
+Talk_00: |
+  <3 Type='0' Data='0700'/>The Depths are as good as ours!
+  
+  
+  And it's all thanks to Master Kohga
+  finding and surveying it before
+  anyone else!
+Talk_07_2: |
+  <3 Type='0' Data='0700'/>If it isn't the brand-new blademaster.<5 Type='1'/>
+  The Depths squad might have some
+  use for you.

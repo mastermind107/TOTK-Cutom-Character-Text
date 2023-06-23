@@ -1,0 +1,290 @@
+Ready_Talk_005: |
+  <3 Type='0' Data='0700'/>Not so fast! <5 Type='1'/>You're already running low on
+  vitality! If we competed now, it'd put your
+  life at stake!
+  Our contest can wait until you've
+  recovered your vitality, and so can I!
+LinketteWin_Talk_000: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='1c0055006e0063006f006e007300630069006f00750073005f0030003000'/>Urgh...<5 Type='1'/> Looks like I lost.<5 Type='1'/>
+While_Talk_015: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='1c0055006e0063006f006e007300630069006f00750073005f0030003100'/>M-my consciousness is f-fading... If I can
+  j-just...<5 Type='1'/>h-hang on a bit longer...<5 Type='1'/>
+Balloon_While_002: |
+  I admit, he's pretty good...
+LinketteWin_Talk_001: |
+  <3 Type='0' Data='0c00'/>Never thought I'd be out-endured. <5 Type='1'/>But
+  you've got what it takes, I'll give you that.
+  
+  <3 Type='0' Data='0701'/>You win, so you get to take all. Here,
+  it's yours.
+Ready_Talk_006: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>So, you want to take me on in a contest
+  of endurance after all? No better place
+  than here in Gerudo Canyon.
+Balloon_While_003: |
+  Uh-oh... I'm shivering...
+LinketteWin_Talk_002: |
+  <3 Type='0' Data='0800'/>But this isn't the end!
+  
+  
+  My mighty endurance shines brightest in
+  the scorching heat!
+  
+  Our next contest of endurance will be held
+  under the blazing hot sun!
+  
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Don't you dare quit on me while you're
+  ahead. <5 Type='1'/>I'll be waiting!
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/><FontSize Value='125'/>Haha!<FontSize Value='100'/>
+Ready_Talk_007: |
+  <3 Type='0' Data='0700'/>You're back. <5 Type='1'/>Good.
+  
+  
+  It's time for our rematch! Are you ready
+  to push your endurance to its limits?
+Balloon_While_004: |
+  Halfway through at last.
+While_Talk_000: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Heh heh. Our endurance contest has
+  begun at last.
+  
+  I'm not yet sure of your mettle, but I am
+  sure that I will emerge victorious!
+Balloon_While_005: |
+  I must endure...
+Ready_Talk_009: |
+  <3 Type='0' Data='0700'/>Sure. I'll explain as many times as
+  you need.
+  
+  I am the man who withstands, after all.
+  He who endures...even this.
+While_Talk_001: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>My victory is all but assured.
+  
+  
+  The only question is just how long you
+  can endure.
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/><FontSize Value='125'/>Haha!<FontSize Value='100'/>
+Balloon_While_006: |
+  He must be exhausted too.
+Ready_Talk_0080: |
+  <3 Type='0' Data='0701'/>To start, each of us puts <0 Type='3' Data='0000'/>50 rupees<0 Type='3' Data='ffff'/> on the
+  line. Then whoever GIVES their all TAKES
+  it all!
+While_Talk_002: |
+  <3 Type='0' Data='0700'/>This level of coldness doesn't even
+  count as cold! It's hardly chilly! Barely
+  even brisk!
+  How are you holding up? Do I see you
+  shivering there?
+Balloon_While_007: |
+  I'm at m-my limit...
+Ready_Talk_0081: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>You're prepared to spend <0 Type='3' Data='0000'/>50 rupees<0 Type='3' Data='ffff'/>...and
+  compete against me?
+While_Talk_003: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>What is it? Is your endurance already
+  at its end?
+  
+  If you're at your limit, simply climb down.
+  The moment your feet touch the ground is
+  the moment you admit defeat.
+Ready_Talk_0082: |
+  <3 Type='0' Data='0701'/>The contest will be held on top of those
+  pillars and lasts from evening till dawn!
+While_Talk_004: |
+  <3 Type='0' Data='0700'/>You're pretty good. I thought you might
+  throw in the towel right away...<5 Type='1'/>
+  
+  <3 Type='0' Data='0800'/>But it's only going to get tougher from
+  here! Let's see what you're capable of!
+Ready_Talk_0083: |
+  <3 Type='0' Data='0701'/>If you can endure the frigid cold for that
+  entire stretch of time, you win.
+  
+  But if you set foot on the ground or run so
+  low on vitality that I determine your life is
+  at stake, you lose immediately!
+  <FontSize Value='125'/><3 Type='0' Data='0900'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>What's more!<FontSize Value='100'/>
+  
+  
+  <3 Type='0' Data='0001'/>Let's make this a challenge. Anyone can
+  endure the cold with clothing. So only the
+  very basics are allowed.
+  Otherwise, you can do anything else you
+  want.<5 Type='0'/> Now, are you ready? Haven't lost
+  your nerve?
+While_Talk_005: |
+  <3 Type='0' Data='0700'/>To be blunt, I never thought you would
+  last this long.
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>But the real battle starts here! Steel your
+  soul and endure!
+0000: |
+  I'm in!
+While_Talk_006: |
+  <3 Type='0' Data='0700'/>It's only started to get cold!
+  
+  
+  Shivering? Me? No! I'm...trembling!
+  Trembling with excitement!
+0001: |
+  I'll pass.
+While_Talk_007: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>I'm absolutely not shivering from the
+  cold! Don't go getting the wrong idea!
+0002: |
+  My nerves are steeled!
+While_Talk_008: |
+  <3 Type='0' Data='0700'/>The contest is finally half over... <5 Type='1'/>So?
+  Is the cold taking it out of you?
+  
+  Don't your tired feet yearn to rest down
+  on the ground?
+0003: |
+  Go over it again.
+Ground_Talk_001: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/><FontSize Value='125'/>Haha!<FontSize Value='100'/>
+  
+  
+  What, did you descend the stone pillar
+  because you couldn't take the cold?
+  
+  That means victory is mine.
+  
+  
+  <3 Type='0' Data='0700'/>Temper yourself once more and come
+  challenge me again! But be warned—
+  I'll be tempering myself too!
+While_Talk_009: |
+  <3 Type='0' Data='0700'/>There's still half of the contest left! Do
+  you have the vitality to make it through?
+  
+  <3 Type='0' Data='0800'/>I'm eager to see you give it your all!
+0004: |
+  I'll pass.
+0005: |
+  I'm ready!
+0006: |
+  I think I'm out.
+0007: |
+  Give me a second.
+LinketteLose_Talk_001: |
+  <3 Type='0' Data='0700'/>I didn't think you'd drop out so easily.
+  This takes grit. More than most have.
+Ready_Talk_010: |
+  <3 Type='0' Data='0b00'/>What?! You're chickening out now?
+  
+  
+  <3 Type='0' Data='0701'/>Well, <5 Type='1'/>fine. Come again if you want to push
+  your endurance to its limits!
+LinketteLose_Talk_002: |
+  <3 Type='0' Data='0800'/>You probably did the best you could.
+  But I've got more in me.
+LinketteLose_Talk_003: |
+  <3 Type='0' Data='0800'/>I thought you were doing great. But
+  you've really got to go for it if you
+  hope to be better than me.
+Ready_Talk_012: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/><FontSize Value='125'/>Haha!<FontSize Value='100'/>
+  
+  
+  Right! Then I'll take those <0 Type='3' Data='0000'/>50 rupees<0 Type='3' Data='ffff'/> now.
+LinketteLose_Talk_004: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='1000540069007200650064005f0030003000'/>That was a real battle of endurance...<5 Type='1'/>
+  Just a little more and I'd have hit my
+  limit too.
+Ready_Talk_013: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Wha— <5 Type='1'/>Your spirit may be willing, but your
+  wallet is weak!
+  
+  <3 Type='0' Data='0900'/>The contest requires that we each put
+  something on the line—<0 Type='3' Data='0000'/>50 rupees<0 Type='3' Data='ffff'/> is the
+  very least I can ask for!
+  <3 Type='0' Data='0701'/>Hmm... <5 Type='1'/>Talk to me again once you've
+  scrounged up the rupees.
+LinketteLose_Talk_005: |
+  <3 Type='0' Data='0800'/>Temper your body. Steel your will. And
+  then come challenge me again. Until then,
+  I'll be doing the same.
+Ready_Talk_014: |
+  <3 Type='0' Data='0700'/>Perfect! I'll just hold on to those
+  for safekeeping.
+  
+  And tomorrow evening, when the sun
+  sets...our battle of wills begins!
+Ready_Talk_015: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Very good!<0 Type='4'/>Then we compete by the rules I previously
+  laid out!<5 Type='0'/> Now are you ready? Or will you
+  bow to cowardice?
+Ready_Talk_000: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>You there!
+  
+  
+  You have got to be more than ordinary if
+  you've come all this way.
+  
+  Know my name. Rahdo—the man who
+  withstands! He who endures!
+  
+  <3 Type='0' Data='0800'/>Welcome to my <0 Type='3' Data='0000'/>contest of endurance<0 Type='3' Data='ffff'/>,
+  set in the harsh climes of Gerudo Canyon.
+  Can you last? Will you prove yourself?
+  We will each put <0 Type='3' Data='0000'/>50 rupees<0 Type='3' Data='ffff'/> on the line,
+  and the enduring victor will take all.
+While_Talk_010: |
+  <3 Type='0' Data='0a00'/>I'm st-still hanging in there. Wh-wh-what
+  about you?
+  
+  Y-you're probably gonna want to g-give
+  up soon, r-right?
+Ready_Talk_001: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>That's what I like to hear! All right,
+  then let me explain how this contest
+  of endurance works.
+While_Talk_011: |
+  <3 Type='0' Data='0a00'/>I'm s-still OK...<5 Type='1'/>
+Balloon_000: |
+  Endure...
+Ready_Talk_002: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0c004c0061007500670068005300'/>Heh. I like the cut of your jib. Gotta say,
+  my blood's on fire here. I'm ready to
+  get cold!
+  This contest will whittle you down to
+  nothing! Your vitality, just draining away!
+  You'd better get ready for that.
+  So, you let me know when you're set,
+  all right?
+While_Talk_012: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='1000530063006100720065005f0030003100'/>Y-you're d-definitely at your l-limit, right?
+  
+  
+  Sh-shouldn't you just g-give up and drop
+  to the ground already?
+  
+  I w-won't m-make fun of you if you d-do.
+Ready_Talk_003: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Behold! The sun is sinking behind the
+  western horizon!
+  
+  <3 Type='0' Data='0000'/>Push yourself past your limits! Withstand
+  the cold until the sun rises in the east
+  once more! Now get ready<5 Type='0'/> and...<5 Type='1'/>
+  <FontSize Value='125'/><3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>ENDURE!<FontSize Value='100'/>
+While_Talk_013: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='1000530063006100720065005f0030003100'/>You're...c-clearly exhausted... *wheeze*
+  I'm b-begging you, just d-descend to the
+  ground already...<5 Type='1'/>
+Balloon_While_000: |
+  Victory will be mine!
+Ready_Talk_004: |
+  <3 Type='0' Data='0700'/>Very well. Come again if you ever want
+  to give it a try. I'll be waiting here,
+  enduring until then!
+While_Talk_014: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='1c0055006e0063006f006e007300630069006f00750073005f0030003100'/>J-just a little m-more...<5 Type='1'/> I'm...l-losing<5 Type='1'/>
+  c-consciousness...<5 Type='1'/>
+Balloon_While_001: |
+  This cold is nothing.

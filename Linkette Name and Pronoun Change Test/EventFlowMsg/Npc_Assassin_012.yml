@@ -1,0 +1,133 @@
+0030: |
+  Not a chance.
+talk_1020: |
+  <3 Type='0' Data='0900'/><FontSize Value='125'/>Your life is mine!<FontSize Value='100'/><1 Type='3' Data='5a000000'/>
+0031: |
+  I'm on it!
+talk_1021: |
+  <FontSize Value='125'/><3 Type='0' Data='0900'/>For Master Kohga!<1 Type='3' Data='5a000000'/><FontSize Value='100'/>
+talk_1022: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>But I'm grateful. When my vehicle's
+  damaged, I like to do a little...borrowing.
+  
+  Speaking of, could I perhaps borrow<5 Type='0'/> your
+  life?<5 Type='1'/> Well, Linkette?
+  
+  <4 Type='0' Data='0a005400680069006e006b00'/>What sort of fool runs around naked in
+  a place like this?!
+talk_1010: |
+  <3 Type='0' Data='0700'/>Wow, you really did it!
+  
+  
+  Well now.<5 Type='0'/> I can finally relax...
+0020: |
+  So what are you up to?
+talk_1011: |
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Eyaaaaaagh!<FontSize Value='100'/>
+  
+  
+  Y-y-<5 Type='1'/>you surprised me...<5 Type='0'/> Don't do that!
+  
+  
+  I thought you might've been from the Yiga
+  Clan for a second. <5 Type='1'/>Hurry up and get your
+  research clothes on!
+  <3 Type='0' Data='0701'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Huh?<5 Type='0'/> You don't have research clothes?
+  
+  
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/>Wait, are you in the Yiga Clan?!<FontSize Value='100'/>
+talk_1024: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>I gave you all those warnings, and you're
+  still geared up for a fight!<5 Type='0'/> You, you...<5 Type='0'/>
+  you COWARD!
+0021: |
+  Well, you take care now.
+talk_1012: |
+  <3 Type='0' Data='0900'/>You dare claim to be a part of our
+  clan?! <5 Type='0'/>Absurd!
+talk_1025: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>H-<5 Type='0'/>how many times to do I have to say it?!
+  
+  
+  If you want me to believe you,<5 Type='0'/> come back
+  without any clothes or weapons! How else
+  can I know you're not in the Yiga Clan?
+  <4 Type='0' Data='100041006e006700720079005f0030003100'/>If you talk to me again as you are...<5 Type='0'/>there's
+  gonna be trouble!
+near_0000: |
+  Zonai devices?
+talk_1000: |
+  <3 Type='0' Data='0c00'/><0 Type='3' Data='0000'/>Zonai devices<0 Type='3' Data='ffff'/> here as well...
+0010: |
+  Sure am.
+talk_1013: |
+  <3 Type='0' Data='0900'/>D-don't lie! I know the Yiga are all
+  masters of disguise!
+  
+  Prove you don't have a Yiga uniform on
+  under there!<5 Type='0'/> Take off everything you're
+  wearing! Oh, and ditch the weapons too! 
+  Try anything funny...<5 Type='0'/>and you'll face these
+  furious researcher fists!
+talk_1001: |
+  <3 Type='0' Data='0c00'/>Lots of <0 Type='3' Data='0000'/>Zonai devices<0 Type='3' Data='ffff'/> around here...<5 Type='0'/>
+  Who could have been using all this?
+0011: |
+  I am not.
+talk_1014: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0e005000610069006e00660075006c00'/>Tch...<5 Type='0'/> Then it looks like I have no choice
+  but to raise the alarm.
+talk_1015: |
+  <3 Type='0' Data='0700'/>You see all these <0 Type='3' Data='0000'/>Zonai devices<0 Type='3' Data='ffff'/> here,
+  yes?<5 Type='0'/> Is this a supply point, perhaps?
+  
+  <0 Type='3' Data='0000'/>You find these occasionally<0 Type='3' Data='ffff'/> in the Depths,
+  though I have no idea who leaves them
+  in these places...
+0000: |
+  What's up?
+talk_1016: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>But I'm grateful. When my vehicle's
+  damaged, I like to do a little...borrowing.
+  
+  Speaking of, could I perhaps borrow<5 Type='0'/> your
+  life?<5 Type='0'/> Well, Linkette?
+  
+  <4 Type='0' Data='0a005400680069006e006b00'/>What sort of fool removes all his gear
+  because a stranger asks him to?!
+0001: |
+  ...
+talk_1017: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Wait...
+  
+  
+  Why would I let you get away<5 Type='0'/> when you've
+  left yourself wide open?
+talk_1018: |
+  <3 Type='0' Data='0900'/>D-<5 Type='0'/>don't lie!<5 Type='1'/>
+  
+  
+  If you want me to believe you...<5 Type='0'/>take off
+  everything you're wearing! You could have
+  a Yiga uniform on under there!
+  <3 Type='0' Data='0701'/>Oh, wait.<5 Type='0'/> No, you couldn't. You're already
+  pretty clothes-less as it is.
+  
+  <4 Type='0' Data='0e0043006800610074005f0030003100'/>Phew, what a relief!<5 Type='1'/> But seriously, please
+  don't scare me like that!
+talk_1019: |
+  <3 Type='0' Data='0c00'/>Hmm.<5 Type='0'/> Who's running around using all
+  these <0 Type='3' Data='0000'/>Zonai devices<0 Type='3' Data='ffff'/>?
+talk_1041: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Gyah! <5 Type='0'/>Who?!
+  
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0600530061006400'/>Phew, just a fellow Yiga.<5 Type='0'/> Need to stock up
+  on <0 Type='3' Data='0000'/>Zonai devices<0 Type='3' Data='ffff'/>?
+  
+  Just be quick about it. I'm trying to take
+  Linkette by surprise here...
+talk_1042: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>What's wrong? If you need <0 Type='3' Data='0000'/>Zonai devices<0 Type='3' Data='ffff'/>,
+  then get to it.<5 Type='0'/> If you're here when that
+  guy arrives, he'll know something's up.

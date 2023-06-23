@@ -1,0 +1,33 @@
+Talk_000: |
+  <3 Type='0' Data='0900'/>Urgh... <5 Type='1'/>How dare that Linkette slip past our
+  impregnable spike trap!
+  
+  Time to take matters into our own hands.
+  We'll return to the hideout and master the
+  <0 Type='3' Data='0000'/>Earthwake technique<0 Type='3' Data='ffff'/>!
+  <4 Type='0' Data='0a0041006e00670072007900'/>And once we do, we're gonna pulverize
+  him for sure!
+Talk_100: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>...<5 Type='0'/>Hey,<5 Type='0'/> you're...
+Talk_200: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Who's there?<5 Type='1'/> Wait, you—
+  
+  
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>You're LINK! Thought you'd ambush us,
+  did you?! Well, you're the one getting
+  ambushed today!<1 Type='3' Data='5a000000'/>
+Near_000: |
+  Not Master Kohga...
+Talk_001: |
+  <3 Type='0' Data='0c00'/>Come to think of it, the memo from
+  HQ mentioned something about the
+  <0 Type='3' Data='0000'/>Earthwake technique<0 Type='3' Data='ffff'/>...
+  I better give the manual another read
+  through later.
+Talk_101: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>Linkette!<5 Type='1'/>
+  
+  
+  No, never mind. You just have the same
+  hair color. Too darned easy to mix you
+  two up. Anyway, get inside.

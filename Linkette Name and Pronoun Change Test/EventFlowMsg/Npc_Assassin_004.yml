@@ -1,0 +1,45 @@
+talk_1000: |
+  <3 Type='0' Data='0800'/>Wow, <5 Type='0'/>our meeting here must be <5 Type='0'/>fate!<0 Type='4'/>Y'know, I really like your look! So much so
+  that I'm officially offering you a place in
+  the fan club I founded!
+  <4 Type='0' Data='12004c00610075006700680053005f0030003000'/>You'll be our second member!
+talk_1001: |
+  <3 Type='0' Data='0800'/>I should've known we'd meet again!<0 Type='4'/>Decided to join the fan club after all?
+talk_1010: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>That's your response to my GENEROUS
+  fan-club invitation? "Goodbye"? Really?
+  
+  I see how it is. Fine. Just for that, I'm still
+  charging you the membership fee.
+talk_1011: |
+  <3 Type='0' Data='0800'/>Oh, you wanna know who it's for?<0 Type='4'/>Here's a hint—he's got a smile like a
+  sunbeam and the most charming potbelly
+  you'll ever see...
+  Who else could it be but the Yiga Clan's
+  own<5 Type='0'/> Master Kohga!
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>And the membership fee is so reasonable.
+talk_1020: |
+  <3 Type='0' Data='0900'/><FontSize Value='125'/>It's only your life!<FontSize Value='100'/><1 Type='3' Data='5a000000'/>
+talk_1012: |
+  <3 Type='0' Data='0900'/>How dare you forget about the man you
+  defeated?! It's Master Kohga!
+talk_1021: |
+  <FontSize Value='125'/><3 Type='0' Data='0900'/>Apologize to him in the afterlife!<1 Type='3' Data='5a000000'/><FontSize Value='100'/>
+talk_1003: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Are you sure that equipment...fits you?<0 Type='4'/><3 Type='0' Data='0000'/>You wanna wear it so that your stomach
+  really straaains the fabric, just like
+  Master Kohga's does.<0 Type='4'/><3 Type='0' Data='0300'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>Anyway, I'm keeping an eye out for our
+  nemesis, Linkette, so could you give me some
+  space over here?
+0000: |
+  Fan club? For who?
+talk_1004: |
+  <3 Type='0' Data='0900'/>Don't come near me in that
+  slovenly getup!<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='0600530061006400'/>If you HAVE to get that close, at least
+  build up a nice bulging belly like
+  Master Kohga's first!
+near_0000: |
+  Who's our next member?
+0001: |
+  Well, goodbye.

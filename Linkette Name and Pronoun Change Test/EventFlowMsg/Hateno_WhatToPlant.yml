@@ -1,0 +1,178 @@
+Near_3001: |
+  Grow, li'l babies, grow!
+Talk_3011: |
+  <3 Type='0' Data='0800'/>Just tell me you'll invite me to the very
+  first harvest!<0 Type='4'/>It'll take a bit before they're ready to
+  pick, but I'm already gettin' excited!
+Near_3002: |
+  Gotta wipe off the dew...
+Talk_3012: |
+  <3 Type='0' Data='0800'/>Good. We have a nice little garden going
+  here. It'd be a shame to pull it up.<0 Type='4'/>I'll keep tending it, as you do.
+Near_3003: |
+  Look at that! Rain!
+Talk_3013: |
+  <3 Type='0' Data='0c00'/>If you say so. We had a nice little garden
+  going here, but I don't mind pulling it up
+  if that's what you want.
+Talk_3014: |
+  <3 Type='0' Data='0700'/>The only reason I'm able to work the
+  fields again is 'cause Princess Zelda
+  built us that school.<0 Type='4'/><3 Type='0' Data='0c01'/><FontSize Value='80'/>Hope they find out what happened to the
+  princess soon...<0 Type='4'/><FontSize Value='100'/><3 Type='0' Data='0701'/>Ah, sorry. Did you need something
+  from me?<FontSize Value='80'/><FontSize Value='100'/>
+Talk_4000: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Thanks for bein' so patient! Whaddaya
+  think? They're tasty-lookin', aren't they?<0 Type='4'/>I was happy to tend 'em for you,
+  Professor Linkette.<0 Type='4'/>It's all the same to me what you do with
+  the produce we grow here. And if you
+  wanna grow somethin' else, let me know.
+Talk_3015: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>We already have a lovely
+  <0 Type='3' Data='0000'/><2 Type='11' Data='58004e0070006300470061007200640065006e0049006e0066006f005f0048006100740065006e006f00560069006c006c006100670065003000320033002e00470072006f0077004100630074006f0072004e0061006d006500ffff'/> <0 Type='3' Data='ffff'/>crop growing.<0 Type='4'/>If you want to grow something else, go
+  get a sample of it and we'll see.
+Talk_3016: |
+  <3 Type='0' Data='0701'/>But they're still freshly planted, so it'll be
+  <0 Type='3' Data='0000'/>quite a while<0 Type='3' Data='ffff'/> before they're ready to
+  harvest. <5 Type='0'/>These things take time, y'know.<0 Type='4'/>Try to be patient, OK?
+Talk_1000: |
+  <3 Type='0' Data='0701'/>Oh, I know you. You're Professor Linkette,
+  right? I heard all about that from Symin.<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>My name is Uma. I look after the Hateno
+  school garden.<0 Type='4'/>You came right when I was finishing up
+  the prep work for this here plot.<0 Type='4'/>Symin said we should ask you what to
+  plant in it. You know, to celebrate you
+  becomin' a teacher and all.
+Talk_3017: |
+  <3 Type='0' Data='0701'/>They've still got <0 Type='3' Data='0000'/>a ways to go<0 Type='3' Data='ffff'/> before
+  they're ready to be harvested.<0 Type='4'/>'Fraid you'll have to wait a while longer.
+Talk_4003: |
+  <3 Type='0' Data='0b00'/>What're you up to there, Professor Linkette?!<0 Type='4'/><3 Type='0' Data='0701'/>We grew that crop the natural way, so I'll
+  thank you to harvest it the natural way
+  as well!
+Talk_1001: |
+  <3 Type='0' Data='0701'/>Well, well. I wondered when you'd be by.<0 Type='4'/>Symin said we should ask you what to
+  plant in this here plot. You know, as
+  thanks for helpin' out with the school.<0 Type='4'/><3 Type='0' Data='0100'/>You showed up just when I was finishing
+  the prep work for it.
+Talk_3018: |
+  <3 Type='0' Data='0100'/>I expect <0 Type='3' Data='0000'/>it won't be too much longer<0 Type='3' Data='ffff'/>
+  before they're ready for the harvest.<0 Type='4'/>Try and hold out! It'll be worth the wait.
+Talk_4004: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Well, if it ain't Professor Linkette!
+Talk_1002: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Nice morning, isn't it?
+Talk_3019: |
+  <3 Type='0' Data='0801'/>They should be ready for the harvest
+  <0 Type='3' Data='0000'/>anytime now<0 Type='3' Data='ffff'/>. You won't have long to wait.
+Talk_1003: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hello there!
+Talk_3020: |
+  <3 Type='0' Data='0701'/>There are no shortcuts when it comes to
+  raising vegetables.<0 Type='4'/>They won't grow if you while away the
+  hours at an inn or bonfire, so mind how
+  you pass the time.<0 Type='4'/>And of course, if you want to grow
+  something else here, you can always ask.
+Talk_4006: |
+  <3 Type='0' Data='0b00'/>Aaaieee! My precious crops are burning!
+Talk_1004: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Nice evening, isn't it?
+Talk_4007: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>I gotta put this fire out, quick!
+Talk_1005: |
+  <3 Type='0' Data='0c00'/>I could grow pumpkins, carrots, tomatoes,
+  wildberries, wheat, rice, or melons.<0 Type='4'/><3 Type='0' Data='0701'/>If you bring me one of those, I'll extract
+  the seeds and plant 'em for you.
+Talk_4008: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003100'/>*sigh* All my love and care almost came
+  to nothin'.<0 Type='4'/>I'm raisin' these out of the goodness of
+  my heart. Please treat 'em nice.
+Talk_1006: |
+  <3 Type='0' Data='0800'/>I s'pose it's raining, but what's that to
+  a gardener? Let's talk about what you'd
+  like to grow.
+Talk_4009: |
+  <3 Type='0' Data='0800'/>Come to help me water the plants,
+  Professor Linkette?
+Talk_1007: |
+  <3 Type='0' Data='0800'/>Well, now. Let's get down to it. What
+  would you like to grow?
+Near_4000: |
+  My ripe li'l babies!
+Talk_4010: |
+  <3 Type='0' Data='0801'/>That's sweet of you. I bet the crops are
+  glad to have a drink.
+Near_2000: |
+  What should I plant?
+Talk_4011: |
+  <3 Type='0' Data='0700'/>Thing is, it's raining right now, so I'm not
+  sure the veggies need any more water.<0 Type='4'/><3 Type='0' Data='0800'/>Come back with that thing sometime the
+  sun's out. I bet they'll be thirstier then.
+Near_2001: |
+  A little water for the plants.
+Near_1000: |
+  Coming along nice...
+0001: |
+  Yes.
+0002: |
+  Plant something else.
+Talk_3000: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hello there, and good morning to you!
+0003: |
+  How's the garden?
+Talk_3001: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hello there!
+0004: |
+  Plant something else.
+Talk_2000: |
+  <3 Type='0' Data='0700'/>Didja figure out what you want to grow?<0 Type='4'/><3 Type='0' Data='0501'/>I can do pumpkins, carrots, radishes,
+  tomatoes, wildberries, or hydromelons.<5 Type='0'/>
+  Wheat and rice too. Can't forget those.<0 Type='4'/><3 Type='0' Data='0701'/>Which of those sounds good to you?
+0005: |
+  That's fine.
+Talk_3003: |
+  <3 Type='0' Data='0701'/>I retired quite a while ago, but I was a
+  farmer for many years.<0 Type='4'/>Workin' the soil calms me down, even at
+  this age.<0 Type='4'/>Didja come to see the garden too?
+0007: |
+  Never mind.
+Talk_2003: |
+  <3 Type='0' Data='0700'/>So you want a nice <0 Type='3' Data='0000'/><2 Type='11' Data='58004e0070006300470061007200640065006e0049006e0066006f005f0048006100740065006e006f00560069006c006c006100670065003000320033002e00470072006f0077004100630074006f0072004e0061006d006500ffff'/><0 Type='3' Data='ffff'/>
+  field?
+Talk_3005: |
+  <3 Type='0' Data='0700'/>I can't return anything I've already
+  planted. You still wanna go ahead?
+Talk_2004: |
+  <3 Type='0' Data='0100'/>It's fine, it's fine. No hurries, no worries.
+Talk_2005: |
+  <3 Type='0' Data='0800'/>Certainly! I'll take that from you and be
+  pleased to do it.<0 Type='4'/>Can't return anything once you hand it
+  over, mind, but if you feel like plantin'
+  something else, come see me.<0 Type='4'/><3 Type='0' Data='0800'/>Oh, and I hope you'll let me know about
+  your first harvest so I can be there to see!<0 Type='4'/>I'm already hankerin' to see how the
+  crops turn out.<0 Type='4'/>But you have to know, the important part
+  of growing good crops is to take your
+  time raising them.<0 Type='4'/>You can't expect them to thrive while you
+  kill time at an inn or bonfire. That ain't
+  how things are done. The veggies know.<0 Type='4'/>So it'll take a bit before they're ready to
+  harvest, but I'm already gettin' excited!
+Talk_2006: |
+  <3 Type='0' Data='0c00'/>I could grow pumpkins, carrots, tomatoes,
+  wildberries, wheat, rice, or hydromelons.<0 Type='4'/><3 Type='0' Data='0701'/>But if you don't have one of those, I can't
+  extract the seeds. Bring me one, and we
+  can get this plot started.
+Talk_3008: |
+  <3 Type='0' Data='0800'/>We've got a nice little <0 Type='3' Data='0000'/><2 Type='11' Data='58004e0070006300470061007200640065006e0049006e0066006f005f0048006100740065006e006f00560069006c006c006100670065003000320033002e00470072006f0077004100630074006f0072004e0061006d006500ffff'/><0 Type='3' Data='ffff'/>
+  crop going.
+Talk_2007: |
+  <3 Type='0' Data='0400'/>Uh-oh. Looks like you don't have anything
+  good for planting.
+Talk_2008: |
+  <3 Type='0' Data='0701'/>Before you decide, I should admit one
+  thing. <5 Type='0'/>I have more experience with some
+  crops than others.<0 Type='4'/><3 Type='0' Data='0c00'/>I don't know too much yet about raising
+  endura carrots and hearty radishes.<0 Type='4'/>You'll have to forgive me if the yield on
+  those ends up a little lower than the rest.
+Near_3000: |
+  Hope they ripen soon!
+Talk_3010: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hello there, and good evening to you!
