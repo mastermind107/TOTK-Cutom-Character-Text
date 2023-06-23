@@ -1,0 +1,1320 @@
+Register36: |
+  <3 Type='0' Data='0801'/>But if you ask me, there's no need to
+  make changes anyway—your horse looks
+  great without them!
+Talk8070: |
+  <3 Type='0' Data='0100'/>Thank you for your continued patronage.
+  
+  
+  Do you want to <0 Type='3' Data='0000'/>lodge<0 Type='3' Data='ffff'/> with us?
+Talk23: |
+  <3 Type='0' Data='0700'/>A regular bed, right?<5 Type='0'/> Would you like to
+  use a <0 Type='3' Data='0000'/>sleepover ticket<0 Type='3' Data='ffff'/>?
+  
+  Please note that if you do,<5 Type='0'/> you won't
+  get any Pony Points.
+Com_Photo_07: |
+  <3 Type='0' Data='0800'/>Isn't it amazing that these huge,
+  mysterious things are all over Hyrule?
+  
+  Tell you what. If you ever paint another
+  <0 Type='3' Data='0000'/>picture of a geoglyph<0 Type='3' Data='ffff'/>, I'd be happy to
+  display that instead.
+  Just show me the new picture, and I'll get
+  to work copying it!
+Register37: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Uh... <5 Type='0'/>Scratch that.<5 Type='1'/> We don't actually have
+  any other saddles or bridles big enough
+  for a horse that size.
+Talk8071: |
+  <3 Type='0' Data='0700'/>Once again... Welcome to our stable!
+  Would you like to lodge with us?
+Talk24: |
+  <3 Type='0' Data='0700'/>Well then, that'll be free of charge!<5 Type='0'/> When
+  would you like to be woken up?
+Com_Photo_08: |
+  <3 Type='0' Data='0101'/>It's true, then... Mysterious geoglyphs
+  have been etched into the ground all
+  over Hyrule.
+  What this is meant to represent,
+  I can't tell. But it certainly evokes
+  a sense of adventure!
+Talk25: |
+  <3 Type='0' Data='0100'/>As thanks for lodging with us, we present
+  you with <0 Type='3' Data='0000'/>one point<0 Type='3' Data='ffff'/>.
+0030: |
+  Let one go.
+Register38: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Wait... <5 Type='0'/>What am I saying? <5 Type='1'/>We don't have
+  any other saddles or bridles that would be
+  suitable for that horse.
+Talk8072: |
+  <3 Type='0' Data='0700'/>Is that so?<5 Type='1'/> Well then, once again...<5 Type='0'/>
+  
+  
+  Welcome to our stable! Do you want to
+  lodge with us?
+Talk9017: |
+  <3 Type='0' Data='0700'/>If you sleep in a Malanya bed, not only
+  will you wake up <0 Type='3' Data='0000'/>more energized<0 Type='3' Data='ffff'/>...
+  
+  Malanya, the horse god, may also <0 Type='3' Data='0000'/>share
+  a mystical message<0 Type='3' Data='ffff'/>. This makes it a very
+  popular choice among our lodgers.
+  But we don't offer such luxury to just
+  anyone. Only customers with at least
+  <0 Type='3' Data='0000'/>seven Pony Points <0 Type='3' Data='ffff'/>can use Malanya beds.
+Explain1001: |
+  <3 Type='0' Data='0700'/>A <0 Type='3' Data='0000'/>harness <0 Type='3' Data='ffff'/>is a type of horse gear that you
+  can <0 Type='3' Data='0000'/>attach<0 Type='3' Data='ffff'/> to various things.
+  
+  For instance, a <0 Type='3' Data='0000'/>wagon<0 Type='3' Data='ffff'/> or an <0 Type='3' Data='0000'/>item<0 Type='3' Data='ffff'/> you'd
+  like to tow somewhere.
+7010: |
+  Change the mane.
+Com_Photo_09: |
+  <3 Type='0' Data='0700'/>Since Impa told me about <0 Type='3' Data='0000'/>geoglyphs<0 Type='3' Data='ffff'/>,
+  I've been wishing I could get a <0 Type='3' Data='0000'/>panoramic
+  view<0 Type='3' Data='ffff'/> of one.
+  But they're too big. I can't even tell what
+  the one nearby is meant to depict.
+0031: |
+  Never mind.
+Talk26: |
+  <3 Type='0' Data='0700'/>Then that'll cost you <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/>.<5 Type='0'/> When
+  would you like to be woken up?
+Talk9018: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I am Malanya...<5 Type='1'/>the god of horses...<5 Type='1'/>
+  who grants quicker hooves...<5 Type='1'/>
+  and thicker hides...
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>In northeast Hyrule...<5 Type='1'/>near a stable
+  in Akkala...<5 Type='1'/> I am waiting...
+7011: |
+  What's a Malanya bed?
+DoNotWakka_01: |
+  <3 Type='0' Data='0700'/>Admiring that decoration, sir?
+  
+  
+  That's a ring garland! <5 Type='0'/>Real popular item.
+  The Stable Association sent it over.
+  
+  They're made at <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/> in
+  Necluda, east of Central Hyrule.
+0032: |
+  Yes.
+Talk8074: |
+  <3 Type='0' Data='0800'/>Save up points to earn a wagonload of
+  wonderful <0 Type='3' Data='0000'/>rewards <0 Type='3' Data='ffff'/>for you and your
+  horse companions!
+Talk27: |
+  <3 Type='0' Data='0101'/>A regular bed will cost you <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/>.
+Explain1003: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0a0048006100700070007900'/>Your reward for three points is a
+  towing harness!
+7012: |
+  Customize horse.
+DoNotWakka_02: |
+  <3 Type='0' Data='0700'/>I see that ring garland's caught your eye!
+  
+  
+  They sell 'em at <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>.
+  How about you go there?
+  
+  I say that, but it's a ways southeast, over
+  in <0 Type='3' Data='0000'/>Necluda<0 Type='3' Data='ffff'/>. <5 Type='0'/>Not the shortest of treks.
+0033: |
+  No.
+Talk28: |
+  <3 Type='0' Data='0700'/>Then that'll cost you <0 Type='3' Data='0000'/>10 rupees<0 Type='3' Data='ffff'/>.<5 Type='0'/> When
+  would you like to be woken up?
+Explain1004: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0048006100700070007900'/>For saving <0 Type='3' Data='0000'/>five more points<0 Type='3' Data='ffff'/>, you've earned
+  five sleepover tickets!
+Explain1005: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0048006100700070007900'/>For seven points, you've unlocked the
+  <0 Type='3' Data='0000'/>Malanya bed<0 Type='3' Data='ffff'/>!
+  
+  If you sleep in a Malanya bed, not only
+  will you wake up <0 Type='3' Data='0000'/>more energized<0 Type='3' Data='ffff'/>...
+  
+  Malanya, the horse god, may also <0 Type='3' Data='0000'/>share
+  a mystical message<0 Type='3' Data='ffff'/>. It's a very popular
+  choice among our customers.
+7014: |
+  Put up a picture.
+KyoukaiTalk03: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Anything else?
+Talk8077: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Oh! <5 Type='1'/>It looks like you've got some points
+  saved up, Linkette.
+  
+  If you want to <0 Type='3' Data='0000'/>get your reward<0 Type='3' Data='ffff'/>,<5 Type='0'/> step up
+  to the side counter where I keep the
+  <0 Type='3' Data='0000'/>ledger<0 Type='3' Data='ffff'/>, then call me over.
+Explain1006: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0048006100700070007900'/>For 13 points you get a traveler's saddle!
+7015: |
+  Attach a harness.
+KyoukaiTalk04: |
+  <3 Type='0' Data='0800'/>Looks like you've caught yourself a steed!
+  Do you want to register it?
+0036: |
+  Take horse.
+Talk8078: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Linkette, this was your first time using a
+  stable outside of the mini stables, right?
+Explain1007: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0048006100700070007900'/>As a reward for 16 points, you can now
+  enjoy our <0 Type='3' Data='0000'/>mane-restyling service<0 Type='3' Data='ffff'/>!
+  
+  This'll let you <0 Type='3' Data='0000'/>change <0 Type='3' Data='ffff'/>the look of your
+  horse's <0 Type='3' Data='0000'/>mane<0 Type='3' Data='ffff'/>. Treat your favorite steed
+  to a new hairdo!
+7016: |
+  I want a thank-you gift.
+KyoukaiTalk05: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Is that so! <5 Type='0'/>Pardon me...
+0037: |
+  Board horse.
+Explain1008: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0048006100700070007900'/>As a reward for 20 points, you can now
+  register an additional horse!
+  
+  If there's a wild horse that catches your
+  fancy, please bring it to us.
+Talk8022: |
+  <3 Type='0' Data='0800'/>Thank you for supporting the
+  Stable Association!
+Explain1009: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0048006100700070007900'/>For 23 points, you get a knight's saddle,
+  aaand...
+7018: |
+  Change the bridle.
+Com_FirstTime_Only01: |
+  <3 Type='0' Data='0700'/>Without further ado, since this is your
+  first time visiting New Serenne Stable...
+Import01: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0c004e006f007400690063006500'/>...Huh?<5 Type='1'/> According to our books, you
+  entrusted a horse to us once before.
+  
+  I'll just...<5 Type='0'/>go ahead and register any horse
+  that had your name on it. Come talk to me
+  later if you want to take them out.
+Talk8023: |
+  <3 Type='0' Data='0800'/>Since you're registering a new horse, we'll
+  add <0 Type='3' Data='0000'/>one point<0 Type='3' Data='ffff'/> to your Pony Points.
+Com_FirstTime_Only02: |
+  <3 Type='0' Data='0700'/>Because you used New Serenne Stable
+  for the first time and <0 Type='3' Data='0000'/>registered a horse<0 Type='3' Data='ffff'/>
+  with us...
+Talk9030: |
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>That's all I can tell you about the
+  subject, friend.
+Receive02: |
+  <3 Type='0' Data='0800'/>Your horse is in our care.
+Import02: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='0c004e006f007400690063006500'/>...Huh?<5 Type='1'/> According to our books, you
+  entrusted a horse to us once before.
+  
+  Apologies.
+  
+  
+  <3 Type='0' Data='0000'/>I'll go ahead and register any horse you
+  had before. Just a moment...
+Talk8024: |
+  <3 Type='0' Data='0001'/>Now then, once again...
+Com_FirstTime_Only03: |
+  <3 Type='0' Data='0700'/>In honor of your first time using
+  New Serenne Stable, and your first time
+  <0 Type='3' Data='0000'/>lodging with us<0 Type='3' Data='ffff'/>...
+Receive03: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>So you're not... Understood.
+Talk9031: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I am Malanya...<5 Type='1'/>the god of horses...
+  
+  
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>In the south...<5 Type='1'/>within the region of Faron...<5 Type='1'/>
+  find the Lake of the Horse God...
+  
+  There, a huge horse...<5 Type='1'/>white in color...<5 Type='1'/>
+  has left its mark...
+Talk9032: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Oh, right. Have you read the paper lately?
+  There's some big story about <0 Type='3' Data='0000'/>the Demon
+  King returning<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0c01'/>I feel like I should be preparing for the
+  worst, but... <5 Type='0'/>What can I even do?
+Import04: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Understood. So, you want to register...
+Receive05: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>You want to board <0 Type='3' Data='0000'/><2 Type='3'/><0 Type='3' Data='ffff'/>?
+Import05: |
+  <3 Type='0' Data='0100'/>You want to register this horse here?
+Talk8028: |
+  Since this is your first time here, we'll
+  add <0 Type='3' Data='0000'/>one point<0 Type='3' Data='ffff'/> to your Pony Points!
+Talk9035: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I am Malanya...<5 Type='1'/>the god of horses...
+  
+  
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>At night, it appears... <5 Type='1'/>The Stalhorse...<5 Type='1'/>
+  running atop the gloom...
+Reaction_0001: |
+  <3 Type='0' Data='0800'/>Oh! You're a bold one, aren't you?
+Talk9036: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I am Malanya...<5 Type='1'/>the god of horses...
+  
+  
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>In southeast Faron...<5 Type='1'/>at Lakeside Stable...<5 Type='1'/>
+  the Dondons graze...
+  
+  These ancient creatures, the ancestors
+  of horses...<5 Type='1'/>can make precious gems...<5 Type='1'/>
+  out of stones...
+Explain1020: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I hear the <0 Type='3' Data='0000'/>dye shop <0 Type='3' Data='ffff'/>in <0 Type='3' Data='0000'/>Hateno Village <0 Type='3' Data='ffff'/>has
+  a <0 Type='3' Data='0000'/>new service <0 Type='3' Data='ffff'/>using fabric.
+  
+  If you ever find yourself in Necluda,
+  you ought to stop by. I'm sure they can
+  help put this fabric to use.
+0050: |
+  Tell me.
+Register00: |
+  <3 Type='0' Data='0c00'/>Oh, very original... <5 Type='0'/>The invisible horse
+  routine. I'm crying invisible tears of mirth.
+  
+  How about you stop kidding around and
+  go catch a horse?
+  
+  Approach from behind, then hop on.
+  Got that, funny guy?
+Talk510: |
+  <3 Type='0' Data='0701'/>You want to restyle its <0 Type='3' Data='0000'/>mane<0 Type='3' Data='ffff'/>, right?
+Talk9037: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I am Malanya...<5 Type='1'/>the god of horses...
+  
+  
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I hunger...<5 Type='1'/>for <0 Type='3' Data='0000'/>copious fried wild greens<0 Type='3' Data='ffff'/>...<5 Type='1'/>
+  a meal made with four kinds of
+  vegetables...<5 Type='1'/>heated over a flame...
+  Bring me the food I crave...<5 Type='1'/>and I will
+  enhance your horse's abilities...
+Explain1021: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0c004e006f007400690063006500'/>On second thought, you've got more than
+  enough tickets already.
+  
+  <3 Type='0' Data='0801'/>How about you take this instead?
+Reaction_0003: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Thanks for coming in such bad weather.
+0051: |
+  I already know.
+Register01: |
+  <3 Type='0' Data='0a00'/>I'm sorry, but it seems you've hit your
+  registration limit, Linkette...
+  
+  You would need to let one of your horses
+  go to free up space. What would you like
+  to do?
+Talk511: |
+  <4 Type='0' Data='0a005400680069006e006b00'/>What <0 Type='3' Data='0000'/>bridle<0 Type='3' Data='ffff'/> do you think would suit it?
+Talk9038: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I am Malanya...<5 Type='1'/>the god of horses...
+  
+  
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I hunger...<5 Type='1'/>for <0 Type='3' Data='0000'/>vegetable curry<0 Type='3' Data='ffff'/>...<5 Type='1'/>a meal
+  made with carrots or pumpkins...<5 Type='1'/>as well
+  as Hylian rice...<5 Type='1'/>and Goron spice...
+  Bring me the food I crave...<5 Type='1'/>and I will
+  enhance your horse's abilities...
+Explain1022: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0048006100700070007900'/>As a reward for 10 points, you can now
+  register an additional horse!
+  
+  If you see a horse out there you'd like to
+  make yours, please bring it to us.
+Reaction_0004: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10004700720065006500740069006e006700'/>You're here early, aren't you?
+0052: |
+  Catching horses?
+Register02: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0600530061006400'/>Which horse do you want to release?
+Talk9039: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I am Malanya...<5 Type='1'/>the god of horses...
+  
+  
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I hunger...<5 Type='1'/>for a <0 Type='3' Data='0000'/>carrot cake<0 Type='3' Data='ffff'/>...<5 Type='1'/>a dish made
+  with carrots...<5 Type='1'/>Tabantha wheat...<5 Type='1'/>and cane
+  sugar...<5 Type='1'/>as well as goat butter...
+  Bring me the food I crave...<5 Type='1'/>and I will
+  enhance your horse's abilities...
+Explain1023: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0c004e006f007400690063006500'/>Hm. Looks like there's not enough room
+  in your pouch.
+  
+  <3 Type='0' Data='0100'/>Make some space in there and come
+  right back. OK?
+Reaction_0005: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Still up and about after sundown, eh?
+Register03: |
+  <3 Type='0' Data='0301'/>If you release this horse here, you may
+  not ever see it again. You sure about this?
+Reaction_0006: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10004700720065006500740069006e006700'/>You're a night owl, I see.
+0054: |
+  Advice on horses?
+Register04: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Now with that settled, I can register this
+  new wild horse you've brought.
+Talk514: |
+  Right now, the <0 Type='3' Data='0000'/>bridle<0 Type='3' Data='ffff'/> it's wearing is the
+  <0 Type='3' Data='0000'/><201 Type='4'/><2 Type='33' Data='2600530068006f0070005f00530065006c006500630074004900740065006d004e0061006d006500ffff'/><0 Type='3' Data='ffff'/>.
+Register05: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Understood.
+  
+  
+  Your horse will be in good hands.
+Talk515: |
+  You'd like a different <0 Type='3' Data='0000'/>bridle<0 Type='3' Data='ffff'/>, right?
+Reaction_0008: |
+  <3 Type='0' Data='0800'/>My! That's brave of you, in this weather...
+0056: |
+  I want to call a horse.
+Register06: |
+  <3 Type='0' Data='0100'/>Are you sure you want to name this
+  horse <0 Type='3' Data='0000'/><2 Type='4'/><0 Type='3' Data='ffff'/>?
+Register07: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Name registered! You want to take it with
+  you or board it?
+0000: |
+  A regular bed.
+Register08: |
+  <3 Type='0' Data='0800'/>All right, we'll take <0 Type='3' Data='0000'/><2 Type='3'/><0 Type='3' Data='ffff'/>
+  into our care.
+Goodbye_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Ever since Hyrule Castle started floating,
+  things have been falling from the sky.
+  
+  Almost makes you wonder if this is the
+  end of the world.
+Talk9050: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I am Malanya...<5 Type='1'/>the god of horses...
+  
+  
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I hunger...<5 Type='1'/>for an <0 Type='3' Data='0000'/>apple pie<0 Type='3' Data='ffff'/>...<5 Type='1'/>made with
+  apples and Tabantha wheat...<5 Type='1'/>as well as
+  goat butter...<5 Type='1'/>and cane sugar...
+  Bring me the food I crave...<5 Type='1'/>and I will
+  enhance your horse's abilities...
+0003: |
+  Never mind.
+Talk9051: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I am Malanya...<5 Type='1'/>the god of horses...
+  
+  
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I hunger...<5 Type='1'/>for an <0 Type='3' Data='0000'/>herb sauté<0 Type='3' Data='ffff'/>...<5 Type='1'/>a meal of
+  vegetables...<5 Type='1'/>cooked in Goron spice...
+  
+  Bring me the food I crave...<5 Type='1'/>and I will
+  enhance your horse's abilities...
+0004: |
+  Morning.
+Talk9052: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I am Malanya...<5 Type='1'/>the god of horses...
+  
+  
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I hunger...<5 Type='1'/>for <0 Type='3' Data='0000'/>vegetable risotto<0 Type='3' Data='ffff'/>...<5 Type='1'/>a meal
+  of pumpkins and Hylian rice...<5 Type='1'/>cooked with
+  goat butter...<5 Type='1'/>and rock salt...
+  Bring me the food I crave...<5 Type='1'/>and I will
+  enhance your horse's abilities...
+Goodbye_04: |
+  <3 Type='0' Data='0c00'/>The headlines say the <0 Type='3' Data='0000'/>Demon King <0 Type='3' Data='ffff'/>is
+  returning. I feel like I need to prepare
+  for the worst, but what can I do?
+0005: |
+  Noon.
+Register12_01: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Oh...<5 Type='0'/> So you don't want to register
+  this horse? Gotcha.
+  
+  <3 Type='0' Data='0701'/>Bear in mind that if you save up your
+  Pony Points, you may be <0 Type='3' Data='0000'/>entitled to
+  register more horses<0 Type='3' Data='ffff'/>.
+  We look forward to your continued
+  patronage of the Stable Association.
+Talk9053: |
+  You may see it in the field...<5 Type='1'/>at the base
+  of Satori Mountain...
+Goodbye_05: |
+  <3 Type='0' Data='0000'/>Lastly,<5 Type='1'/> if you'll pardon the digression...
+0006: |
+  Night.
+Register12_02: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Oh...<5 Type='0'/> So you don't want to register this
+  wild horse? Gotcha.
+  
+  <3 Type='0' Data='0a00'/>Unfortunately, <5 Type='0'/>you can't register any
+  additional horses by saving up more
+  Pony Points.
+  If you do want to <0 Type='3' Data='0000'/>register a new one<0 Type='3' Data='ffff'/>,
+  you'll have to <0 Type='3' Data='0000'/>let one go<0 Type='3' Data='ffff'/>, sadly...
+  
+  <3 Type='0' Data='0001'/>Regardless, we hope you'll continue to
+  be a patron of the Stable Association.
+Goodbye_06: |
+  <3 Type='0' Data='0700'/>You know, I heard <0 Type='3' Data='0000'/>Lookout Landing<0 Type='3' Data='ffff'/> is
+  <0 Type='3' Data='0000'/>recruiting <0 Type='3' Data='ffff'/>investigators after some kind
+  of big, history-changing discovery.
+  I know it's got nothing to do with me,
+  but that's the scuttlebutt.
+0007: |
+  Never mind.
+Register12_03: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Oh...<5 Type='0'/> So you don't want to register this
+  horse? Gotcha.
+  
+  <3 Type='0' Data='0a00'/>Unfortunately, <5 Type='0'/>you can't register any
+  additional horses by saving up more
+  Pony Points.
+  If you do want to <0 Type='3' Data='0000'/>register a new one<0 Type='3' Data='ffff'/>,
+  you'll have to <0 Type='3' Data='0000'/>let one go<0 Type='3' Data='ffff'/>, sadly...
+  
+  <3 Type='0' Data='0001'/>Regardless, we hope you'll continue to
+  be a patron of the Stable Association.
+0008: |
+  Pony Points?
+Register20: |
+  <3 Type='0' Data='0100'/>OK,<5 Type='0'/> please enter a name for your hors—
+  
+  
+  <3 Type='0' Data='0b00'/>...Hang on!
+  
+  
+  This is <0 Type='3' Data='0000'/>Epona<0 Type='3' Data='ffff'/>, the horse of legend!
+  
+  
+  <3 Type='0' Data='0c00'/>What are you thinking, trying to rename
+  a horse of legend? <5 Type='0'/>It'd be disrespectful,
+  not to mention confusing!
+  <3 Type='0' Data='0000'/>So...<0 Type='3' Data='0000'/>Epona<0 Type='3' Data='ffff'/> it is?
+Register21: |
+  <3 Type='0' Data='0c00'/>Look, I already told you. You can't rename
+  a legendary horse!
+  
+  <3 Type='0' Data='0001'/>Her name must be <0 Type='3' Data='0000'/>Epona<0 Type='3' Data='ffff'/>.
+Register22: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Got it.<0 Type='4'/>The fee to register a wild horse is
+  <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/>. Will that be all right?
+Bell0010: |
+  <3 Type='0' Data='0800'/>You'll receive five free sleepover tickets!
+Talk10: |
+  <3 Type='0' Data='0800'/>The sun has finally set. <5 Type='0'/>Did you sleep
+  all right?
+Register23: |
+  <3 Type='0' Data='0100'/>You sure you want to register it?
+Custom101: |
+  <3 Type='0' Data='0800'/>Thanks for waiting!
+Bell0011: |
+  <3 Type='0' Data='0800'/>You'll be able to use the Malanya bed,
+  which is said to bring prophecies from the
+  horse god Malanya!
+Talk11: |
+  <3 Type='0' Data='0800'/>Good morning. How are you? <5 Type='0'/>Did you
+  hear a message?
+Bell0012: |
+  <3 Type='0' Data='0800'/>Why, you'll get a traveler's saddle and a
+  traveler's bridle for your horse!
+Talk12: |
+  <3 Type='0' Data='0800'/>Good, uh, afternoon! <5 Type='0'/>Did you hear
+  a message?
+Register25: |
+  <3 Type='0' Data='0800'/>That concludes the registration process!
+Bell0013: |
+  <3 Type='0' Data='0800'/>How about that! You'll get a knight's
+  saddle and knight's bridle!
+Talk13: |
+  <3 Type='0' Data='0800'/>Good evening! How are you? <5 Type='0'/>Did you
+  hear a message?
+Register26: |
+  <3 Type='0' Data='0700'/>Would you like to <0 Type='3' Data='0000'/>change <0 Type='3' Data='ffff'/>anything about
+  this horse?
+  
+  You can attach a harness, put on a
+  different saddle and bridle, or restyle
+  its mane.
+Talk8060: |
+  <3 Type='0' Data='0700'/>As a patron of the stables, you'll receive
+  <0 Type='3' Data='0000'/>half-off<0 Type='3' Data='ffff'/> on all fees at our inn.<0 Type='4'/><3 Type='0' Data='0101'/>That means the regular bed is <0 Type='3' Data='0000'/>10 rupees<0 Type='3' Data='ffff'/>
+  and the Malanya bed, <0 Type='3' Data='0000'/>25 rupees<0 Type='3' Data='ffff'/>.
+Bell0014: |
+  <3 Type='0' Data='0800'/>Why, you'll be able to use our special
+  <0 Type='3' Data='0000'/>mane-restyling service<0 Type='3' Data='ffff'/>!
+Register27: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Normally, when you register a horse,
+  we charge <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/>, but...
+  
+  We've got a special promotion going on
+  right now, so you can register your first
+  horse for <0 Type='3' Data='0000'/>free<0 Type='3' Data='ffff'/>!
+Talk8061: |
+  <3 Type='0' Data='0801'/>You get a <0 Type='3' Data='0000'/>Pony Point<0 Type='3' Data='ffff'/>!
+Bell0015: |
+  <3 Type='0' Data='0800'/>Ooh! You'll be able to register <0 Type='3' Data='0000'/>one
+  additional horse<0 Type='3' Data='ffff'/>!
+0020: |
+  Take horse.
+Register28: |
+  <3 Type='0' Data='0701'/>By saving up your Pony Points, you can
+  get exclusive perks.
+  
+  For instance, you can change your
+  horse's gear—its <0 Type='3' Data='0000'/>saddle <0 Type='3' Data='ffff'/>and so forth—
+  or restyle its <0 Type='3' Data='0000'/>mane<0 Type='3' Data='ffff'/>!
+Talk8062: |
+  <3 Type='0' Data='0700'/>Once again...<5 Type='0'/> Welcome to our stable!
+  
+  
+  If you catch a wild horse and bring it
+  here, you can register it.
+  
+  If you want to <0 Type='3' Data='0000'/>lodge<0 Type='3' Data='ffff'/> with us, please visit
+  the counter inside.
+  
+  <3 Type='0' Data='0100'/>Now, how can I help you?
+Bell0016: |
+  <3 Type='0' Data='0800'/>Ohoho! You'll be able to register <0 Type='3' Data='0000'/>one
+  additional horse<0 Type='3' Data='ffff'/>!
+0021: |
+  Never mind.
+Register29: |
+  <3 Type='0' Data='0700'/>Since you're here, would you like to equip
+  your horse with a <0 Type='3' Data='0000'/>towing harness<0 Type='3' Data='ffff'/>?
+Talk8063: |
+  <3 Type='0' Data='0700'/>Is that so?<5 Type='1'/> Well then, once again...<5 Type='0'/>
+  Welcome to our stable!
+  
+  If you catch a wild horse and bring it
+  here, you can register it.
+  
+  If you want to <0 Type='3' Data='0000'/>lodge<0 Type='3' Data='ffff'/> with us, please visit
+  the counter inside.
+  
+  <3 Type='0' Data='0100'/>Now, how can I help you?
+Bell0017: |
+  <3 Type='0' Data='0800'/>Fancy! You'll get an extravagant saddle
+  and extravagant bridle!
+Talk17: |
+  <3 Type='0' Data='0700'/>Come back again anytime.
+Bell0018: |
+  <3 Type='0' Data='0800'/>You'll receive <0 Type='3' Data='0000'/>three endura carrots<0 Type='3' Data='ffff'/>!
+  A tasty treat for you or your horse!
+7002: |
+  I'll use a ticket.
+Register16_01: |
+  <3 Type='0' Data='0a00'/>I see...<5 Type='0'/> That's too bad. It is the legendary
+  golden horse, after all.
+Bell0019: |
+  <3 Type='0' Data='0800'/>Oh my! You'll be able to register <0 Type='3' Data='0000'/>an
+  additional horse<0 Type='3' Data='ffff'/>!
+7003: |
+  No, I'll pay.
+Talk19: |
+  <3 Type='0' Data='0101'/>A regular bed will cost you <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/>.<0 Type='3' Data='0000'/><5 Type='0'/><0 Type='3' Data='ffff'/>
+  A Malanya bed would be <0 Type='3' Data='0000'/>50 rupees<0 Type='3' Data='ffff'/>.
+Talk8066: |
+  <3 Type='0' Data='0700'/>You want to <0 Type='3' Data='0000'/>customize<0 Type='3' Data='ffff'/> something for your
+  horse?<5 Type='0'/> Then choose a horse to take out
+  and we'll get started.
+Talk8067: |
+  Who's the lucky steed?
+7005: |
+  Malanya bed.
+BurnedWakka_Common01: |
+  <3 Type='0' Data='0b00'/>Hey! <5 Type='0'/>Sir!<5 Type='0'/> Please don't mess around with
+  our ring garland!
+  
+  It's a treasured, flowery decoration!
+  A very trendy piece, sent directly to
+  us from the Stable Association!
+Talk8068: |
+  <3 Type='0' Data='0801'/>You get <0 Type='3' Data='0000'/>two Pony Points<0 Type='3' Data='ffff'/>!
+BurnedWakka_Common02: |
+  <3 Type='0' Data='0b00'/>Sir!<5 Type='0'/> I believe I asked you NOT to mess
+  with that garland!
+Talk8069: |
+  <3 Type='0' Data='0800'/>Welcome to the <0 Type='3' Data='0000'/>stable<0 Type='3' Data='ffff'/>.<5 Type='0'/> Do you want to
+  lodge with us?
+BurnedWakka_Common03: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0600530061006400'/>No... The ring garland—it's ruined!<5 Type='1'/> I have
+  to put out that fire!
+7008: |
+  Change equipment.
+Com_Photo_10: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Wow!<5 Type='0'/> I wonder what this geoglyph is
+  meant to represent?
+  
+  I feel inspired just looking at it!
+WakkaCharm: |
+  We have that as well!
+BurnedWakka_Common04: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Phew...<5 Type='1'/> That should do it.<5 Type='1'/> Now, no more
+  fooling around, all right?
+Talk9020: |
+  <3 Type='0' Data='0a00'/>I'm so sorry, but the <0 Type='3' Data='0000'/>Malanya bed <0 Type='3' Data='ffff'/>is a
+  special service reserved for our most
+  frequent customers.
+  <3 Type='0' Data='0000'/>You can use it when you've saved up
+  <0 Type='3' Data='0000'/>seven points<0 Type='3' Data='ffff'/>!
+Com_Photo_12: |
+  <3 Type='0' Data='0700'/>Anyway,<5 Type='0'/> did you want to do something
+  with that <0 Type='3' Data='0000'/>picture of a geoglyph<0 Type='3' Data='ffff'/>?
+BurnedWakka_01: |
+  <3 Type='0' Data='0701'/>Listen. How about getting your own ring
+  garland from <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>? Then you
+  can attack it as much as you want.
+  It's a ways away in <0 Type='3' Data='0000'/>Necluda<0 Type='3' Data='ffff'/> to
+  the southeast.
+Deliver00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Which horse do you want to take out?
+Advice01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>If you're riding on a road, your horse
+  will just naturally follow the path, as is
+  its instinct.
+  Travel by road if you want to leave the
+  steering up to your steed and just enjoy
+  the scenery!
+Talk9021: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I am Malanya...<5 Type='1'/>the god of horses...
+  
+  
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>In the Eldin region...<5 Type='1'/>of northeast Hyrule...<5 Type='1'/>
+  there is a place called Woodland Stable...
+  
+  Go there...<5 Type='1'/>and bring the musical troupe
+  back together...<5 Type='1'/>to receive the Great
+  Fairies' blessings...
+Advice02: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>If a horse gets spooked or doesn't like
+  where it's at, it might shut down and
+  refuse to move at all.
+  If that happens, you can <0 Type='3' Data='0000'/>target<0 Type='3' Data='ffff'/> while
+  mounted and then force the horse to
+  <0 Type='3' Data='0000'/>move step by step<0 Type='3' Data='ffff'/>.
+  Just be sure you don't put your horse
+  in a dangerous situation.
+Talk9022: |
+  <3 Type='0' Data='0701'/>Now then, once again...
+Deliver02: |
+  <3 Type='0' Data='0100'/>You wanted <0 Type='3' Data='0000'/><2 Type='4'/><0 Type='3' Data='ffff'/>, right?
+Advice03: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>To talk to someone while on horseback,<5 Type='0'/>
+  just <0 Type='3' Data='0000'/>target<0 Type='3' Data='ffff'/> them first.
+  
+  But you won't be able to talk to anyone
+  if you're riding too fast, so slow it down.
+Talk9023: |
+  <3 Type='0' Data='0700'/>Would you like a different bed?
+Deliver03: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>All right, we'll take <0 Type='3' Data='0000'/><2 Type='3'/><0 Type='3' Data='ffff'/> into
+  our care. Wait right here.
+Advice04: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>If you get separated from your horse,
+  <5 Type='0'/>just <0 Type='3' Data='0000'/>whistle<0 Type='3' Data='ffff'/> and it'll come running.
+Deliver04: |
+  <3 Type='0' Data='0701'/>Well, that's all I can do for you. Thanks for
+  using the stable, pal.
+Advice05: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Horses that have lots of <0 Type='3' Data='0000'/>stamina<0 Type='3' Data='ffff'/> can
+  run at top speed for a long time.
+  
+  However, they can't turn well when
+  they're running at top speed.
+  
+  If your horse can't turn sharply, you're
+  more likely to hit obstacles, so think
+  before you ask your horse to sprint.
+Explain1010: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0048006100700070007900'/>As a reward for 30 points, you can now
+  register an additional horse!
+  
+  If there's a wild horse that catches your
+  fancy, please bring it to us.
+Deliver06: |
+  <3 Type='0' Data='0101'/>Would you like a different horse?
+0040: |
+  Yes.
+Explain1011: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0048006100700070007900'/>For 26 points, you get an extravagant
+  saddle!
+7020: |
+  It's fine as is.
+Deliver07: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>All right, we'll get <0 Type='3' Data='0000'/><2 Type='3'/><0 Type='3' Data='ffff'/>
+  ready for you. Sit tight.
+0041: |
+  No.
+Talk9028: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I am Malanya...<5 Type='1'/>the god of horses...
+  
+  
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Once a century...<5 Type='1'/>a golden horse is born...<5 Type='1'/>
+  
+  
+  You may find it in the northwest...<5 Type='1'/>by going
+  to Snowfield Stable...
+Explain1012: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0048006100700070007900'/>As a reward for 35 points, you can now
+  register an additional horse!
+  
+  If there's a wild horse that catches your
+  fancy, please bring it to us.
+7021: |
+  All set!
+0042: |
+  Yes.
+Talk502: |
+  <4 Type='0' Data='0a005400680069006e006b00'/>Which <0 Type='3' Data='0000'/>equipment <0 Type='3' Data='ffff'/>would you like to use?
+Explain1013: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0048006100700070007900'/>As a reward for <2 Type='14' Data='3c0048006f0072007300650049006e006e005f00470065007400480061006c006600500072006900630065005f0050006f0069006e0074004e0075006d00ffff00cd'/> <201 Type='6' Data='0a0070006f0069006e0074000c0070006f0069006e00740073000000'/>, all stable fees
+  will be permanently...
+  
+  <3 Type='0' Data='0801'/><FontSize Value='125'/>FIFTY!
+  
+  
+  <3 Type='0' Data='0801'/>PERCENT!
+  
+  
+  <3 Type='0' Data='0801'/>OFF!<FontSize Value='100'/>
+  
+  
+  Quite a rupee-saver, eh?<5 Type='0'/> With that kind
+  of discount, you'll be able to use our
+  facilities that much more!
+7022: |
+  Remove harness.
+0043: |
+  Change it.
+Talk503: |
+  <4 Type='0' Data='0a0048006100700070007900'/>How's that?
+Explain1014: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>It comes with the traveler's bridle,
+  so here's that too.
+Talk504: |
+  Change to the <0 Type='3' Data='0000'/><201 Type='4'/><2 Type='33' Data='2600530068006f0070005f00530065006c006500630074004900740065006d004e0061006d006500ffff'/><0 Type='3' Data='ffff'/>?
+Explain1015: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>a knight's bridle! Here you go!
+Talk505: |
+  Right now, it's equipped with the
+  <0 Type='3' Data='0000'/><201 Type='4'/><2 Type='33' Data='2600530068006f0070005f00530065006c006500630074004900740065006d004e0061006d006500ffff'/><0 Type='3' Data='ffff'/>.
+Explain1016: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>It comes with the extravagant bridle,
+  so here's that as well.
+Talk506: |
+  You want to switch equipment, right?
+Explain1017: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0048006100700070007900'/>You saved up another <0 Type='3' Data='0000'/>five points<0 Type='3' Data='ffff'/>, so I'll
+  give you three <0 Type='3' Data='0000'/>endura carrots<0 Type='3' Data='ffff'/>!
+Talk507: |
+  <4 Type='0' Data='0a005400680069006e006b00'/>What style of <0 Type='3' Data='0000'/>mane <0 Type='3' Data='ffff'/>would you prefer?
+Register00_1: |
+  <3 Type='0' Data='0b00'/>AAAH! <5 Type='0'/>What the— <5 Type='0'/>What is that thing?
+  Why are its eyes...glowing?
+  
+  <3 Type='0' Data='0c01'/>Sorry, buddy... This is a stable for horses,
+  not nightmares.
+Explain1019: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0048006100700070007900'/>For five points, you get the horse-god
+  fabric!
+9001: |
+  Check out my picture.
+Talk509: |
+  Right now, its mane is the
+  <0 Type='3' Data='0000'/><201 Type='4'/><2 Type='33' Data='2600530068006f0070005f00530065006c006500630074004900740065006d004e0061006d006500ffff'/><0 Type='3' Data='ffff'/>.
+9002: |
+  Goodbye.
+KyoukaiTalk04_01: |
+  <3 Type='0' Data='0800'/>Oh!<5 Type='0'/> Isn't this the golden horse that used
+  to belong to Princess Zelda? <5 Type='1'/>Do you want
+  to register it?
+Register00_3: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Not a problem. Let me just—
+  
+  
+  <3 Type='0' Data='0c00'/>Oh, for the love of Hylia... That's not
+  a horse!
+  
+  We only board horses here, stranger.
+  No exceptions.
+Talk9040: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I am Malanya...<5 Type='1'/>the god of horses...
+  
+  
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I hunger...<5 Type='1'/>for <0 Type='3' Data='0000'/>hot buttered apple<0 Type='3' Data='ffff'/>...<5 Type='1'/>a dish
+  of fresh apples...<5 Type='1'/>cooked in goat butter...
+  
+  Bring me the food I crave...<5 Type='1'/>and I will
+  enhance your horse's abilities...
+9003: |
+  I'm not showing you.
+KyoukaiTalk04_02: |
+  <3 Type='0' Data='0800'/>Oho!<5 Type='0'/> What a splendid horse. Do you want
+  to register it?
+Register00_4: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0c004e006f007400690063006500'/>Wait a second...<5 Type='1'/> Your horse!
+  
+  
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Is this the <0 Type='3' Data='0000'/>golden horse<0 Type='3' Data='ffff'/> that ran away
+  from <0 Type='3' Data='0000'/>Snowfield Stable<0 Type='3' Data='ffff'/>?!
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>I appreciate you wanting to board such a
+  beauty with us, but...
+  
+  Shouldn't you return it to its rightful
+  owner at Snowfield Stable?
+  
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I'm sure they'll be grateful. <5 Type='1'/>They must be
+  worried sick!
+Talk9041: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I am Malanya...<5 Type='1'/>the god of horses...
+  
+  
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>In Hyrule Ridge...<5 Type='1'/>atop Thundra Plateau...<5 Type='1'/>
+  there sits a dragon tree...
+  
+  There, many excellent steeds...<5 Type='1'/>roam wild
+  and free...
+Com_Photo_Thank: |
+  <3 Type='0' Data='0700'/>Thanks to you, I have a stunning picture
+  of a geoglyph here in my stable.
+  
+  Perhaps by spreading awareness of these
+  odd phenomena, we can help unravel the
+  mystery of their creation.
+Talk9042: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I am Malanya...<5 Type='1'/>the god of horses...
+  
+  
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>In Faron Grasslands...<5 Type='1'/>there is a place
+  called Zokassa Ridge...
+  
+  There, many excellent steeds...<5 Type='1'/>roam wild
+  and free...
+Talk9043: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I am Malanya...<5 Type='1'/>the god of horses...
+  
+  
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>On the border separating Necluda's
+  east from its west...<5 Type='1'/>there is a place
+  called Bubinga Forest...
+  There, many excellent steeds...<5 Type='1'/>roam wild
+  and free...
+9006: |
+  I want to replace it.
+Talk9044: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I am Malanya...<5 Type='1'/>the god of horses...
+  
+  
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I hunger...<5 Type='1'/>for <0 Type='3' Data='0000'/>veggie cream soup<0 Type='3' Data='ffff'/>...<5 Type='1'/>
+  a meal made with carrots or pumpkins...<5 Type='1'/>
+  cooked in rock salt...<5 Type='1'/>and fresh milk...
+  Bring me the food I crave...<5 Type='1'/>and I will
+  enhance your horse's abilities...
+9007: |
+  It's fine as it is.
+Talk9045: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I am Malanya...<5 Type='1'/>the god of horses...
+  
+  
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I hunger...<5 Type='1'/>for <0 Type='3' Data='0000'/>carrot stew<0 Type='3' Data='ffff'/>...<5 Type='1'/>a meal made
+  by cooking carrots in goat butter...<5 Type='1'/>
+  with Tabantha wheat...<5 Type='1'/>and fresh milk...
+  Bring me the food I crave...<5 Type='1'/>and I will
+  enhance your horse's abilities...
+Take1052: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Understood.<5 Type='0'/> Give me just a moment.
+Talk9046: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I am Malanya...<5 Type='1'/>the god of horses...
+  
+  
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I hunger...<5 Type='1'/>for <0 Type='3' Data='0000'/>cream of vegetable soup<0 Type='3' Data='ffff'/>...<5 Type='1'/>
+  a meal made by simmering vegetables
+  in fresh milk...<5 Type='1'/>with a pinch of rock salt...
+  Bring me the food I crave...<5 Type='1'/>and I will
+  enhance your horse's abilities...
+Register10: |
+  <3 Type='0' Data='0800'/>Your horse is safe with us!<5 Type='0'/> Thanks for
+  using the stable.
+Talk1003: |
+  <3 Type='0' Data='0700'/>How about <0 Type='3' Data='0000'/>changing <0 Type='3' Data='ffff'/>its gear? If you want
+  to tow anything, I'd recommend a saddle
+  with a <0 Type='3' Data='0000'/>harness <0 Type='3' Data='ffff'/>attached.
+Talk9047: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I am Malanya...<5 Type='1'/>the god of horses...
+  
+  
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I hunger...<5 Type='1'/>for <0 Type='3' Data='0000'/>glazed veggies<0 Type='3' Data='ffff'/>...<5 Type='1'/>a meal
+  of fresh vegetables...<5 Type='1'/>cooked in sweet
+  courser bee honey...
+  Bring me the food I crave...<5 Type='1'/>and I will
+  enhance your horse's abilities...
+Register11: |
+  <3 Type='0' Data='0a00'/>I see.<5 Type='0'/> Parting is never easy...
+  
+  
+  <3 Type='0' Data='0100'/>But please rest assured.
+  
+  
+  Your horse will be treated with great care
+  by the Stable Association.
+Take1054: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Gotcha.<5 Type='0'/> I'll give it a regular saddle.
+Talk1004: |
+  <3 Type='0' Data='0700'/>Would you like to <0 Type='3' Data='0000'/>change <0 Type='3' Data='ffff'/>its gear?
+Talk9048: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I am Malanya...<5 Type='1'/>the god of horses...
+  
+  
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I hunger...<5 Type='1'/>for <0 Type='3' Data='0000'/>steamed tomatoes<0 Type='3' Data='ffff'/>...<5 Type='1'/>a meal
+  of tender Hylian tomato...<5 Type='1'/>cooked with
+  other vegetables...
+  Bring me the food I crave...<5 Type='1'/>and I will
+  enhance your horse's abilities...
+TalkHatu_01: |
+  <3 Type='0' Data='0800'/>Welcome to my <0 Type='3' Data='0000'/>stable<0 Type='3' Data='ffff'/>. We deal in all
+  things horse related. We also double
+  as an inn.
+  Hm... It seems you're not a <0 Type='3' Data='0000'/>member<0 Type='3' Data='ffff'/> yet.
+0062: |
+  Take horse.
+Register12: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Oh...<5 Type='0'/> So you don't want to register this
+  wild horse? Gotcha.
+  
+  <3 Type='0' Data='0701'/>Bear in mind that if you save up your
+  Pony Points, you may be <0 Type='3' Data='0000'/>entitled to
+  register more horses<0 Type='3' Data='ffff'/>.
+  We look forward to your continued
+  patronage of the Stable Association.
+Talk1005: |
+  <3 Type='0' Data='0701'/>If you attach a <0 Type='3' Data='0000'/>harness<0 Type='3' Data='ffff'/> to a stable <0 Type='3' Data='0000'/>wagon<0 Type='3' Data='ffff'/>,
+  you can transport bulky materials.
+Talk9049: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I am Malanya...<5 Type='1'/>the god of horses...
+  
+  
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I hunger...<5 Type='1'/>for a <0 Type='3' Data='0000'/>vegetable omelet<0 Type='3' Data='ffff'/>...<5 Type='1'/>a meal
+  made with vegetables and bird eggs...<5 Type='1'/>
+  cooked in goat butter...<5 Type='1'/>and rock salt...
+  Bring me the food I crave...<5 Type='1'/>and I will
+  enhance your horse's abilities...
+TalkHatu_02: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Then allow me to explain.
+  
+  
+  You can board your horse companions
+  with us,<5 Type='0'/> and then summon them as you
+  please from our network of stables.
+  You may have come across <0 Type='3' Data='0000'/>wild horses<0 Type='3' Data='ffff'/>
+  during your travels...
+  
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>If you catch one and ride it here
+  to register it,<5 Type='0'/> it will become your
+  horse companion.
+  There's a limit to how many horses you
+  can board, but you're able to swap them
+  in and out as you please.
+0063: |
+  Board horse.
+Register13: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Please give this little one a fitting name.
+Bell0001: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Ah!<5 Type='1'/> Yes.<5 Type='0'/> I'll be right with you.
+TalkHatu_03: |
+  <3 Type='0' Data='0700'/>It's simple enough. To catch a wild horse,
+  just approach it from behind—<5 Type='0'/>slowly, so it
+  doesn't hear you coming—and hop on.
+  If you really want to be sneaky, approach
+  it while <0 Type='3' Data='0000'/>crouching<0 Type='3' Data='ffff'/>.
+0064: |
+  Register horse.
+Register14: |
+  <3 Type='0' Data='0800'/>Thanks.
+Talk1007: |
+  <3 Type='0' Data='0c00'/>Um...<5 Type='1'/> You don't have any horses <0 Type='3' Data='0000'/>nearby<0 Type='3' Data='ffff'/>.
+  None that you've registered, at least.
+Bell0002: |
+  <3 Type='0' Data='0700'/>You'd like to get your Pony Points
+  reward, right?
+0065: |
+  Goodbye.
+Register15: |
+  <3 Type='0' Data='0c00'/>Hang on... I said <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/>, didn't I?
+  You don't have enough.
+  
+  My stable doesn't run on whinnies and
+  good intentions. I need funds!
+  
+  Sorry, but you'll have to register with us
+  another time. <5 Type='0'/>So...
+Bell0003: |
+  <3 Type='0' Data='0701'/>If you save up just <0 Type='3' Data='0000'/><2 Type='2' Data='380048006f0072007300650049006e006e005f004e006500780074005200650077006100720064004e0065006500740050006f0069006e007400ffff00cd'/> more <201 Type='6' Data='0a0070006f0069006e0074000c0070006f0069006e00740073000000'/><0 Type='3' Data='ffff'/>...
+Talk03: |
+  <3 Type='0' Data='0c00'/>You don't have the necessary funds, Linkette.<5 Type='1'/>
+  I'm afraid that you can't stay unless you
+  pay the full amount.
+0066: |
+  Yes, please.
+Register16: |
+  <3 Type='0' Data='0a00'/>I see... That's too bad. It really is a
+  splendid horse.
+Talk8050: |
+  <3 Type='0' Data='0700'/>Our stable uses the Stable Association's
+  <0 Type='3' Data='0000'/>membership system<0 Type='3' Data='ffff'/>, so you'll need to
+  register if you want to use it.
+  May I ask for your name?
+Bell0004: |
+  <3 Type='0' Data='0700'/>I'm sorry, but only stable members can
+  use this.
+  
+  If you want to register as a member,
+  go to the <0 Type='3' Data='0000'/>counter<0 Type='3' Data='ffff'/> and ask.
+Talk04: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>The regular bed, right? When would you
+  like to be woken up?
+0067: |
+  No, thanks.
+Register17: |
+  <3 Type='0' Data='0100'/>Well then, I'll move on to the
+  registration process.
+  
+  First, please enter a name for your horse.
+Talk8051: |
+  <3 Type='0' Data='0b00'/>Wait!<5 Type='1'/> What am I thinking?<0 Type='4'/>I completely forgot to explain how
+  <0 Type='3' Data='0000'/>Pony Points <0 Type='3' Data='ffff'/>work!
+Bell0005: |
+  <3 Type='0' Data='0701'/>Now, to continue...
+TalkHatu_07: |
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Of course, these are <0 Type='3' Data='0000'/>wild animals <0 Type='3' Data='ffff'/>we're
+  talking about. The horse you're riding
+  might start to act up.
+  If that happens, try soothing it. It will
+  eventually settle down,<5 Type='0'/> and then you
+  can bring it to me.
+  <3 Type='0' Data='0c00'/>Now, it may take a while for wild horses to
+  get used to being ridden.
+  
+  They may change directions or slow
+  down on their own until you earn their
+  trust and respect.
+  If your horse disobeys your direction,<5 Type='0'/>
+  you'll want to gently redirect it, and
+  then calm it.
+  <3 Type='0' Data='0101'/>And if you continue interacting that way,
+  your horse will naturally begin to trust
+  you and become more obedient.
+0010: |
+  Board horse.
+Register18: |
+  <3 Type='0' Data='0c00'/>Speaking of which...<5 Type='1'/> Do you know
+  about whistling?
+  
+  <3 Type='0' Data='0100'/>If you get separated from your horse, you
+  can whistle and it will come running!
+Take1003: |
+  <3 Type='0' Data='0800'/>Harness attached!
+Talk8052: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>That's right!<5 Type='0'/> It's a reward system you can
+  use at stables. In short, <0 Type='3' Data='0000'/>every time you
+  use a service<0 Type='3' Data='ffff'/>, you get points.
+  No matter what stable you go to, you can
+  get points for <0 Type='3' Data='0000'/>lodging <0 Type='3' Data='ffff'/>there, <0 Type='3' Data='0000'/>registering
+  a horse<0 Type='3' Data='ffff'/>, stuff like that.
+Bell0006: |
+  <3 Type='0' Data='0701'/>Furthermore...
+Talk06: |
+  <3 Type='0' Data='0800'/>Sleep well!
+TalkHatu_08: |
+  <3 Type='0' Data='0701'/>Now, would you like me to tell you about
+  the <0 Type='3' Data='0000'/>stable system<0 Type='3' Data='ffff'/>?
+0011: |
+  Never mind.
+Register19: |
+  <3 Type='0' Data='0000'/>But your horse isn't magic. It can't hear
+  you if you're too far away, so do keep
+  that in mind!
+Take1004: |
+  <3 Type='0' Data='0800'/>Thanks for waiting!<5 Type='0'/> I removed that
+  harness for you.
+Talk8053: |
+  <3 Type='0' Data='0800'/>Is that right?<5 Type='0'/> Then I won't bore you by
+  explaining it all over again.
+Bell0007: |
+  <3 Type='0' Data='0701'/>But there's more!
+Talk07: |
+  <3 Type='0' Data='0800'/>OK. Rest well!
+0012: |
+  Change.
+Take1005: |
+  <3 Type='0' Data='0800'/>Looks great!
+Talk08: |
+  <3 Type='0' Data='0800'/>Good morning. <5 Type='0'/>Did you sleep well?
+Take1006: |
+  <3 Type='0' Data='0700'/>Please ask whenever you feel like
+  changing your horse's <0 Type='3' Data='0000'/>gear<0 Type='3' Data='ffff'/>!
+Talk8055: |
+  <3 Type='0' Data='0800'/>Linkette,<5 Type='0'/> welcome to our <0 Type='3' Data='0000'/>stable<0 Type='3' Data='ffff'/>!
+  
+  
+  If you catch a wild horse and bring it
+  here, you can register it.
+  
+  Please visit the inside counter if you want
+  to <0 Type='3' Data='0000'/>lodge<0 Type='3' Data='ffff'/> with us.
+  
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Now,<5 Type='0'/> how can I help you?
+Bell0009: |
+  <3 Type='0' Data='0800'/>You'll receive a towing harness! Very
+  useful item. You can use it to hook up
+  your horse to various things.
+Talk09: |
+  <3 Type='0' Data='0800'/>Good, uh, afternoon! Sleep well?
+Register04_01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Now with that settled, I can register this
+  new horse you've brought.
+Talk8058: |
+  <3 Type='0' Data='0800'/>Welcome, Linkette!<5 Type='0'/> Do you want to register
+  a horse? Or take one out for a ride?
+  
+  How can I help?
+Custom001: |
+  <3 Type='0' Data='0700'/>So, what would you like to do?<0 Type='4'/>Give your horse a harness? Put on a new
+  saddle or bridle? Restyle its mane?
+Talk8059: |
+  <3 Type='0' Data='0800'/>Thanks for your continued
+  patronage, Linkette!
+  
+  Do you want to register a horse? Take
+  one out for a ride?<5 Type='0'/> How can I help?
+QuestionTalk_01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Glad to help.<5 Type='1'/> What would you like to
+  know about horses?
+Talk8002: |
+  <3 Type='0' Data='0800'/>Linkette.<5 Type='1'/> All right, Mr. Linkette...<5 Type='1'/> There.
+  
+  
+  You're all signed up.
+QuestionTalk_02: |
+  <3 Type='0' Data='0000'/>Anything else I can clarify for you?
+Register30: |
+  <3 Type='0' Data='0700'/>I see you've got a <0 Type='3' Data='0000'/>towing harness<0 Type='3' Data='ffff'/>
+  attached. What do you want to do?
+Com_Photo_01: |
+  <3 Type='0' Data='0c00'/>All the stable owners were given free
+  rein over what to put in those frames,
+  so I thought and thought about it...<5 Type='0'/>
+  <3 Type='0' Data='0701'/>Then I had an idea.<5 Type='0'/> Lady Impa visited
+  here a while back, and she told me about
+  these <0 Type='3' Data='0000'/>geoglyph <0 Type='3' Data='ffff'/>things.
+  They showed up all over Hyrule—there's
+  even one <0 Type='3' Data='0000'/>near this stable<0 Type='3' Data='ffff'/>. I'd love to paint
+  a picture of that one.
+  <3 Type='0' Data='0c00'/>Unfortunately, since it's so big, I can't get
+  a <0 Type='3' Data='0000'/>panoramic view <0 Type='3' Data='ffff'/>of the thing. I don't
+  even know what it's meant to depict.
+  But I'd settle for a decent <0 Type='3' Data='0000'/>picture <0 Type='3' Data='ffff'/>of
+  the <0 Type='3' Data='0000'/>geoglyph <0 Type='3' Data='ffff'/>to base my painting on.
+QuestionTalk_03: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0c004e006f007400690063006500'/>Oh, no problem. I'm happy to repeat
+  myself as many times as you need me to.
+Register31: |
+  <3 Type='0' Data='0700'/>If you'd like, you can also <0 Type='3' Data='0000'/>change <0 Type='3' Data='ffff'/>certain
+  things about your horse.
+  
+  You can't restyle your horse's mane yet,<5 Type='0'/>
+  but you can equip it with a harness or a
+  different saddle or bridle.
+Com_Photo_02: |
+  <3 Type='0' Data='0b00'/>Huh?<5 Type='0'/> Do you have a <0 Type='3' Data='0000'/>picture of
+  the geoglyph<0 Type='3' Data='ffff'/>?
+Com_Welcome: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Welcome to <0 Type='3' Data='0000'/>New Serenne Stable<0 Type='3' Data='ffff'/>.
+Register32: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Thank you, Linkette.<0 Type='4'/>As a patron of the stables, we're offering
+  you a <0 Type='3' Data='0000'/>half-price discount on all fees<0 Type='3' Data='ffff'/> at
+  our inn.
+  <3 Type='0' Data='0701'/>That also makes registering a horse only
+  <0 Type='3' Data='0000'/>10 rupees<0 Type='3' Data='ffff'/>. How does that sound?
+Bell0020: |
+  <3 Type='0' Data='0800'/>Oh. Oh my. This is big. All <0 Type='3' Data='0000'/>stable fees<0 Type='3' Data='ffff'/>
+  will be permanently...
+  
+  <FontSize Value='125'/>FIFTY!
+  
+  
+  PERCENT!
+  
+  
+  OFF!<FontSize Value='100'/>
+Com_Photo_03: |
+  <3 Type='0' Data='0700'/>Have you heard about the mysterious
+  <0 Type='3' Data='0000'/>geoglyphs<0 Type='3' Data='ffff'/> that appeared all over Hyrule?
+  There's one <0 Type='3' Data='0000'/>near <0 Type='3' Data='ffff'/>this stable.
+  Well, I'd like to paint a picture of one and
+  hang it up for my customers to see.
+  
+  <3 Type='0' Data='0c00'/>But since they're so big, I can't get a
+  good enough view to paint one.
+Register33: |
+  <3 Type='0' Data='0c00'/>Hey,<5 Type='0'/> you don't seem to have <0 Type='3' Data='0000'/>10 rupees<0 Type='3' Data='ffff'/>.
+  
+  
+  Taking care of horses has its costs, you
+  know. Sorry, you'll have to register your
+  horse another time.
+Bell0021: |
+  <3 Type='0' Data='0801'/>We appreciate your patronage!
+Com_Photo_04: |
+  <3 Type='0' Data='0b00'/>Huh?<5 Type='0'/> You painted a picture of
+  a <0 Type='3' Data='0000'/>geoglyph<0 Type='3' Data='ffff'/>?!
+Talk21: |
+  <3 Type='0' Data='0c00'/>You don't have the necessary funds.<5 Type='1'/> I'm
+  afraid that even you can't stay unless you
+  pay the full amount.
+Register34: |
+  <3 Type='0' Data='0700'/>If you'd like, you can also equip your
+  horse with—
+Custom007: |
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Would you like to change anything else?
+Bell0022: |
+  <3 Type='0' Data='0800'/>The horse-god fabric will be yours!
+  
+  
+  That's a one-of-a-kind item you can
+  bring to the <0 Type='3' Data='0000'/>Hateno Village<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>dye shop<0 Type='3' Data='ffff'/>
+  over in Necluda.
+Com_Photo_05: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>I sure wish I could see a <0 Type='3' Data='0000'/>panoramic view<0 Type='3' Data='ffff'/>
+  of a <0 Type='3' Data='0000'/>geoglyph<0 Type='3' Data='ffff'/>...
+Talk22: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>If you sleep in a Malanya bed, not only
+  will you wake up <0 Type='3' Data='0000'/>more energized<0 Type='3' Data='ffff'/>...
+  
+  Malanya, the horse god, may also <0 Type='3' Data='0000'/>share
+  a mystical message<0 Type='3' Data='ffff'/>. It's a very popular
+  choice among our customers.
+  Want to try it? If you do, when would you
+  like to be woken up?
+Register35: |
+  <3 Type='0' Data='0000'/>And I don't think this steed would want
+  me to mess with its mane either.
+Custom008: |
+  <3 Type='0' Data='0700'/>What would you like to do?
+  
+  
+  You can't restyle your horse's mane yet,
+  but you can equip it with a harness or
+  change its saddle or bridle.
+Com_Photo_06: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>If you happen to have <0 Type='3' Data='0000'/>a picture of a
+  geoglyph<0 Type='3' Data='ffff'/>, please do show me!

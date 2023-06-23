@@ -1,0 +1,26 @@
+Talk_1004: |
+  <3 Type='0' Data='0100'/>See? It's <0 Type='3' Data='0000'/>directly below us<0 Type='3' Data='ffff'/>.
+Talk_1005: |
+  <3 Type='0' Data='0700'/>I plan to return and report my findings to
+  Josha after I rest a short while longer.<0 Type='4'/>If you plan on entering the <0 Type='3' Data='0000'/>chasm<0 Type='3' Data='ffff'/>, I urge
+  you to do so with caution.
+Near_1000: |
+  Hello there!
+Talk_1006: |
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/><4 Type='0' Data='1000480061007000700079005f0030003000'/><0 Type='3' Data='ffff'/>The <0 Type='3' Data='0000'/>chasm<0 Type='3' Data='ffff'/>...
+Talk_1000: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>You must be Linkette!<0 Type='4'/>It's a pleasure to meet you.<5 Type='0'/> I am Ponnick,
+  of the <0 Type='3' Data='0000'/>Zonai Survey Team<0 Type='3' Data='ffff'/>.
+Talk_1007: |
+  <3 Type='0' Data='0000'/>is <0 Type='3' Data='0000'/>just below us<0 Type='3' Data='ffff'/>.
+Talk_1001: |
+  <3 Type='0' Data='0700'/>Well, well! If it isn't Linkette.<0 Type='4'/>I haven't seen you since we met at the
+  Hyrule Field Chasm.
+Talk_1008: |
+  <3 Type='0' Data='0700'/>If you truly insist upon entering it, please
+  do so with an abundance of caution.
+Talk_1002: |
+  <3 Type='0' Data='0700'/>My, if it isn't Linkette.
+Talk_1003: |
+  <3 Type='0' Data='0701'/><0 Type='3' Data='0000'/>Josha<0 Type='3' Data='ffff'/> asked me to search the area around
+  Rito Village for a <0 Type='3' Data='0000'/>chasm<0 Type='3' Data='ffff'/>...<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>And lo and behold, I found one!

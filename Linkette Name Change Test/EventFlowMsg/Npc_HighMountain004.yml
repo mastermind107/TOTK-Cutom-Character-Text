@@ -1,0 +1,83 @@
+Talk21: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hoo hoo! If it isn't Linkette!<5 Type='0'/><0 Type='4'/><3 Type='0' Data='0701'/>I am glad to see you safe and looking
+  so well.<5 Type='1'/>
+Talk22: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>I designed new training devices, but until
+  the blizzard subsides, there's no way I'll
+  be able to test them.
+  <3 Type='0' Data='0101'/>All I can do is protect this place as best
+  I can.<0 Type='4'/><3 Type='0' Data='0101'/>But don't worry about me. I have age and
+  wisdom on my side. Or age, at least.<5 Type='0'/>
+  Hoo hoo hoo!
+Talk23: |
+  <3 Type='0' Data='0700'/>As you may have heard, I retired from my
+  position as elder and entrusted the village
+  to Teba's leadership.<5 Type='0'/>
+  Now I spend my days here, at the Flight
+  Range, helping mold the next generation
+  of Rito warriors.<5 Type='1'/>
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>I may look like an old fossil now, but I was
+  quite the warrior in my day! I would have
+  bested even Teba!
+  <3 Type='0' Data='0101'/>Not so anymore though. <5 Type='0'/>Hoo hoo...
+TerrorLightning_00: |
+  How distressing...
+TerrorHorse: |
+  Watch where you're going!
+Talk24: |
+  <3 Type='0' Data='0c00'/>Unfortunately, the equipment here has
+  been damaged in the blizzard.<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0001'/>I would like to install new training devices,
+  but there's no telling when I'll be able to
+  actually do so.
+Talk25: |
+  <3 Type='0' Data='0700'/>This is a meaningful place for the Rito.
+  I feel a duty to protect it.
+Talk26: |
+  <3 Type='0' Data='0a01'/>That said, the most these old bones can
+  really manage is to prevent the Flight
+  Range from being buried in snow.
+  <3 Type='0' Data='0001'/>That's why I have to keep this fire going.<5 Type='0'/>
+Talk27: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0a005400680069006e006b00'/>Spare some thought, though, for Teba
+  and the villagers.<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0501'/>They are banding together admirably to
+  overcome this accursed blizzard. <5 Type='0'/>Yet I
+  can't help but worry.
+  <3 Type='0' Data='0500'/>We can only hope the snows thaw soon.<5 Type='0'/>
+TerrorArrow: |
+  Stop that!
+TerrorGuardian: |
+  I'm doomed...
+Talk28: |
+  <3 Type='0' Data='0700'/>Hoo hoo... <5 Type='1'/>That archery set is left over
+  from past training sessions.<0 Type='4'/>It's a shame they're simply collecting
+  dust, <5 Type='0'/>but I have no other plans for them.<0 Type='4'/><3 Type='0' Data='0001'/>You seem like someone who could put
+  them to good use, Linkette. <5 Type='0'/>They're yours,
+  if you want them.
+TerrorFire: |
+  Hot! Hot!
+Near01: |
+  How long will this go on?
+TerrorInsect: |
+  Little pest. Go away!
+TerrorImpulse: |
+  Hoo?!
+TerrorBomb: |
+  What are you doing?!
+TerrorExplosion: |
+  Oh!
+TerrorGeneric: |
+  Hoo?!
+TerrorEnemy: |
+  Stay away! I warn you!
+TerrorAnimal: |
+  Aah! Stay away, beast!
+TerrorIce: |
+  Eugh!
+NakedPlayer: |
+  Aren't you cold like that?
+TerrorSword: |
+  Cut that out!
+TerrorFlash: |
+  So bright...
+ClearTerrorEnemy: |
+  That was close...

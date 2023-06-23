@@ -1,0 +1,219 @@
+Talk_0008: |
+  <3 Type='0' Data='0b00'/>Now Gesane, this is my fault, not yours.
+  
+  
+  <3 Type='0' Data='0500'/>I was too rosy with my estimates.
+Talk_0037: |
+  <3 Type='0' Data='0700'/>And with that, I'm off to Lookout Landing.
+Talk_0038: |
+  <3 Type='0' Data='0c01'/>All right. Work at Lookout Landing is
+  nearly wrapped up.<0 Type='4'/>Which also means I'm out of work...
+  You wouldn't know <0 Type='3' Data='0000'/>anybody who needs
+  a carpenter<0 Type='3' Data='ffff'/>, would you?
+Talk_0009: |
+  <3 Type='0' Data='0a00'/>I'm sorry, Karson. I wish we had more
+  building supplies for you to use.
+Talk_0039: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Is that right?<0 Type='4'/><3 Type='0' Data='0801'/>Well, if ever you need a guy who knows
+  his way around a hammer and nails, keep
+  me in mind!
+Talk_0010: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>We were so focused on gathering food
+  that we let our stockpile of building
+  materials go practically empty.
+Near_0001: |
+  What was his name again?
+Talk_0011: |
+  <3 Type='0' Data='0a00'/>There's some wood stockpiled at the
+  newspaper office, but not enough to
+  rebuild the bridge.
+  I guess our only option is to chop down
+  some of the trees around here... Urgh...
+Near_0002: |
+  It's worse than I thought...
+Talk_0041: |
+  <3 Type='0' Data='0700'/>Ah, Linkette. It's about the bridge job.
+  
+  
+  <3 Type='0' Data='0300'/>We've hit a bit of a snag. See, the thing's
+  in worse shape than I accounted for.
+Talk_0012: |
+  <3 Type='0' Data='0a00'/>We can't even scrounge up <0 Type='3' Data='0000'/>20 pieces
+  of wood<0 Type='3' Data='ffff'/>? It's shameful.<0 Type='4'/>Karson traveled all this way, and we have
+  nothing for him to work with.
+Near_0003: |
+  We must rebuild the bridge.
+Talk_0042: |
+  <3 Type='0' Data='0700'/>Karson here estimates that we're short
+  <0 Type='3' Data='0000'/>20 pieces of wood<0 Type='3' Data='ffff'/>. Is that right?
+Near_0004: |
+  We're short on wood...
+Talk_0015: |
+  <3 Type='0' Data='0a00'/>I had no idea this job would be so big that
+  it needed <0 Type='3' Data='0000'/>20 pieces of wood<0 Type='3' Data='ffff'/>.<0 Type='4'/>In retrospect, this is a bridge we're talking
+  about, so I guess it makes sense...
+Talk_0016: |
+  <3 Type='0' Data='0c00'/>Yep. We may be able to get what we
+  need by chopping down trees.
+  
+  But that'll be a whole project in itself.
+Talk_0047: |
+  <3 Type='0' Data='0800'/><FontSize Value='125'/>Son and done!<FontSize Value='100'/>
+Talk_0019: |
+  <3 Type='0' Data='0b00'/>Hm? It's wood! 20 pieces of it!
+  
+  
+  Must've been a real pain in the neck
+  collecting that on your own. <5 Type='0'/>You sure I
+  can have it?
+Talk_0050: |
+  <3 Type='0' Data='0800'/>Aces! Thanks for helping me out
+  at such a late hour.
+Talk_0051: |
+  <3 Type='0' Data='0800'/>Aces! Thanks for helping me out
+  at such an early hour.
+0000: |
+  No one comes to mind.
+Talk_0023: |
+  <3 Type='0' Data='0801'/>All right! That's all the materials!
+Talk_0052: |
+  <3 Type='0' Data='0700'/>With that done, life in Rito Village should
+  return to something like normal.
+  
+  I will take responsibility for guarding the
+  bridge. Please, accept this gift.<5 Type='1'/>
+0001: |
+  The Rito's bridge...
+Talk_0024: |
+  <3 Type='0' Data='0800'/>Aces! Thanks much.
+Talk_0053: |
+  <3 Type='0' Data='0701'/>I had that money set aside for repairing
+  the bridge, but I hope you'll get some use
+  out of it.
+Talk_0054: |
+  <3 Type='0' Data='0700'/>Naturally, I'm worried about <0 Type='3' Data='0000'/>Princess<0 Type='3' Data='ffff'/>
+  <0 Type='3' Data='0000'/>Zelda <0 Type='3' Data='ffff'/>being seen at Hyrule Castle.
+  
+  <3 Type='0' Data='0c01'/>But what can I do about it? At the end of
+  the day, I'm just a carpenter. 
+0002: |
+  Here you go.
+Talk_0025: |
+  <3 Type='0' Data='0700'/>Come on, Gesane! Time to fix this busted
+  bridge of yours! Son and done!
+0003: |
+  Goodbye.
+Talk_0026: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>The bridge... It's finished!
+Talk_0056: |
+  <3 Type='0' Data='0c00'/>So what do we do? A sticky sitch, this.
+Talk_0027: |
+  <3 Type='0' Data='0800'/>Amazing! Fantastic! Now we can carry
+  supplies across!
+Talk_0057: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Ah. <5 Type='1'/>The bridge job you told me about?
+  Sounds easy enough.
+  
+  <3 Type='0' Data='0000'/>I heard it fell apart when that blizzard
+  struck Rito Village.
+  
+  <3 Type='0' Data='0801'/>But if they're looking to have it fixed, that
+  strange weather must've died down, eh?
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Well then, no time to gab. <5 Type='0'/>I'll have that
+  bridge lookin' good as new in less than
+  no time! Son and done!
+Talk_0028: |
+  Gesane, let's plonk this down a little
+  farther to the left... <5 Type='1'/>Not that far!
+0006: |
+  What happened?
+Talk_0058: |
+  <3 Type='0' Data='0c00'/>I can't believe the bridge is in such a
+  sorry state...
+Talk_0029: |
+  <3 Type='0' Data='0701'/>And now, for the finishing touch!<0 Type='4'/><5 Type='1'/>Here goes...
+Talk_0001: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0c005300610064005f0030003100'/>Now that the blizzard has passed,
+  I'd like to repair the bridge so that
+  supplies can arrive in the village.
+  Sadly, we're not equipped for a major
+  rebuilding project...<5 Type='0'/><0 Type='4'/><0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><0 Type='3' Data='ffff'/>But I've heard there are <0 Type='3' Data='0000'/>Hylians <0 Type='3' Data='ffff'/>who are
+  skilled in construction.<0 Type='4'/>Say, you're a Hylian. Do you know anyone
+  who can help?
+0007: |
+  I'll leave you to it.
+Talk_0059: |
+  It's falling down the cliff! <5 Type='0'/>Timberrr!<5 Type='1'/>
+Talk_0030: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>I gotta say, I was a little worried about
+  how it'd turn out. But what a beaut!<0 Type='4'/><3 Type='0' Data='0801'/>You could hit this bridge with 10
+  blizzards at once, and it wouldn't
+  so much as creak!
+Talk_0060: |
+  Pheeew! Good catch. <5 Type='1'/>Those wings sure
+  come in handy, eh? Or...wingy.
+Talk_0031: |
+  <3 Type='0' Data='0701'/>Gesane, if you ever need my help, just
+  say the word and I'll come running.
+  No problem's too small.
+Talk_0003: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003100'/>Hmm. <5 Type='0'/>Sounds like you need a
+  good <0 Type='3' Data='0000'/>carpenter<0 Type='3' Data='ffff'/>.<0 Type='3' Data='0000'/><0 Type='4'/><0 Type='3' Data='ffff'/><3 Type='0' Data='0701'/>I know! What about that guy at
+  <0 Type='3' Data='0000'/>Lookout Landing<0 Type='3' Data='ffff'/>?<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>If he could build an incredible structure
+  like that, I bet he'll have no problem fixing
+  up your bridge!
+  <3 Type='0' Data='0500'/>His name was... <5 Type='1'/>Oh, shoot. I don't
+  remember. But it <0 Type='3' Data='0000'/>ended in "son."<0 Type='3' Data='ffff'/>
+Talk_0061: |
+  Hey, don't set your tail down there!<5 Type='0'/>
+  It's a support beam, not a perch!
+Talk_0032: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Thank you. That's very reassuring.<0 Type='4'/>And the same goes for you. You have an
+  open invitation to call upon our help.
+Talk_0004: |
+  <3 Type='0' Data='0700'/>I bet the <0 Type='3' Data='0000'/>carpenter<0 Type='3' Data='ffff'/> at <0 Type='3' Data='0000'/>Lookout Landing<0 Type='3' Data='ffff'/>
+  will be able to restore this bridge.<0 Type='4'/>His name was... <5 Type='1'/>Um...<0 Type='4'/><3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Argh! It's on the tip of my tongue!<0 Type='4'/>There's no use. All I can remember for
+  sure is that it <0 Type='3' Data='0000'/>ends in "son."<0 Type='3' Data='ffff'/>
+Talk_0062: |
+  <3 Type='0' Data='0700'/>I appreciate the sentiment, but in this
+  case it's not the thought that counts.
+  It's the <0 Type='3' Data='0000'/>wood<0 Type='3' Data='ffff'/>. We need <0 Type='3' Data='0000'/>20 pieces <0 Type='3' Data='ffff'/>of it.
+  Perhaps we can get what we need by
+  chopping down trees here.
+  
+  <3 Type='0' Data='0a00'/>But that's going to be a project in itself.
+Talk_0033: |
+  <3 Type='0' Data='0800'/>A bridge connecting Hylians and the Rito,
+  literally and otherwise... <5 Type='1'/>This is gonna
+  make a great article!
+Talk_0005: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>That's all right. The information you've
+  given me is enough to go on.<0 Type='4'/><3 Type='0' Data='0c01'/>If I could, I'd drop everything, head to
+  <0 Type='3' Data='0000'/>Lookout Landing<0 Type='3' Data='ffff'/>, and bring that Hylian
+  back here.
+  However, my defense duties come first.
+  I have to stay here for now and ensure
+  the village is safe.<5 Type='0'/>
+  <3 Type='0' Data='0c00'/>Then again, a broken bridge is hardly
+  "safe," either. What to do...
+Talk_0063: |
+  <3 Type='0' Data='0a00'/>We may be able to get what we need from
+  the trees around here.
+  
+  But to get all that lumber, we'll be
+  chopping for days...
+Talk_0006: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Fantastic! Yes, he sounds up to the task.<0 Type='4'/><3 Type='0' Data='0a01'/>However, I can't leave the village right
+  now, what with my defense duties.<0 Type='4'/>We'll have to dispatch an emissary to
+  <0 Type='3' Data='0000'/>Lookout Landing <0 Type='3' Data='ffff'/>in my place.<0 Type='4'/><3 Type='0' Data='0c00'/>But who to send? Everyone's so busy...
+Talk_0007: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>They need someone to rebuild their
+  bridge, huh? <5 Type='0'/>Sounds easy enough.<0 Type='4'/><3 Type='0' Data='0000'/>I heard it fell apart when that blizzard
+  struck Rito Village.<0 Type='4'/><3 Type='0' Data='0801'/>But if they're looking to have it fixed, that
+  strange weather must've died down, eh?<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Well then, no time to gab. <5 Type='0'/>I'll have that
+  bridge lookin' good as new in less than
+  no time! Son and done!
+Talk_0036: |
+  <3 Type='0' Data='0800'/>Aces! Thanks for helping me out
+  in this rain.

@@ -1,0 +1,22 @@
+EndEvent_Npc_08: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Heh... In truth, it has been a long while
+  since I have left the familiar waters of
+  the domain.
+  I must admit, the challenge of the
+  unknown fills me with more excitement
+  than is befitting a Zora of my age.
+EndEvent_Npc_07: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Ah! Linkette. You have done it!
+  
+  
+  <4 Type='0' Data='1000480061007000700079005f0030003100'/>With your help, King Sidon has
+  realized his full potential and
+  become a worthy successor.
+  I can now leave Zora's Domain free of
+  concern. It is inarguably in good hands.
+  
+  As it were, I have been tasked with joining
+  Purah as a representative of the domain.
+  
+  <4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>I look forward to joining my efforts with
+  those of our brave Zora soldiers.

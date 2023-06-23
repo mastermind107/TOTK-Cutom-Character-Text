@@ -1,0 +1,26 @@
+talk_11: |
+  Please take it.
+talk_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>What I have just given you is an
+  <0 Type='3' Data='0000'/>Energy Cell<0 Type='3' Data='ffff'/>.<0 Type='4'/>It is required to make use of the tools
+  known as <0 Type='3' Data='0000'/>Zonai devices<0 Type='3' Data='ffff'/>.<0 Type='4'/>I cannot demonstrate its utility because
+  there are no Zonai devices right here.
+talk_12: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>I have an associate working at the river
+  near the base of this mountain.<0 Type='4'/>They can teach you how to use this.
+talk_03: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Linkette.
+talk_13: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>I have an associate in the cave ahead of
+  here. They are working at the other end.<0 Type='4'/>They can teach you how to use this.
+talk_04: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>However, I have associates on the other
+  side of that cave system.<0 Type='4'/>They can teach you how to use this.
+talk_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>I came because there is something I failed
+  to give you.
+talk_05: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>I hope that the <0 Type='3' Data='0000'/>Energy Cell <0 Type='3' Data='ffff'/>I provided is
+  useful to you.
+talk_10: |
+  <3 Type='0' Data='0700'/>Take care.

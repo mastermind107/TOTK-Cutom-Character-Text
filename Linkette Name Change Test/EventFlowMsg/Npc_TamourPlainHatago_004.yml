@@ -1,0 +1,140 @@
+Com_Welcome: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Welcome!<5 Type='0'/> You've found yourself at
+  <0 Type='3' Data='0000'/>South Akkala Stable<0 Type='3' Data='ffff'/>.
+Com_Photo_03: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0048006100700070007900'/>I'm thinking I'd like to hang up a painting
+  of the Unity Bell—you know, the one over
+  in <0 Type='3' Data='0000'/>Tarrey Town<0 Type='3' Data='ffff'/>, <0 Type='3' Data='0000'/>east<0 Type='3' Data='ffff'/> of here.
+  <3 Type='0' Data='0801'/>The story goes that if two people ring that
+  bell together, then their love will last
+  forever. All sorts of couples go visit it.
+  <3 Type='0' Data='0701'/>My daughters have been asking for a
+  <0 Type='3' Data='0000'/>picture of the Unity Bell <0 Type='3' Data='ffff'/>to liven up
+  the place.<0 Type='4'/><3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003100'/>I'd go paint a picture myself, but work
+  keeps me too busy.
+Com_Photo_Thank: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Thanks to you, Linkette, I finished that
+  painting. My daughters sure are happy!<0 Type='4'/>I've even heard them say they'd like to
+  ring it with their own special someone.<5 Type='1'/>
+  I sure hope they find the same joy I did.
+9001: |
+  Take a look at this.
+Com_Photo_04: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Oh,<5 Type='0'/> did you bring me a picture of the
+  <0 Type='3' Data='0000'/>Unity Bell<0 Type='3' Data='ffff'/>?!
+DoNotWakka_01: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Whoa there, <5 Type='0'/>sir, please stop!<5 Type='0'/> That belongs
+  to the stable. <5 Type='0'/>You can't remove it!
+  
+  The shape of that <0 Type='3' Data='0000'/>ring garland<0 Type='3' Data='ffff'/> is
+  supposed to bring good fortune. <5 Type='0'/>Stables
+  keep them around as lucky charms.
+  They're made at a place called <0 Type='3' Data='0000'/>Kakariko
+  Village<0 Type='3' Data='ffff'/> in the hills far to the southwest.
+  
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Now, if you like it so much, <5 Type='0'/>you can go
+  get one for yourself.
+BurnedWakka_01: |
+  <3 Type='0' Data='0301'/>If you're that fixated on our garland,
+  why not go get your own?!
+  
+  You'll find them for sale in a place
+  called <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>. Just head to the
+  mountain range southwest of here.
+9002: |
+  Goodbye
+Com_Photo_05: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>If I had a picture of it in front of me to use
+  as reference, I'm sure I could paint up
+  something real nice.
+DoNotWakka_02: |
+  <3 Type='0' Data='0900'/>Excuse me, sir! That's the stable's 
+  good-luck charm, so kindly leave it alone!<0 Type='4'/>If you like it, I'm sure you can find one
+  for yourself.<0 Type='4'/>They're made in <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>, a town
+  in the hills a ways southwest of here.
+9003: |
+  I'm not showing you.
+Com_Photo_06: |
+  <3 Type='0' Data='0701'/>If you have a <0 Type='3' Data='0000'/>picture of the Unity Bell<0 Type='3' Data='ffff'/><5 Type='0'/>,
+  <5 Type='0'/>I'd sure appreciate a look!
+Com_Photo_07: |
+  <3 Type='0' Data='0801'/>Ah...it's almost as if I can hear the bell's
+  happy ring. I hear lots of couples have
+  held their wedding ceremonies there.
+  If you ever capture a different <0 Type='3' Data='0000'/>picture
+  of the Unity Bell<0 Type='3' Data='ffff'/>, I'm happy to make a
+  new painting.
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>All you need to do is show me the picture
+  so I can use it as reference!
+WakkaCharm: |
+  What a nice garland.
+Com_Photo_08: |
+  <3 Type='0' Data='0801'/>This sure brings back the memories...<5 Type='1'/>
+  You see,<5 Type='0'/> I did ring it once.
+  
+  My wife and I rang it together, in fact.
+  And here we are, still happy together,
+  all thanks to that bell.
+Goodbye_01: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>I almost forgot! Have you stopped by the
+  stable to the <0 Type='3' Data='0000'/>northeast<0 Type='3' Data='ffff'/>?<0 Type='4'/>Rumor has it that the <0 Type='3' Data='0000'/>horse god<0 Type='3' Data='ffff'/> has
+  moved to that neck of the woods.<0 Type='4'/>I've heard that he's very powerful.
+  He can even resurrect a horse!<0 Type='4'/>Isn't that amazing? I bet anyone who
+  appreciates horses would be happy
+  to have him around.
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003100'/>*sigh* I wish he'd settled a little closer to
+  OUR stable.
+Com_Photo_09: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0048006100700070007900'/>It's said that if two people ring the
+  Tarrey Town Unity Bell together,
+  they'll be granted eternal love.
+  It would make my daughters very happy
+  if I hung up a pretty <0 Type='3' Data='0000'/>painting of the
+  Unity Bell<0 Type='3' Data='ffff'/> on the wall here.
+9006: |
+  I'd like to change it.
+9007: |
+  It's fine the way it is.
+Com_Photo_10: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>Each time I look at the Unity Bell,
+  <5 Type='0'/>I remember the time I rang it with
+  my wife.
+Com_Photo_12: |
+  <3 Type='0' Data='0801'/>So,<5 Type='0'/> is there something you'd like to do
+  with the <0 Type='3' Data='0000'/>picture of the Unity Bell<0 Type='3' Data='ffff'/>?
+Com_FirstTime_Only01: |
+  <3 Type='0' Data='0701'/>And now, in honor of your first visit with
+  us here at <0 Type='3' Data='0000'/>South Akkala Stable<0 Type='3' Data='ffff'/>...
+Com_FirstTime_Only02: |
+  <3 Type='0' Data='0701'/>In honor of both your first visit to
+  <0 Type='3' Data='0000'/>South Akkala Stable <0 Type='3' Data='ffff'/>and <0 Type='3' Data='0000'/>registering a
+  horse<0 Type='3' Data='ffff'/> with us...
+Com_Photo_01: |
+  <3 Type='0' Data='0701'/>I asked my family what sort of picture we
+  should put up,<5 Type='0'/> and we've finally decided.
+  
+  Have you seen the "Unity Bell" in
+  <0 Type='3' Data='0000'/>Tarrey Town<0 Type='3' Data='ffff'/> over in the east?
+  
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>The story goes that if two people ring it
+  together, their love will last forever.<5 Type='0'/>
+  All sorts of couples pay it a visit.
+  <3 Type='0' Data='0701'/>Anyway, I think it would be nice to paint a
+  <0 Type='3' Data='0000'/>picture of the Unity Bell<5 Type='0'/> <0 Type='3' Data='ffff'/>and hang it here
+  at the stable.
+  All four of my daughters think it would
+  look perfect on the wall too!
+  
+  <3 Type='0' Data='0301'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>But...I really need to go see it if I'm going
+  to paint it accurately.<5 Type='0'/> And, well, work is
+  far too busy for me to get away.
+  <3 Type='0' Data='0c01'/>Of course...if I had a <0 Type='3' Data='0000'/>picture <0 Type='3' Data='ffff'/>of the
+  bell in front of me,<5 Type='0'/> I could just use
+  that as reference.
+Com_FirstTime_Only03: |
+  <3 Type='0' Data='0701'/>Since this is not only your first visit to
+  <0 Type='3' Data='0000'/>South Akkala Stable <0 Type='3' Data='ffff'/>but you've also
+  chosen to <0 Type='3' Data='0000'/>sleep here<0 Type='3' Data='ffff'/>...
+Com_Photo_02: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Oho,<5 Type='0'/> you have a picture of the
+  <0 Type='3' Data='0000'/>Unity Bell<0 Type='3' Data='ffff'/>?

@@ -1,0 +1,135 @@
+TerrorLightning_01: |
+  Yeeek!
+TerrorLightning_02: |
+  Watch it!
+TerrorEnemy: |
+  Yeeek!
+TerrorFlash: |
+  Hey now!
+TerrorHorse_00: |
+  Aaah!
+TerrorHorse_01: |
+  Ngh!
+TerrorHorse_02: |
+  Hey now!
+TerrorExplosion: |
+  Aaah!
+ClearTerrorEnemy: |
+  That was shocking...
+TerrorSword_00: |
+  Hey now!
+TerrorSword_01: |
+  Aaah!
+TerrorSword_02: |
+  Quit it!
+RideSeatCower: |
+  I'll faaall!
+TerrorFire: |
+  Hot, hot, hot!
+Talk2000: |
+  <3 Type='0' Data='0800'/>Thanks to you, Linkette, our music reached
+  the esteemed ears of all the Great Fairies!
+  
+  I'm sure they will provide you with
+  bountiful blessings.
+  
+  <3 Type='0' Data='0001'/>As for our ensemble, while we each bring
+  different notes to the melody, we all share
+  the same wish.
+  <3 Type='0' Data='0800'/>We will keep playing our music for
+  travelers and locals alike!
+  
+  If you ever find us performing somewhere,
+  Linkette, let us play for you! ♪All right?♪
+TerrorBomb_00: |
+  Look out!
+RideSeatDrown: |
+  The Breezer!
+TerrorBomb_01: |
+  Yeeek!
+TerrorBomb_02: |
+  Ngh!
+TerrorInsect: |
+  Ngh!
+Near0003: |
+  <4 Type='0' Data='0e00480075006d006d0069006e006700'/>♪The joy of the baton!♪
+Talk0002: |
+  <3 Type='0' Data='0800'/>I know! Since you came all the way here,
+  I'll share a special secret.<0 Type='4'/>I've heard it said that the secret to a
+  Great Fairy's beauty is <0 Type='3' Data='0000'/>monster parts<0 Type='3' Data='ffff'/>!<0 Type='4'/><3 Type='0' Data='0c00'/>Maybe they brew them into tinctures, or
+  maybe they grind them up for powder,
+  or maybe they even eat them.<0 Type='4'/>Who can fathom a Great Fairy's ways?<0 Type='4'/><3 Type='0' Data='0701'/>But I do know that if you want to receive
+  a Great Fairy's <0 Type='3' Data='0000'/>blessing<0 Type='3' Data='ffff'/>, bring all shapes
+  and sizes of monster parts.<0 Type='4'/>You'll be glad you did!
+Near0004: |
+  <4 Type='0' Data='0e00480075006d006d0069006e006700'/>A song for tired travelers...
+Talk0003: |
+  <3 Type='0' Data='0800'/>I know! Since you came all the way here,
+  I'll share a special secret.<0 Type='4'/>I've heard it said that the secret to a
+  Great Fairy's vitality is <0 Type='3' Data='0000'/>precious ore<0 Type='3' Data='ffff'/>!<0 Type='4'/><3 Type='0' Data='0c00'/>Do they swallow them or rub them into
+  their skin? Do they gain power by wearing
+  them as jewelry?<0 Type='4'/>Who can fathom a Great Fairy's ways?<0 Type='4'/><3 Type='0' Data='0701'/>But I do know that if you want to receive
+  a Great Fairy's <0 Type='3' Data='0000'/>blessing<0 Type='3' Data='ffff'/>, bring all shapes
+  and sizes of precious <0 Type='3' Data='0000'/>ore<0 Type='3' Data='ffff'/>.<0 Type='4'/>You'll be glad you did!
+Near0005: |
+  <4 Type='0' Data='0e00480075006d006d0069006e006700'/>The Great Fairies are fans!
+Talk0004: |
+  <3 Type='0' Data='0700'/>Are you visiting the Great Fairies from
+  time to time?
+  
+  There's Tera at Woodland Stable and, of
+  course, Kaysa at Outskirt Stable.<0 Type='4'/>Can't forget Mija at Snowfield Stable,
+  and last but not least, Cotera at Dueling
+  Peaks Stable.<0 Type='4'/>But whichever Great Fairy you visit, she's
+  sure to bestow her blessings on travelers!
+Near0006: |
+  <4 Type='0' Data='0e00480075006d006d0069006e006700'/>Hooray! Hurrah!
+Talk0005: |
+  <3 Type='0' Data='0b00'/>Oh my! You're quite underdressed.<0 Type='4'/>You might distract our audience, and we
+  do work so hard to entertain!
+Near0007: |
+  <4 Type='0' Data='0e00480075006d006d0069006e006700'/>The rain keeps time...
+Talk0006: |
+  <3 Type='0' Data='0800'/>Drip-drop in harmony with clip-clop!<0 Type='4'/>Today, even the rain is playing along with
+  the Stable Heroes!
+TerrorArrow_00: |
+  Ah!
+Near0008: |
+  <4 Type='0' Data='0e00480075006d006d0069006e006700'/>Snow is a fine inspiration...
+Talk2008: |
+  <3 Type='0' Data='0800'/>Ah, Linkette! You're pretty much a regular
+  now, aren't you?
+Talk0007: |
+  <3 Type='0' Data='0b00'/>Whoops, I forgot to keep conducting!<0 Type='4'/>They'll be lost without me...<5 Type='1'/>
+TerrorArrow_01: |
+  Quit it!
+Talk2009: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a0048006100700070007900'/>You braved a thunderstorm for the sake
+  of our music? ♪So brave!♪
+  
+  While our performance cannot lift the
+  clouds, it will lift your spirits!
+Talk0008: |
+  <0 Type='3' Data='0200'/><FontSize Value='80'/>Oh? <5 Type='0'/>How odd. <5 Type='0'/>They've just played on.<5 Type='1'/><FontSize Value='100'/><0 Type='3' Data='ffff'/>
+TerrorArrow_02: |
+  Hey now!
+Talk2010: |
+  <3 Type='0' Data='0800'/>Linkette! You've come to hear us play! You
+  must really love our music!
+Talk0009: |
+  <3 Type='0' Data='0800'/>Pitter-patter, flitter-flutter...<0 Type='4'/>The snow is softly accompanying the
+  Stable Heroes today!
+TerrorGeneric_00: |
+  Aaah!
+Talk0010: |
+  <0 Type='3' Data='0200'/><FontSize Value='80'/>Oh? <5 Type='1'/>None of them were even watching me...<5 Type='1'/><FontSize Value='100'/><0 Type='3' Data='ffff'/>
+TerrorGeneric_01: |
+  Ah!
+TerrorIce: |
+  Aaah!
+TerrorGeneric_02: |
+  Ngh!
+TerrorLightning_00: |
+  Look out!
+TerrorAnimal: |
+  Ngh!

@@ -1,0 +1,203 @@
+Talk1006: |
+  <FontSize Value='125'/><3 Type='0' Data='0800'/>A <0 Type='3' Data='0000'/>rumored beast<0 Type='3' Data='ffff'/>'s footprints!<FontSize Value='100'/><5 Type='1'/>
+Com_Photo_09: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0a005400680069006e006b00'/>I'd like to paint a picture of the Ring Ruins
+  everyone's talking about. But they're so
+  far away.
+  What I need is a <0 Type='3' Data='0000'/>big, impressive picture<0 Type='3' Data='ffff'/>
+  of the ruins to use as reference.
+9006: |
+  I have a new picture.
+Talk1007: |
+  <3 Type='0' Data='0a01'/>Sorry... I got a little carried away.<0 Type='4'/>It's just that the <0 Type='3' Data='0000'/>rumored beast<0 Type='3' Data='ffff'/> is a hot
+  topic around the <0 Type='3' Data='0000'/>Stable Association <0 Type='3' Data='ffff'/>right
+  now, and, you know...<5 Type='1'/> It's so exciting...
+9007: |
+  That one is fine.
+Talk1008: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Hey, Linkette! Replacing our furnishings is
+  such a bother!<0 Type='4'/>That decoration is a popular lucky charm
+  right now, so we made sure to get one
+  for our stable.<0 Type='4'/>If you want your own, they sell them
+  in <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>, which is in the
+  mountains to the southeast.
+Talk1009: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>Now, now, Linkette!<5 Type='0'/> Please don't make me
+  tell you again!<0 Type='4'/>If you want one of these decorations,
+  you should go buy one for yourself.<0 Type='4'/>They sell them in <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>, which
+  you can find in the mountains southeast
+  of here.
+Com_FirstTime_Only01: |
+  <3 Type='0' Data='0701'/>Here's a little something to mark your first
+  visit to <0 Type='3' Data='0000'/>Wetland Stable<0 Type='3' Data='ffff'/>...
+Com_FirstTime_Only02: |
+  <3 Type='0' Data='0701'/>Not only is it your first visit to <0 Type='3' Data='0000'/>Wetland<0 Type='3' Data='ffff'/>
+  <0 Type='3' Data='0000'/>Stable<0 Type='3' Data='ffff'/> but you've also <0 Type='3' Data='0000'/>registered a horse<0 Type='3' Data='ffff'/>.
+  So here...
+Com_FirstTime_Only03: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><0 Type='3' Data='ffff'/>You <0 Type='3' Data='0000'/>slept in a regular bed<0 Type='3' Data='ffff'/> during your
+  first visit to <0 Type='3' Data='0000'/>Wetland Stable<0 Type='3' Data='ffff'/>, so...
+0000: |
+  Rumored beast?
+0001: |
+  Goodbye.
+0002: |
+  About the Dondon...
+Com_Photo_10: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003100'/>Whoa!<5 Type='0'/> That painting of the Ring Ruins
+  really makes a big impact in here!
+Com_Photo_Thank: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Thanks to you, Linkette, I got that painting
+  I wanted. Oh, everyone's going to talk
+  about this stable now!
+  A ring garland...<5 Type='0'/> A picture of the
+  Ring Ruins...<5 Type='0'/> Feels great to have all
+  these rings right here!
+Com_Photo_12: |
+  <3 Type='0' Data='0701'/>So,<5 Type='0'/> what do you think of that
+  <0 Type='3' Data='0000'/>Ring Ruins picture<0 Type='3' Data='ffff'/>?
+Talk1011: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='26005100750065007300740069006f006e00530075007200700072006900730065005f0030003000'/>Huh? At Lakeside Stable?!<0 Type='4'/>...<0 Type='4'/><3 Type='0' Data='0a01'/><4 Type='0' Data='0e0053006900670068005f0030003100'/>I see... So the rumors about the so-called
+  beast weren't very true, then.<0 Type='4'/>I must admit, it was thrilling to think that
+  there was a mysterious beast out there,
+  ready to spring into the open.
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003100'/>But thank you for letting me know. As
+  disappointing as it is, it's better to know
+  the truth.
+  Stables should be providing accurate
+  information for travelers and customers,
+  so it's important to know the real story!
+  Thank you for this valuable information.
+  Since you helped the stable out, here...
+Com_Photo_01: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003100'/>Since I'm going to the trouble of hanging
+  a painting, I'd sure like to hang one of the
+  <0 Type='3' Data='0000'/>Ring Ruins <0 Type='3' Data='ffff'/>everyone's talking about.
+  The Ring Ruins are ruins that are each
+  shaped like rings. They all fell around
+  Kakariko Village in the <0 Type='3' Data='0000'/>southeast<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>My gosh, are they ever a hot topic with
+  all the customers who come here!
+  
+  <3 Type='0' Data='0701'/>So I'd like to have a<0 Type='3' Data='0000'/> BIG painting <0 Type='3' Data='ffff'/>of them
+  to hang on the wall. One that shows that
+  <0 Type='3' Data='0000'/>ring-like shape <0 Type='3' Data='ffff'/>they have.
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>But I can't paint that scene without seeing
+  it. Sure, I can see some of the ruins from
+  here, but it's all too far away to see well.
+  Anyway, I'd really like to do up that
+  painting, but I'm just not sure how to
+  go about it.
+Talk1012: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>That's a good reward, right? I hope you
+  visit us again soon!
+BurnedWakka_01: |
+  <3 Type='0' Data='0201'/>If you're SO interested in that decoration,
+  how about you go buy your own?
+  
+  They're sold in <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>, which is
+  off in the mountainous area to the
+  southeast of here. So, there you are!
+Com_Photo_02: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Huh?<5 Type='0'/> Wait, do you have a picture of the
+  <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/>?
+Talk1013: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Linkette! Are you interested in those pictures
+  after all?<0 Type='4'/>It's not like the footprints of that
+  <0 Type='3' Data='0000'/>rumored beast <0 Type='3' Data='ffff'/>are something you
+  see every day, eh?
+Com_Photo_03: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0a005400680069006e006b00'/>Since I'm going to be hanging a painting
+  up, I'd like to hang one that shows the
+  Ring Ruins around Kakariko Village.
+  Everyone's talking about them these days!
+  
+  
+  I'd really like to display it in a big way,
+  so the<0 Type='3' Data='0000'/> picture<0 Type='3' Data='ffff'/> needs to show off their
+  unusual <0 Type='3' Data='0000'/>ring-like shape<0 Type='3' Data='ffff'/>.
+Talk1001: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0e0053006900670068005f0030003000'/>Say, Linkette,<5 Type='0'/> have you heard about the
+  trouble in <0 Type='3' Data='0000'/>Zora's Domain<0 Type='3' Data='ffff'/>?<0 Type='4'/><3 Type='0' Data='0c01'/>All that good water polluted by <0 Type='3' Data='0000'/>some kind
+  of mysterious muck<0 Type='3' Data='ffff'/>. As far as I know,
+  no one knows where it came from.
+  It's terrible for the Zora, of course,
+  being water folk. I'm not sure how
+  they'll manage.
+  <0 Type='3' Data='0000'/>Zora's Domain<0 Type='3' Data='ffff'/> is to the east past the
+  <0 Type='3' Data='0000'/>Lanayru Wetlands<0 Type='3' Data='ffff'/>. I used to recommend
+  it to tourists, but...well...
+Talk1014: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Linkette, are you still interested in the
+  Dondon footprints?<0 Type='4'/>To think that the rumors about a beast
+  were actually about animals Princess
+  Zelda cared for at Lakeside Stable...
+  All sorts of customers had been coming
+  to ask if those rumors were true.<0 Type='4'/><3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Thanks to your information, Linkette, we can
+  give them the real story. You really helped
+  us out!
+  Providing information is an essential
+  stable duty. The truth is always more
+  important than fanciful ideas.
+9001: |
+  Like this one?
+Com_Photo_04: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='26005100750065007300740069006f006e00530075007200700072006900730065005f0030003100'/>Huh?<5 Type='0'/> Did you bring me a picture of the
+  <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/>?!
+Talk1002: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='26005100750065007300740069006f006e00530075007200700072006900730065005f0030003000'/>Linkette! Did those drawings catch your
+  eye? Well, I'll let you in on a secret.
+  They're actually images of...<5 Type='1'/>
+Talk1015: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Hm? A customer?<5 Type='0'/> Please, allow me to
+  assist you at the counter.
+9002: |
+  Goodbye.
+Com_Photo_05: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='08005300690067006800'/>You can see them from this stable, but
+  they're still too far away for me to paint
+  them properly.<5 Type='0'/> I'm not sure what to do.
+9003: |
+  I'm not showing you.
+Com_Photo_06: |
+  <3 Type='0' Data='0701'/>If you have a <0 Type='3' Data='0000'/>picture of the Ring Ruins<0 Type='3' Data='ffff'/>,
+  please show it to me!
+WakkaCharm: |
+  Is that a ring garland?!
+Com_Welcome: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Welcome! This is <0 Type='3' Data='0000'/>Wetland Stable<0 Type='3' Data='ffff'/>.
+Talk1004: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Linkette, have you already decided where
+  you'll head next? Perhaps the beautiful
+  city of water, Zora's Domain?<0 Type='4'/>I also recommend <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>. It's
+  a popular spot due to its unusual ruins.
+  Have you seen them?
+  <3 Type='0' Data='0701'/>They're hard to miss. As you exit the
+  stable, head to your right, toward the
+  <0 Type='3' Data='0000'/>big ring<0 Type='3' Data='ffff'/>.
+Com_Photo_07: |
+  <3 Type='0' Data='0101'/>Whoa!<5 Type='0'/> I'm really happy with this nice, big
+  painting of the Ring Ruins here.
+  
+  But if you have a different <0 Type='3' Data='0000'/>picture of the
+  Ring Ruins<0 Type='3' Data='ffff'/>, I'm happy to copy it and hang
+  it there instead.
+  Yes, if you ever want to see some fresh
+  art up there, just show me a new image!
+Talk1005: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003100'/>That's right! Just a little while ago, a
+  customer who came from the <0 Type='3' Data='0000'/>south<0 Type='3' Data='ffff'/> drew
+  them for me.
+  It seems that there were <0 Type='3' Data='0000'/>twin kids <0 Type='3' Data='ffff'/>at a
+  stable somewhere who said they'd seen it.<0 Type='4'/>The customer heard all about the beast
+  and the footprints from those kids.<0 Type='4'/><3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Now, I don't tend to believe all of the wild
+  tales that kids tell, but...<0 Type='4'/><3 Type='0' Data='0701'/>There's been a lot of chatter around the
+  <0 Type='3' Data='0000'/>Stable Association <0 Type='3' Data='ffff'/>about this <0 Type='3' Data='0000'/>rumored
+  beast<0 Type='3' Data='ffff'/>, so I thought it might be true.
+Com_Photo_08: |
+  They really are huge ruins, aren't they...<5 Type='0'/>
+  Who built those? And why? What was
+  their purpose?
+  <3 Type='0' Data='0501'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003000'/>No wonder that ruins falling out of
+  the sky has caused such a stir all
+  around Hyrule.

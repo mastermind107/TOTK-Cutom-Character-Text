@@ -1,0 +1,257 @@
+Talk_34: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>My records indicate <5 Type='0'/>that you are faster<5 Type='1'/>
+  and braver than any previous challenger.<0 Type='4'/><3 Type='0' Data='0801'/>I award this to you in honor of your
+  extraordinary record. <5 Type='1'/>You have earned it.
+Talk_17: |
+  <3 Type='0' Data='0b00'/>Your time is <0 Type='3' Data='0000'/><2 Type='14' Data='28004d0069006e006900470061006d0065005f00540069006d00650072005300650063006f006e006400ffff00cd'/>.<2 Type='19' Data='32004d0069006e006900470061006d0065005f00540069006d00650072004d0069006c006c0069005300650063006f006e006400ffff00cd'/><0 Type='3' Data='ffff'/>! <5 Type='1'/>This is an astonishing
+  new record.<0 Type='4'/><3 Type='0' Data='0c01'/>My records indicate <5 Type='0'/>that you are faster<5 Type='1'/>
+  and braver than any previous challenger.<0 Type='4'/><3 Type='0' Data='0800'/>I award this to you in honor of your
+  extraordinary record. <5 Type='1'/>You have earned it.
+Talk_51: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Linkette. <5 Type='0'/>Hello.
+Talk_35: |
+  <3 Type='0' Data='0b00'/>Your time is <0 Type='3' Data='0000'/><2 Type='14' Data='28004d0069006e006900470061006d0065005f00540069006d00650072005300650063006f006e006400ffff00cd'/>.<2 Type='19' Data='32004d0069006e006900470061006d0065005f00540069006d00650072004d0069006c006c0069005300650063006f006e006400ffff00cd'/><0 Type='3' Data='ffff'/>! <5 Type='1'/>A new record.<0 Type='4'/><3 Type='0' Data='0c01'/>You have somehow improved on your
+  previous time. <5 Type='1'/>Your dive technique is
+  almost miraculous.<0 Type='4'/><3 Type='0' Data='0800'/>I award this to you in honor of your
+  extraordinary record. <5 Type='1'/>You have earned it.
+Talk_18: |
+  <3 Type='0' Data='0700'/>You may be able to beat the current
+  record of <0 Type='3' Data='0000'/><2 Type='14' Data='320053006b007900490073006c0061006e0064005f0054006d0070005400610072006700650074005300650063006f006e006400ffff00cd'/> seconds<0 Type='3' Data='ffff'/>.
+Talk_52: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Linkette. <5 Type='0'/>Good evening.
+Talk_19: |
+  <3 Type='0' Data='0700'/>Your time was <0 Type='3' Data='0000'/><2 Type='14' Data='28004d0069006e006900470061006d0065005f00540069006d00650072005300650063006f006e006400ffff00cd'/>.<2 Type='19' Data='32004d0069006e006900470061006d0065005f00540069006d00650072004d0069006c006c0069005300650063006f006e006400ffff00cd'/><0 Type='3' Data='ffff'/>! <5 Type='1'/>Well done.<0 Type='4'/><3 Type='0' Data='0801'/>You have earned this.
+Talk_36: |
+  <3 Type='0' Data='0700'/>Please tell me your name. <5 Type='1'/>I will register
+  you as the record holder.
+Talk_53: |
+  <3 Type='0' Data='0800'/>This is in honor of your extraordinary
+  record. <5 Type='1'/>You have earned it.
+Talk_37: |
+  <3 Type='0' Data='0800'/>Understood. <5 Type='0'/>Your name is Linkette. <5 Type='1'/>I have
+  registered you as the record holder.
+Talk_55: |
+  <3 Type='0' Data='0700'/>Your time was <0 Type='3' Data='0000'/><2 Type='14' Data='28004d0069006e006900470061006d0065005f00540069006d00650072004d0069006e00750074006500ffff00cd'/>:<2 Type='19' Data='28004d0069006e006900470061006d0065005f00540069006d00650072005300650063006f006e006400ffff00cd'/>.<2 Type='19' Data='32004d0069006e006900470061006d0065005f00540069006d00650072004d0069006c006c0069005300650063006f006e006400ffff00cd'/><0 Type='3' Data='ffff'/>. Nice try.<0 Type='4'/><3 Type='0' Data='0c01'/>The trick to descending quickly is to <0 Type='3' Data='0000'/>dive<0 Type='3' Data='ffff'/>
+  as much as possible. <5 Type='1'/>Find your courage
+  and accelerate as much as you dare.
+Talk_38: |
+  <3 Type='0' Data='0a00'/>I regret to say that you are disqualified
+  due to leaving the course.<5 Type='1'/>
+Talk_39: |
+  <3 Type='0' Data='0c00'/>Hmm. <5 Type='1'/>Your pouch seems to be full.<5 Type='0'/>
+  You have no room for your prize.
+Talk_57: |
+  <3 Type='0' Data='0700'/>I would hate for you not to receive your
+  reward of a <0 Type='3' Data='0000'/>large Zonai charge<0 Type='3' Data='ffff'/>. <5 Type='0'/>Let me
+  know when you have space for it.
+0000: |
+  Dive ceremony?
+Talk_58: |
+  <3 Type='0' Data='0701'/>I will guide you to the starting point.<5 Type='0'/>
+  Confirm your authorization at the terminal
+  and then begin.
+0001: |
+  I'll pass.
+Talk_59: |
+  <3 Type='0' Data='0c01'/>Will you attempt the ceremony again?
+  I will require an offering of <0 Type='3' Data='0000'/>one
+  Zonai charge<0 Type='3' Data='ffff'/>.
+0002: |
+  I'll do it!
+0003: |
+  Go ahead.
+0004: |
+  Offering?
+0005: |
+  Never mind, then.
+Talk_01: |
+  <3 Type='0' Data='0700'/>You are welcome to show your courage.<5 Type='1'/>
+  Do you want to start the dive ceremony
+  right away?
+0006: |
+  I give up.
+Talk_02: |
+  <3 Type='0' Data='0b00'/>Could it be <5 Type='0'/>that you do not know of the
+  dive ceremony?<0 Type='4'/><3 Type='0' Data='0c01'/>My apologies. <5 Type='1'/>Allow me to explain.
+Talk_03: |
+  <3 Type='0' Data='0700'/>The dive ceremony <5 Type='0'/>is a trial that tests
+  your courage. <5 Type='1'/>It is a rite by which Zonai
+  youth come of age.<0 Type='4'/>The starting position <5 Type='0'/>is the sky island
+  far above here.<0 Type='4'/><3 Type='0' Data='0701'/>The challenger leaps from there. <5 Type='0'/>They
+  must <0 Type='3' Data='0000'/>pass through all the rings <0 Type='3' Data='ffff'/><5 Type='0'/>in <0 Type='3' Data='0000'/>a set
+  amount of time<0 Type='3' Data='ffff'/>.
+0008: |
+  Got it!
+Talk_20: |
+  <3 Type='0' Data='0700'/>Your time was <0 Type='3' Data='0000'/><2 Type='14' Data='28004d0069006e006900470061006d0065005f00540069006d00650072005300650063006f006e006400ffff00cd'/>.<2 Type='19' Data='32004d0069006e006900470061006d0065005f00540069006d00650072004d0069006c006c0069005300650063006f006e006400ffff00cd'/><0 Type='3' Data='ffff'/>. Nice try.<0 Type='4'/><3 Type='0' Data='0c01'/>The trick to descending quickly is to <0 Type='3' Data='0000'/>dive<0 Type='3' Data='ffff'/>
+  as much as possible. <5 Type='1'/>Find your courage
+  and accelerate as much as you dare.
+Near_00: |
+  The ceremony begins here.
+Talk_21: |
+  <3 Type='0' Data='0800'/>Understood. <5 Type='1'/>Safety protocols require a
+  practice run of the course first.<0 Type='4'/>This practice run has no time limit. <5 Type='1'/>Simply
+  focus on <0 Type='3' Data='0000'/>going through all of the rings<0 Type='3' Data='ffff'/>.
+Talk_04: |
+  <3 Type='0' Data='0800'/>The <0 Type='3' Data='0000'/><2 Type='14' Data='320053006b007900490073006c0061006e0064005f0054006d0070005400610072006700650074005300650063006f006e006400ffff00cd'/>.<2 Type='19' Data='3c0053006b007900490073006c0061006e0064005f0054006d0070005400610072006700650074004d0069006c006c0069005300650063006f006e006400ffff00cd'/><0 Type='3' Data='ffff'/> record you set<5 Type='0'/> has not yet<5 Type='0'/>
+  been broken.<0 Type='4'/>I look forward to seeing you improve your
+  record further.<5 Type='1'/> Do you want to begin the
+  dive ceremony?
+Talk_05: |
+  <3 Type='0' Data='0801'/>You have the fastest record in history.<5 Type='0'/>
+  But I believe that you are capable of
+  even more.<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Go on. <5 Type='0'/>Let us begin the dive ceremony!
+Near_01: |
+  Well done.
+Talk_22: |
+  <3 Type='0' Data='0a00'/>You <5 Type='0'/>failed to pass through every ring.<5 Type='1'/>
+  Please return to my position.
+Talk_06: |
+  <3 Type='0' Data='0801'/>I wish you luck in formally overcoming the
+  trial. <5 Type='0'/>Those who succeed <5 Type='0'/>receive a <0 Type='3' Data='0000'/>special
+  outfit<0 Type='3' Data='ffff'/> to mark adulthood.<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Go on. <5 Type='0'/>Show me your courage.
+Talk_23: |
+  <3 Type='0' Data='0a00'/>I regret to tell you that you did not pass
+  through all the rings. <5 Type='0'/>This attempt is
+  therefore disqualified.
+Talk_24: |
+  <3 Type='0' Data='0a00'/>That is too bad. <5 Type='0'/>I await your next attempt.
+Talk_07: |
+  <3 Type='0' Data='0800'/>Then follow me to the starting position.<5 Type='1'/>
+  Your task is to pass through all of the
+  rings <0 Type='3' Data='0000'/>in <2 Type='14' Data='320053006b007900490073006c0061006e0064005f0054006d0070005400610072006700650074005300650063006f006e006400ffff00cd'/> seconds or less<0 Type='3' Data='ffff'/>.
+Talk_41: |
+  <3 Type='0' Data='0700'/>I await your next attempt.
+Near_03: |
+  You have returned.
+Talk_08: |
+  <3 Type='0' Data='0800'/>Your time is <0 Type='3' Data='0000'/><2 Type='14' Data='28004d0069006e006900470061006d0065005f00540069006d00650072005300650063006f006e006400ffff00cd'/>.<2 Type='19' Data='32004d0069006e006900470061006d0065005f00540069006d00650072004d0069006c006c0069005300650063006f006e006400ffff00cd'/><0 Type='3' Data='ffff'/>. <5 Type='1'/>I have borne witness
+  to your courage.<0 Type='4'/><3 Type='0' Data='0701'/>I have here the mark of your maturity.<5 Type='1'/>
+  You have earned this.
+Talk_42: |
+  <3 Type='0' Data='0700'/>Your current record is <0 Type='3' Data='0000'/><2 Type='14' Data='320053006b007900490073006c0061006e0064005f0054006d0070005400610072006700650074005300650063006f006e006400ffff00cd'/>.<2 Type='19' Data='3c0053006b007900490073006c0061006e0064005f0054006d0070005400610072006700650074004d0069006c006c0069005300650063006f006e006400ffff00cd'/><0 Type='3' Data='ffff'/>. I believe
+  you are capable of finishing the course
+  even faster than that.
+Near_04: |
+  You wear it well.
+Near_05: |
+  That was an excellent dive.
+Talk_09: |
+  <3 Type='0' Data='0801'/>You have already proved your maturity.<5 Type='1'/>
+  But there is nothing wrong with practice.<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Go on. <5 Type='0'/>Show me your courage.
+Talk_26: |
+  <3 Type='0' Data='0800'/>You did well for a practice run. <5 Type='0'/>It was
+  quite the dive. <5 Type='1'/>I eagerly anticipate your
+  performance in the full ceremony.
+Talk_60: |
+  <3 Type='0' Data='0700'/>Your time is <0 Type='3' Data='0000'/><2 Type='14' Data='28004d0069006e006900470061006d0065005f00540069006d00650072005300650063006f006e006400ffff00cd'/>.<2 Type='19' Data='32004d0069006e006900470061006d0065005f00540069006d00650072004d0069006c006c0069005300650063006f006e006400ffff00cd'/><0 Type='3' Data='ffff'/>. <5 Type='1'/>That counts as a
+  success. Though not by much.<0 Type='4'/>I have here the mark of your maturity.<5 Type='1'/>
+  You have earned this.
+Talk_43: |
+  <3 Type='0' Data='0700'/>I would hate for you not to receive your
+  reward of a <0 Type='3' Data='0000'/>special outfit<0 Type='3' Data='ffff'/>. <5 Type='0'/>Let me know
+  when you have reorganized your pouch.
+Near_06: |
+  Greetings.
+Talk_27: |
+  <3 Type='0' Data='0a00'/>You <5 Type='0'/>failed to pass through every ring.
+Talk_61: |
+  <3 Type='0' Data='0700'/>You completed the ceremony. But you
+  must not settle for mere completion.<0 Type='4'/>Continue to apply yourself and aim to
+  beat our fastest recorded time of
+  <0 Type='3' Data='0000'/><2 Type='14' Data='320053006b007900490073006c0061006e0064005f0054006d0070005400610072006700650074005300650063006f006e006400ffff00cd'/> seconds<0 Type='3' Data='ffff'/>.
+Talk_44: |
+  <3 Type='0' Data='0800'/>I see you have made room in your pouch.<5 Type='1'/>
+  The time has come for your reward.
+Talk_62: |
+  <3 Type='0' Data='0801'/>I witnessed your dive earlier. <5 Type='0'/>You seem
+  to have come prepared.
+Talk_28: |
+  <3 Type='0' Data='0700'/>Take care not to fall too fast. <5 Type='1'/>Note the
+  positioning of the rings as you fall.<0 Type='4'/><3 Type='0' Data='0701'/>I will send you back to the start once
+  again. <5 Type='1'/>Try to <0 Type='3' Data='0000'/>pass through each ring<0 Type='3' Data='ffff'/>
+  this time.
+Talk_45: |
+  <3 Type='0' Data='0800'/>That outfit marks your maturity. <5 Type='1'/>You have
+  earned it.
+Talk_63: |
+  <3 Type='0' Data='0700'/>Welcome.<0 Type='4'/>This is the site of a ceremony to test
+  your courage. Courage is demonstrated
+  by diving headlong through the sky.<0 Type='4'/><3 Type='0' Data='0800'/>No challengers have visited this island in
+  a long time. <5 Type='1'/>I am glad you have come.
+Talk_29: |
+  <3 Type='0' Data='0701'/>Now then. <5 Type='0'/>Let us commence with the
+  dive ceremony. <5 Type='1'/>Are you prepared?
+Talk_46: |
+  <3 Type='0' Data='0801'/>Please take this as well.
+Talk_47: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Good morning.<5 Type='1'/> You must be a challenger
+  for the dive ceremony.
+Talk_64: |
+  <3 Type='0' Data='0700'/>I would hate for you not to receive your
+  reward of <0 Type='3' Data='0000'/>five flame emitters<0 Type='3' Data='ffff'/>. <5 Type='0'/>Tell me
+  when you have reorganized your pouch.
+Talk_48: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hello. <5 Type='1'/>You must be a challenger for the
+  dive ceremony.
+Talk_65: |
+  <3 Type='0' Data='0700'/>I would hate for you not to receive your
+  reward of <0 Type='3' Data='0000'/>five cart capsules<0 Type='3' Data='ffff'/>. <5 Type='0'/>Tell me
+  when you have reorganized your pouch.
+Talk_49: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Good evening. <5 Type='1'/>You must be a challenger
+  for the dive ceremony.
+Talk_66: |
+  <3 Type='0' Data='0700'/>I would hate for you not to receive your
+  reward of <0 Type='3' Data='0000'/>five wing capsules<0 Type='3' Data='ffff'/>. <5 Type='0'/>Tell me
+  when you have reorganized your pouch.
+Talk_10: |
+  <3 Type='0' Data='0b00'/>Your time is <0 Type='3' Data='0000'/><2 Type='14' Data='28004d0069006e006900470061006d0065005f00540069006d00650072005300650063006f006e006400ffff00cd'/>.<2 Type='19' Data='32004d0069006e006900470061006d0065005f00540069006d00650072004d0069006c006c0069005300650063006f006e006400ffff00cd'/><0 Type='3' Data='ffff'/>! <5 Type='1'/>This is an astonishing
+  new record.<0 Type='4'/><3 Type='0' Data='0701'/>I have here the mark of your maturity.<5 Type='1'/>
+  You have earned this.
+Talk_11: |
+  <3 Type='0' Data='0700'/>Ah! <5 Type='0'/>I perhaps forgot to mention one thing.<5 Type='1'/>
+  I require <0 Type='3' Data='0000'/>one Zonai charge<0 Type='3' Data='ffff'/> as an offering.
+Talk_12: |
+  <3 Type='0' Data='0700'/>Our custom since long ago has been for
+  participants in the ceremony to offer a
+  Zonai charge to the island.<0 Type='4'/><3 Type='0' Data='0c01'/>No Zonai charges have been provided
+  for many years. We are in short supply.<5 Type='1'/>
+  Your cooperation would be appreciated.
+Talk_13: |
+  <3 Type='0' Data='0a00'/>That is unfortunate. <5 Type='1'/>I will wait here until
+  you are ready.
+Talk_30: |
+  <3 Type='0' Data='0a00'/>Oh. <5 Type='1'/>You do not appear to have even one
+  <0 Type='3' Data='0000'/>Zonai charge<0 Type='3' Data='ffff'/>.<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0c01'/>It is rare that a participant fails to bring
+  a <0 Type='3' Data='0000'/>Zonai charge<0 Type='3' Data='ffff'/>. Hmm. <5 Type='1'/>We have no set
+  protocols for this situation.<0 Type='4'/>You are here and eager to participate.<5 Type='0'/>
+  I will make an exception and waive the
+  offering for you.<0 Type='4'/><3 Type='0' Data='0c01'/>This will be a unique exception. <5 Type='1'/>Please do
+  not tell anybody I did this for you.
+Talk_14: |
+  <3 Type='0' Data='0a00'/>You did not bring a Zonai charge. <5 Type='1'/>That
+  does disqualify you from the ceremony.<0 Type='4'/>Be sure to bring a Zonai charge next time.
+Talk_31: |
+  <3 Type='0' Data='0700'/>Your fastest time is <0 Type='3' Data='0000'/><2 Type='14' Data='320053006b007900490073006c0061006e0064005f0054006d0070005400610072006700650074005300650063006f006e006400ffff00cd'/>.<2 Type='19' Data='3c0053006b007900490073006c0061006e0064005f0054006d0070005400610072006700650074004d0069006c006c0069005300650063006f006e006400ffff00cd'/><0 Type='3' Data='ffff'/>. I encourage
+  you to try to improve on it.
+Talk_32: |
+  <3 Type='0' Data='0700'/>Your time is <0 Type='3' Data='0000'/><2 Type='14' Data='28004d0069006e006900470061006d0065005f00540069006d00650072005300650063006f006e006400ffff00cd'/>.<2 Type='19' Data='32004d0069006e006900470061006d0065005f00540069006d00650072004d0069006c006c0069005300650063006f006e006400ffff00cd'/><0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0a00'/>I regret to tell you <5 Type='0'/>that is over the time
+  limit. <5 Type='1'/>You must complete the trial <0 Type='3' Data='0000'/>within
+  <2 Type='14' Data='320053006b007900490073006c0061006e0064005f0054006d0070005400610072006700650074005300650063006f006e006400ffff00cd'/> seconds<0 Type='3' Data='ffff'/>.<0 Type='4'/>The trick to descending quickly is to <0 Type='3' Data='0000'/>dive<0 Type='3' Data='ffff'/>
+  as much as possible. <5 Type='1'/>Find your courage
+  and accelerate as much as you dare.
+Talk_15: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>You are leaving the course! <5 Type='1'/>Wait one
+  moment. <5 Type='0'/>I will come and get you.
+Talk_33: |
+  <3 Type='0' Data='0700'/>Excellent. I will require <0 Type='3' Data='0000'/>one Zonai charge<0 Type='3' Data='ffff'/>
+  as an offering.
+Talk_16: |
+  <3 Type='0' Data='0700'/>Your time is <0 Type='3' Data='0000'/><2 Type='14' Data='28004d0069006e006900470061006d0065005f00540069006d00650072004d0069006e00750074006500ffff00cd'/>:<2 Type='19' Data='28004d0069006e006900470061006d0065005f00540069006d00650072005300650063006f006e006400ffff00cd'/>.<2 Type='19' Data='32004d0069006e006900470061006d0065005f00540069006d00650072004d0069006c006c0069005300650063006f006e006400ffff00cd'/><0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0a00'/>I regret to tell you <5 Type='0'/>that is over the time
+  limit. <5 Type='1'/>You must complete the trial <0 Type='3' Data='0000'/>within
+  <2 Type='14' Data='320053006b007900490073006c0061006e0064005f0054006d0070005400610072006700650074005300650063006f006e006400ffff00cd'/> seconds<0 Type='3' Data='ffff'/>.<0 Type='4'/>The trick to descending quickly is diving<0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  as much as possible. <5 Type='1'/>Find your courage
+  and <0 Type='3' Data='0000'/>accelerate <0 Type='3' Data='ffff'/>as much as you dare.
+Talk_50: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Linkette. <5 Type='0'/>Good morning.

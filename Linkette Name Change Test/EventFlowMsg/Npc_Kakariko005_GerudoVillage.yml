@@ -1,0 +1,23 @@
+Talk_0001: |
+  <3 Type='0' Data='0700'/>Oh! Linkette!<5 Type='0'/> I see you've journeyed here
+  as well.
+Talk_0002: |
+  <3 Type='0' Data='0700'/>Our investigation of the geoglyphs has
+  brought us to Gerudo Town. The thing is...<5 Type='1'/>
+  
+  <FontSize Value='125'/><3 Type='0' Data='0901'/>"No voe allowed!"<FontSize Value='100'/><5 Type='1'/><0 Type='4'/><3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003100'/>That's what they said as they stubbornly
+  denied me entrance. Lady Impa is in town
+  gathering information right now.
+  That means there's nothing for me to do
+  but while away the hours guarding our
+  balloon.<0 Type='4'/><3 Type='0' Data='0300'/>I can't believe I was forced to leave Lady
+  Impa's side... How mortifying that I can't
+  fulfill my duty of protecting her.
+  <4 Type='0' Data='0c005300610064005f0030003000'/>Oh, Lady Impa... Please come back soon.
+Near_0001: |
+  Is Lady Impa done yet?
+Talk_0003: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0600530061006400'/>Lady Impa is gathering information in
+  Gerudo Town. All by herself. *sigh*
+  
+  <3 Type='0' Data='0a01'/>Oh, Lady Impa... Please come back soon.

@@ -1,0 +1,43 @@
+Talk_0005: |
+  <3 Type='0' Data='0700'/>Lady Impa... What would you say to a
+  targeted approach? Instead of looking
+  everywhere, we start by finding a clue.
+Talk_0006: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003000'/>Hmm. The <0 Type='3' Data='0000'/>Forgotten Temple <0 Type='3' Data='ffff'/>would be
+  best for that, I suppose.
+  
+  It's in <0 Type='3' Data='0000'/>a canyon in Hebra<0 Type='3' Data='ffff'/>. We can only
+  hope it is not too dangerous there.
+Near_0001: |
+  The other geoglyphs...
+Talk_0007: |
+  <3 Type='0' Data='0700'/>For now, let us continue combing the land
+  for information. We need every scrap of
+  evidence we can find.
+Talk_0001: |
+  <3 Type='0' Data='0700'/>So... Have you learned of any new
+  <0 Type='3' Data='0000'/>geoglyph <0 Type='3' Data='ffff'/>locations?
+Talk_0008: |
+  <3 Type='0' Data='0700'/>Thank you.
+Talk_0010: |
+  And, Sir Linkette, we could use your help
+  as well. Please continue to search
+  for geoglyphs.
+  Or you could go to that <0 Type='3' Data='0000'/>Forgotten Temple<0 Type='3' Data='ffff'/>
+  at the bottom of <0 Type='3' Data='0000'/>a canyon in Hebra<0 Type='3' Data='ffff'/>.
+Talk_0002: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c005300610064005f0030003000'/>We have balloons scouring the kingdom
+  for them, although it's hardly quick work.
+  
+  Maybe we could survey more territory by
+  launching out of the Skyview Towers...<5 Type='0'/>
+  but no, that's not safe.
+Talk_0009: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>The survey team will support you however
+  we can. Many hands, as they say!
+Talk_0003: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Hm? Oh, it's you, Linkette.
+Talk_0004: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003100'/>We are searching in every region for
+  geoglyphs. Alas, they are not as easy to
+  find as one might expect.

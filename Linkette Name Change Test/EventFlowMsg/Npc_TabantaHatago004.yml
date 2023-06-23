@@ -1,0 +1,217 @@
+Com_Photo_09: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>I want to fill this frame with a painting of
+  the <0 Type='3' Data='0000'/>giant bird<0 Type='3' Data='ffff'/> spreading its wings in the
+  Hebra Mountains.
+  I think it would be the perfect symbol for
+  our stable.
+9006: |
+  Let's try this instead.
+CheckPicture_01_00: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Oh!<5 Type='0'/> Looks like those pictures caught
+  your eye!<5 Type='0'/>
+9007: |
+  I like it as it is.
+Com_FirstTime_Only01: |
+  <3 Type='0' Data='0001'/>Now then, to commemorate your first use
+  of <0 Type='3' Data='0000'/>Snowfield Stable<0 Type='3' Data='ffff'/>...
+CheckPicture_03_01: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003100'/>Word is that Princess Zelda was seen
+  with that beast, and that it can devour
+  solid rock.<0 Type='4'/>The farther <0 Type='3' Data='0000'/>south<0 Type='3' Data='ffff'/> you go, the more tales
+  you'll hear about the creature.<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>So I'd suggest that you <0 Type='3' Data='0000'/>visit stables in
+  the south<0 Type='3' Data='ffff'/> if you want to know if these are
+  just rumors...<5 Type='0'/>or something more.
+Com_FirstTime_Only02: |
+  <3 Type='0' Data='0001'/>Not only is this your first use of <0 Type='3' Data='0000'/>Snowfield
+  Stable<0 Type='3' Data='ffff'/>, you've also <0 Type='3' Data='0000'/>registered a horse<0 Type='3' Data='ffff'/>
+  with us! This calls for appreciation.
+Com_FirstTime_Only03: |
+  <3 Type='0' Data='0001'/>Not only is this your first time using
+  <0 Type='3' Data='0000'/>Snowfield Stable<0 Type='3' Data='ffff'/>, you've also <0 Type='3' Data='0000'/>slept
+  over<0 Type='3' Data='ffff'/>! So...
+CheckPicture_01: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Between you and me...<5 Type='0'/>those are sketches
+  of the footprints of that <0 Type='3' Data='0000'/>rumored beast<0 Type='3' Data='ffff'/>!<5 Type='0'/>
+  Or so they say, at least.
+Com_Photo_10: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Such a majestic, captivating painting.
+  It's as though it beckons the viewer's
+  heart up into the great blue sky.
+CheckPicture_02: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>I can't blame you. It's not as though you
+  see the tracks of that <0 Type='3' Data='0000'/>rumored beast<0 Type='3' Data='ffff'/>
+  every day.
+Register00_4: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Wait...<5 Type='1'/> Linkette, that horse...<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>Isn't that the <0 Type='3' Data='0000'/>golden horse<0 Type='3' Data='ffff'/> that ran away
+  from our stable?!<0 Type='4'/><3 Type='0' Data='0301'/>I don't know what to say.<5 Type='0'/> Thank you so
+  much for going to the trouble of bringing
+  it back here...
+  But <0 Type='3' Data='0000'/>Harlow <0 Type='3' Data='ffff'/>was the one looking after that
+  horse, so would you mind bringing it to
+  her? She should be around back.
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1600540061006c006b00440065006e0079005f0030003000'/>She's been so worried ever since the poor
+  thing ran away...<5 Type='1'/> Please go put her mind
+  at ease.
+CheckPicture_03: |
+  <3 Type='0' Data='0c01'/>This beast is all anyone at the Stable
+  Association can talk about lately. I have
+  doubts about any of this, but...
+  I've heard rumors that Princess Zelda was
+  seen with this creature. It's a strange
+  beast too—one that devours solid rock.<0 Type='4'/><3 Type='0' Data='0701'/><4 Type='0' Data='1600540061006c006b00440065006e0079005f0030003000'/>When these sorts of stories spread, they
+  do tend to get embellished, I suppose.<0 Type='4'/>It's already such a dubious tale, I'm trying
+  not to spread it too much more myself.
+  With this particular exception.
+Com_Photo_Thank: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003000'/>Thanks to you, our stable finally has a
+  symbol to call its own!<5 Type='1'/> And what a lovely
+  scene it is. It never fails to captivate me.
+  <3 Type='0' Data='0801'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>When I look at this picture, I start to feel
+  like I myself have become a bird, flying
+  across the endless sky.<5 Type='0'/>
+  Caw! Caw! ...By which I mean thank you
+  so much!
+Com_Photo_12: |
+  <3 Type='0' Data='0001'/>Anyway,<5 Type='0'/> did you have thoughts on our
+  <0 Type='3' Data='0000'/>picture of the giant bird<0 Type='3' Data='ffff'/>?
+CheckPicture_04: |
+  <3 Type='0' Data='0501'/>Curiously...<5 Type='0'/>the farther <0 Type='3' Data='0000'/>to the south<0 Type='3' Data='ffff'/> you
+  go, the more rumors about the beast
+  you'll hear.
+  Who knows, maybe if ask around at <0 Type='3' Data='0000'/>the
+  stables down south<0 Type='3' Data='ffff'/>, you might get closer
+  to the truth.
+Com_Photo_01: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003000'/>I've been putting a lot of thought into
+  what might be a good painting to pair
+  with that frame.<5 Type='1'/>
+  <3 Type='0' Data='0001'/>And I've finally made my decision. I want
+  a picture of the <0 Type='3' Data='0000'/>giant bird<0 Type='3' Data='ffff'/> with wings
+  spread wide in the Hebra Mountains.
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Tell me,<5 Type='0'/> have you seen the <0 Type='3' Data='0000'/>lone cedar
+  tree <0 Type='3' Data='ffff'/>growing on Talonto Peak, the
+  southernmost Hebra Mountain?
+  If you <0 Type='3' Data='0000'/>look to the northwest <0 Type='3' Data='ffff'/>from that
+  tree on a clear day, you can see the form
+  of a <0 Type='3' Data='0000'/>giant bird <0 Type='3' Data='ffff'/>on the mountainside.
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>I've never seen the real thing though.
+  I'd go if I could...<5 Type='1'/>but there's no way I can
+  leave the stable unattended.
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>But how magnificent it must be! <5 Type='1'/>Thinking
+  of that giant bird stretching its wings in
+  the Hebra Mountains gives me chills.
+  How I wish I could put its likeness on
+  the wall! Even copying it from a <0 Type='3' Data='0000'/>decent
+  picture<0 Type='3' Data='ffff'/> would be enough for me...
+KyoukaiTalk04_01: |
+  <3 Type='0' Data='0800'/>Oh,<5 Type='0'/> that's Princess Zelda's golden horse!
+  <5 Type='1'/>We're well acquainted already.<0 Type='4'/>You mean to register it, I presume?
+BurnedWakka_01: |
+  <3 Type='0' Data='0301'/>If you're that determined to play with a
+  ring garland, why not buy one yourself?
+  
+  They sell them at <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>
+  in <0 Type='3' Data='0000'/>Necluda<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0e00540072006f00750062006c006500'/>If you go faaar to the <0 Type='3' Data='0000'/>southeast<0 Type='3' Data='ffff'/>, you
+  should find your way there at some
+  point. If you don't see it, keep going!
+  <3 Type='0' Data='0701'/>It is <0 Type='3' Data='0000'/>very far away<0 Type='3' Data='ffff'/>,<5 Type='0'/> but I still highly
+  encourage you to go. Right now, even!
+Com_Photo_02: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Could it be?!<5 Type='0'/><0 Type='4'/>Do you really have a picture of the
+  <0 Type='3' Data='0000'/>giant bird <0 Type='3' Data='ffff'/>spreading its wings in the
+  Hebra Mountains?!
+Goodbye_01: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003000'/>If you're going to <0 Type='3' Data='0000'/>Rito Village<0 Type='3' Data='ffff'/>, I advise
+  making sure you're properly prepared.<0 Type='4'/><3 Type='0' Data='0301'/>Ever since those ominous clouds
+  appeared over the Hebra Mountains,
+  <0 Type='3' Data='0000'/>Rito Village<0 Type='3' Data='ffff'/> has been in a bad way.
+  An intense blizzard has brought all their
+  trade to a standstill.<0 Type='4'/>Rumor has it that they don't have enough
+  food and supplies to get by...<5 Type='0'/><0 Type='4'/><3 Type='0' Data='0001'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003000'/>Rito Village is to the <0 Type='3' Data='0000'/>west<0 Type='3' Data='ffff'/> of here. You'll
+  have no trouble getting there so long as
+  you protect yourself from the cold!
+Com_Photo_03: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003000'/>I want to paint and frame<0 Type='3' Data='0000'/> a picture of the
+  giant bird<0 Type='3' Data='ffff'/> with its wings stretched wide
+  in the Hebra Mountains.
+  There's a <0 Type='3' Data='0000'/>lone cedar tree <0 Type='3' Data='ffff'/>growing on
+  Talonto Peak, the southernmost Hebra
+  Mountain peak.
+  If you <0 Type='3' Data='0000'/>look to the northwest <0 Type='3' Data='ffff'/>from that
+  tree on a clear day, you can see the form
+  of a <0 Type='3' Data='0000'/>giant bird <0 Type='3' Data='ffff'/>on the mountainside.
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>If we could decorate our space with a
+  painting like that, our stable would be
+  the toast of Tabantha.
+DoNotWakka_01: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Whoa, hey!<5 Type='0'/> Excuse me, sir, but could you
+  leave our garland alone?!<5 Type='0'/><0 Type='4'/><3 Type='0' Data='0501'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>You can only get those in <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>
+  in <0 Type='3' Data='0000'/>Necluda<0 Type='3' Data='ffff'/>, so they're pretty rare. That
+  means no funny business!
+  You got that?<5 Type='0'/> I don't want to see you
+  taking it down or playing around with it!
+9001: |
+  Does this picture work?
+Com_Photo_04: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Could it be?!<5 Type='0'/><0 Type='4'/>You have a picture of the <0 Type='3' Data='0000'/>giant bird <0 Type='3' Data='ffff'/>with
+  its wings spread wide in the mountains?!
+Goodbye_03: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>What's this world coming to?<0 Type='4'/><3 Type='0' Data='0001'/>Time was, you looked at the sky in the
+  day, you'd see the sun and some clouds—<5 Type='0'/>
+  and at night, the moon and stars.
+  But nowadays,<5 Type='0'/> you look up and see
+  floating islands and ships and all sorts
+  of strange things...
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0c005300610064005f0030003000'/>It's hard to look to the future with
+  anything but anxiety right now.
+DoNotWakka_02: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Argh, not again!<5 Type='0'/> Didn't I ask you not to
+  do anything to our garland?!<0 Type='4'/><3 Type='0' Data='0301'/>Bit of a troublemaker, aren't you?<5 Type='0'/><0 Type='4'/><3 Type='0' Data='0001'/>If you want to get your hands on one of
+  these so badly, why don't you go buy
+  your own?
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0e00540072006f00750062006c006500'/>They sell them in <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/> in
+  <0 Type='3' Data='0000'/>Necluda<0 Type='3' Data='ffff'/>, a looong way <0 Type='3' Data='0000'/>southeast<0 Type='3' Data='ffff'/> of here.<0 Type='4'/><3 Type='0' Data='0701'/>It's <0 Type='3' Data='0000'/>pretty far away<0 Type='3' Data='ffff'/>,<5 Type='0'/> but given your clear
+  enthusiasm, it wouldn't be a wasted trip.<0 Type='4'/><0 Type='3' Data='0200'/><FontSize Value='80'/>Plus, it would get you out of my hair...<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+9002: |
+  I'll talk to you later.
+Com_Photo_05: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0e0053006900670068005f0030003000'/>How I wish someone would look upon that
+  giant bird in my place and draw a <0 Type='3' Data='0000'/>detailed
+  picture<0 Type='3' Data='ffff'/> for me to copy...
+CheckPicture_02_00: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Aha! <5 Type='0'/>So you're still interested in those
+  sketches, I see.<5 Type='0'/>
+9003: |
+  No pictures here...
+Com_Photo_06: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>If you have a <0 Type='3' Data='0000'/>picture of the giant bird<0 Type='3' Data='ffff'/>
+  spreading its wings, please show it to me!
+  You can see it on clear mountain days!
+0066: |
+  Yes, please.
+WakkaCharm: |
+  That's a nice garland.
+Com_Welcome: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>Welcome, welcome! You've reached
+  <0 Type='3' Data='0000'/>Snowfield Stable<0 Type='3' Data='ffff'/>.
+Com_Photo_07: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0048006100700070007900'/>How spectacular!<5 Type='0'/> You could search the
+  world and never find a more perfect
+  painting for our stable.
+  This is tremendous. Thank you!<5 Type='0'/><0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>But if you have <0 Type='3' Data='0000'/>a picture you prefer of the
+  giant bird<0 Type='3' Data='ffff'/>, its wings outstretched under
+  a clear Hebra sky...
+  I'll happily paint a copy and hang it here.
+  So if you ever want to change what's in
+  the frame, simply bring me a new picture.
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>It'll get as warm a welcome as any guest!
+0067: |
+  No, thanks.
+Com_Photo_08: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Quite a sight, isn't it? <5 Type='1'/>The land really
+  does look like a giant bird with its
+  wings outstretched.
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>It's hard not to marvel at the artistry of
+  nature in the face of such majesty.

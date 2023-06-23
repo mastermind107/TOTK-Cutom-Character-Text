@@ -1,0 +1,224 @@
+talk137: |
+  <3 Type='0' Data='0801'/>You should come to our shop! We'll dye
+  your clothes and stuff! <5 Type='1'/>Stylish, huh?<0 Type='4'/><0 Type='3' Data='0200'/><FontSize Value='80'/>I mean, I won't do it. That's my dad's thing. Still.<0 Type='4'/><FontSize Value='100'/><0 Type='3' Data='ffff'/><3 Type='0' Data='0400'/>Oops, gotta go! I'm supposed to be
+  helping at the shop!
+talk35: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Greetings and salutations! <5 Type='1'/>I mean,
+  saturations!
+talk120: |
+  <3 Type='0' Data='0900'/>Who wants to know?! Is there something
+  wrong with studying in secret? Huh?!
+talk138: |
+  <3 Type='0' Data='0900'/>What do you want? I'm supposed to be
+  helping out at the shop. If I show up all
+  soaked through, I'm gonna get it!
+0010: |
+  Yeah, I am.
+0011: |
+  No, I'm not.
+talk122: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh, Professor Linkette! Hey there!<0 Type='4'/>Are you on the way to school too?
+  We'd better hurry if we don't wanna
+  get soaked!
+talk123: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Can't we talk at school? Better there than
+  in the middle of this rain!
+talk62: |
+  <3 Type='0' Data='0700'/>Um... Do I know you, mister?
+0014: |
+  I'm a traveler.
+talk63: |
+  <3 Type='0' Data='0700'/>Oh yeah? And you're still traveling this
+  late at night? Phew.<0 Type='4'/>I like having fun at night too, but I've also
+  got school tomorrow, so I'll have to catch
+  you next time.
+0015: |
+  Goodbye.
+talk64: |
+  <3 Type='0' Data='0700'/>Oh yeah? You're just out around town at
+  night for no reason, huh?<0 Type='4'/>Kinda suspicious, but I don't have time to
+  get to the bottom of this. I got school
+  tomorrow, so I'll catch you next time.
+talk66: |
+  <3 Type='0' Data='0700'/>Wow, and you've come to watch our
+  class? Well, it's starting soon!<0 Type='4'/>I get a little nervous at the idea that
+  someone's gonna be watching us today.
+talk128: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>What book should I pick today?
+talk110: |
+  <3 Type='0' Data='0700'/>I gotta get to sleep so I'm ready for
+  school tomorrow. Goodnight, professor!
+talk50: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Sure thing! Come by our class again
+  whenever if you feel like it!
+talk129: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>They all look pretty interesting, so it's
+  tough to decide.
+talk111: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Hey! You were at our class!<0 Type='4'/>Thanks for showing us what the Ancient
+  Hero looked like!<0 Type='4'/>The designs people thought up in those
+  days have a different feel to what we see
+  nowadays. I like 'em!<0 Type='4'/>I think I'll tell my dad about it!
+talk51: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Huh? Who are you, mister?
+talk113: |
+  <3 Type='0' Data='0700'/>The monster curry you made for us had...
+  I guess you'd call it an interesting flavor.<0 Type='4'/>And as soon as I saw the color, suddenly
+  I wasn't hungry anymore.<0 Type='4'/>It's kinda neat how colors can affect the
+  mind like that. I should tell my dad.
+talk114: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Which one do I read today? <5 Type='0'/>Hmm...<0 Type='4'/>Oh, this "History of the Sheikah Tribe"
+  book looks good. <5 Type='1'/>Let's see...<5 Type='0'/> Here we go.<0 Type='4'/><3 Type='0' Data='0c00'/>"The Sheikah tribe was known for their
+  wisdom, as expressed by their love for
+  learning and technology.<0 Type='4'/>"That technology was instrumental in
+  sealing away the Calamity of 10,000
+  years ago.<0 Type='4'/>"However, their knowledge was also seen
+  as a threat to the security of the kingdom,
+  and they were exiled.<0 Type='4'/>"Eventually, the Sheikah who harbored
+  grudges against the kingdom gathered to
+  form the Yiga Clan.<0 Type='4'/>"To this day, they work from the shadows
+  to destroy the kingdom."<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0c00'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Whoa! Aren't the Sheikah tribe those
+  people in Kakariko Village to the
+  northwest of here?<0 Type='4'/>They all seem like good folks. I didn't
+  know there was an evil version of them
+  too. <5 Type='1'/>Hm?
+talk54: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Nice evening, huh? Wait...do I know
+  you, mister?
+talk96: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Nice evening, huh? Oh...aren't you the
+  guy I met before? Who were you again?
+talk55: |
+  <3 Type='0' Data='0800'/>Oh yeah? You got good taste if you
+  wandered here to Hateno Village.
+talk97: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey, Professor Linkette! I know you want to
+  talk and all, but...<0 Type='4'/>I'm supposed to be helping at the shop,
+  so I gotta get going.<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>That's the dye shop, by the way. If you
+  get bored with how your clothes look,
+  come try us out!<0 Type='4'/>Our place is really colorful, so you can't
+  miss it!
+talk118: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Wait, didn't you just talk to me? It's still
+  raining! If you wanna talk, we can do it
+  somewhere dry!
+talk98: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>If you're curious about our dye shop,
+  then follow me!
+talk100: |
+  <3 Type='0' Data='0700'/>If you're interested in dyeing your clothes
+  or working with fabrics, talk to my dad.<0 Type='4'/>He's got really good taste, so you'll
+  recognize him as soon as you see him!
+talk119: |
+  <3 Type='0' Data='0b00'/>What the— Where did you come from?!
+  Don't startle me!
+talk99: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey, Professor Linkette! Greetings and
+  salutations! <5 Type='1'/>I mean, saturations!
+talk40: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0c00570061006b00650075007000'/>*yawn* Hey, mister.<0 Type='4'/>I'm tired, and I've got school tomorrow,
+  so let's play some other time.
+talk82: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh! Hey, Professor Linkette!<0 Type='4'/>Are you on the way to school too? Let's
+  get a move on so we're not late!
+talk41: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a0053006c00650065007000'/>What book...<5 Type='0'/>should I...<5 Type='0'/>read tomorrow...
+talk83: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hurry, Professor Linkette! Or else we're
+  gonna be late for school!
+talk84: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Need me for somethin', mister? Hey, if
+  you wanna talk, can we do it at school?
+  I hate gettin' wet.
+talk43: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Welcome! Are you a traveler?
+talk85: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Hm? Wait, didn't I just see you, mister?
+  Who were you again?
+near01: |
+  STILL no lesson?
+talk88: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh! Hey, Professor Linkette! Are you subbing
+  for our class today too?<0 Type='4'/>I hope so. Your lessons are fun and easy
+  to understand, so I get excited to learn.
+near02: |
+  Hmm. They all look neat...
+talk47: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Not gonna tell me, huh? All right.
+talk131: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Thanks for coming here even in the rain!
+  Are you a traveler?
+talk70: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Our shop is all about style. Everyone
+  who's interested in fashion comes here
+  all the time.<0 Type='4'/>And we don't just dye clothes! We can do
+  stuff with other fabrics too!<0 Type='4'/>My dad can tell you all about it. He's got
+  really good taste, so you'll recognize him
+  as soon as you see him!
+talk108: |
+  <3 Type='0' Data='0700'/>Huh? Oh... Aren't you the guy I met
+  before? Who were you again?
+talk48: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Uh, mister, can this not wait? Class is
+  about to start!<0 Type='4'/>Why don't you watch Professor Symin's
+  lecture with the rest of us?
+talk89: |
+  <3 Type='0' Data='0700'/>I hope the lesson starts soon.
+near03: |
+  Greetings and saturations!
+talk71: |
+  <3 Type='0' Data='0700'/>Ahhh, then you must be a Cece fan! Here
+  to pay your respects or something?
+talk132: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey, Professor Linkette! Greetings and
+  salutations! <5 Type='1'/>I mean, saturations!<0 Type='4'/>Glad you could make it even though
+  it's raining!
+talk109: |
+  <3 Type='0' Data='0700'/>Oh, Professor Linkette. Nice evening, huh?
+  What are you doing out this late?<0 Type='4'/>Never mind. I'm tired, so I should get to
+  sleep soon. Goodnight, professor! 
+talk31: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Sorry, mister!<0 Type='4'/>Ask someone else! I'm in a hurry!
+talk133: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>Gaaah... If you wanna talk, can we go
+  somewhere that has a roof?<0 Type='4'/><3 Type='0' Data='0701'/>I'm in a hurry anyway. I'm supposed to
+  be helping out at the shop.<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>That's the dye shop, by the way. If you
+  get bored with how your clothes look,
+  come try us out!<0 Type='4'/>Or just come in for shelter from the rain.
+  That's fine too! Our place is really
+  colorful, so you can't miss it!
+near04: |
+  Snrrrk... <5 Type='0'/>Zzz...
+near05: |
+  Gotta get to school!
+talk134: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Which one do I read today? <5 Type='0'/>Hmm...<0 Type='4'/><5 Type='1'/>Oooh, there's one called "The Champions
+  and Their Divine Beasts." <5 Type='1'/>Let's see...<5 Type='0'/>
+  Here we go.<0 Type='4'/><3 Type='0' Data='0c00'/>"Divine Beasts were mechanical
+  weapons built 10,000 years ago to
+  fight the Calamity.<0 Type='4'/>"They were the size of mountains and
+  incredibly strong, meaning that not just
+  anyone was allowed to handle them.<0 Type='4'/>"Only the Champions—specially chosen
+  representatives of each people—were
+  permitted to control them.<0 Type='4'/>"By their efforts was the Calamity
+  stopped.<0 Type='4'/>"When the Calamity returned as foretold
+  100 years ago, the Divine Beasts were
+  seen once again.<0 Type='4'/>"A new set of Champions came forward to
+  use them.<0 Type='4'/>"Unfortunately, the Calamity seized
+  control of the Divine Beasts, and the new
+  Champions lost their lives in the process."<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0a00'/>Ouch...<5 Type='0'/>that's a pretty sad story.<0 Type='4'/>But when I was little, I heard the Divine
+  Beasts went back into action, so I bet the
+  Champions' souls are at peace. Hm?
+talk135: |
+  <3 Type='0' Data='0b00'/>Bwah! Who are you? Don't sneak up on
+  me like that!
+talk136: |
+  <3 Type='0' Data='0b00'/>What the— Professor Linkette?! Where did
+  you come from? Don't startle me!
+talk34: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey, mister. I know you want to talk and
+  all, but...<0 Type='4'/>I'm supposed to be helping at the shop,
+  so I gotta get going.<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>That's the dye shop, by the way. If you
+  get bored with how your clothes look,
+  come try us out!<0 Type='4'/>Our place is really colorful, so you can't
+  miss it!

@@ -1,0 +1,323 @@
+Talk_22: |
+  <3 Type='0' Data='0c01'/>Linkette, have ya been over to Bedrock
+  Bistro yet?
+  
+  <3 Type='0' Data='0301'/>The <0 Type='3' Data='0000'/>rock-roast pond <0 Type='3' Data='ffff'/>is a good marker to
+  look for its location.
+  
+  I guess Cooke has been having it out with
+  a customer...
+  
+  <3 Type='0' Data='0a00'/>Cooke's pretty stubborn, so things
+  will probably stay heated unless
+  someone intervenes.
+  <FontSize Value='80'/>Cooke's roasts are so good, but I don't wanna get
+  mixed up in that mess... What to do...<FontSize Value='100'/>
+Talk_23: |
+  <3 Type='0' Data='0800'/>It doesn't matter how busy I am if you're
+  in a pinch, Linkette.
+  
+  You come hollerin', and I'll help out!
+Talk_06: |
+  <3 Type='0' Data='0c00'/>Thinking about ruins that originate in the
+  age of legends...
+  
+  Maybe <0 Type='3' Data='0000'/>Tarrey Town<0 Type='3' Data='ffff'/> in <0 Type='3' Data='0000'/>Akkala<0 Type='3' Data='ffff'/> southeast
+  from here?
+  
+  <3 Type='0' Data='0700'/>If there's tons of Zonai device stuff falling
+  from the sky, a clue about the <0 Type='3' Data='0000'/>fifth sage<0 Type='3' Data='ffff'/>
+  might be there too.
+  I'll search around here to sniff out
+  <0 Type='3' Data='0000'/>anything strange <0 Type='3' Data='ffff'/>that might be happening.
+  
+  That leaves the other areas to you, Linkette!
+Talk_07: |
+  <3 Type='0' Data='0700'/>I'll investigate around here to see if
+  <0 Type='3' Data='0000'/>anything weird<0 Type='3' Data='ffff'/> is happening.
+  
+  So don't you worry! You should focus
+  your energy elsewhere, Linkette!
+Talk_24: |
+  <3 Type='0' Data='0c00'/>Everything's OK around here lately.
+  
+  
+  If you're lookin' to help folks out, you
+  might check elsewhere.
+0000: |
+  Anything weird happen?
+Talk_08: |
+  <3 Type='0' Data='0c00'/>Something's been bothering me...
+Talk_25: |
+  <3 Type='0' Data='0700'/>For now, I'll keep an eye out to see
+  whether anything strange is going on
+  around here.
+  Linkette, you take care of what you need
+  to, OK?
+Talk_09: |
+  <3 Type='0' Data='0a00'/>The blacksmith Rohan and his apprentice,
+  Fugo, have been arguing a lot.
+  
+  Sounded like it had to do with the
+  Boulder Breaker.
+  
+  Fugo had stopped working because of the
+  marbled rock roast.
+  
+  I can't help but feel responsible...
+0001: |
+  Goodbye.
+Talk_26: |
+  <3 Type='0' Data='0700'/>Did you find out anything about
+  the fifth sage?
+Talk_27: |
+  <3 Type='0' Data='0b00'/>Huh? <5 Type='0'/>A Zonai?<5 Type='0'/> A Zonai<5 Type='1'/> spirit?!
+  
+  
+  Sorry 'bout that...
+  
+  
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a005400680069006e006b00'/>I'm just kinda shocked—I never could've
+  imagined something like that.
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>But now we've got all five sages! Which
+  means...it's almost time to defeat the
+  Demon King.
+  <3 Type='0' Data='0701'/>But...I bet you he's on the same page as
+  we are.
+  
+  Who knows what he's planning—what sort
+  of attack he'll launch on us...or when.
+  
+  <3 Type='0' Data='0d00'/><4 Type='0' Data='1a00440065007400650072006d0069006e006100740069006f006e00'/>I'll beef up the city's patrols even more,
+  in preparation, goro!
+Talk_10: |
+  <3 Type='0' Data='0700'/>Someone told me that Volcon and Tray
+  retired from the inn.
+  
+  Said they had somewhere they needed
+  to go.
+  
+  <3 Type='0' Data='0c01'/>But they don't even know how to find it.
+  So...they need something to jog their
+  memory as to the location.
+  Kinda weird, huh?
+Talk_28: |
+  <3 Type='0' Data='0d01'/>Don't let your guard down either, Linkette!
+Talk_29: |
+  <3 Type='0' Data='0d00'/><4 Type='0' Data='1a00440065007400650072006d0069006e006100740069006f006e00'/>I bet the Demon King has realized that we
+  have all five sages now...
+  
+  <3 Type='0' Data='0601'/>Which means he's probably planning some
+  sort of attack.
+  
+  Knowing that, I can't leave the city yet.
+  
+  
+  I've got to hunker down and keep an eye
+  on all the goings-on around here.
+Comment_00: |
+  Hmmm.
+Talk_12: |
+  <3 Type='0' Data='0701'/>The ore YunoboCo provides is high
+  quality, and we offer it at a low price.
+  
+  <3 Type='0' Data='0a00'/>But mining came to a dead halt due to
+  the marbled rock roast, and we still
+  haven't caught up on the supply needs.
+  I feel bad for <0 Type='3' Data='0000'/>Ramella<0 Type='3' Data='ffff'/>, that <0 Type='3' Data='0000'/>Gerudo<0 Type='3' Data='ffff'/> who
+  always treks out here for good ore.
+Talk_13: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>There's an old mine we turned into an
+  amusement park recently!
+  
+  <3 Type='0' Data='0a01'/>But we haven't gotten word out much yet,
+  so it's not seeing much action.
+  
+  <3 Type='0' Data='0300'/>It's <0 Type='3' Data='0000'/>across from<0 Type='3' Data='ffff'/> the YunoboCo market
+  <0 Type='3' Data='0000'/>south<0 Type='3' Data='ffff'/> of Goron City.
+  
+  The location's not bad at all, but even so,
+  business is slow...
+Talk_30: |
+  <3 Type='0' Data='0d00'/><4 Type='0' Data='1a00440065007400650072006d0069006e006100740069006f006e00'/>The day of the final battle with the Demon
+  King is almost here.
+  
+  When that time comes, we'll face him
+  together, goro!
+Talk_14: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>We made an amusement park that uses
+  the old <0 Type='3' Data='0000'/>Death Mountain<0 Type='3' Data='ffff'/> mine-cart tracks!
+  
+  <3 Type='0' Data='0a01'/>But we haven't been able to spread the
+  word yet, so it's not seein' much action
+  just yet.
+  I mean, the location is pretty good, but
+  the business is struggling...
+Talk_31: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey, Linkette! How are the preparations for
+  defeating the Demon King coming?
+Talk_15: |
+  <3 Type='0' Data='0c01'/>I heard some chatter recently about a
+  worker named <0 Type='3' Data='0000'/>Mota <0 Type='3' Data='ffff'/>who up and vanished.
+  
+  Mota would've been working in a cave on
+  the side of <0 Type='3' Data='0000'/>Death Mountain<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0701'/>There's a <0 Type='3' Data='0000'/>mine-cart station <0 Type='3' Data='ffff'/>there, so I'm
+  gonna take a look out that way later and
+  see what I see.
+Talk_32: |
+  <3 Type='0' Data='0c00'/>The day of the final battle with the Demon
+  King is approaching. Time to tie up any
+  loose ends.
+Talk_33: |
+  <3 Type='0' Data='0a00'/>Hey, Linkette...
+  
+  
+  I've been crackin' my skull trying to
+  remember anything that might help clue
+  us in on Princess Zelda.
+  But so much of my memory is a blur from
+  when I was wearing that weird mask...
+  I did recall one thing though.
+  <3 Type='0' Data='0c00'/>When we were mining marbled rock roast
+  <0 Type='3' Data='0000'/>on the north side of Death Mountain<0 Type='3' Data='ffff'/>, the
+  princess said something.
+  She told me not to go near the <0 Type='3' Data='0000'/>Lizard
+  Lakes<0 Type='3' Data='ffff'/>. But she didn't say why.
+  
+  <3 Type='0' Data='0700'/>That's why I was talking to Boss about it.
+Talk_16: |
+  <3 Type='0' Data='0c01'/>There's a little Goron wanderin' around
+  the area lately.
+  
+  He's searching for a place called
+  <0 Type='3' Data='0000'/>Gorondia<0 Type='3' Data='ffff'/>, where Gorons of old
+  supposedly lived.
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0a005400680069006e006b00'/>He's really young and probably doesn't
+  know how to operate the <0 Type='3' Data='0000'/>mine carts<0 Type='3' Data='ffff'/>...
+  
+  I'm a bit worried he might hurt himself
+  tryin' though.
+Talk_17: |
+  <3 Type='0' Data='0c01'/>There's a little Goron wanderin' around
+  the area lately.
+  
+  He's searching for a place called
+  <0 Type='3' Data='0000'/>Gorondia<0 Type='3' Data='ffff'/>, where Gorons of old
+  supposedly lived.
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0a005400680069006e006b00'/>He's really young and probably doesn't
+  know how to operate the <0 Type='3' Data='0000'/>mine carts<0 Type='3' Data='ffff'/>...
+  
+  I'm a bit worried he might hurt himself
+  wandering around alone, trying to find
+  this place.
+Talk_34: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Have you figured anything out, Linkette?
+Talk_00: |
+  <3 Type='0' Data='0700'/>I remembered something about that
+  other <0 Type='3' Data='0000'/>Zelda<0 Type='3' Data='ffff'/>.
+  
+  When we were mining marbled rock roast
+  <0 Type='3' Data='0000'/>on the north side of Death Mountain<0 Type='3' Data='ffff'/>,
+  she said something kinda funny.
+  She told me not to go near the <0 Type='3' Data='0000'/>Lizard
+  Lakes<0 Type='3' Data='ffff'/>. But she didn't say why.
+Talk_18: |
+  <3 Type='0' Data='0c01'/>There's a Hylian named <0 Type='3' Data='0000'/>Kima<0 Type='3' Data='ffff'/> who's in
+  search of some hot springs.
+  
+  I guess they're called...Simmerstone
+  Springs?
+  
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Grapp <0 Type='3' Data='ffff'/>at the <0 Type='3' Data='0000'/>Goron Hot Springs <0 Type='3' Data='ffff'/>might
+  be able to tell ya more about them.
+  
+  This is the first I've heard of 'em myself.
+Talk_35: |
+  <3 Type='0' Data='0800'/>I'll leave the fifth sage, Mineru, to
+  you, Linkette.
+  
+  For now I'll keep patrolling the city and
+  preparing for the final battle!
+Talk_19: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Linkette,<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/>do you know about <0 Type='3' Data='0000'/>perfectly
+  ripened flint<0 Type='3' Data='ffff'/>?
+  
+  It can be a real challenge to find, but it's
+  sooo tasty!
+  
+  There's a guy at Cooke's <0 Type='3' Data='0000'/>restaurant<0 Type='3' Data='ffff'/>,<0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  Bedrock Bistro, you could check with.
+  
+  He's a <0 Type='3' Data='0000'/>goromand <0 Type='3' Data='ffff'/>who can probably talk
+  your ear off about it.
+  
+  <3 Type='0' Data='0100'/>If I could try it, even once, I'd die a
+  happy Goron.
+Talk_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Have you sorted anything out about the
+  fifth sage?
+  
+  <3 Type='0' Data='0c01'/>Purah said to investigate any ruins from
+  the <0 Type='3' Data='0000'/>age of legends<0 Type='3' Data='ffff'/>, right?
+  
+  <3 Type='0' Data='0400'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh yeah! <5 Type='1'/>There's a village in the
+  neighboring <0 Type='3' Data='0000'/>Akkala <0 Type='3' Data='ffff'/>region called
+  <0 Type='3' Data='0000'/>Tarrey Town<0 Type='3' Data='ffff'/> that seems worth checking.
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><0 Type='3' Data='ffff'/>I hear that tons of these things called
+  Zonai devices are falling from the
+  sky there!
+  <3 Type='0' Data='0c01'/>And it's only a little bit <0 Type='3' Data='0000'/>southeast<0 Type='3' Data='ffff'/> of here!
+  I bet it'd be worth the trip...
+  
+  <3 Type='0' Data='0700'/>Anyway, I'll search around here to see
+  whether <0 Type='3' Data='0000'/>anything strange <0 Type='3' Data='ffff'/>warrants
+  looking into.
+  You're free to head wherever you need
+  to, Linkette!
+Talk_02: |
+  <3 Type='0' Data='0c00'/>I wonder why that other <0 Type='3' Data='0000'/>Zelda <0 Type='3' Data='ffff'/>told me not
+  to go near the <0 Type='3' Data='0000'/>Lizard Lakes<0 Type='3' Data='ffff'/>.
+  
+  I recall that some of the older Gorons
+  used to play there back<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/>when they
+  were children...
+Talk_03: |
+  <3 Type='0' Data='0c00'/>This might not have anything to do with
+  Princess Zelda, but...
+Talk_20: |
+  <3 Type='0' Data='0c01'/>I've heard that <0 Type='3' Data='0000'/>Cooke<0 Type='3' Data='ffff'/>, the owner of
+  Bedrock Bistro, is in a tough spot.
+  
+  He can't keep up with the constant
+  demand for <0 Type='3' Data='0000'/>rock roast<0 Type='3' Data='ffff'/>.
+Talk_04: |
+  <3 Type='0' Data='0700'/>How's the search for Zelda goin'?
+  
+  
+  <3 Type='0' Data='0c01'/>I've been tryin' to remember anything that
+  might help us.
+  
+  But everything's hazy from when I was
+  wearin' that mask...
+  
+  <3 Type='0' Data='0700'/>So I've given up on trying to recall what
+  happened then.
+  
+  Instead, I'm focusing on investigating
+  around here to see if <0 Type='3' Data='0000'/>anything weird<0 Type='3' Data='ffff'/>
+  is happening.
+Talk_21: |
+  <3 Type='0' Data='0701'/>There's a buncha monsters gathering
+  around a cave to the north of
+  Death Mountain.
+  Right now everyone from the
+  <0 Type='3' Data='0000'/>monster-control crew <0 Type='3' Data='ffff'/>is there.
+  
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0c00'/><0 Type='3' Data='ffff'/>The <0 Type='3' Data='0000'/>monster-control crew <0 Type='3' Data='ffff'/>are really
+  skilled and deal with this sort of thing
+  a lot.
+  Even so, the monsters around here are
+  intense... I'm kinda worried.

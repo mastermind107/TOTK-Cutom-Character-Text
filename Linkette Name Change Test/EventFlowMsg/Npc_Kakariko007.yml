@@ -1,0 +1,353 @@
+NakedPlayer_00: |
+  Do what your heart feels.
+talk_0034: |
+  <3 Type='0' Data='0700'/>Both our local clothes and the Yiga Clan
+  outfits are made using Sheikah crafting
+  techniques, so they're good in rain...
+  But do you really have to wear that
+  around here?
+talk_0005: |
+  <3 Type='0' Data='0700'/>Please excuse me. I have to put my
+  daughters to bed.
+NakedPlayer_01: |
+  It takes all kinds, I guess.
+talk_0006: |
+  <3 Type='0' Data='0700'/>I was just saying hello to my wife before
+  heading to the chief's house.
+  
+  <3 Type='0' Data='0300'/>My wife... She lost her life due to
+  my carelessness.
+  
+  I can never make up for that. Even so, my
+  children and the village have forgiven me.
+  
+  <3 Type='0' Data='0700'/>I'll do my best to repay everyone's
+  kindness by helping <0 Type='3' Data='0000'/>Lady Paya<0 Type='3' Data='ffff'/>. It's...
+  It's the least I can do.
+NakedPlayer_02: |
+  It's risky to go unarmored.
+talk0014: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0c005300610064005f0030003000'/>Even now, she's under one of the
+  <0 Type='3' Data='0000'/>Ring Ruins <0 Type='3' Data='ffff'/>with the Zonai Survey Team.
+  That ruin, over there.
+talk_0007: |
+  <3 Type='0' Data='0700'/>I'll rest, sure. But first, I'll just look at my
+  daughters' sleeping faces a little longer.
+  Yes. Then I'll rest.
+talk0015: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>I wonder... Maybe seeing you will remind
+  her about her responsibilities as <0 Type='3' Data='0000'/>chief<0 Type='3' Data='ffff'/>.
+  
+  Would you do me a favor and stop by to
+  see <0 Type='3' Data='0000'/>Lady Paya<0 Type='3' Data='ffff'/>?
+talk_0008: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0c004e006f007400690063006500'/>Is that you, Linkette?
+  
+  
+  I've been a light sleeper ever since
+  my wife passed away.
+  
+  <3 Type='0' Data='0701'/>Ah, no, please don't worry about me.
+  I'm used to waking up at all hours.
+  
+  <3 Type='0' Data='0700'/>But can't you sleep? Perhaps a <0 Type='3' Data='0000'/>soft bed<0 Type='3' Data='ffff'/>
+  at the inn will help. I've heard they're
+  very comfortable.
+talk_0009: |
+  <3 Type='0' Data='0700'/>Now that I think about it, with <0 Type='3' Data='0000'/>five<0 Type='3' Data='ffff'/> large
+  ruins crashing down, it's a miracle no one
+  was hurt.
+  <3 Type='0' Data='0c00'/>I wonder why <0 Type='3' Data='0000'/>Zelda<0 Type='3' Data='ffff'/> only <0 Type='3' Data='0000'/>sealed off<0 Type='3' Data='ffff'/> one
+  of them...
+  
+  <3 Type='0' Data='0701'/>Ah, please excuse me. My thoughts are
+  wandering today.
+  
+  Anyway, I don't think there's another site
+  like the <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/> anywhere in Hyrule.
+  You should take a look.
+talk_0010: |
+  <3 Type='0' Data='0700'/>I'm on my way to visit my wife. I'll head
+  to the chief's house when I'm done.
+  
+  It sure feels good to have Lady Paya back
+  in charge!
+WakkaCharm: |
+  My daughter made that.
+talk_0011: |
+  <3 Type='0' Data='0700'/>Now that I think about it, with <0 Type='3' Data='0000'/>five<0 Type='3' Data='ffff'/> large
+  ruins crashing down, it's a miracle no one
+  was hurt.
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>And this miracle wouldn't have
+  meant a thing if it weren't for
+  Lady Paya's leadership.
+  *sigh* I just wish she weren't so focused
+  on the <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/>.
+  
+  But she's come such a long way as chief.
+  And I plan to be there for her as she
+  continues to grow.
+talk0019: |
+  <3 Type='0' Data='0700'/>I... <5 Type='1'/>I...
+  
+  
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>L-<5 Type='1'/>Linkette?!<FontSize Value='100'/>
+  
+  
+  Why are you wearing that awful mask?!
+  
+  
+  <3 Type='0' Data='0000'/>I haven't had a scare like that in a
+  long time...
+  
+  But I could never mistake you for one
+  of the Yiga Clan.
+  
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003000'/>*sigh* And right now, too, while our
+  chief is...
+talk_0012: |
+  <3 Type='0' Data='0700'/>Lady Paya is still young, so I understand
+  her enthusiasm with the <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0500'/>But, and this is just between us, I wonder
+  if it's more of an obsession. I hope she
+  realizes soon what it means to be <0 Type='3' Data='0000'/>chief<0 Type='3' Data='ffff'/>.
+talk0020: |
+  <3 Type='0' Data='0c00'/>But...
+talk_0013: |
+  <3 Type='0' Data='0700'/>With that <0 Type='3' Data='0000'/>Ring Ruin <0 Type='3' Data='ffff'/>closed off, I can't
+  reach the cemetery... But it's the thought
+  that counts, not the place.
+  I'm sure my wife will hear my words
+  wherever I say them.
+talk_0014: |
+  <3 Type='0' Data='0700'/>I made a promise to my wife to protect
+  our children and the village she loved.
+  
+  I'll fulfill my promise by helping <0 Type='3' Data='0000'/>Lady<0 Type='3' Data='ffff'/>
+  <0 Type='3' Data='0000'/>Paya<0 Type='3' Data='ffff'/>. And when I see our children's
+  smiling faces, it'll all be worth it.
+talk_0015: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>It's time to talk to Mother!
+talk_0016: |
+  <3 Type='0' Data='0c00'/>Recently, <0 Type='3' Data='0000'/>Cottla<0 Type='3' Data='ffff'/> has been coming home
+  <0 Type='3' Data='0000'/>covered in mud<0 Type='3' Data='ffff'/>. She won't tell me why.
+  
+  Is this... Is this what they call the
+  "rebellious phase"?
+  
+  <3 Type='0' Data='0a01'/>I won't ask her about it. What if she thinks
+  I'm being too pushy? Or overbearing?
+  No, best to wait it out...
+talk_0017: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Linkette?
+  
+  
+  If you can't sleep, try a <0 Type='3' Data='0000'/>soft bed <0 Type='3' Data='ffff'/>at the
+  inn. I've heard they're very comfortable.
+talk_0018: |
+  <3 Type='0' Data='0800'/>We'll all pray together!
+talk_0019: |
+  <3 Type='0' Data='0700'/>You're right. When we pray, we'll
+  pray as a family.
+  
+  <3 Type='0' Data='0300'/><0 Type='3' Data='0200'/><FontSize Value='80'/>Oh, I'm so proud of the fine young women you're
+  growing up to be...<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Ballon_02: |
+  I'll be back soon...
+talk_0021: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0c005300610064005f0030003100'/>The Ring Ruins may be important assets
+  to the village...
+  
+  But it worries me to see her so obsessed.
+  
+  
+  <3 Type='0' Data='0701'/>Hm. Perhaps seeing you would remind her
+  about her responsibilities as <0 Type='3' Data='0000'/>chief<0 Type='3' Data='ffff'/>.
+  
+  Would you do me a favor and stop by to
+  see <0 Type='3' Data='0000'/>Lady Paya<0 Type='3' Data='ffff'/>?
+Ballon_03: |
+  What to do first...
+talk_0022: |
+  <3 Type='0' Data='0700'/>Ah, Linkette, pardon me.
+  
+  
+  <3 Type='0' Data='0a01'/>I'm sorry, but <0 Type='3' Data='0000'/>Lady Paya<0 Type='3' Data='ffff'/> is still deep in
+  discussion with the Zonai Survey Team.
+Talk_Greeting_01: |
+  <3 Type='0' Data='0700'/>Ah, Linkette. You're up early.
+Ballon_04: |
+  Left it out again.
+Talk_Greeting_02: |
+  <3 Type='0' Data='0700'/>Ah, Linkette.
+Ballon_05: |
+  Are they already asleep?
+0004: |
+  The chief?
+talk_0024: |
+  <3 Type='0' Data='0700'/>I heard that Lady Paya helped Tauro and
+  company with their investigation.
+  
+  With the mystery of the <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/>
+  sorted out, the village will flourish
+  more than ever. 
+  I was...I was wrong to think she
+  wasn't taking her responsibilities
+  as chief seriously.
+  In the end, Lady Paya was more
+  concerned for the village than anyone.
+Talk_Greeting_03: |
+  <3 Type='0' Data='0700'/>Ah, Linkette. Hard to believe it's night
+  already. Would you like to rest at
+  the inn?
+talk_0025: |
+  <3 Type='0' Data='0700'/>That book contains findings from the
+  Zonai Survey Team.
+  
+  Lady Paya has pored over it. I have no
+  idea how many times she's read it.
+  
+  <3 Type='0' Data='0500'/>I wish she brought the same enthusiasm
+  to her duties as <0 Type='3' Data='0000'/>chief<0 Type='3' Data='ffff'/>...
+Talk_Greeting_04: |
+  <3 Type='0' Data='0b00'/>Linkette! You must be soaked through!
+  
+  
+  Unless... Do you have <0 Type='3' Data='0000'/>armor made for
+  bad weather<0 Type='3' Data='ffff'/>? 
+  
+  Our clothes are specially made using
+  Sheikah technology. They keep us dry
+  in any weather.
+  I hope you have armor that does that too.
+Ballon_07: |
+  They grow up so fast...
+talk_0026: |
+  <3 Type='0' Data='0700'/>The village has thrived thanks to the
+  <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/>, and that's a fact.
+  
+  But sometimes I wonder if her enthusiasm
+  for them borders on obsession...
+  
+  <3 Type='0' Data='0500'/>When is she going to realize that she's
+  the <0 Type='3' Data='0000'/>chief<0 Type='3' Data='ffff'/>?
+Talk_Greeting_05: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0a005400680069006e006b00'/>Linkette... I don't know if you're attempting
+  to make a joke, but that mask is in very
+  poor taste.
+Ballon_08: |
+  Papa will...protect you...
+talk_0027: |
+  <3 Type='0' Data='0700'/>That book contains findings from the
+  Zonai Survey Team.
+  
+  Lady Paya has pored over it. I have no
+  idea how many times she's read it.
+  
+  I used to think she cared more about the
+  ruins than she did about being <0 Type='3' Data='0000'/>chief<0 Type='3' Data='ffff'/>...
+  
+  But I sure had it backward. Without her
+  focus, who knows what would have
+  happened to Tauro's investigation?
+  I just wish I understood sooner.
+Ballon_09: |
+  Ah, there's Lady Paya.
+talk_0028: |
+  <3 Type='0' Data='0700'/>My wife's grave is by the ruin...
+  
+  
+  But Lady Paya and the others are busy
+  investigating. I don't want to get in
+  the way.
+  <3 Type='0' Data='0701'/>No matter. It's the thought that counts,
+  not the place. I'm sure my wife will hear
+  our words wherever we say them.
+talk_0029: |
+  <3 Type='0' Data='0700'/>I'm just saying hello to my wife before
+  heading to the chief's house.
+  
+  Her grave is by the ruins, but Lady Paya
+  and the others are busy investigating.
+  I don't want to get in the way.
+  <3 Type='0' Data='0c00'/>Sometimes I wish she would do more as
+  the chief...
+  
+  But when I see her so excited and
+  earnest, it's hard to bring it up.
+  
+  <3 Type='0' Data='0701'/>No matter. I'm sure my wife will hear our
+  words wherever we are.
+talk0008: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Good grief. It's <0 Type='3' Data='0000'/>Lady Paya<0 Type='3' Data='ffff'/>'s duty to take
+  care of the village...
+  
+  But whenever I take my eyes off her,
+  she's elbow-deep in some trivial new
+  problem. I...<5 Type='1'/> Hm?
+talk_0030: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Wh...who's here? <5 Type='1'/>What are you doing in
+  my house?<0 Type='4'/>...<5 Type='1'/>
+talk0009: |
+  <3 Type='0' Data='0700'/>Who...<5 Type='1'/> Is that really you...<5 Type='1'/>
+  
+  
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>L-<5 Type='1'/>Linkette?<FontSize Value='100'/>
+  
+  
+  Why, it's been some time! You gave me
+  quite a shock. I didn't expect to see you
+  appear here in our village.
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003000'/>And right now, too, while our chief is...
+talk_0002: |
+  <3 Type='0' Data='0700'/>I was just saying hello to my wife before
+  heading to the chief's house.
+  
+  With one of the <0 Type='3' Data='0000'/>Ring Ruins <0 Type='3' Data='ffff'/>closed off,
+  I can't reach the cemetery. But it's the
+  thought that counts, not the place.
+  I'm sure my wife will hear my words
+  wherever I say them.
+talk_0031: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='08004500610073006500'/>Oh... It was only you, Linkette.<5 Type='0'/> Please don't
+  startle me like that.<0 Type='4'/>I nearly laid hands on you, thinking that
+  you were a Yiga Clan assassin.
+talk_0032: |
+  <3 Type='0' Data='0500'/>Why are you wearing an awful outfit
+  like that?
+  
+  My insides turned to ice for a
+  moment there.
+talk0010: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0c005300610064005f0030003000'/>I'll bet you could find her with the Zonai
+  Survey Team right now. They're probably
+  by the <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/> near the chief's house.
+talk_0003: |
+  <3 Type='0' Data='0700'/>I'm going to the chief's house.
+  
+  
+  Lady Paya often has business elsewhere,
+  so someone needs to be there.
+talk0011: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Ah, I suppose you haven't heard. The
+  former chief, Lady Impa, retired.
+  
+  Now <0 Type='3' Data='0000'/>Lady Paya<0 Type='3' Data='ffff'/> is the <0 Type='3' Data='0000'/>chief of Kakariko
+  Village<0 Type='3' Data='ffff'/>. I've been working as her
+  assistant, but...
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0c005300610064005f0030003100'/>Lady Paya is ignoring her responsibilities.
+  She won't listen to anything I say! All
+  these <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/> have her full attention.
+talk_0033: |
+  <3 Type='0' Data='0700'/>I have to say, I think dressing like that
+  is in very poor taste.
+talk_0004: |
+  <3 Type='0' Data='0700'/>If just one of those <0 Type='3' Data='0000'/>five<0 Type='3' Data='ffff'/> ruins had fallen
+  a little differently, Kakariko Village might
+  have been wiped out. Scary, right?
+  Seemingly small things have such a big
+  impact. The <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/> landing next
+  door, <0 Type='3' Data='0000'/>Lady Paya<0 Type='3' Data='ffff'/> becoming chief...
+  The world as we know it is made up of
+  one tiny miracle after another.

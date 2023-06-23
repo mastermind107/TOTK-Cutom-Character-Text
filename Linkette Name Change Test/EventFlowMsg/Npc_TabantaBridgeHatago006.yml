@@ -1,0 +1,152 @@
+Com_Welcome: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hello! And welcome to <0 Type='3' Data='0000'/>Tabantha
+  Bridge Stable<0 Type='3' Data='ffff'/>.
+Com_Photo_03: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>The <0 Type='3' Data='0000'/>Ancient Columns<0 Type='3' Data='ffff'/> are on the mountain
+  across the Tabantha Great Bridge
+  out front.
+  <3 Type='0' Data='0101'/>And I imagine a painting of those columns
+  basking in a majestic <0 Type='3' Data='0000'/>sunrise<0 Type='3' Data='ffff'/> would
+  make our customers very happy.
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0e0053006900670068005f0030003100'/>But I've given up on painting it myself now
+  that I've seen how terrifying the monsters
+  on that mountain can be.
+Com_Photo_Thank: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Thanks to you, Linkette, I could finally display
+  the painting I had given up on.<0 Type='4'/>The sight of our region's <0 Type='3' Data='0000'/>Ancient Columns
+  lit by the sunrise<0 Type='3' Data='ffff'/> will very likely—<5 Type='0'/>no, will
+  SURELY—delight our customers!
+9001: |
+  I've got a picture.
+Com_Photo_04: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Huh?<5 Type='0'/> Did you bring me <0 Type='3' Data='0000'/>a picture of the
+  Ancient Columns in the sunrise<0 Type='3' Data='ffff'/>?!
+DoNotWakka_01: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Oh! You've noticed our new decoration!<0 Type='4'/>Someone from the Stable Association
+  brought it in the other day. These ring
+  garlands are very "in" right now.
+  <3 Type='0' Data='0701'/>They come straight from <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>
+  in Necluda, east of Central Hyrule.
+  They're a local specialty, or so I'm told.
+BurnedWakka_01: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Please be careful with our garland. If you
+  want your own, you can buy one in
+  <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>.
+  The village is in <0 Type='3' Data='0000'/>Necluda<0 Type='3' Data='ffff'/>, far southeast of
+  us.<5 Type='0'/> Given your clear enthusiasm, though,
+  it might be worth the trip.
+9002: |
+  Goodbye.
+Com_Photo_05: |
+  <3 Type='0' Data='0a01'/>So long as you have a <0 Type='3' Data='0000'/>picture<0 Type='3' Data='ffff'/>,<5 Type='0'/> I can paint
+  a copy of it in two shakes of a horse's tail.
+DoNotWakka_02: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Hahaha! I see our ring garland has really
+  caught your fancy.<0 Type='4'/>I can't give it to you, but if you'd like to
+  buy your own, I recommend you pay a
+  visit to <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0701'/>It's quite a ways to travel, but it's located
+  in <0 Type='3' Data='0000'/>Necluda<0 Type='3' Data='ffff'/> to the southeast of here.
+9003: |
+  I've got nothing.
+Com_Photo_06: |
+  <3 Type='0' Data='0701'/>If <5 Type='0'/>you happen to have <0 Type='3' Data='0000'/>a picture of the
+  Ancient Columns at sunrise<0 Type='3' Data='ffff'/>, please
+  show it to me!
+Com_Photo_07: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003100'/>It's miraculous that such an old ruin has
+  remained so well-preserved.<0 Type='4'/><3 Type='0' Data='0801'/>If you have a picture—any picture—of the
+  <0 Type='3' Data='0000'/>Ancient Columns at sunrise<0 Type='3' Data='ffff'/>, I'll paint a
+  copy and display it.
+  So if you ever want to update the decor
+  around here, simply show me a picture,<5 Type='0'/>
+  and it will be done.
+WakkaCharm: |
+  Look at that ring garland!
+Com_Photo_08: |
+  <3 Type='0' Data='0801'/>When I look at this picture, I think about
+  gathering up my family one day to take a
+  look at the real thing.
+  <4 Type='0' Data='0e0053006900670068005f0030003100'/>There's no way we could close the stable
+  to do so, of course, but...<5 Type='0'/>that only makes
+  me more grateful for your kindness.
+Goodbye_01: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Ah, that's right. If you do intend to go
+  <0 Type='3' Data='0000'/>north<0 Type='3' Data='ffff'/> to <0 Type='3' Data='0000'/>Hebra<0 Type='3' Data='ffff'/>...<0 Type='4'/>I recommend that you <0 Type='3' Data='0000'/>take precautions
+  against the cold<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0c01'/><0 Type='3' Data='0000'/>Hebra <0 Type='3' Data='ffff'/>has always been a chilly region, but
+  ever since their recent <0 Type='3' Data='0000'/>extreme cold snap<0 Type='3' Data='ffff'/>,
+  they don't even have enough to eat.
+  You may see a Rito visitor here named
+  <0 Type='3' Data='0000'/>Bedoli<0 Type='3' Data='ffff'/>. She's come from <0 Type='3' Data='0000'/>Rito Village <0 Type='3' Data='ffff'/>to
+  stock up on food.
+Com_Photo_09: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003100'/>This wall is where I would display my
+  painting of the <0 Type='3' Data='0000'/>Ancient Columns bathed in
+  the light of the sunrise<0 Type='3' Data='ffff'/>...if only I had one!
+  Imagine how pleased our customers would
+  be to gaze at a sight like that!
+9006: |
+  Let's change it up.
+9007: |
+  I like it as it is.
+Goodbye_03: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>The<0 Type='3' Data='0000'/> massive cold snap <0 Type='3' Data='ffff'/>is over, and things
+  have finally settled down around here.<0 Type='4'/>But there's no shortage of strange
+  happenings these days. Please take
+  care during your travels.
+  <3 Type='0' Data='0701'/>Our employee <0 Type='3' Data='0000'/>Banji <0 Type='3' Data='ffff'/>really knows this area,
+  so don't be shy about asking for her help.
+10001: |
+  <3 Type='0' Data='0700'/>Linkette, I'm sorry you came all this way, but
+  it seems now is not the time for resting...
+  
+  Please visit when you have more time!
+Goodbye_05: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Ah, that's right. If you do intend to go
+  <0 Type='3' Data='0000'/>north<0 Type='3' Data='ffff'/> to <0 Type='3' Data='0000'/>Hebra<0 Type='3' Data='ffff'/>...<0 Type='4'/>I recommend that you <0 Type='3' Data='0000'/>take precautions
+  against the cold<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0c01'/><0 Type='3' Data='0000'/>Hebra <0 Type='3' Data='ffff'/>has always been a chilly region, but
+  ever since their recent <0 Type='3' Data='0000'/>extreme cold snap<0 Type='3' Data='ffff'/>,
+  they don't even have enough to eat.
+  That Rito outside, <0 Type='3' Data='0000'/>Bedoli<0 Type='3' Data='ffff'/>, actually came
+  down here from <0 Type='3' Data='0000'/>Rito Village <0 Type='3' Data='ffff'/>to stock up
+  on food.
+Com_Photo_10: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003100'/>It really is an evocative painting. I feel as
+  though the past comes to life every time
+  I look at it.
+Com_Photo_12: |
+  <3 Type='0' Data='0700'/>Oh,<5 Type='0'/> did you have something to say about
+  the <0 Type='3' Data='0000'/>picture of the Ancient Columns<0 Type='3' Data='ffff'/>?
+Com_FirstTime_Only01: |
+  <3 Type='0' Data='0701'/>Without further ado, to commemorate
+  your first use of Tabantha Bridge Stable...
+Com_FirstTime_Only02: |
+  <3 Type='0' Data='0701'/>Not only is this your first time using
+  Tabantha Bridge Stable, you've even
+  <0 Type='3' Data='0000'/>registered a horse<0 Type='3' Data='ffff'/>! So...
+Com_Photo_01: |
+  <3 Type='0' Data='0701'/>If you cross the Tabantha Great Bridge
+  around the corner from our stable, you'll
+  see ruins on the mountain.
+  <3 Type='0' Data='0701'/>I thought that accenting this place with a
+  picture of the <0 Type='3' Data='0000'/>Ancient Columns<0 Type='3' Data='ffff'/> greeting
+  the <0 Type='3' Data='0000'/>sunrise<0 Type='3' Data='ffff'/> might please our customers.
+  Though when I went out before dawn to
+  PAINT said picture...
+  
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>I found myself staring down an
+  enormous monster!
+  
+  <3 Type='0' Data='0a01'/>I ducked away and hurried home safely,
+  <5 Type='0'/>but it's sadly impossible to paint at the
+  actual location as things are now...
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0e0053006900670068005f0030003100'/>I can't paint that view from memory, <5 Type='0'/>but if
+  I even had a <0 Type='3' Data='0000'/>detailed picture of it<0 Type='3' Data='ffff'/>, I'm
+  sure I could re-create it for our stable.
+Com_FirstTime_Only03: |
+  <3 Type='0' Data='0701'/>To celebrate your first time using
+  Tabantha Bridge Stable and your choice
+  to <0 Type='3' Data='0000'/>lodge with us<0 Type='3' Data='ffff'/>...
+Com_Photo_02: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>What's that?<5 Type='0'/> Do you have a picture of
+  the <0 Type='3' Data='0000'/>Ancient Columns in the sunrise<0 Type='3' Data='ffff'/>?

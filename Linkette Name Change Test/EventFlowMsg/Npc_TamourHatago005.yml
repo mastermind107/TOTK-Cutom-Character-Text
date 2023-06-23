@@ -1,0 +1,143 @@
+Com_Welcome: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>Welcome to <0 Type='3' Data='0000'/>East Akkala Stable<0 Type='3' Data='ffff'/>!
+Com_Photo_03: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Have you seen how unsettled things are
+  around here? Monsters are everywhere!
+  
+  So I came up with this idea... I'll hang up
+  a <0 Type='3' Data='0000'/>picture of Octorok Lake <0 Type='3' Data='ffff'/>when it looks
+  like a monster, and that'll scare them off.
+  <3 Type='0' Data='0101'/>The lake is south of here, and it looks like
+  any ol' lake until the <0 Type='3' Data='0000'/>water rises<0 Type='3' Data='ffff'/>. Then it
+  takes the<0 Type='3' Data='0000'/> shape of an Octorok monster<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0301'/>The thing is,<5 Type='0'/> it's not a good idea to leave
+  the stable unattended just to go paint a
+  picture.<5 Type='0'/> You know?
+Com_Photo_Thank: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Thanks to you, Linkette, I feel much more
+  at ease.<0 Type='4'/>This intimidating lake will definitely scare
+  off any monsters that threaten the stable.
+9001: |
+  Like this one?
+Com_Photo_04: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>What?<5 Type='0'/> Did you bring me a <0 Type='3' Data='0000'/>picture of
+  Octorok Lake in the shape of an Octorok<0 Type='3' Data='ffff'/>?
+BurnedWakka_01: |
+  <3 Type='0' Data='0301'/>Please leave our flower garland alone.
+  If you really want one...
+  
+  try picking one up at <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>
+  in the mountain range to the southwest
+  of here.
+DoNotWakka_01: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>You like that, do you? It's nice, isn't it?
+  I hear they're all the rage right now.
+  
+  I guess those things got their start in
+  <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>. I've been told a little
+  girl makes them all on her own!
+  The village is southwest of here in
+  Necluda, so if you ever pass through,
+  you should see if you can find one.
+9002: |
+  Goodbye.
+Com_Photo_05: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0c005300610064005f0030003000'/>If <0 Type='3' Data='0000'/>Octorok Lake looks like an Octorok
+  monster <0 Type='3' Data='ffff'/>when the water rises...a rainy
+  day could be a good time to check it out.
+DoNotWakka_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Look, I can see you've taken a liking
+  to it, but that belongs to the stable, so
+  it's not yours to have.
+  <3 Type='0' Data='0801'/>If you want one of your own, just visit
+  <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>. It's southwest of here!
+9003: |
+  I'm not showing you.
+Com_Photo_06: |
+  <3 Type='0' Data='0101'/>If you happen to have a <0 Type='3' Data='0000'/>picture of
+  Octorok Lake in the shape of an Octorok<0 Type='3' Data='ffff'/>,
+  I sure hope you'll show it to me.
+Com_Photo_07: |
+  <3 Type='0' Data='0801'/>Aha! This is just right! Now we'll have a
+  monster of our own to protect us.<0 Type='4'/><3 Type='0' Data='0101'/>I tell you, I could paint pictures of
+  <0 Type='3' Data='0000'/>Octorok Lake looking like a monster<0 Type='3' Data='ffff'/>
+  all day.
+  <3 Type='0' Data='0801'/>So, if you have an image of the lake that
+  you like better, bring it by and I'll use it
+  as inspiration for a new painting!
+WakkaCharm: |
+  We have one here too.
+Com_Photo_08: |
+  <3 Type='0' Data='0501'/>I have to say, the lake really does look
+  like a big monster.
+  
+  <4 Type='0' Data='100041006e006700720079005f0030003000'/>The best way to fight monsters is with
+  your own monsters, right?<5 Type='0'/> Yeah, I just
+  know this painting is going to protect us!
+Goodbye_01: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh, that's right.<5 Type='0'/> Did you meet <0 Type='3' Data='0000'/>Malanya<0 Type='3' Data='ffff'/>
+  at Bloodleaf Lake to the north?
+  
+  <3 Type='0' Data='0701'/>I hear that if he takes a liking to you, he
+  can boost your horse's abilities or even
+  bring your equine friend back to life!
+  It sounds far-fetched, but it'd be fantastic
+  if it's true.
+  
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>How lucky would our stable be if a horse
+  god like that decided to reside here?
+  I can only imagine!
+Com_Photo_09: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>If I could hang a <0 Type='3' Data='0000'/>picture of Octorok Lake
+  when it's in the shape of an Octorok<0 Type='3' Data='ffff'/>...
+  I just know it'd help keep monsters away.
+  Ah, but I don't have time to go all the way
+  there and paint it. So who knows how
+  this'll ever get done.
+9006: |
+  I'd like to change it.
+9007: |
+  It's fine the way it is.
+Com_Photo_10: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>A painting of a monster-shaped lake!
+  What a perfect way to ward off monsters!
+Com_Photo_12: |
+  <3 Type='0' Data='0101'/>Anyway,<5 Type='0'/> is there something you'd like to
+  do with that <0 Type='3' Data='0000'/>picture of Octorok Lake<0 Type='3' Data='ffff'/>?
+Com_FirstTime_Only01: |
+  <3 Type='0' Data='0101'/>I see it's your first time with us here at
+  <0 Type='3' Data='0000'/>East Akkala Stable<0 Type='3' Data='ffff'/>, so here you go...
+Com_FirstTime_Only02: |
+  <3 Type='0' Data='0101'/>It's both your first time at <0 Type='3' Data='0000'/>East Akkala
+  Stable<0 Type='3' Data='ffff'/> and you've <0 Type='3' Data='0000'/>registered a horse<0 Type='3' Data='ffff'/>,
+  so here...
+Com_Photo_01: |
+  <3 Type='0' Data='0501'/>So<5 Type='0'/> I did some thinking about what kind of
+  picture I'd like to hang up.<0 Type='4'/><3 Type='0' Data='0701'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>There's this big lake right to the <0 Type='3' Data='0000'/>south<0 Type='3' Data='ffff'/> of
+  here called <0 Type='3' Data='0000'/>Octorok Lake<0 Type='3' Data='ffff'/>.
+  
+  It looks like any other lake at first glance,
+  but when the <0 Type='3' Data='0000'/>water level rises<0 Type='3' Data='ffff'/>...it takes
+  the shape of a monster called an Octorok!
+  That's how it got its name, I suppose.
+  
+  
+  <3 Type='0' Data='0101'/>Anyway, I'd like to paint a <0 Type='3' Data='0000'/>picture of
+  Octorok Lake when it looks like an
+  Octorok <0 Type='3' Data='ffff'/>and hang it on the wall.
+  <3 Type='0' Data='0301'/>And who knows, with all the monsters
+  showing up lately, maybe it'll help keep
+  them away.
+  <3 Type='0' Data='0501'/><4 Type='0' Data='0c005300610064005f0030003000'/>The thing is,<5 Type='0'/> I can't exactly leave the
+  stable unattended just to go paint
+  a picture.
+  <3 Type='0' Data='0c01'/>But if I had a picture of <0 Type='3' Data='0000'/>Octorok Lake in
+  its Octorok shape<0 Type='3' Data='ffff'/> right in front of me,<5 Type='0'/>
+  well, <5 Type='0'/>I'm sure I could paint it.
+Com_FirstTime_Only03: |
+  <3 Type='0' Data='0801'/>You <0 Type='3' Data='0000'/>stayed in a regular bed<0 Type='3' Data='ffff'/> during your
+  first visit with us at <0 Type='3' Data='0000'/>East Akkala Stable<0 Type='3' Data='ffff'/>,
+  so here...
+Com_Photo_02: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>What's that?<5 Type='0'/> You have a <0 Type='3' Data='0000'/>picture of
+  Octorok Lake<0 Type='3' Data='ffff'/>?

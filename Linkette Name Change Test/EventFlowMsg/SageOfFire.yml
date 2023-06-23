@@ -1,0 +1,396 @@
+Comment_17: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='2000590075006e0042006f004700720065006500740069006e0067005f0030003000'/>Well, if it ain't Linkette. You're so tiny, I
+  barely even noticed ya.
+talk90: |
+  <3 Type='0' Data='0a00'/>I don't really like that lady...
+  
+  
+  But it's definitely the <0 Type='3' Data='0000'/>marbled rock roast<0 Type='3' Data='ffff'/>'s
+  fault that everyone's been acting funny.
+talk105: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Sure did! Maybe he'll get President
+  Yunobo to be himself again!
+Comment_18: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='180043007500730074006f006d0059006f007500540073007500'/><FontSize Value='125'/>Agh, ugh!
+  
+  
+  <FontSize Value='100'/><3 Type='0' Data='0501'/>My achin' back...<FontSize Value='125'/><FontSize Value='100'/>
+talk91: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Yeah.
+  
+  
+  President Yunobo said he got that <0 Type='3' Data='0000'/>weird
+  mask<0 Type='3' Data='ffff'/> he's wearing from the lady too.
+Comment_19: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='2000590075006e0042006f004100720072006f00670061006e0074005f0030003000'/>Bludo. Or should I say "Boss"? You really
+  don't know your place, do ya?
+talk92: |
+  <3 Type='0' Data='0a00'/>He was always so nice, but as soon as he
+  started <0 Type='3' Data='0000'/>wearing it<0 Type='3' Data='ffff'/>, he got real mean...
+Comment_05: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>So everyone's acting funny 'cause...
+talk93: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Hey, you're friends with President
+  Yunobo, aren't you? Y'know how he
+  created YunoboCo for mining?
+  It was supposed to be helpful for people
+  who needed ore and stuff... But now it's
+  just making things weird around here.
+  If we let you pass, will you convince
+  President Yunobo to make YunoboCo stop
+  mining marbled rock roast?
+talk108: |
+  <3 Type='0' Data='0800'/>Go right on in!
+Comment_06: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003100'/>'Cause of the <0 Type='3' Data='0000'/>marbled rock roast <0 Type='3' Data='ffff'/>that
+  <0 Type='3' Data='0000'/>President Yunobo <0 Type='3' Data='ffff'/>is mining...
+talk94: |
+  <3 Type='0' Data='0800'/>Slergo! Didja hear that?
+talk109: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh, hey! It's hot in there. It'd be
+  dangerous if you went in like that.
+Comment_07: |
+  <3 Type='0' Data='0201'/><4 Type='0' Data='2000590075006e0042006f004700720065006500740069006e0067005f0030003100'/>What're you mumblin' about over there?!
+near83: |
+  Ugh, what is going on?
+talk95: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>That's too bad.<5 Type='1'/>
+Comment_08: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='2000590075006e0042006f004700720065006500740069006e0067005f0030003000'/>So, Linkette. What's your business in
+  Goron City, huh?
+Comment_09: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/><0 Type='3' Data='0000'/>Princess Zelda<0 Type='3' Data='ffff'/>, huh? And you're
+  wonderin' about any <0 Type='3' Data='0000'/>strange<0 Type='3' Data='ffff'/> goin's-on?
+talk97: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>There's something off about that <0 Type='3' Data='0000'/>mask<0 Type='3' Data='ffff'/>!
+talk98: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Don't leave President Yunobo behind!
+talk160: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Don't you worry!
+  
+  
+  There's nothing to be scared of 'cause
+  President Yunobo can do his <0 Type='3' Data='0000'/>rumbleboom<0 Type='3' Data='ffff'/>!
+talk161: |
+  <3 Type='0' Data='0800'/>You're right! Nothing's more powerful
+  than his <0 Type='3' Data='0000'/>rumbleboom<0 Type='3' Data='ffff'/>!
+talk89: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>He's talking about <0 Type='3' Data='0000'/>marbled rock roast<0 Type='3' Data='ffff'/> with
+  the <0 Type='3' Data='0000'/>blond lady<0 Type='3' Data='ffff'/> right now.
+  
+  No one's allowed to come in.
+talk162: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Hey. Buddy. You know what you should
+  do if you're in a bind?
+  
+  Ask President Yunobo to use
+  his <0 Type='3' Data='0000'/>rumbleboom<0 Type='3' Data='ffff'/>.
+talk163: |
+  <3 Type='0' Data='0b00'/>Huh? Did you finish what you came to do
+  at Death Mountain?
+talk164: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Come to think of it... Didn't that voice say
+  there were five padlocks?
+  
+  <3 Type='0' Data='0d01'/>We haven't unlocked all of the padlocks
+  yet! We need to look for the rest!
+talk165: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Not good, not good! Princess Zelda
+  is stuck inside there!
+  
+  We gotta hurry and help her!<5 Type='1'/>
+  
+  
+  <4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>But how do we get in there...<5 Type='1'/>goro?
+talk166: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>The red haze is still spouting!
+talk50: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0a005400680069006e006b00'/>If it weren't for my darn spine, I'd march
+  right into <0 Type='3' Data='0000'/>YunoboCo's HQ<0 Type='3' Data='ffff'/> and give
+  Yunobo a piece of my mind!
+  But HQ is in a pain-in-the-neck location,
+  ya see.
+  
+  For starters, I'd have to go through the
+  <0 Type='3' Data='0000'/>northern mining site<0 Type='3' Data='ffff'/>.
+talk51: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0600530061006400'/>Everyone's <0 Type='3' Data='0000'/>changed<0 Type='3' Data='ffff'/> because of the
+  <0 Type='3' Data='0000'/>marbled rock roast<0 Type='3' Data='ffff'/>.
+  
+  And now this is how things are
+  around here.
+talk140: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Linkette! Over there!
+talk157: |
+  <3 Type='0' Data='0b00'/>Linkette! We can't afford to let that monster
+  run riot!
+  
+  But we're too far away to hit it now.
+  Let's regroup and come back fresh!
+talk159: |
+  <3 Type='0' Data='0a00'/>There's been more monsters than
+  ever since the red haze came outta
+  <0 Type='3' Data='0000'/>Death Mountain<0 Type='3' Data='ffff'/>.
+  That's what the miners told me.<5 Type='1'/>
+0000: |
+  Changed?
+talk44: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='0c005300610064005f0030003000'/>Ugh. That guy.
+  
+  
+  Used to be just a kid following me around
+  cryin' "Boss" this and "Boss" that.
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>It was all business as usual round here.
+  Then he created <0 Type='3' Data='0000'/>YunoboCo<0 Type='3' Data='ffff'/>—a group of
+  Gorons who work the mines.
+  Once they started diggin' up that
+  <0 Type='3' Data='0000'/>marbled rock roast<0 Type='3' Data='ffff'/>, Yunobo and all
+  the youngsters <0 Type='3' Data='0000'/>changed<0 Type='3' Data='ffff'/>.
+0001: |
+  Take care.
+talk132: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Linkette! Over there!
+talk45: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0600530061006400'/>Used to be just another spoiled tyke,
+  following me all over the place.
+  
+  It was all business as usual round here.
+  Then he created <0 Type='3' Data='0000'/>YunoboCo<0 Type='3' Data='ffff'/>—a group of
+  Gorons who work the mines.
+  Once they started diggin' up that
+  <0 Type='3' Data='0000'/>marbled rock roast<0 Type='3' Data='ffff'/>, Yunobo and all
+  the youngsters <0 Type='3' Data='0000'/>changed<0 Type='3' Data='ffff'/>.
+0002: |
+  Goodbye.
+talk133: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>Is this where I heard the voice
+  coming from?
+talk46: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0600530061006400'/>That Yunobo. Used to be nothin' more
+  than a whiny brat, tootlin' around
+  after me.
+  Recently he created that rock-mining
+  group, <0 Type='3' Data='0000'/>YunoboCo<0 Type='3' Data='ffff'/>, and they started haulin'
+  in a buncha <0 Type='3' Data='0000'/>marbled rock roast<0 Type='3' Data='ffff'/>.
+  Ever since, everyone's been <0 Type='3' Data='0000'/>actin' funny<0 Type='3' Data='ffff'/>
+  and now things are like this.
+talk47: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>You heard me—changed! All due to that
+  strange <0 Type='3' Data='0000'/>marbled rock roast<0 Type='3' Data='ffff'/> Yunobo
+  dug up.
+  Now all the youngsters just sit around
+  eatin' it instead of workin'!
+  
+  Why, some of them are even running
+  scams, tryin' ta get more <0 Type='3' Data='0000'/>marbled
+  rock roast<0 Type='3' Data='ffff'/>.
+  There's no way he can't see what a
+  mess we're in with it, but he keeps
+  playin' dumb!
+talk135: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>There's something up ahead, goro...
+talk120: |
+  <3 Type='0' Data='0800'/>Thank you for busting up that mask!
+  I'm glad we asked for your help.
+  
+  But I can't believe that the blond lady
+  was Princess Zelda...
+  
+  <3 Type='0' Data='0c00'/>Never woulda guessed.
+talk48: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>That's right. The young'ns have gone
+  bonkers over this <0 Type='3' Data='0000'/>marbled rock roast<0 Type='3' Data='ffff'/>.
+  
+  They haven't been working at all ever
+  since they got their mitts on the stuff.
+  
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0600530061006400'/>It looks like Yunobo has had some sense
+  knocked back into him, so that's good.
+  
+  But if things don't get back to normal for
+  everyone else, Goron City might well
+  be doomed.
+talk121: |
+  <3 Type='0' Data='0a00'/>We're stuck...
+  
+  
+  Those rocks are rock-hard. I definitely
+  can't break it.
+talk136: |
+  <3 Type='0' Data='0800'/>That did the trick!
+  
+  
+  C'mon, boys. Let's go after
+  <0 Type='3' Data='0000'/>Princess Zelda<0 Type='3' Data='ffff'/>!
+talk49: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='180043007500730074006f006d0059006f007500540073007500'/><FontSize Value='125'/>Argh!<5 Type='1'/><FontSize Value='100'/>
+  
+  
+  <3 Type='0' Data='0a00'/>I can't do anything with this back of mine.
+  What to do...
+talk122: |
+  <3 Type='0' Data='0c00'/>Still can't believe that the blond lady was
+  Princess Zelda.
+  
+  Who'da thought!
+Comment_20: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Ya think I'm just gonna sit here and—
+talk123: |
+  <3 Type='0' Data='0701'/>...<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0b00'/>Hang on. Now that I look more closely,
+  I can see that's Yunobo, isn't it?
+  
+  I got so used to seein' him with that
+  ridiculous mask on his mug that I barely
+  recognized him without it.
+talk138: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003000'/>Hey! Over here!
+Comment_21: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='120041006e006700720079004c005f0030003100'/>Stodgy ol' guy. Stickin' your nose into
+  things when you've got your spine to
+  worry about.
+talk124: |
+  <3 Type='0' Data='0a01'/>Well, even if he's returned to his senses,
+  the situation here sure hasn't.
+0008: |
+  I'll see what I can do.
+talk139: |
+  <3 Type='0' Data='0700'/>I'll try going over there!
+Comment_22: |
+  <3 Type='0' Data='0201'/>Slergo! Offrak! Time to head back to
+  <0 Type='3' Data='0000'/>YunoboCo HQ<0 Type='3' Data='ffff'/>.
+talk110: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>If you don't have <0 Type='3' Data='0000'/>fire-resistant equipment<0 Type='3' Data='ffff'/>,
+  you should go to <0 Type='3' Data='0000'/>HQ<0 Type='3' Data='ffff'/> to get some.
+0009: |
+  I'm kinda busy.
+talk125: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Don't leave us here!
+Comment_23: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='120041006e006700720079004c005f0030003000'/>Slergo! Tell me, who runs Goron City
+  these days?
+talk23: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>WHOA. That...that THING broke out of the
+  crater like it was nothin'!
+  
+  Is that <0 Type='3' Data='0000'/>marbled rock<0 Type='3' Data='ffff'/>—<5 Type='1'/> Is it alive?! And
+  there's three of those things?<5 Type='1'/> Hang on,
+  no— Those are<5 Type='1'/>...heads!
+  It's SO big! How could something that
+  large appear out of nowhere like that...
+  
+  <3 Type='0' Data='0900'/><4 Type='0' Data='120041006e006700720079004c005f0030003000'/>I've never seen anything like this on
+  Death Mountain, goro!
+Comment_24: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003100'/><0 Type='3' Data='0000'/>YunoboCo<0 Type='3' Data='ffff'/>...<5 Type='1'/>
+talk112: |
+  <3 Type='0' Data='0a00'/>Pretty much everyone started bein' weird
+  after that <0 Type='3' Data='0000'/>blond lady <0 Type='3' Data='ffff'/>came here...
+Comment_25: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='2000590075006e0042006f004700720065006500740069006e0067005f0030003100'/>And, Offrak! Who's in charge
+  of <0 Type='3' Data='0000'/>YunoboCo<0 Type='3' Data='ffff'/>?
+Comment_10: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/><0 Type='3' Data='0000'/>Princess<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>Zelda<0 Type='3' Data='ffff'/>? I heard she'd gone
+  missing, but yer tellin' me she's
+  STILL missing?
+  I mean, it's hard to miss those lovely
+  <0 Type='3' Data='0000'/>blond locks <0 Type='3' Data='ffff'/>of hers, after all.
+talk113: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Hey, aren't you friends with
+  President Yunobo?
+  
+  I'll let you pass on one condition.
+  
+  
+  You gotta convince President Yunobo to
+  stop mining marbled rock roast.
+Comment_26: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>You are, <0 Type='3' Data='0000'/>President Yunobo<0 Type='3' Data='ffff'/><5 Type='1'/>...
+Comment_11: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Locks? Does that mean hair?
+talk114: |
+  <3 Type='0' Data='0700'/>Don't you have any <0 Type='3' Data='0000'/>fire-resistant
+  equipment<0 Type='3' Data='ffff'/>? The inside of this cave
+  is too hot for Hylians.
+  You should go get some over at <0 Type='3' Data='0000'/>HQ<0 Type='3' Data='ffff'/>. It's
+  the other building near here.
+talk129: |
+  <3 Type='0' Data='0a00'/>President Yunobo started acting strange
+  as soon as he put on the <0 Type='3' Data='0000'/>weird mask <0 Type='3' Data='ffff'/>he
+  got from the <0 Type='3' Data='0000'/>blond lady<0 Type='3' Data='ffff'/>...
+  He's so unlike himself now. Everything
+  about him is...different.
+talk26: |
+  <3 Type='0' Data='0901'/>If we don't take that thing out, who knows
+  what will happen to Princess Zelda!
+  
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>But I can't exactly <0 Type='3' Data='0000'/>charge at it <0 Type='3' Data='ffff'/>from
+  down here...
+  
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1000530063006100720065005f0030003100'/>Any ideas, Linkette?
+Comment_27: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='120041006e006700720079004c005f0030003100'/>You hear that, Bludo? You're not needed
+  round here anymore.
+Comment_12: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh, oh! The lady with hair like that! She's
+  the same one President Yunobo talks to
+  about <0 Type='3' Data='0000'/>marbled rock roast<0 Type='3' Data='ffff'/>!
+talk115: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>You got it!<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/><0 Type='3' Data='0000'/>Fire-resistant equipment!<0 Type='3' Data='ffff'/>
+  
+  
+  This cave is normally too hot for Hylians,
+  but since you've got the gear, you're set.
+Comment_13: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Pipe down, you two! You'll keep your
+  traps shut if ya know what's good for ya!
+talk116: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Please don't abandon President Yunobo!
+near01: |
+  It's this way!
+Comment_14: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='120041006e006700720079004c005f0030003000'/>As you can see, Goron City is the picture
+  of peace. And we can't help with
+  <0 Type='3' Data='0000'/>Princess Zelda<0 Type='3' Data='ffff'/>.
+  So you'd better shove off.
+talk117: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>There's somethin' weird about that mask
+  of his.
+near02: |
+  Carts are sure useful!
+Comment_00: |
+  <3 Type='0' Data='0a00'/>Krane! Not you too!<5 Type='0'/> And after all my
+  warnin's about the <0 Type='3' Data='0000'/>marbled rock roast<0 Type='3' Data='ffff'/>.
+Comment_15: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='2000590075006e0042006f004100720072006f00670061006e0074005f0030003000'/>I've gotta go get more <0 Type='3' Data='0000'/>marbled rock roast<0 Type='3' Data='ffff'/>.
+  Can't afford to keep <0 Type='3' Data='0000'/>her<0 Type='3' Data='ffff'/> waiting.
+talk118: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='180043007500730074006f006d0059006f007500540073007500'/><FontSize Value='125'/>Argh!<5 Type='1'/><FontSize Value='100'/>
+  
+  
+  <3 Type='0' Data='0a00'/>In this condition, I can't even ride a cart...
+  What to do...
+talk103: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Hey, it's you again!
+Comment_01: |
+  <3 Type='0' Data='0900'/>Yunobo! What's the big idea? Talkin' like
+  that to our esteemed guest!
+Comment_16: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>Yunobo, I swear, if you bring in any more
+  of that stuff, I'll...
+talk104: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/><0 Type='3' Data='ffff'/>The one who knows President Yunobo!
+talk119: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>You did it! You brought back our
+  President Yunobo!
+  
+  <3 Type='0' Data='0a00'/>But, uh... Now we're stuck in here. That
+  pile of rocks is really big. <5 Type='0'/>And hard.
+  
+  No way I can break it.

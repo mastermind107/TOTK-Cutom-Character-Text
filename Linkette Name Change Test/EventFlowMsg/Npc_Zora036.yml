@@ -1,0 +1,289 @@
+talk1043: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hello!<5 Type='0'/> I have fantastic news!
+  
+  
+  <4 Type='0' Data='1000480061007000700079005f0030003000'/>I was chosen to be part of the team
+  that is going to take down the monster
+  fort!<5 Type='0'/> I am ready and raring to go!
+  <3 Type='0' Data='0501'/>...<5 Type='0'/>Hm? <5 Type='0'/>P-pardon me?
+  
+  
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>You mean to say that...<5 Type='0'/>you already...<5 Type='0'/>
+  defeated the monsters?<5 Type='1'/> And all by
+  yourself to boot?
+  You...<5 Type='0'/> YOU...<5 Type='0'/> You really ought to boast
+  about things like that!
+  
+  <3 Type='0' Data='0900'/><4 Type='0' Data='1400520075006e0061007700610079005f0030003100'/><FontSize Value='125'/>You are amazing! One of a kind!
+  
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000540069007200650064005f0030003100'/><FontSize Value='100'/>I mean, really though. Wow!
+talk1015: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hello, L—<5 Type='0'/> I mean, hello, Hylian!
+  
+  
+  <FontSize Value='80'/>I feel...<5 Type='0'/>it would be a bit embarrassing to start calling
+  you Linkette just all of a sudden...
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/><FontSize Value='100'/>Well, in any case!<5 Type='0'/> I heard that you and
+  Sidon bested the <FontSize Value='80'/><FontSize Value='100'/>sludge monster!
+  
+  Wow! That is extraordinary!
+  
+  
+  I must get in on the action myself!
+  Yes, I must!
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>I hear that Gaddison found a monster fort,
+  so...<5 Type='0'/>there has been some talk of trying to
+  clear them out!
+talk1044: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey! Hylian! How are you faring?
+  
+  
+  Everything is optimal here! <5 Type='0'/>The sludge has
+  thankfully stopped falling from the sky.
+  
+  <3 Type='0' Data='0500'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>That said, <5 Type='0'/>it is hard to believe that the
+  phenomena happening elsewhere in
+  Hyrule are still ongoing.
+  As I stand here gazing at our peaceful
+  mountains, I find that hard to wrap my
+  mind around.
+talk1045: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>While the sludge has stopped falling here,
+  the phenomena happening elsewhere in
+  Hyrule are still ongoing...
+  As I stand here gazing at our peaceful
+  mountains, I find that hard to wrap my
+  mind around.
+talk1046: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hello, L—<5 Type='0'/> I mean, hello, Hylian!
+  
+  
+  <FontSize Value='80'/>I feel...<5 Type='0'/>it would be a bit embarrassing to start calling
+  you Linkette just all of a sudden...
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/><FontSize Value='100'/>Well, in any case!<5 Type='0'/> I heard that you and
+  Sidon bested the <FontSize Value='80'/><FontSize Value='100'/>sludge monster!
+  
+  Wow! That is extraordinary!
+  
+  
+  <4 Type='0' Data='10004700720065006500740069006e006700'/>I must increase my training so that I may
+  become a mighty warrior who is chosen
+  to defeat those foul monsters!
+talk1048: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Train first, train second, and then train
+  even more! That is the recipe for success!
+  
+  I lost my opportunity to be assigned to
+  Lookout Landing...
+  
+  <3 Type='0' Data='0200'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>So now I must train with this spear until
+  I am the very best! More training! More,
+  more, more!
+0020: |
+  Where's Jiahto?
+talk1049: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='0a0054006900720065006400'/>Ah! I lost my chance...*pant* to be
+  summoned to Lookout Landing!
+  
+  More... I must train with my spear
+  even more!
+0021: |
+  Where's King Dorephan?
+talk1051: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>We were able to wash away much of the
+  sludge thanks in large part to the efforts
+  of Lady Yona and the others.
+  Still, I advise you to tread carefully. That
+  dreaded substance is treacherous at best.
+0022: |
+  Goodbye.
+talk1052: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>I daresay it would be best to speak with
+  King Dorephan.
+  
+  However, he left to investigate the sludge,
+  and I am unsure when he will return.
+  
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Why not see what Lady Yona has to say?
+  She can be found at the <0 Type='3' Data='0000'/>infirmary <0 Type='3' Data='ffff'/>in
+  the back.
+0023: |
+  What's new?
+talk1053: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Hey! Hylian! <5 Type='0'/>Whatever is the matter?<5 Type='0'/>
+  You look like something is on your mind.
+talk1025: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Hey! Hylian! I hear you came to the
+  domain for some kind of investigation.
+talk1054: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Oh, what joy!<5 Type='0'/> Tottika and Tie...<5 Type='1'/>
+  And Capelo as well!
+  
+  <4 Type='0' Data='1000480061007000700079005f0030003000'/>Once they have fully recovered, I must
+  throw them a massive welcome-home
+  celebration!
+talk1026: |
+  <3 Type='0' Data='0700'/>Perhaps you should hear what Lady Yona
+  has to say instead. She can be found at
+  the <0 Type='3' Data='0000'/>infirmary <0 Type='3' Data='ffff'/>in the back.
+  She is treating those who were harmed by
+  the sludge.
+talk1055: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='0600530061006400'/>I am just a tad concerned, but at times
+  like these, I must do my very best!
+  
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Leave the domain to me, and I will leave
+  Prince Sidon to you!
+talk1056: |
+  <3 Type='0' Data='0500'/>You should speak to King Dorephan. Ah,
+  except he is out investigating the sludge.
+  I do not know when he will return.
+talk1057: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Hey! Hylian! It's good to see you out and
+  about at such an early hour!<5 Type='0'/> I hear you
+  came here for some kind of investigation.
+talk1028: |
+  <3 Type='0' Data='0c00'/><FontSize Value='80'/><FontSize Value='100'/><4 Type='0' Data='0c005300610064005f0030003100'/><FontSize Value='80'/>Prince Sidon is gone. King Dorephan is gone.
+  Lady Yona is gone as well... At times like these,
+  I must do my very best!<FontSize Value='100'/>
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Leave the matters of the domain to me!<5 Type='0'/>
+  In turn, I will leave Prince Sidon to you!
+  
+  <3 Type='0' Data='0a01'/>I... I am just a tad concerned, so please
+  do what must be done with haste!
+talk1058: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Hey! Hylian! It's good to see you still alert
+  at this late hour!<5 Type='0'/> I hear you came to the
+  domain for some kind of investigation.
+talk1030: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Attention, Hylian!<5 Type='0'/> Beware the dreaded
+  sludge, or you will be in grave danger!
+  
+  Thanks to Lady Yona and the others, we
+  washed much of it away, but we cannot
+  be certain it will not rain down again!
+talk1031: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Hey! Hylian! How is the investigation
+  going?
+talk1060: |
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>The <0 Type='3' Data='0000'/>throne room <0 Type='3' Data='ffff'/>has become a play area
+  for the children.
+  
+  It was Prince Sidon's brilliant idea to give
+  them somewhere safe to play.<5 Type='1'/> Even in
+  these trying times, he is so thoughtful.
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Their parents were quite relieved. This will
+  help keep them safe and healthy, <5 Type='0'/>which
+  will also make Lady Yona's work easier!
+  The young ones are overjoyed and already
+  playing. <5 Type='0'/>They have lots of energy to burn
+  since they have not been able to go out.
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/><0 Type='3' Data='ffff'/>Ledo, who was just cleaning the throne
+  room, had to hide in a corner to get out
+  of their way!
+talk1061: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>There were a few who opposed at first, 
+  but Prince Sidon knew how beneficial it
+  would be. I have much to learn from him.
+talk1032: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Lady Yona just announced that things
+  have made a turn for the better regarding
+  her treatment of the patients.
+  That means my soldier friends should be
+  recuperating soon. I am overjoyed!
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>The domain is going to be just fine!
+  Yes, it certainly is!
+talk1033: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/><0 Type='3' Data='0000'/>Jiahto<0 Type='3' Data='ffff'/>, the Zora historian, is investigating
+  the ruins at <0 Type='3' Data='0000'/>Toto Lake<0 Type='3' Data='ffff'/>.
+  
+  Toto Lake can be found on the high
+  ground north of the domain. But beware...
+  
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0a005400680069006e006b00'/>The sludge waterfall is pouring down
+  terribly at present, and that aside, it's a
+  dangerous place filled with monsters!
+  If you insist on going, please be careful!
+talk1062: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>You really are amazing...
+  
+  
+  I must drum up some motivation so I can
+  become my strongest self as well!
+talk1034: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>He went off to investigate the sludge.<5 Type='1'/>
+  I assume he will be returning to the
+  <0 Type='3' Data='0000'/>throne room<0 Type='3' Data='ffff'/> shortly!
+near1006: |
+  I'm on it!
+near1007: |
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Hey!
+talk1035: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Farewell! I am rooting for you!
+talk1065: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Hmm... <5 Type='0'/>Let me think. Recently it feels as
+  though everything is new...
+  
+  Ah, it is perhaps worth noting that
+  Captain Bazz has not returned.
+talk1036: |
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Ask me anything you please.
+talk1066: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='10004700720065006500740069006e006700'/>There is not a monster alive that can get
+  the best of our Captain Bazz!
+  
+  I am not worried at all! No, not one bit!
+near1009: |
+  Huzzah!
+talk1037: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Gaddison was wondering what we should
+  do with the monster fort that has recently
+  surfaced. 
+  <3 Type='0' Data='0900'/>In my opinion, we should destroy it!
+  Do you not agree?
+  
+  <3 Type='0' Data='0500'/>However...<5 Type='1'/> I am not certain that I will be
+  selected for the cleanup crew.
+  
+  If only veterans attend to the battle<5 Type='0'/>
+  and I protect the east bridge in place
+  of Gaddison...
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Well, if you ask me, that is not such a
+  bad idea!
+talk1067: |
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Ever since he went to patrol the area near
+  that Skyview Tower that the Hylians built,
+  he has not returned.
+  He insisted on going out there all by
+  himself, as he said it was overrun by
+  monsters. However...
+near1010: |
+  <4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Wow!
+talk1038: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10004700720065006500740069006e006700'/>I must head to my post with haste!<5 Type='0'/>
+  Farewell!
+talk1039: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>The place that Gaddison is guarding to
+  the east is of critical importance.
+  
+  There are quite a lot of monsters above
+  Mikau Lake and by East Reservoir Lake.
+  
+  <4 Type='0' Data='10005400680069006e006b005f0030003100'/>That means there are many opportunities
+  to wave one's spear about, which seems
+  like a good fit for me.
+near1011: |
+  Hup, hup!
+near1012: |
+  I must run!
+near1013: |
+  I must train!
+talk1042: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10004700720065006500740069006e006700'/>It is nearly training time!<5 Type='0'/> Farewell!
+near1014: |
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Wow!

@@ -1,0 +1,283 @@
+talk0008: |
+  <3 Type='0' Data='0701'/>Since there were parts of that stone
+  slate that were unaccounted for...<5 Type='0'/>
+  
+  Well, I assumed it would take much longer
+  to conclude our investigation.
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>To think that you would find the missing
+  piece and repair it! <5 Type='1'/>I'm honestly in awe
+  of you.
+NakedPlayer: |
+  Did you lose your clothes?
+near0002: |
+  An investigation, eh?
+talk0030: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0600530061006400'/>Jiahto keeps interacting with dangerous
+  things. When I object, he insists it's
+  necessary for his research.
+  That makes things quite difficult for me,
+  as it is my job to guard him.<5 Type='1'/> That is why
+  I gave in to a moment of grumbling.
+near0003: |
+  Nothing unusual...
+talk0031: |
+  <3 Type='0' Data='0700'/>None other. <5 Type='1'/>Traversing this area when it's
+  covered in sludge would be tricky, to say
+  the least.
+  <3 Type='0' Data='0101'/>You already know this, but wearing the
+  <0 Type='3' Data='0000'/>Zora armor <0 Type='3' Data='ffff'/>allows you to climb waterfalls
+  with ease, even though you're a Hylian.
+  <4 Type='0' Data='0e0043006800610074005f0030003000'/>Lady Yona is attempting to repair it for
+  you. She's in the domain, so I suggest
+  you go and speak with her.
+talk0032: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Traversing this area when it's covered in
+  sludge would be tricky, to say the least.
+  
+  <3 Type='0' Data='0701'/>You already know this, but wearing the
+  <0 Type='3' Data='0000'/>Zora armor <0 Type='3' Data='ffff'/>allows you to climb waterfalls
+  with ease, even though you're a Hylian.
+  <4 Type='0' Data='0c005300610064005f0030003000'/>Ah, but rumor has it...that Lady Yona
+  may require an <0 Type='3' Data='0000'/>ancient arowana <0 Type='3' Data='ffff'/>in order
+  to repair it.
+  If you can find one, I ask that you deliver
+  it to Lady Yona at once so that she can
+  repair your <0 Type='3' Data='0000'/>Zora armor <0 Type='3' Data='ffff'/>for you.
+talk0020: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0e0053006900670068005f0030003100'/>*sigh* I will never understand the ways
+  of historians.<5 Type='1'/> Can he not conduct the
+  investigation more cautiously?
+0000: |
+  Where's King Dorephan?
+talk0021: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>Oh! <5 Type='1'/>Oh dear. <5 Type='0'/>I certainly hope that you did
+  not overhear me...<5 Type='0'/>*ahem* grumbling to
+  myself like that.
+  It's n-not as it sounds. <5 Type='0'/>Really!
+0001: |
+  Ruins?
+0002: |
+  See you later.
+talk0022: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='08004500610073006500'/>Jiahto is a historian, so this kind of thing
+  is his specialty. He was terribly excited
+  and is completely transfixed by the ruins.
+talk0010: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Jiahto is making a big fuss.
+  
+  
+  But honestly... <5 Type='0'/>Even if I asked him to
+  explain his excitement, a soldier like me
+  probably wouldn't understand.
+0003: |
+  See you later.
+talk0023: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>None other.<5 Type='1'/> Oh, I suppose your reaction
+  means you have not yet spoken with
+  Lady Yona.
+  <3 Type='0' Data='0701'/>You already know this, but wearing the
+  <0 Type='3' Data='0000'/>Zora armor <0 Type='3' Data='ffff'/>allows you to climb waterfalls
+  with ease, even though you're a Hylian.
+  <4 Type='0' Data='0e0043006800610074005f0030003000'/>Lady Yona is attempting to repair it for
+  you. She's in the domain, so I suggest
+  you go and speak with her.
+talk0011: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>OK, then. <5 Type='0'/>Beware the sludge out there.
+0004: |
+  My Zora armor?
+talk0024: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>I see! <5 Type='1'/>So you have already spoken with
+  Lady Yona.
+  
+  <3 Type='0' Data='0701'/>You already know this, but wearing the
+  <0 Type='3' Data='0000'/>Zora armor <0 Type='3' Data='ffff'/>allows you to climb waterfalls
+  with ease, even though you're a Hylian.
+  <4 Type='0' Data='0c005300610064005f0030003000'/>Ah, but rumor has it...that she may
+  require an <0 Type='3' Data='0000'/>ancient arowana <0 Type='3' Data='ffff'/>in order
+  to repair it.
+  If you can find one, I ask that you deliver
+  it to Lady Yona at once so that she can
+  repair your <0 Type='3' Data='0000'/>Zora armor <0 Type='3' Data='ffff'/>for you.
+0005: |
+  See you later.
+talk0025: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Linkette!<5 Type='0'/> Thank you so much for saving
+  the domain.
+  
+  I'm motivated to follow the example of my
+  esteemed elders so that I can protect
+  Zora's Domain as best I can.
+  Take the great Captain Bazz, for instance.<5 Type='1'/>
+  He went off to the <0 Type='3' Data='0000'/>Skyview Tower <0 Type='3' Data='ffff'/>to the
+  west of the domain for an investigation.
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>He won't even allow something like that
+  foul sludge to intimidate him! I aspire to
+  be that bold one day.
+  <3 Type='0' Data='0501'/><4 Type='0' Data='08005300690067006800'/>Hm. Come to think of it, Captain Bazz has
+  not yet returned.<5 Type='1'/> Not that there's any
+  cause for concern, of course.
+talk0013: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Prince Sidon can be found at Mipha Court.
+  
+  
+  I'm sure he'll be overjoyed to see
+  you, Linkette.
+talk0026: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Linkette!<5 Type='0'/> Thank you so much for saving
+  the domain.
+  
+  I'm motivated to follow the example of my
+  esteemed elders so that I can protect
+  Zora's Domain as best I can.
+  Like Captain Bazz! <5 Type='1'/>He went off on an
+  investigation while the sludge was still
+  raining down<5 Type='0'/> and returned triumphantly.
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>What a LEGEND!<5 Type='1'/> I want to be that strong
+  one day. If I can become as strong as the
+  captain, who knows what my future holds.
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0053006900670068005f0030003000'/>Of course, when I told my father all that,
+  somehow he became even more excited
+  than I was. Typical.
+talk0014: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Hello, there!<5 Type='0'/> Of all people, it's the
+  one-and-only Linkette!
+  
+  Welcome...<5 Type='1'/>is what I'd like to say.<5 Type='0'/>
+  The thing is, we're conducting an
+  investigation of the ruins here.
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>If you're looking for Prince Sidon, he can
+  be found at Mipha Court.
+  
+  That's on the peak of Ploymus Mountain.
+talk0027: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Linkette!<5 Type='0'/> I'm so grateful that you helped out
+  with our investigation of the ruins.
+  
+  Thanks to you, <5 Type='1'/>I can finally give my father
+  a good report.
+  
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='08004500610073006500'/>That said... <5 Type='0'/>It is a little embarrassing when
+  he hears a report of mine and starts
+  jumping with joy.
+talk0001: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Captain Bazz went off to the <0 Type='3' Data='0000'/>Skyview
+  Tower <0 Type='3' Data='ffff'/>to the west of the domain for
+  an investigation.
+  <3 Type='0' Data='0801'/>He won't even allow something like that
+  foul sludge to intimidate him! I aspire to
+  be that bold one day.
+  <3 Type='0' Data='0701'/><4 Type='0' Data='08005300690067006800'/>Hm. Come to think of it, Captain Bazz has
+  not yet returned.<5 Type='1'/> Not that there's any
+  cause for concern, of course.
+talk2011: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Captain Bazz went off on an investigation
+  while the sludge was still raining down
+  and returned triumphantly.
+  What a LEGEND!<5 Type='0'/> I want to be that strong
+  one day.<5 Type='1'/> If I can become as strong as the
+  captain, who knows what my future holds.
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0e0053006900670068005f0030003100'/>Of course, when I told my father all that,
+  somehow he became even more excited
+  than I was. Typical.
+talk0015: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='08005300690067006800'/>I understand that this is an investigation
+  of the ruins, but Jiahto is coming into
+  contact with all kinds of dangerous things.
+  I wish he would show a little more caution
+  during his research.
+talk0002: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0c004e006f007400690063006500'/>Hm? You're looking for King Dorephan?
+  
+  
+  I heard that he left a while back to
+  investigate the sludge.
+  
+  That said, I am not allowed to leave here
+  because I'm on guard duty.
+  
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>For all I know, King Dorephan has already
+  triumphantly returned.
+talk0028: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='08004300680061007400'/>Surely. Be careful out there.
+talk2012: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Good morning, Linkette! You know, you really
+  helped us out with that stone slate.
+  I'm forever grateful.
+talk0003: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0600530061006400'/>I understand that this is an investigation
+  of the ruins, but Jiahto is coming into
+  contact with all kinds of dangerous things.
+  I do wish he would show a little more
+  caution during his research. <5 Type='0'/>As his
+  appointed guard, it makes me nervous.
+talk0016: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Jiahto seems to be making a big fuss...<5 Type='0'/>
+  But my job is just to guard him.
+talk0029: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='08004500610073006500'/>My father was elated when I was selected
+  to be a security escort, but I could tell he
+  was also worried for me.
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Thanks to you, Linkette, I should be able to
+  calm his fears.
+talk2013: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Ah, it's Linkette! Allow me to thank you once
+  again for your help with the matter of the
+  stone slate.
+talk0004: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>Right... Do you see that opening there?
+talk0017: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='08005300690067006800'/>Thinking back, the waterfalls were filthy
+  because of the sludge, and even I had a
+  rough time taking Jiahto here.
+  It must have been difficult for you to climb
+  here yourself, Linkette.
+  
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0c005300610064005f0030003000'/>Hm... <5 Type='1'/>If only your <0 Type='3' Data='0000'/>Zora armor <0 Type='3' Data='ffff'/>was
+  operational.
+talk2014: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Oh! Hello, Linkette.<5 Type='0'/> You know, you really are a
+  hero for helping us out with the stone
+  slate. I can't say it enough.
+talk0005: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='08005300690067006800'/>Sure...<5 Type='0'/> You know, I was assigned to escort
+  him, but it feels more like I'm looking after
+  a child who's found a new favorite toy.
+talk0018: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>You truly are incredible. To think that you
+  really found the missing piece of the
+  stone slate.
+talk2015: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='08005300690067006800'/>Captain Bazz has not yet returned from
+  his investigation.
+  
+  He went off to that <0 Type='3' Data='0000'/>Skyview Tower <0 Type='3' Data='ffff'/>to the
+  <0 Type='3' Data='0000'/>west<0 Type='3' Data='ffff'/> of the domain.<5 Type='1'/> I doubt there is any
+  cause for concern, of course.
+talk0019: |
+  <3 Type='0' Data='0001'/>Do you know about the road that goes
+  down to Zora's Domain?<5 Type='1'/> It's probably a
+  bit treacherous for a Hylian...
+  <4 Type='0' Data='0c005300610064005f0030003000'/>I'm sure you would be better off if you
+  had a map.<5 Type='0'/> Please be careful out there.
+talk0006: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Linkette!<5 Type='0'/> I'm so grateful that you helped out
+  with our investigation of the ruins.
+  
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0e0053006900670068005f0030003000'/>Thinking back, the waterfalls were filthy
+  because of the sludge, and even I had a
+  rough time taking Jiahto here.
+  It must have been difficult for you to climb
+  here yourself, Linkette.
+  
+  <3 Type='0' Data='0001'/>Hm... If only your <0 Type='3' Data='0000'/>Zora armor <0 Type='3' Data='ffff'/>was
+  operational.
+talk2016: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068004c00'/>I aspire to be as strong as Captain Bazz<5 Type='0'/>
+  and to serve under King Sidon!
+talk0007: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0600530061006400'/>The cliff crumbled as a result of the
+  Upheaval, and that revealed these
+  ancient ruins.
+  Prince Sidon immediately ordered a
+  thorough investigation.

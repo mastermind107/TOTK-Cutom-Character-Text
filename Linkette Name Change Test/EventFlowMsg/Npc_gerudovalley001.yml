@@ -1,0 +1,384 @@
+Talk_63: |
+  <3 Type='0' Data='0b00'/>Hey, buddy, we gotta face the facts here.
+  That thing's more monster than horse.<0 Type='4'/>And I can't board monsters. Sorry.
+Talk_65: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Buddy, if you think that's a horse, then
+  I've got some news for you.<0 Type='4'/>Sorry, but stables are for horses only.
+  No exceptions.
+Talk_66: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Just look at this gorgeous weather. It's
+  got the horses in a good mood too.
+Talk_67: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Nice to see a friendly face come out of
+  this rain. The drizzle seems to calm the
+  horses too.
+Talk_68: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey. Good of you to make it here in the
+  dark. Did the monsters give you any
+  trouble? Ya always gotta be careful.
+Talk_69: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1200570061006b006500750070005f0030003100'/>Mmm? Oh, hey. Didn't expect a visitor
+  this late.
+Talk_110: |
+  See ya. Take care on the road.
+Talk_50: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>OK then, as proof of your ownership,
+  why don't you give this one a name?<0 Type='4'/><3 Type='0' Data='0b00'/>Wait... Am I imagining things? No...
+  I can't believe this!<0 Type='4'/>Do you know who this horse is? She's the
+  legendary Epona!<0 Type='4'/><3 Type='0' Data='0c00'/>This is one special horse, buddy. There's
+  no way I'm gonna try to change her name.<0 Type='4'/><3 Type='0' Data='0000'/>I can register her as "Epona," right?
+Talk_112: |
+  <3 Type='0' Data='0700'/>...Your name is Linkette, you say?
+Talk_51: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Go ahead and give this horse a
+  good name.
+Talk_113: |
+  You're on the stable-member list! Here,
+  I'll give you <0 Type='3' Data='0000'/>one point<0 Type='3' Data='ffff'/> to commemorate
+  your first visit to my humble stable.
+Talk_52: |
+  <3 Type='0' Data='0100'/>So the name's <0 Type='3' Data='0000'/><2 Type='4'/><0 Type='3' Data='ffff'/>?
+Talk_53: |
+  <3 Type='0' Data='0800'/>I've got your horse all registered now.<5 Type='1'/>
+  Do you want to take it with you?
+0200: |
+  No.
+Talk_54: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>I'll take it into my care.
+Talk_55: |
+  <3 Type='0' Data='0c00'/>I get wanting to give her a name and all,
+  but... Buddy, work with me here.<0 Type='4'/>Can you imagine the lecture I'd get from
+  the Stable Association if I renamed a
+  legendary horse? Yeesh.
+  So can you just let me register her as
+  "Epona"? Please?
+Talk_56: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Thanks for waiting. The horse is all yours.
+Talk_57: |
+  <3 Type='0' Data='0801'/>That wraps things up on my end.
+  Be careful out there.
+Talk_58: |
+  <3 Type='0' Data='0700'/>Oh, that reminds me...<5 Type='1'/> What do you know
+  about <0 Type='3' Data='0000'/>whistling<0 Type='3' Data='ffff'/>? <5 Type='0'/>It's the easiest way to
+  get your horse's attention!
+  If you ever lose sight of your horse, just
+  give it a <0 Type='3' Data='0000'/>whistle<0 Type='3' Data='ffff'/>, and it'll come running.
+Talk_100: |
+  <3 Type='0' Data='0801'/>I'll go ahead and tack<0 Type='3' Data='0000'/> two points <0 Type='3' Data='ffff'/>on to
+  your Pony Points card.
+Talk_59: |
+  <3 Type='0' Data='0000'/>Well, assuming you're close enough.
+  If you're too far away, your horse won't
+  be able to hear you.
+  Just be careful to stay nearby.
+Talk_101: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/>So you get a point for each new stable
+  you visit. Rest at one? Pony Point.
+  Register a horse? Point this guy up.
+  Save up enough points and you can earn
+  some mighty fine <0 Type='3' Data='0000'/>rewards<0 Type='3' Data='ffff'/>.<0 Type='4'/>Not that this mini stable has any of
+  those on hand. You'll have to go to a
+  full-blown <0 Type='3' Data='0000'/>stable <0 Type='3' Data='ffff'/>to get 'em.
+Talk_40: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>If you let a horse go, it's for keeps. You
+  won't see it again. You OK with that?
+KyoukaiTalk04_01: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>I'm impressed ya managed to tame that
+  golden horse...<5 Type='1'/> So, you wanna register it?
+Talk_41: |
+  <3 Type='0' Data='0a00'/>All right. I'm sure you're pretty beat up
+  about this, but try to stay strong.
+  
+  <3 Type='0' Data='0100'/>The Stable Association is going to take
+  good care of your new friend here, so
+  you can rest easy.
+KyoukaiTalk04_02: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Wow,<5 Type='0'/> now that is one impressive horse.
+  Do you wanna register it?
+Talk_42: |
+  <3 Type='0' Data='0100'/>OK then, all the prep work is done.
+  Let's get your new horse registered.
+Talk_43: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>You got it, happy to help.
+Talk_105: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Linkette,<5 Type='1'/> right? <5 Type='0'/>OK, you're registered!
+Talk_44: |
+  <3 Type='0' Data='0101'/>Let's get this horse registered, shall we?
+near_01: |
+  Getting used to this place.
+Talk_45: |
+  <3 Type='0' Data='0700'/>All righty, the administration fee for
+  registering your horse is <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/>.
+  Is that OK?
+near_02: |
+  I miss Gerudo Canyon...
+Talk_107: |
+  <3 Type='0' Data='0701'/>Sorry, I can't give ya any Pony Point
+  <0 Type='3' Data='0000'/>rewards<0 Type='3' Data='ffff'/> here. You'll have to do it at a
+  proper <0 Type='3' Data='0000'/>stable<0 Type='3' Data='ffff'/>.
+Register00_4: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Hold up...<5 Type='1'/> Buddy,<5 Type='1'/> this horse...
+  
+  
+  Isn't this the <0 Type='3' Data='0000'/>golden horse<0 Type='3' Data='ffff'/> that ran away
+  from <0 Type='3' Data='0000'/>Snowfield Stable<0 Type='3' Data='ffff'/>?
+  
+  You should be taking it back to<0 Type='3' Data='0000'/> its
+  caregiver over there<0 Type='3' Data='ffff'/>, not bringing
+  it to me!
+Talk_46: |
+  <3 Type='0' Data='0800'/>Looks like it's all here.<5 Type='1'/> Many thanks!
+near_03: |
+  Time to feed the horses.
+Talk_108: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Thanks, buddy!<0 Type='4'/>Normally I'd charge ya <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/> to
+  register a horse...<0 Type='4'/>But hey, the first one's <0 Type='3' Data='0000'/>on the house<0 Type='3' Data='ffff'/>.
+Talk_47: |
+  <3 Type='0' Data='0c00'/>Buddy, don't tell me you don't have
+  <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/>...
+  
+  Sorry, but I gotta ask ya to come back
+  once you've scraped up <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/>.
+Register02: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0600530061006400'/>Which horse do you want to release?
+0255: |
+  Goodbye.
+Talk_48: |
+  <3 Type='0' Data='0a00'/>Hang on, you're not going to register it?
+  Such a fine horse too. What a shame...
+Import01: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Huh.<5 Type='1'/> Our registry here says we've taken
+  care of a horse or two for you before.<0 Type='4'/>I'll get them registered here, so be sure
+  to swing by again and take a look!
+0020: |
+  Never mind.
+Talk_49: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>OK, let's get this registration going.
+  
+  
+  Your horse will be with you through thick
+  and thin, so let's get you two properly
+  introduced. Give it a name!
+Talk_91: |
+  <3 Type='0' Data='0801'/>That's a brand-new horse registration,
+  so I'll go ahead and add <0 Type='3' Data='0000'/>one point<0 Type='3' Data='ffff'/> to your
+  Pony Points card.
+0021: |
+  Change it.
+Talk_92: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0c004e006f007400690063006500'/>Whoa, whoa, whoa, you're not a stable
+  <0 Type='3' Data='0000'/>member<0 Type='3' Data='ffff'/> yet?<0 Type='4'/>Let me fix that. Give me your name
+  and I'll get you all registered with the
+  Stable Association.
+Talk_31: |
+  <3 Type='0' Data='0700'/>Changed your mind? Fine by me.
+0022: |
+  Take it with me.
+0100: |
+  Yes.
+Talk_93: |
+  <3 Type='0' Data='0701'/>Right, now let me start over...
+Talk_32: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>OK, I'll board <0 Type='3' Data='0000'/><2 Type='3'/> <0 Type='3' Data='ffff'/>for you.<0 Type='4'/>Just a minute.
+0023: |
+  Board it.
+Talk_94: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>All right, thanks for stopping by.<5 Type='1'/> Come
+  back when you can!<0 Type='4'/><5 Type='0'/><3 Type='0' Data='0401'/><4 Type='0' Data='0c004e006f007400690063006500'/>Whoops,<5 Type='0'/> almost forgot. I haven't given
+  you your <0 Type='3' Data='0000'/>Pony Points card<0 Type='3' Data='ffff'/> yet, have I?
+Talk_33: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>OK, I'll prep <0 Type='3' Data='0000'/><2 Type='3'/><0 Type='3' Data='ffff'/> for you.<0 Type='4'/>Just a moment.
+Talk_95: |
+  <3 Type='0' Data='0801'/>I'll go ahead and tack <0 Type='3' Data='0000'/>one point<0 Type='3' Data='ffff'/> on to
+  your Pony Points card.
+Talk_34: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Thanks for waiting. Your horse sure seems
+  happy to see you!
+Talk_96: |
+  <3 Type='0' Data='0700'/>Members who visit stables and use their
+  services earn <0 Type='3' Data='0000'/>points<0 Type='3' Data='ffff'/>.
+Talk_35: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>So you're boarding <0 Type='3' Data='0000'/><2 Type='3'/><0 Type='3' Data='ffff'/>?
+Register16_01: |
+  <3 Type='0' Data='0a00'/>Too bad.<5 Type='0'/> Would've been nice to take care
+  of the legendary golden horse, after all.
+Talk_97: |
+  <3 Type='0' Data='0700'/>Oh, you do? Then I guess you just
+  dodged a lot of hot air.
+Talk_36: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>What a great horse. Gonna be a pleasure
+  to look after.
+0028: |
+  Mini stable?
+Talk_98: |
+  <3 Type='0' Data='0701'/>On that note, you get a point for using
+  this <0 Type='3' Data='0000'/>mini stable<0 Type='3' Data='ffff'/> for the first time...
+Talk_37: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oho! You brought a new steed! Want me
+  to register it for ya?
+Talk_99: |
+  <3 Type='0' Data='0701'/>So you get one point for using this
+  <0 Type='3' Data='0000'/>mini stable<0 Type='3' Data='ffff'/> for the first time, and
+  another for <0 Type='3' Data='0000'/>registering a horse<0 Type='3' Data='ffff'/>...
+Talk_38: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>You're not going to register it? Well,
+  follow your heart, I guess...
+Talk_39: |
+  <3 Type='0' Data='0700'/>Whoa, hold on... Buddy, you've already
+  got <2 Type='14' Data='1e004f0077006e00610062006c00650048006f007200730065004e0075006d00ffff00cd'/> horses registered.<5 Type='0'/> Sorry, but that's
+  the most you can register right now.
+  If ya save up your Pony Points, you
+  can increase the number you can
+  register, but...<5 Type='1'/>
+  If you wanna register the horse you have
+  with you right now, you've gotta let
+  another one go.
+Talk_81: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Sky sure is cloudy, huh? The horses are
+  loving the cool weather though.
+Talk_22: |
+  <3 Type='0' Data='0b00'/>Hey, buddy, you wanna explain why
+  you're runnin' around like that? <5 Type='1'/>Well,
+  just don't catch a cold, OK?
+Talk_84: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/>Well! It looks like you've built up a nice
+  little pile of points.
+  
+  I wish I could give ya something, but if
+  you want rewards, you'll have to visit a
+  full-fledged <0 Type='3' Data='0000'/>stable<0 Type='3' Data='ffff'/>.
+Talk_85: |
+  <3 Type='0' Data='0000'/>Still got both your ears, or did I talk one
+  of 'em off?<0 Type='4'/>Anyway, let me know your name so I can
+  confirm that you're a stable member.
+0015: |
+  That's right.
+Talk_25: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0a005400680069006e006b00'/>Y'see, a full stable has workers ready to
+  <0 Type='3' Data='0000'/>take care of horses<0 Type='3' Data='ffff'/> and <0 Type='3' Data='0000'/>lodgings<0 Type='3' Data='ffff'/> so that
+  weary travelers can rest their heads.
+  But my mini stable here is a one-man
+  show, and I can only offer a few simple
+  comforts.
+0016: |
+  Never mind.
+Talk_26: |
+  <3 Type='0' Data='0700'/>This is my <0 Type='3' Data='0000'/>mini stable<0 Type='3' Data='ffff'/>. You got a horse
+  question? I got a horse answer.
+0017: |
+  Yes, please.
+Talk_87: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Come back whenever you wanna do
+  business. I'll be here with the horses.
+0018: |
+  No, thanks.
+0019: |
+  Let one go.
+Talk_29: |
+  <3 Type='0' Data='0701'/>But I'm happy to help ya <0 Type='3' Data='0000'/>register<0 Type='3' Data='ffff'/>, <0 Type='3' Data='0000'/>board<0 Type='3' Data='ffff'/>,
+  or <0 Type='3' Data='0000'/>take out a horse<0 Type='3' Data='ffff'/>!
+Talk_70: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08004500610073006500'/>All right.<5 Type='1'/> I'll hold off on registering this
+  horse. Be sure to give the horses you
+  have some love too.
+  And remember, if you build up those
+  Pony Points, you can register even
+  more horses.
+  So be sure to keep lodging and riding
+  with the Stable Association!
+Talk_10: |
+  <3 Type='0' Data='0700'/>What brings you here?
+Talk_71: |
+  <3 Type='0' Data='0700'/>Hang on there, buddy. You've already got
+  <2 Type='14' Data='1e004f0077006e00610062006c00650048006f007200730065004e0075006d00ffff00cd'/> horses registered. <5 Type='0'/>Sorry, but we're
+  about as full up on horses as can be.
+  Do you want to let one of them go so you
+  can register the horse you have with you?
+Talk_11: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Anything else you need?
+Talk_72: |
+  <3 Type='0' Data='0700'/>Since you're a regular stable customer, I'll
+  give you <0 Type='3' Data='0000'/>half off<0 Type='3' Data='ffff'/> on the fee. So it'll only be
+  <0 Type='3' Data='0000'/>10 rupees<0 Type='3' Data='ffff'/>.
+  So how about it? Wanna register?
+Talk_12: |
+  <3 Type='0' Data='0800'/>You want to take out a horse, huh?
+  Which one would you like?
+0004: |
+  Pony Points card?
+Talk_74: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0a005400680069006e006b00'/>I'm running this mini stable all on my
+  lonesome, so I can't offer as many
+  services as a <0 Type='3' Data='0000'/>regular stable <0 Type='3' Data='ffff'/>can.
+Talk_13: |
+  <3 Type='0' Data='0100'/>Ready to ride <0 Type='3' Data='0000'/><2 Type='4'/><0 Type='3' Data='ffff'/>?
+0005: |
+  Register horse.
+Talk_14: |
+  <3 Type='0' Data='0101'/>Oh, you wanted a different one?
+0006: |
+  Take horse.
+Talk_76: |
+  <3 Type='0' Data='0701'/>The closest one of those is probably
+  <0 Type='3' Data='0000'/>Outskirt Stable northeast <0 Type='3' Data='ffff'/>of here.
+Talk_15: |
+  <3 Type='0' Data='0700'/>Wild horses are wary creatures.<0 Type='4'/>If you wanna get close, the trick is to
+  <0 Type='3' Data='0000'/>crouch<0 Type='3' Data='ffff'/> down and sneak up from <0 Type='3' Data='0000'/>behind<0 Type='3' Data='ffff'/>.
+0007: |
+  Board horse.
+Talk_77: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='08004500610073006500'/>Well, sure, if you wanna hear it again,
+  I'll tell ya as many times as ya want.
+  All part of the job.
+Talk_17: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey, buddy.<5 Type='1'/> If you're going to Gerudo
+  Canyon over the suspension bridge,
+  you'd better be careful.
+  I used to have a stable in the canyon...
+  
+  
+  <3 Type='0' Data='0c00'/>But ever since the Upheaval sent the
+  weather all screwy, horses hate the place.<0 Type='4'/>No horses meant no travelers meant no
+  business for my stable. I was ruined.<0 Type='4'/><3 Type='0' Data='0300'/>I had no choice but to relocate and
+  open a mini stable over here.<0 Type='4'/>But boy, do I miss the old spot...
+0008: |
+  Catching horses?
+Talk_18: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Hey, buddy, you wanna put on another
+  layer or two?
+0009: |
+  I know all about it.
+Talk_60: |
+  <3 Type='0' Data='0c00'/>Hey... You don't even have a wild horse
+  with you right now.
+  
+  Wild horses are very wary, so you need
+  to creep up on them from behind.
+  
+  It's easier to catch them if you approach
+  while crouching, if you can.
+Talk_19: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0600530061006400'/>I heard a rumor that some so-called
+  "Demon King" has been revived.
+  
+  Well, no matter what happens, I'll always
+  stick by the horses.
+Talk_61: |
+  <3 Type='0' Data='0700'/>Once you're riding and the horse settles
+  down enough to listen to your commands,
+  bring it to a <0 Type='3' Data='0000'/>stable <0 Type='3' Data='ffff'/>or <0 Type='3' Data='0000'/>mini stable<0 Type='3' Data='ffff'/>.
+  You can't make the horse <0 Type='3' Data='0000'/>your own<0 Type='3' Data='ffff'/> until
+  you <0 Type='3' Data='0000'/>register<0 Type='3' Data='ffff'/> it.
+Talk_200: |
+  <3 Type='0' Data='0700'/>The inn there's closed now, but if you're
+  gonna stop at <0 Type='3' Data='0000'/>Gerudo Canyon Stable<0 Type='3' Data='ffff'/>,
+  remember to be careful.
+  The Upheaval's turned the road leading
+  to it into a river. Getting there's sure to
+  be a rough journey.
+Talk_62: |
+  <3 Type='0' Data='0c00'/>Buddy, don't tell me you don't have
+  <0 Type='3' Data='0000'/>10 rupees<0 Type='3' Data='ffff'/>...
+  
+  Sorry, but I gotta ask ya to come back
+  once you've scraped up <0 Type='3' Data='0000'/>10 rupees<0 Type='3' Data='ffff'/>.

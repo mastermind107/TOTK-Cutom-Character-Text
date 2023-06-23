@@ -1,0 +1,11 @@
+TurnBack_Talk01: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Wrong way, Linkette! That's not where I saw
+  Princess Zelda.<0 Type='4'/>But if you've got other stuff to do, I'll go
+  on ahead and wait for you.
+CheckTerminal_Talk01: |
+  <3 Type='0' Data='0d01'/><4 Type='0' Data='2000440065007400650072006d0069006e006100740069006f006e005f0030003000'/>OK, so this is where the blizzard has been
+  coming from.
+  
+  <3 Type='0' Data='0601'/>But how do we stop it?
+TouchSecretStone_Near01: |
+  What's this?

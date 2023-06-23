@@ -1,0 +1,204 @@
+Talk_14: |
+  <4 Type='0' Data='2000440065007400650072006d0069006e006100740069006f006e005f0030003000'/>I will be in overall command here. Mark
+  targets with your arrows and I will unleash
+  my lightning on them!
+  What's more, my control over my lightning
+  continues to improve—with time to charge
+  up, I can hit distant targets!
+Talk_43: |
+  <3 Type='0' Data='0201'/><4 Type='0' Data='0a0041006e00670072007900'/>What are you thinking dressing that way
+  at a time like this?!
+Talk_15: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1e0057006500610070006f006e005300770069006e00670053005f0030003100'/>Linkette! When the hives open up to release
+  more Gibdos, fire arrows at them. I'll
+  strike with my lightning when you do!
+Talk_16: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='080057006f0072006b00'/>I will keep Lady Riju safe! You deal with
+  the Gibdo hives!
+Talk_18: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a005400680069006e006b00'/>The writing on it says...
+  
+  
+  "Standing back-to-back with the throne,
+  witness red pillars across a vast sea.
+  
+  "Unite the pillars in light to reveal the
+  lightning stone and open the way.
+  
+  "You who can hear my voice, come to me.
+  I await you."
+Talk_19: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Sarqso for your help against the Gibdos.
+  There are spoils from the battle in the
+  courtyard—use them as you wish.
+  If you are looking for Lady Riju, she said
+  something about the mural in the shelter
+  and set off in that direction.
+Talk_20: |
+  <3 Type='0' Data='0700'/>Help yourself to the spoils from the battle.
+  
+  
+  If you are looking for Lady Riju, I believe
+  she is at the mural in the shelter.
+Talk_21: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0c005300610064005f0030003100'/>The sand shroud makes it impossible to
+  explore the Gerudo Desert, except maybe
+  if you could soar in the sky like a Rito...
+Talk_51: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Hmm. You appear to lack a bow of
+  any kind...
+Talk_52: |
+  <3 Type='0' Data='0000'/>Speak with that soldier over there. <5 Type='0'/>She is
+  responsible for managing the weapons.
+Talk_24: |
+  <3 Type='0' Data='0700'/>Lady Riju should be at the mural in the
+  shelter. Last I saw her, she seemed a
+  bit preoccupied.
+Talk_53: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Hmm. You don't have any arrows...
+Talk_25: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003000'/>Lady Riju said that she spotted a light out
+  in the sand shroud and quickly departed.
+  She didn't take anyone with her...
+  I'm glad the chief does not possess an
+  overly cautious nature, but at times
+  she can be a bit reckless.
+  Could you find her? I would feel better
+  knowing you were there if she needed
+  any help.
+Talk_54: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Hmm. You don't have a bow, and even if
+  you did, you don't have any arrows to
+  shoot from it...
+Talk_55: |
+  <3 Type='0' Data='0d00'/><4 Type='0' Data='2000440065007400650072006d0069006e006100740069006f006e005f0030003000'/>OK, Linkette! We need to get to the very top!
+  
+  
+  To start, we should do what that
+  mysterious voice suggested and try
+  to find those four battery devices...
+Talk_56: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>What are you...<5 Type='1'/> You should be wearing
+  something during battle!
+Talk_57: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>I wouldn't recommend dressing as an
+  enemy of the Gerudo. Don't be surprised
+  if someone comes after you!
+Talk_00: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='140055006e006400650072007300740061006e006400'/>Linkette, I'd like your help with this.
+  
+  
+  Fire an arrow toward that <0 Type='3' Data='0000'/>dummy<0 Type='3' Data='ffff'/>. If I aim
+  for the arrow with my lightning...
+Talk_29: |
+  <4 Type='0' Data='0a0041006e00670072007900'/>That hive... It opens up whenever more
+  enemies emerge. I bet I can destroy it
+  with my lightning strikes!
+0000: |
+  They are.
+Talk_58: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Is that really how you're going into battle?
+  
+  
+  You might consider wearing armor of
+  some kind, but it is your decision...
+Near_01: |
+  Red pillars and light...
+Talk_01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='140055006e006400650072007300740061006e006400'/>Linkette... Everyone... I believe in all of you!
+Talk_30: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='0a0041006e00670072007900'/>The Gibdos just keep coming. If we can't
+  destroy that hive, we'll be overrun!
+0001: |
+  Not quite.
+Near_02: |
+  What is this place...
+Talk_02: |
+  <4 Type='0' Data='2000440065007400650072006d0069006e006100740069006f006e005f0030003000'/>OK, here we go! <0 Type='3' Data='0000'/>When I've charged up
+  enough power<0 Type='3' Data='ffff'/>, you can show me where
+  to strike by firing an arrow!
+Talk_31: |
+  <4 Type='0' Data='2000440065007400650072006d0069006e006100740069006f006e005f0030003000'/>Yes! We've destroyed the hive! All that's
+  left is to clean up the remaining monsters!
+0002: |
+  What's the plan?
+Near_03: |
+  So, does this activate it?
+Talk_03: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='080057006f0072006b00'/>If Lady Riju falls, it's all over.
+Talk_32: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='080057006f0072006b00'/>The flood of monsters has been stopped!
+  Let's wipe out the stragglers!
+0003: |
+  Tell me about the enemy.
+Near_04: |
+  What is that?
+Talk_04: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='080057006f0072006b00'/>These monsters stand no chance!
+0004: |
+  Never mind.
+Talk_33: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1e0057006500610070006f006e005300770069006e00670053005f0030003100'/>That's all the hives! Excellent! Now take
+  out any remaining monsters!
+Talk_34: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>Let's wipe out every last Gibdo!
+Talk_06: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0c005300610064005f0030003100'/>The sand shroud, the sudden appearance
+  of the Gibdos and their hives... Strange
+  events keep happening, one after another.
+  And we saw Zelda near Kara Kara Bazaar,
+  but she hasn't been seen anywhere
+  around Gerudo Town.
+  <3 Type='0' Data='0700'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>There's something bigger going on, but
+  for now, we need to focus on the problem
+  at hand and <0 Type='3' Data='0000'/>prepare to fight<0 Type='3' Data='ffff'/>.
+  Linkette, I need your help again.
+  
+  
+  Speak with Buliara and the soldiers,
+  and help us organize our defenses.
+Talk_07: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Are the preparations complete?
+Talk_36: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>The monster fled up to the top
+  of the temple.
+  
+  So how do we get up there?
+Talk_09: |
+  <3 Type='0' Data='0700'/>Do you have questions about preparing
+  for the battle?
+Talk_38: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='140055006e006400650072007300740061006e006400'/>Aha! We've charged all of the batteries!
+  
+  
+  Come on, Linkette. Let's check out
+  the device!
+Talk_39: |
+  <3 Type='0' Data='0700'/>We must prepare for battle.
+Talk_41: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>I see. <5 Type='0'/>Let me know when they are
+  ready, then.
+Talk_12: |
+  <3 Type='0' Data='0c00'/>The Gibdos we've encountered in the
+  desert do not fall easily when struck.
+  Attacks only seem to dull a blade...
+  But <0 Type='3' Data='0000'/>fire <0 Type='3' Data='ffff'/>attacks, as well as Lady Riju's
+  <0 Type='3' Data='0000'/>lightning<0 Type='3' Data='ffff'/>, appear to be very effective
+  against them.
+  <3 Type='0' Data='0700'/>Rather than relying on the brute force of
+  swords and spears, we should try to
+  explore other ways to damage them.
+  In any case, we learned in the last fight
+  that they are not unbeatable. That is
+  enough to give us hope.
+Near_42: |
+  Where did Zelda go...
+Talk_13: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Very well.<5 Type='0'/> In that case, please report to
+  Lady Riju.
+  
+  When the battle begins, I will be focused
+  on protecting her. For the <0 Type='3' Data='0000'/>sake<0 Type='3' Data='ffff'/> of the
+  Gerudo, nothing can happen to <0 Type='3' Data='0000'/>her<0 Type='3' Data='ffff'/>.
+Talk_42: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Where did Zelda go?

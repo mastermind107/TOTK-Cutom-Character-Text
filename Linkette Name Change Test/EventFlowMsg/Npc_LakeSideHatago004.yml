@@ -1,0 +1,176 @@
+Com_Welcome: |
+  <3 Type='0' Data='0701'/>Welcome! Welcome to <0 Type='3' Data='0000'/>Lakeside Stable<0 Type='3' Data='ffff'/>!
+Com_Photo_03: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Ah, how I'd love to put <0 Type='3' Data='0000'/>a panoramic
+  picture of Floria Falls in that frame<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0000'/>A view from the bridge outside, with the
+  towering waterfalls of Floria Falls all
+  around you...
+  That's the kind of stunning vista that can
+  only be found in Faron.
+  
+  <3 Type='0' Data='0800'/>Yes. If I'm to hang something here,
+  a picture of <0 Type='3' Data='0000'/>Floria Falls<0 Type='3' Data='ffff'/> on <0 Type='3' Data='0000'/>a clear day<0 Type='3' Data='ffff'/>
+  would be best.
+  It would really draw in customers, don't
+  you think?
+  
+  <3 Type='0' Data='0c01'/>But between the rainfall and all my work
+  here, I don't know when I'll be able to
+  paint something like that.
+Com_Photo_Thank: |
+  <3 Type='0' Data='0800'/>Thanks to you, Linkette, a ray of light shines
+  in my storm-battered stable.
+  
+  Visitors to Faron may not find clear skies
+  outside, but in here, the mood will always
+  be bright and sunny!
+9001: |
+  Like...this one?
+Com_Photo_04: |
+  <3 Type='0' Data='0b00'/>Huh? Did you bring me <0 Type='3' Data='0000'/>a picture of
+  Floria Falls on a clear day<0 Type='3' Data='ffff'/>?!
+BurnedWakka_01: |
+  <3 Type='0' Data='0701'/>If you're that interested in ring garlands,
+  why not go and get one yourself?
+  
+  They sell them at a place called
+  <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>, up in Necluda!
+9002: |
+  Goodbye.
+Com_Photo_05: |
+  <3 Type='0' Data='0301'/>It's bad form to have a picture frame
+  hanging there, all sad and empty.
+  
+  <3 Type='0' Data='0701'/>If only I had <0 Type='3' Data='0000'/>a picture of Floria Falls on a
+  clear day<0 Type='3' Data='ffff'/>, I'd copy it as fast as I could and
+  put it up there.
+DoNotWakka_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>That's a protective charm of sorts that
+  has become rather popular lately.
+  
+  I hear it's based on the Ring Ruins that
+  fell in <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>.
+  
+  You been to <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>? It's up
+  north in Necluda.
+  
+  Nice place. Definitely worth a visit.
+9003: |
+  I'm not showing you.
+Com_Photo_06: |
+  <3 Type='0' Data='0701'/>Do you happen to have <0 Type='3' Data='0000'/>a picture of
+  Floria Falls on a clear day<0 Type='3' Data='ffff'/>?
+DoNotWakka_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>Excuse me, but that flower decoration
+  is for display only.
+  
+  If you want one, you'll have to make
+  your way to <0 Type='3' Data='0000'/>Kakariko Village <0 Type='3' Data='ffff'/>in Necluda
+  up north.
+  And while you're there, you can take a
+  gander at the Ring Ruins. I hear they're a
+  sight to behold!
+Com_Photo_07: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Stunning, isn't it?
+  
+  
+  That said, if you ever want me to hang
+  a different <0 Type='3' Data='0000'/>picture of Floria Falls on a
+  clear day<0 Type='3' Data='ffff'/>, I'll be happy to oblige.
+  Just show me the new picture. I'll paint
+  up a copy and display it instead!
+WakkaCharm: |
+  Nice ring garland!
+Com_Photo_08: |
+  <3 Type='0' Data='0801'/>Ah, the falls really pack a punch.
+  No matter how many times I see them,
+  I'm always moved beyond words.
+  That picture will make travelers glad they
+  made the long, slippery trip to Faron!
+Com_Photo_09: |
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/>A picture of Floria Falls on a clear day...<0 Type='3' Data='ffff'/>
+  If such a piece of art existed, it would be
+  perfect for my stable.
+9006: |
+  I like this one better.
+9007: |
+  It's fine as is.
+Com_Photo_10: |
+  <3 Type='0' Data='0800'/>Whenever I look at that picture, I get
+  excited all over again.
+Talk_0001: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Is this your first time in the area, sir?<0 Type='4'/>It's a little-known fact that our stable
+  receives orders from <0 Type='3' Data='0000'/>Princess Zelda<0 Type='3' Data='ffff'/>
+  herself.
+  At her direction, we opened a sanctuary
+  for a <0 Type='3' Data='0000'/>new animal species<0 Type='3' Data='ffff'/>. It's <0 Type='3' Data='0000'/>right across
+  the ravine<0 Type='3' Data='ffff'/> from here.
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/>Ordinary visitors can't easily reach it,
+  but with a telescope or the like, you
+  might be able to snatch a glimpse.
+  <3 Type='0' Data='0001'/>Anyway, once again...
+Talk_0002: |
+  <3 Type='0' Data='0700'/>The rain is almost constant here, but once
+  in a while, it does let up. Like now.
+  
+  When it's raining, the well behind the
+  stable is too full for me to go inside.
+  
+  But when the skies are calm like this,
+  the water in the well disappears and
+  I can give it a good scrub.
+  Come to think of it, I should probably go
+  and do that now...
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Take care not to slip!
+Com_Photo_12: |
+  <3 Type='0' Data='0700'/>Anyway!<5 Type='0'/> Did you want to do something
+  with my beloved <0 Type='3' Data='0000'/>picture of Floria Falls on
+  a clear day<0 Type='3' Data='ffff'/>?
+Com_FirstTime_Only01: |
+  <3 Type='0' Data='0701'/>And now, since this is your first time
+  with us at <0 Type='3' Data='0000'/>Lakeside Stable<0 Type='3' Data='ffff'/>...
+Talk_0003: |
+  <3 Type='0' Data='0700'/>The rain is almost constant here, but once
+  in a while, it does let up.
+  
+  When it's raining, the well behind the
+  stable is too full for me to go inside.
+  
+  But when the skies are calm, the water
+  in the well disappears and I can give it
+  a good scrub.
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>As for when the rains might die down
+  next... That's anyone's guess.
+Com_FirstTime_Only02: |
+  <3 Type='0' Data='0701'/>Now! You used <0 Type='3' Data='0000'/>Lakeside Stable <0 Type='3' Data='ffff'/>for the
+  first time and also <0 Type='3' Data='0000'/>registered a horse<0 Type='3' Data='ffff'/>,
+  which means...
+Com_Photo_01: |
+  <3 Type='0' Data='0700'/>I spent a while mulling over what painting
+  could be worthy of such a nice frame.
+  Here's my thought.
+  When it's clear out—<5 Type='0'/>which, granted, isn't
+  often around these parts—<5 Type='0'/>you can get a
+  beautiful view of Floria Falls.
+  The best place to see it is <0 Type='3' Data='0000'/>Floria Bridge<0 Type='3' Data='ffff'/>
+  outside the stable. <5 Type='0'/>Wouldn't the view from
+  there make a nice painting?
+  <3 Type='0' Data='0c00'/>Problem is, I can't leave the stable
+  unattended, and even if I could, it's rare
+  that the weather is clear enough.
+  But maybe there's some other way to
+  get <0 Type='3' Data='0000'/>a panoramic view of Floria Falls on a
+  clear day<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0701'/>If someone brought me a <0 Type='3' Data='0000'/>picture<0 Type='3' Data='ffff'/>, for
+  instance, then I'd be able to paint a
+  copy and hang that up in the frame.
+Com_FirstTime_Only03: |
+  <3 Type='0' Data='0701'/>Now! You used <0 Type='3' Data='0000'/>Lakeside Stable <0 Type='3' Data='ffff'/>for
+  the first time and also <0 Type='3' Data='0000'/>lodged with us<0 Type='3' Data='ffff'/>,
+  which means...
+Com_Photo_02: |
+  <3 Type='0' Data='0b00'/>Huh? Do you have <0 Type='3' Data='0000'/>a picture of Floria Falls
+  on a clear day<0 Type='3' Data='ffff'/>?

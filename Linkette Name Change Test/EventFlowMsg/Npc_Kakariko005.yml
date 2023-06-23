@@ -1,0 +1,107 @@
+0001: |
+  I'll leave you to it.
+Talk_20: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/>It was all my fault, sweetheart. <5 Type='1'/>Can't we live together
+  again? Please?<5 Type='1'/>
+  
+  No, that's not right...<5 Type='1'/> You're the only one for me,
+  my love. I was an idiot, like always... <5 Type='1'/>Ooo,
+  I think she'll like that better.
+  *sigh* I had no idea it would be this hard to
+  face her...<FontSize Value='100'/>
+NakedPlayer: |
+  Don't catch a cold.
+Talk_01: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>...<5 Type='1'/>
+near_01: |
+  I don't believe it...
+Talk_02: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='14005000610069006e00660075006c005f0030003100'/>Ah... Oh... Ahem. Linkette.
+TerrorSword: |
+  Please, stop!
+TerrorEnemy: |
+  Ugh!
+near_02: |
+  Argh...
+Talk_23: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1c0055006e0063006f006e007300630069006f00750073005f0030003000'/>My house...
+Talk_03: |
+  <3 Type='0' Data='0701'/>This is my home. Or rather...it used to be.
+  
+  
+  It was partially destroyed by the falling
+  ruins. I said I didn't care what they did
+  with it after that and set off on a journey.
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>Big mistake. I thought they would just
+  remove the rubble. I didn't think they'd
+  go and build a research facility here...
+near_03: |
+  Courage, man!
+Talk_04: |
+  <3 Type='0' Data='0a00'/>Sorry you had to see me like that.
+  
+  
+  <3 Type='0' Data='0000'/>I was just a little shocked to see my
+  home...er, transformed like that.
+  
+  <3 Type='0' Data='0800'/>But if my home is useful as a place of
+  research for my village, I'm thrilled!
+  I, Cado, am happy to donate my house!
+Talk_24: |
+  <3 Type='0' Data='0a00'/>Argh... My poor house... My poor, poor...<5 Type='1'/>
+  Hm?
+near_04: |
+  No shelter to be had...
+Talk_15: |
+  <3 Type='0' Data='0800'/>Oh, it's just that my house was turned
+  into a research facility while I was away
+  on my journey.
+  But if my home is useful to the village like
+  this, I'm thrilled! I welcome the change!
+  I, Cado, am happy to donate my house!
+Talk_25: |
+  <3 Type='0' Data='0b00'/>Ah, if it isn't Sir Linkette! What's on
+  your mind?
+  
+  As for me, I just came by to check on my
+  precious Cuccos!
+  
+  I never imagined that my house would be
+  turned into a research facility while I was
+  traveling. Life is full of surprises!
+  It's a tough reality to accept... <5 Type='1'/>Luckily,
+  I've managed to accept it easily, so don't
+  you worry about Cado!
+Talk_26: |
+  <3 Type='0' Data='0a00'/>I trained my precious Cuccos to protect
+  the village from the Yiga Clan while I
+  was away...
+  But I fear I may have been too strict with
+  their training.
+  
+  Ever since I've returned, none of them
+  will come and see me...
+TerrorFire_02: |
+  Please be careful!
+Talk_19: |
+  <3 Type='0' Data='0b00'/>If it isn't Sir Linkette! Out for a stroll, are we?
+  
+  
+  Who, me? I'm...um...well... Ah, yes!
+  The Cuccos!
+  
+  I was just doing the rounds, making sure
+  my precious Cuccos are doing well!
+  
+  <3 Type='0' Data='0700'/>I trained them to protect the village from
+  the Yiga Clan while I was away...
+  
+  <3 Type='0' Data='0a00'/>But I fear I may have been too strict with
+  their training.
+  
+  Ever since I've returned, none of them
+  will come and see me...
+TerrorArrow: |
+  What are you doing?!
+0000: |
+  Are you OK?

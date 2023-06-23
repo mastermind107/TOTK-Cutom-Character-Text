@@ -1,0 +1,154 @@
+near1003: |
+  Fantastic!
+talk1027: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>If I just...<5 Type='1'/>keep looking around, perhaps I
+  will figure out something that could be
+  of use...
+  As captain of the Zora's Domain guard,
+  I must not return home empty-handed!
+near1004: |
+  Blech...
+talk1028: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>I saw Cleff, the owner, mumbling some
+  oddness like, "Mmm, just a dab of crab!"
+  
+  I do not want to know what that was all
+  about, but as far as I am concerned,
+  nothing beats a nice, savory fish.
+near1005: |
+  My gills are clear!
+talk1029: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>From this moment onward, I must do my
+  utmost to keep the peace around here!
+  Such is my duty as captain.
+  I shall ensure that any and all travelers
+  visiting Zora's Domain can make their way
+  around here without fear of injury.
+near1006: |
+  Hmm...
+near1007: |
+  So much sludge...
+near1008: |
+  Safety check!
+talk1020: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Linkette!<5 Type='0'/> If you are seeking an audience with
+  His Majesty, King Sidon, please proceed
+  to the throne room.
+  The Exalted Dorephan is with him as well.
+talk1030: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>I always expect the unexpected! That is
+  the trick, you see!
+  
+  No matter what comes raining down,
+  be it a spear or sludge, next time I will
+  dodge the culprit with all due haste!
+  <FontSize Value='80'/>As the captain, I must succeed in any challenge
+  that chances upon me!<FontSize Value='100'/>
+talk1011: |
+  <4 Type='0' Data='08004500610073006500'/>Now I must...report back to the
+  domain...<5 Type='0'/>but first, I need just a
+  small break...<5 Type='0'/> Blech!
+talk1031: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>If you seek an audience with King Sidon,
+  please proceed to the throne room.<5 Type='1'/>
+  The Exalted Dorephan is there as well.
+talk1021: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a0048006100700070007900'/>I heard you were responsible for cleaning
+  up this statue, Linkette.
+  
+  We are truly lucky that you were here
+  to help us out of this mess.
+  
+  However, we must be prepared to respond
+  to the most dangerous of dangers and the
+  worst-case scenarios on our own!
+talk1012: |
+  <3 Type='0' Data='0800'/>For some reason, the sludge plaguing my
+  gills has disappeared! I feel incredible!
+  
+  Fantastic!<5 Type='0'/> Three cheers for good health!
+  
+  
+  <3 Type='0' Data='0701'/>There is no longer a need to investigate
+  the sludge, and so I can finally return
+  home to the domain!
+talk1022: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>I suppose this place is so well loved
+  because of the fine fish it sells!
+  
+  <3 Type='0' Data='0300'/>I saw Cleff, the owner, smirking once.
+  <5 Type='0'/>He was mumbling something like...<5 Type='0'/> 
+  "Mmm, just a dab of crab!"
+  He was chewing a crab whole as he
+  spoke. It made me think...perhaps he
+  ought to retire soon.
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>It looked like his mouth was being torn to
+  shreds by the spiky shell. It was...quite
+  disturbing. <5 Type='1'/>I'll stick with fish, thank you.
+talk1023: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Now that the sludge is gone, tourists have
+  finally started coming here again.
+  
+  Aside from you, Linkette, our first visitor was
+  the traveling merchant Mr. Sasan.
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>He seemed to have a connection with
+  Kayden's family over at the inn.
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>As captain of the guard, it is my job to
+  preserve the peace<5 Type='0'/> so that visitors like
+  him can come and go in safety.
+WaterPumpWater_00: |
+  Ah... The water feels nice.
+talk1024: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a005400680069006e006b00'/>Hmm... <5 Type='0'/>I fear we are overreliant on King
+  Sidon's protection, and yours as well.
+  
+  Perhaps I will prepare a crisis-response
+  handbook for our soldiers. They must be
+  ready for anything, after all...
+WaterPumpWater_01: |
+  Precious water...
+talk1005: |
+  <3 Type='0' Data='0800'/>Linkette! So you are responsible for the
+  sludge disappearing! I might have
+  guessed as much.<5 Type='1'/> Thank you, good sir!
+  <3 Type='0' Data='0701'/>As captain of the guard, it is my duty to
+  reflect upon the awful tragedies endured
+  by the domain because of the Upheaval...
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/>From this moment forward, I shall forever
+  steel myself in service of His Majesty,
+  King Sidon!
+  I shall do so faithfully, just as my father,
+  Seggin, served the Exalted Dorephan!
+talk1025: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Making the rounds like this is a basic
+  principle of security!
+  
+  I walk around prepared to respond
+  to an unexpected incident at a
+  moment's notice.
+  An incident like...<5 Type='0'/>something suddenly
+  falling from the sky and hitting me on
+  the head!
+  <3 Type='0' Data='0200'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Next time, I will avoid such a thing
+  happening without question!
+  
+  <FontSize Value='80'/>The captain of the guard must never be the first
+  to fall!<FontSize Value='100'/>
+talk1006: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/>From this moment onward, I must rise to
+  the task of serving King Sidon! As captain,
+  it is the very least I can do.
+  I shall not falter as I follow in the
+  footsteps of my father, Seggin, who
+  dutifully served the Exalted Dorephan!
+talk1026: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003100'/>Well, now!<5 Type='0'/> Did you come traveling here
+  through the sludge?!
+  
+  As for me, I am risking my life looking
+  around here to help with our research
+  on the sludge.
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>Unfortunately, I still have not figured
+  anything out...
