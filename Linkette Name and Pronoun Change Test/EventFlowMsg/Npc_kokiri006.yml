@@ -1,0 +1,57 @@
+0001: |
+  How much?
+Near000: |
+  Zzz...
+Talk0013: |
+  ...<5 Type='1'/>
+0002: |
+  Gotta go.
+Near001: |
+  ...
+Talk000: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Welcome to the Great Deku Tree's Navel!
+0003: |
+  Until morning.
+Talk010: |
+  <3 Type='0' Data='0001'/>Come back and catch some Zs soon, OK?
+Talk001: |
+  <3 Type='0' Data='0001'/>You can sleep serenely here, drinking in
+  the sweet forest air!
+0004: |
+  Until noon.
+Talk011: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0c004e006f007400690063006500'/>Oh, I don't want your rupees! You're the
+  great Ms. Hero!
+Talk002: |
+  <3 Type='0' Data='0801'/>Take as long as you like with your yawns
+  and your Zs!
+0005: |
+  Until evening.
+Talk012: |
+  <3 Type='0' Data='0700'/>Your rupees are no good here, so feel
+  free to stop by and snooze whenever
+  you'd like!
+Talk003: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>How long would you like to snooze?
+0006: |
+  Never mind.
+Talk004: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0041006e00670072007900'/>Until I say "good morning"? Sounds good.
+  Sleep well!
+Talk005: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>Good morning! You can grab some
+  breakfast next door at the Spore Store!
+Talk006: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0041006e00670072007900'/>Until I say "good afternoon"? Sounds
+  good. Sleep well!
+Talk007: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Good afternoon! I stood watch while you
+  were asleep, Ms. Hero!
+Talk008: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0041006e00670072007900'/>Until I say "good evening"? Sounds good.
+  Sleep well!
+Talk009: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>Good evening! I'm a bit sleepy, but I made
+  sure I was able to wake you up!
+0000: |
+  I'd like to sleep.

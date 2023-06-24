@@ -1,0 +1,111 @@
+talk011: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0600530061006400'/>Could a big swirly sand circle really exist?
+talk012: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>WHOA! Look at that big swirly sand circle!
+  It looks like the sand is swirling toward
+  the center.
+  <3 Type='0' Data='0c01'/>I wonder what would happen if you got
+  swallowed up by it...<5 Type='0'/> Ohhh, it's
+  kinda scary!
+talk013: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Thank you, Ms. Hero! I'm so happy!
+  
+  
+  <3 Type='0' Data='0701'/>This is to say a proper thank you. <5 Type='0'/>Take it!
+talk001: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Ah, Ms. Hero! Thanks for making
+  Korok Forest normal again!
+  
+  <3 Type='0' Data='0c01'/>Do you have a minute, Ms. Hero? I've got
+  something I'd like to ask you...
+talk014: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Do you like carrots? <5 Type='0'/>I was going to keep
+  them, but I want you to have them,
+  Ms. Hero!
+  <3 Type='0' Data='0701'/>Now I just need it to be peaceful out there
+  so I can go exploring.
+  
+  You can do it, Ms. Hero!
+talk002: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Really?!<5 Type='0'/> Thank you, Ms. Hero!<5 Type='0'/><0 Type='4'/><3 Type='0' Data='0701'/>You see,<5 Type='0'/> I have a friend who says they
+  saw a <0 Type='3' Data='0000'/>big<0 Type='3' Data='ffff'/>,<0 Type='3' Data='0000'/> whirly circle<0 Type='3' Data='ffff'/>!
+  
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>They saw it in <0 Type='3' Data='0000'/>an area with water<0 Type='3' Data='ffff'/>. <5 Type='0'/>If it's
+  really real, I want to see it myself. Even a
+  picture would do.
+  But it's still too dangerous to leave here...<5 Type='0'/>
+  So please make it safe out there soon,<5 Type='0'/>
+  Ms. Hero!
+talk015: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Uh-oh! Your pouch is full. And I was all
+  set to give you five endura carrots.<0 Type='4'/>Come back when you've got space.
+talk003: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0600530061006400'/>Yeah, you seem busy.<5 Type='1'/> When you're less
+  busy, please come talk to me again!
+talk016: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Did you make space in your pouch,
+  Ms. Hero?
+near000: |
+  I wanna see it...
+talk004: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0a005400680069006e006b00'/>A <0 Type='3' Data='0000'/>big circle that spins<0 Type='3' Data='ffff'/> in the water...<5 Type='0'/>
+  If it's really real, I want to see it, even
+  as a picture.
+talk017: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Your pouch is still full! How am I supposed
+  to hand over your five endura carrots?<0 Type='4'/>Come back when you have space in there!
+talk018: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Ah, Ms. Hero! Do you have a minute?
+  I've got something I'd like to ask you.
+talk005: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>You...<5 Type='0'/>brought it?<5 Type='0'/> Really, Ms. Hero?!
+talk019: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>What! You have an image of whirly water?<5 Type='0'/>
+  Do you really, Ms. Hero?
+talk006: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0600530061006400'/>What could it be like...<5 Type='0'/>The big
+  whirly thing...
+0000: |
+  Sure.
+talk007: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Oooh...<5 Type='0'/> So this is it!
+  
+  
+  <3 Type='0' Data='0c01'/>It's so neat! But...<5 Type='0'/>I feel dizzy from looking
+  at it...
+0001: |
+  Not right now.
+talk008: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Thank you, Ms. Hero! So there really was
+  a big whirly thing!
+  
+  <3 Type='0' Data='0c01'/>But, you know that friend of mine? They
+  told me something else... Something
+  shocking!
+  <3 Type='0' Data='0b01'/>They said there's more than just whirly
+  water circles. There's a <0 Type='3' Data='0000'/>big swirly sand
+  circle<0 Type='3' Data='ffff'/> too!
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>Swirly sand!<5 Type='1'/> Could such a thing
+  really exist?
+0002: |
+  I brought it!
+talk009: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0a005400680069006e006b00'/>A <0 Type='3' Data='0000'/>big swirly sand circle<0 Type='3' Data='ffff'/>...<5 Type='0'/> If it's really real,
+  I want to see it!
+0003: |
+  Goodbye.
+talk020: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>What! You have an image of swirly sand?
+  <5 Type='0'/>Do you really, Ms. Hero?
+0004: |
+  I have it.
+talk021: |
+  <3 Type='0' Data='0700'/>One of my friends told me there's
+  someone at Lookout Landing who
+  made a tool that makes pictures.
+  If you happened to have that thing, I
+  wouldn't even need to leave to see the
+  whirly circle.
+talk010: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>You brought it again?! Show me,
+  show me!

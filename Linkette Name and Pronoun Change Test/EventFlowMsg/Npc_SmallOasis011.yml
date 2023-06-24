@@ -1,0 +1,90 @@
+talk0000: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Hm? You're an unfamiliar face...
+  
+  
+  Are you a member of that <0 Type='3' Data='0000'/>caravan squad<0 Type='3' Data='ffff'/>
+  heading to <0 Type='3' Data='0000'/>Gerudo Town<0 Type='3' Data='ffff'/>?
+0004: |
+  Caravan squad?
+talk0001: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='0e005000610069006e00660075006c00'/>Our spears are no match for them!
+  Have they no weaknesses?!
+0005: |
+  Goodbye.
+talk0002: |
+  <3 Type='0' Data='0a00'/>I had to fire those voe from the caravan
+  squad who were helping us guard
+  the oasis.
+  Those idiots... When the monsters
+  attacked, they fled into the inn before
+  even the civilians could.
+  <3 Type='0' Data='0701'/>Not all Hylians are as brave as you, it seems.
+talk0003: |
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/>Gerudo Town<0 Type='3' Data='ffff'/> is to the southwest of here.
+  It's the biggest town in the region!
+  
+  That said, the laws of the Gerudo forbid
+  voe—men—from entering the town.
+  
+  <3 Type='0' Data='0501'/><4 Type='0' Data='0a005400680069006e006b00'/>Though, voe or not...
+  
+  
+  under this terrible <0 Type='3' Data='0000'/>sand shroud<0 Type='3' Data='ffff'/>, it would
+  take a near miracle to reach the town in
+  the first place.
+  <3 Type='0' Data='0700'/>I recommend you follow the example of
+  the voe of the <0 Type='3' Data='0000'/>caravan squad<0 Type='3' Data='ffff'/> and give
+  up on even trying for now.
+AssassinClothes: |
+  It can't be!
+talk0004: |
+  <3 Type='0' Data='0700'/>They're a group of Hylian merchants.
+  
+  
+  It's not as though they can do business in
+  this <0 Type='3' Data='0000'/>sand shroud<0 Type='3' Data='ffff'/>, so they're helping out
+  by guarding the entrance here.
+  <4 Type='0' Data='12004c00610075006700680053005f0030003000'/>It's clear their plan is to gain access to
+  Gerudo Town by getting into our
+  good graces...<0 Type='4'/>But our law about voe is absolute. We
+  couldn't let them in if we wanted to.
+talk0010: |
+  <3 Type='0' Data='0700'/>Even with the sand shroud cleared up,
+  the desert is still a dangerous place full
+  of monsters.
+  We must remain vigilant at all costs.
+ThunderHelmet: |
+  Is that helm— Never mind.
+talk0005: |
+  <3 Type='0' Data='0700'/>Oh, you're not with them?
+  
+  
+  Well, nonetheless, the <0 Type='3' Data='0000'/>sand shroud<0 Type='3' Data='ffff'/> is
+  especially harsh for you Hylians, so you
+  should stay put.
+near0000: |
+  Always be vigilant.
+talk0006: |
+  <3 Type='0' Data='0700'/>The road from Kara Kara Bazaar to
+  <0 Type='3' Data='0000'/>Gerudo Town<0 Type='3' Data='ffff'/> is closed because of
+  the sand shroud.
+  You're welcome to help the <0 Type='3' Data='0000'/>caravan squad<0 Type='3' Data='ffff'/>
+  guard this place in the meantime though!
+talk0013: |
+  <3 Type='0' Data='0700'/>Well, in any case, the <0 Type='3' Data='0000'/>sand shroud<0 Type='3' Data='ffff'/> is
+  particularly harsh for you Hylians, so
+  you should stay here.
+near0001: |
+  They're tough!
+0000: |
+  Gerudo Town?
+talk0014: |
+  <3 Type='0' Data='0700'/>Well, even if you're not with them, you
+  shouldn't leave here regardless.
+talk0009: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Hah! I'm kidding, I'm kidding.
+talk0015: |
+  <3 Type='0' Data='0a00'/>I allowed myself to have high hopes, but
+  the caravan squad really disappointed me.
+  
+  <3 Type='0' Data='0701'/>Clearly not all Hylians possess your courage...

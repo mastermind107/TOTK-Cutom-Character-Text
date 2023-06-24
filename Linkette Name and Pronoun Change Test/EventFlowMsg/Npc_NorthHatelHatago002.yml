@@ -1,0 +1,134 @@
+Talk1031: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>If I have to wait for my brother Izra, the
+  entire stable will be covered in grass.<0 Type='4'/>I think it'll probably be faster to look for
+  my brother Yolero...<0 Type='4'/><3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>If I can't figure this out soon, there'll be
+  grass everywhere. Everywhere!
+Talk1032: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>I wonder when my brother Izra will
+  come back...
+near00: |
+  Not here either...
+Talk1033: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Thanks to you, that nasty-looking monster
+  is gone.
+  
+  Maybe I can relax from now on!
+  
+  
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>But I really wish my brothers were
+  more useful...
+Talk1020: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>S...<5 Type='0'/>sorry. I didn't mean to bother you.
+  You're probably really busy.<0 Type='4'/><3 Type='0' Data='0a01'/>I've got two older brothers, but they
+  aren't here right now...<0 Type='4'/><3 Type='0' Data='0801'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Ah,<5 Type='0'/> but don't worry! I can do enough
+  work for the three of us!<0 Type='4'/>Please stop by Wetland Stable again
+  soon, OK?
+near01: |
+  Maybe he's on an errand...
+Talk1021: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Ah,<5 Type='0'/> you're back! Good morning!<0 Type='4'/>That nasty monster hasn't come back, so
+  there's nothing to worry about!
+near02: |
+  Still not back, huh...
+Talk1022: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Ah,<5 Type='0'/> you're back! Hello!<0 Type='4'/>That nasty monster hasn't come back, so
+  there's nothing to worry about!
+WakkaCharm: |
+  Oh, a ring garland!
+LargeHorse: |
+  It's huuuge!
+Talk1023: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Ah,<5 Type='0'/> you're back! Good evening!<0 Type='4'/>That nasty monster hasn't come back, so
+  there's nothing to worry about!
+Talk1010: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='0a0053006c00650065007000'/>I'll definitely...look...for my
+  brother...tomorrow...
+Talk1011: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>That's strange... I wonder where my
+  brother Yolero ran off to...
+Talk1025: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>It looks like my brother Yolero is slacking
+  off somewhere. As usual.<0 Type='4'/>The grass around the stable will get out of
+  control if we don't take care of it soon...<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0801'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Oh,<5 Type='0'/> but that's nothing for you to worry
+  about! Please take your time and relax.
+Talk1012: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Ms. Customer, you'll get wet out there!
+  Hurry, this way!
+Talk1013: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003100'/>It looks like my brother Yolero is slacking
+  off somewhere. As usual.<0 Type='4'/>I have no idea what he's even thinking,
+  being out in the rain and all.<0 Type='4'/>The grass around the stable will get out of
+  control if we don't take care of it soon...<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0101'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Oh,<5 Type='0'/> but that's nothing for you to worry
+  about! Please take your time and relax.
+Talk1026: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>No more waiting! Today's the day I'm
+  going to find my brother Yolero and make
+  him clean up behind the stable!
+  <3 Type='0' Data='0a01'/>'Cause if I don't, the whole stable will
+  be covered in grass before we know it...
+BoneHorse: |
+  Is that thing a horse?
+Talk1014: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>That nasty monster hasn't shown its face
+  around here again.<0 Type='4'/>Thanks to you, I don't need to
+  worry anymore!<0 Type='4'/><3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>Everything would be perfect if my
+  brothers were more helpful...
+0000: |
+  Brothers?
+Talk1027: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Is my brother Izra still over there?
+0001: |
+  Goodbye.
+Talk1028: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>My brother Izra won't be any help until
+  he's found the farming tools he lent to
+  Princess Zelda.
+  I guess I have to look for my brother
+  Yolero after all...<0 Type='4'/><3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>At this rate, the stable will be covered in
+  grass before we know it.
+Talk1029: |
+  <3 Type='0' Data='0301'/>It's just, um, things are a bit of a mess
+  around here, so I'd appreciate it if you
+  didn't look too closely.
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>I guess my brother Izra isn't coming back
+  until he finds the farming tools he lent to
+  Princess Zelda.
+  And I have to find my brother Yolero...
+  Wherever he ran off to.<0 Type='4'/><3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>At this rate, the stable will be covered in
+  grass before we know it.
+Talk1004: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>It's getting late, so looking for my brother
+  Yolero will have to wait.<0 Type='4'/>The area around the stable's a real mess.
+  I've definitely gotta find him tomorrow
+  so he can clean it up.
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Ah,<5 Type='0'/> but that's not your problem! Please,
+  go ahead and relax.
+Talk1018: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Even with all the work to be done, my
+  brother Yolero is slacking off somewhere.<0 Type='4'/>The grass around the stable has gone
+  wild. If he doesn't come back to take
+  care of it soon...
+  And you know what loves rain like this?
+  Grass, that's what.
+GoldHorse: |
+  So shiny and golden...
+Talk1019: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003100'/>Yep! Izra and Yolero. They're no help
+  at all.<0 Type='4'/>Izra went looking for some farming tools
+  he lent to Princess Zelda...<0 Type='4'/>And Yolero is slacking off somewhere.
+  I haven't seen him around.<0 Type='4'/><3 Type='0' Data='0801'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Ah,<5 Type='0'/> but don't worry! I can do enough
+  work for the three of us!<0 Type='4'/>You can rely on Wetland Stable anytime
+  you're in the area.
+Talk1007: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Even with all the work to be done, my
+  brother Yolero is slacking off somewhere.<0 Type='4'/>The grass around the stable has gone
+  wild. If he doesn't come back to take
+  care of it soon...
+Talk1030: |
+  <3 Type='0' Data='0301'/>It's just, um, things are a bit of a mess
+  around here, so I'd appreciate it if you
+  didn't look too closely.
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>My brother Izra isn't going to be any
+  help until he finds his farming tools.<0 Type='4'/>I guess I'm going to have to look for my
+  brother Yolero after all...<0 Type='4'/><3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>At this rate, the stable will be covered in
+  grass before we know it.

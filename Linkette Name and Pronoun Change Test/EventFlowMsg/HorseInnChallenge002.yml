@@ -1,0 +1,185 @@
+Talk1009: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>I thought maybe I'd try a sneak attack
+  <0 Type='3' Data='0000'/>from behind<0 Type='3' Data='ffff'/>. You know, <0 Type='3' Data='0000'/>stay out of their
+  field of view<0 Type='3' Data='ffff'/>? It did not go well...
+  <3 Type='0' Data='0a01'/>If someone could at least get that <0 Type='3' Data='0000'/>big one<0 Type='3' Data='ffff'/>
+  to leave...<0 Type='4'/><3 Type='0' Data='0701'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>We'll keep wishing, but for now, you really
+  should steer clear of the forest.
+near00: |
+  I hope they stay away...
+Talk1020: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='1000530063006100720065005f0030003000'/>What if the smonster...mosstern...
+  MONSTER decides to raid us? I can't
+  sleep! I can barely talk!
+near01: |
+  M-Ms. Customer...
+near02: |
+  Are you a member now?
+Talk1021: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Ms. Customer! When it's raining, get to
+  shelter! A little rain is probably OK, but it
+  would be bad if you got hit by lightning.
+Talk1022: |
+  Gaaah!
+Talk1023: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Good evening, Ms. uh... Ms. Customer, Ma'am!
+  
+  
+  Word to the wise—while the sun is down,
+  don't even think about wandering into the
+  forest near here.
+Talk1010: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>I worked so hard to build a <0 Type='3' Data='0000'/>well<0 Type='3' Data='ffff'/>, and now
+  I can't even use it!
+Talk1024: |
+  They say it's hard for monsters to pick up
+  your scent in the rain. But I say danger is
+  danger in any weather.
+Talk1011: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>I knew it!
+  
+  
+  I thought I saw you among the trees,
+  putting in the work and getting rid of
+  that nasty monster!
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Amaaazing! Thank you!<0 Type='4'/>I was SO SCARED!<0 Type='4'/><3 Type='0' Data='0101'/>I'm just a kid, so I don't have any money
+  or anything.
+  
+  But I have to reward you for getting rid of
+  that monster, so...
+Talk1012: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>It was you, wasn't it, Ms. Customer? You
+  got rid of that nasty monster...<5 Type='1'/>
+Talk1025: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>I'll give you <0 Type='3' Data='0000'/>two Pony Points<0 Type='3' Data='ffff'/>!
+Talk1013: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='0a005400680069006e006b00'/>I want to give you <0 Type='3' Data='0000'/>Pony Points<0 Type='3' Data='ffff'/> as a
+  thank-you for chasing off the monster, but
+  only <0 Type='3' Data='0000'/>stable members<0 Type='3' Data='ffff'/> get <0 Type='3' Data='0000'/>Pony Points<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0101'/>If you save up <0 Type='3' Data='0000'/>Pony Points<0 Type='3' Data='ffff'/>, you can earn
+  all sorts of prizes.
+  
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068005300'/>So please join at the counter, and talk to
+  me again.
+Talk1026: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Now I can thank you the way you deserve
+  to be thanked—with <0 Type='3' Data='0000'/>two Pony Points<0 Type='3' Data='ffff'/>!
+Talk1001: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Well, good morning, Ms. uh...
+  Ms. Customer, Ma'am!
+  
+  Word to the wise—even though it's
+  daytime, I'd stay away from the forest
+  near here if I were you.
+Talk1027: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>I worked so hard to build a <0 Type='3' Data='0000'/>well<0 Type='3' Data='ffff'/>, and now
+  I can't even use it!
+Talk1014: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>You became a stable member!
+  That's great!
+Talk1002: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Good afternoon, Ms. uh... Ms. Customer!
+  
+  
+  Word to the wise—don't take too much
+  comfort from the afternoon sun. The
+  forest near here is still a dangerous place.
+Talk1028: |
+  <4 Type='0' Data='0c005300610064005f0030003100'/>I mean, it's not THAT hard to make a
+  new well, but what if the monster attacks
+  our stable?
+  I can't sleep peacefully, knowing it's
+  out there.
+Talk1015: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Thanks to you, that nasty monster is
+  gone, and I can welcome customers
+  with peace of mind! Thank you!
+Talk1029: |
+  <3 Type='0' Data='0701'/>I thought maybe I'd try a sneak attack
+  <0 Type='3' Data='0000'/>from behind<0 Type='3' Data='ffff'/>. You know, <0 Type='3' Data='0000'/>stay out of the
+  monsters' field of view<0 Type='3' Data='ffff'/>?
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>It did not go well...<0 Type='4'/>And my brother's no help. Total slacker.
+  Completely unreliable.<0 Type='4'/>If someone could at least get that <0 Type='3' Data='0000'/>big one<0 Type='3' Data='ffff'/>
+  to leave...
+Talk1003: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>Now I can welcome our customers with
+  peace of mind! Thank you so much!
+Talk1016: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Wha... It's gone?<5 Type='1'/> M...Ms. Customer, did
+  you chase it off?
+  
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Amaaazing! I was wondering why
+  I hadn't seen that big, nasty monster
+  around lately!
+  I can't believe you got rid of it!<5 Type='0'/> I was
+  so scared!<5 Type='0'/><0 Type='4'/>I'm a kid, so I don't have any money or
+  anything, but...<5 Type='0'/>
+  
+  I could give you some <0 Type='3' Data='0000'/>Pony Points<0 Type='3' Data='ffff'/> as a
+  thank-you...<5 Type='1'/>
+  
+  <3 Type='0' Data='0401'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Oh! You're not a <0 Type='3' Data='0000'/>stable member<0 Type='3' Data='ffff'/> yet?<5 Type='0'/><0 Type='4'/>If you save up <0 Type='3' Data='0000'/>Pony Points<0 Type='3' Data='ffff'/>, you can earn
+  all sorts of prizes.
+  
+  <3 Type='0' Data='0801'/>So talk to me again once you've joined
+  the club, OK?
+Talk1004: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003100'/>We've got a monster problem. A scary one
+  moved in and made a forest... I mean
+  forestress... I mean fortress!
+  <3 Type='0' Data='0401'/>Anyway, it is B-A-D BAD news! And it
+  brought some other monsters with it!
+  
+  And look!
+Talk1017: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Wha... It's gone?<5 Type='1'/> M...Ms. Customer,
+  did you chase it off?<5 Type='1'/>
+  
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>That's amazing!<0 Type='4'/>I was wondering why I couldn't see that
+  big, nasty monster just now! I can't
+  believe you got rid of it! I was so scared!
+  I'm a kid, so I don't have any money or
+  anything, but...<0 Type='4'/><3 Type='0' Data='0001'/>Ms. Customer...<5 Type='0'/>you're a member, right?
+Talk1018: |
+  <3 Type='0' Data='0801'/>I knew it! I was cheering for you from here
+  the whole time!
+  
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Amaaazing! Thank you!
+  
+  
+  I was SO SCARED!
+  
+  
+  I'm just a kid, so I don't have any money
+  or anything.
+  
+  But I could give you <0 Type='3' Data='0000'/>Pony Points<0 Type='3' Data='ffff'/> as a
+  thank-you...<5 Type='1'/>
+  
+  <3 Type='0' Data='0401'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Oh, you're not a <0 Type='3' Data='0000'/>stable member<0 Type='3' Data='ffff'/> yet,
+  are you?
+  
+  <3 Type='0' Data='0801'/>If you save up <0 Type='3' Data='0000'/>Pony Points<0 Type='3' Data='ffff'/>, you can turn
+  them in for all sorts of prizes, so come
+  talk to me again once you've joined!
+Talk1019: |
+  I mean, it's not THAT hard to make a new
+  well, but...
+Talk1006: |
+  <3 Type='0' Data='0301'/>We've got a monster problem. A scary
+  one moved in and made a forest... I mean
+  forestress... I mean fortress!
+  <3 Type='0' Data='0401'/>Anyway, it is B-A-D BAD news! And it
+  brought some other monsters with it!
+Talk1007: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0a005400680069006e006b00'/>I thought maybe I'd try a sneak attack
+  <0 Type='3' Data='0000'/>from behind<0 Type='3' Data='ffff'/>. You know, <0 Type='3' Data='0000'/>stay out of the
+  monsters' field of view<0 Type='3' Data='ffff'/>?
+  <3 Type='0' Data='0a01'/>It did not go well...
+Talk1008: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>I worked so hard to build a <0 Type='3' Data='0000'/>well<0 Type='3' Data='ffff'/>, and now
+  I can't even use it. And I can't sleep
+  peacefully, knowing they're out there.
+Talk1030: |
+  If someone could at least get that <0 Type='3' Data='0000'/>big one<0 Type='3' Data='ffff'/>
+  to leave...

@@ -21,7 +21,7 @@ Near_0003: |
 Talk_0013: |
   <3 Type='0' Data='0800'/>Oh, it's you, the traveler! Good to see
   you again!<0 Type='4'/>...<0 Type='4'/><3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>It's...<5 Type='0'/> It's me, remember? We met at
-  <0 Type='3' Data='0000'/>Kara Kara Bazaar<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0a01'/>Hmph. You're a horrible voe if you can
+  <0 Type='3' Data='0000'/>Kara Kara Bazaar<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0a01'/>Hmph. You're a horrible vai if you can
   forget a fabulous woman like me.<0 Type='4'/><3 Type='0' Data='0800'/>But your saving grace is that you've done
   so much good around here.<0 Type='4'/>You beat those awful pirates, and you
   rebuilt my inn, without which I'd have no
@@ -52,7 +52,7 @@ Talk_0017: |
   colors on the water, I think of my
   hometown, <0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/>...
 Talk_0018: |
-  <3 Type='0' Data='0800'/>Welcome, ma'am!<0 Type='4'/>I have to thank you for what you did.
+  <3 Type='0' Data='0800'/>Welcome, sir!<0 Type='4'/>I have to thank you for what you did.
   Without my inn, I'd have no way to
   make a living.
   And indeed, the whole village benefits

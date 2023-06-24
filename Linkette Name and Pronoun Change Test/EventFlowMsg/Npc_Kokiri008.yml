@@ -1,0 +1,120 @@
+Talk1009: |
+  <3 Type='0' Data='0701'/>Oh yeah, also! Some of the Koroks could
+  use your help.
+  
+  You should probably talk to the Great
+  Deku Tree first, but then maybe you
+  can help out...
+Talk1010: |
+  <3 Type='0' Data='0701'/>And I've got a favor to ask! Some of the
+  Koroks could use your help...
+Talk1011: |
+  <3 Type='0' Data='0700'/>Follow the lights in the forest...
+TerrorArrow: |
+  That's not nice!
+Talk1012: |
+  <3 Type='0' Data='0700'/>If you do, you'll come across different
+  Koroks who could use your help. Please
+  go find them, and see what they need!
+TerrorFire: |
+  I don't wanna burn!
+Talk1013: |
+  <3 Type='0' Data='0c00'/>You...<5 Type='1'/> This is perfect! I've got a favor
+  to ask.
+  
+  <3 Type='0' Data='0000'/>Some of the Koroks have had stuff on
+  their minds lately.
+Talk1001: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0c00570061006b00650075007000'/>*yaaawn*<5 Type='1'/> My head's still all fuzzy...
+  <3 Type='0' Data='0701'/>Oh! You're... Hang on. What are you
+  doing here?
+0000: |
+  The Great Deku Tree?
+Talk1014: |
+  <3 Type='0' Data='0700'/>You should go talk to the Koroks who
+  need help!
+TerrorInsect: |
+  Shoo! I don't have honey!
+Talk1002: |
+  <3 Type='0' Data='0b00'/>Oh, oh, yeah! Now I remember! It all
+  happened so suddenly.
+  
+  <3 Type='0' Data='0701'/>The Great Deku Tree was in agony, and
+  ominous fog came out of his mouth...
+  
+  And THEN! A bunch of us Koroks started
+  acting funny.
+  
+  <3 Type='0' Data='0900'/>Next thing I knew, monsters showed up,
+  and I fought them all by myself, knocking
+  them out one by one by one!
+  <3 Type='0' Data='0a01'/>Um... Sorry.<5 Type='1'/> I lied. I actually couldn't
+  move and don't even remember
+  what happened.
+  It was all so sudden... I don't know if any
+  of the others remember either.
+  
+  <3 Type='0' Data='0800'/>But thanks to you, Ms. Hero, everybody is
+  back to normal! Yay!
+  
+  I'm sure the Great Deku Tree wants to
+  say thank you too! You should go!
+0001: |
+  We already met.
+Talk1015: |
+  <3 Type='0' Data='0700'/>The Koroks are happy as can be.
+  Hmmm, I'm guessing<5 Type='2'/> it's because
+  of you? Thank you!
+TerrorImpulse: |
+  Hey!
+Talk1003: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>As everyone knows, the Great Deku Tree
+  is the spirit of Korok Forest!
+  
+  If you climb up the root behind me, you
+  can talk with him.
+  
+  <3 Type='0' Data='0800'/>You're the one who saved the Great Deku
+  Tree's life, so please go say hello!
+Talk1004: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh, you already met up?
+  
+  
+  The Great Deku Tree has been alive much
+  longer than us Koroks, so he's kinda stoic
+  and doesn't always show his feelings.
+  <3 Type='0' Data='0800'/>But I'm sure that he's thankful and happy
+  for what you did! And so am I!
+TerrorBomb: |
+  You're scaring me!
+TerrorExplosion: |
+  So violent!
+Near1001: |
+  ...
+TerrorGeneric: |
+  Hey!
+Talk1006: |
+  <3 Type='0' Data='0800'/>Because of you,<5 Type='0'/> Korok Forest has
+  returned to being peaceful again.
+  Thank you!
+  Oh, have you met with the Great Deku
+  Tree yet? If you still haven't, well then,
+  you should!
+Near1002: |
+  *yawn*
+TerrorIce: |
+  So c-c-cold!
+Enokida: |
+  From Tarrey Town?
+Near1003: |
+  They need help...
+TerrorSword: |
+  Eeek!
+NakedPlayer: |
+  Does he hate clothes?
+Talk1008: |
+  ...<5 Type='1'/>
+TerrorFlash: |
+  So bright!
+ClearTerrorEnemy: |
+  That was scary...

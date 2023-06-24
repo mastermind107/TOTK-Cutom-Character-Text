@@ -1,0 +1,131 @@
+Talk30: |
+  If you ever need to build something, you
+  can take anything you want from a
+  building-material storage area.
+  You'll find 'em along the road, but just
+  about every stable has one too!
+Talk31: |
+  <3 Type='0' Data='0101'/>I wanna be a swordsman like you, and
+  now's the perfect time to train!
+Talk32: |
+  <4 Type='0' Data='100053006c006500650070005f0030003100'/>Horse god Malanya... <5 Type='1'/>Is that...<5 Type='1'/>true?<0 Type='4'/><4 Type='0' Data='100053006c006500650070005f0030003000'/>Hehe...<5 Type='1'/> I heard somethin' good...<5 Type='1'/> Zzz...
+Talk33: |
+  <3 Type='0' Data='0001'/>Everybody knows that kids who sleep
+  well grow up strong.<0 Type='4'/>If you wanna get buff enough to carry
+  lumber without a <0 Type='3' Data='0000'/>towing harness<0 Type='3' Data='ffff'/>, you
+  should get plenty of sleep too!
+Talk27_01: |
+  If there's <0 Type='3' Data='0000'/>something you want to move<0 Type='3' Data='ffff'/>,
+  you should try to earn one quick!
+0002: |
+  Wait, towing harness?
+Talk27_02: |
+  If there's <0 Type='3' Data='0000'/>something you want to move<0 Type='3' Data='ffff'/>,
+  you should put the towing harness on
+  your horse.
+  Go to the counter and ask to <0 Type='3' Data='0000'/>change your
+  horse's gear<0 Type='3' Data='ffff'/>. <5 Type='0'/>My dad will get the harness
+  onto your horse for ya!
+Talk01: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Yo!<5 Type='0'/> Um, no, I mean...<5 Type='0'/> Hello there! Yeah!
+Talk27_03: |
+  You've got your towing harness on your
+  horse already.<0 Type='4'/>If there's <0 Type='3' Data='0000'/>something you wanna move<0 Type='3' Data='ffff'/>,
+  just attach it to the harness!
+0003: |
+  See ya!
+Talk19: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Ah!<5 Type='0'/> Ms. Swordsman!<5 Type='0'/> Welcome to
+  <0 Type='3' Data='0000'/>Tabantha Bridge Stable<0 Type='3' Data='ffff'/>!
+Talk02: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Yo!<5 Type='0'/> Er, no, I mean...<5 Type='0'/> Good evening! Yeah!
+GoldHorse: |
+  So shiny and golden...
+Talk03: |
+  <3 Type='0' Data='0701'/>Welcome to <0 Type='3' Data='0000'/>Tabantha Bridge Stable<0 Type='3' Data='ffff'/>!<5 Type='0'/>
+  
+  
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>You know, you're giving off kind of a
+  swordsman vibe...
+  
+  Oh, because you are one. <5 Type='0'/>I see.
+Talk20: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Yo!<5 Type='0'/> Ms. Swordsman!<5 Type='0'/> Welcome to
+  <0 Type='3' Data='0000'/>Tabantha Bridge Stable<0 Type='3' Data='ffff'/>!
+Talk04: |
+  <3 Type='0' Data='0001'/>I'm gonna be so buff someday that I won't
+  even need a <0 Type='3' Data='0000'/>towing harness<0 Type='3' Data='ffff'/> to carry
+  lumber and stuff!
+Talk26_01: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Huh? Wait a minute...<5 Type='1'/> You already have a
+  towing harness!
+Talk21: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>I'm trying to follow in your footsteps.
+  If you can train in the rain, so can I!
+LargeHorse: |
+  It's huuuge!
+Talk07: |
+  So, one of the exclusive perks for
+  <0 Type='3' Data='0000'/>stable members<0 Type='3' Data='ffff'/> is a towing harness
+  for their horses!
+Talk24: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='1000540069007200650064005f0030003000'/>This is my...<5 Type='0'/>training time...<5 Type='0'/> *huff*<5 Type='0'/> So I'm
+  running around to...<5 Type='0'/>*huff*<5 Type='0'/> build up my
+  endurance... <5 Type='0'/>Phew...
+  <FontSize Value='80'/><0 Type='3' Data='0200'/>But if a run's got me this tuckered out, the road to
+  swordsmanship's gonna be a long one...<0 Type='3' Data='ffff'/><FontSize Value='100'/>
+Talk07_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>You didn't know about towing harnesses?<5 Type='1'/>
+  You're gonna love 'em!<5 Type='0'/> I'll tell you all you
+  need to know.
+Talk08: |
+  <3 Type='0' Data='0701'/>I guess you're a <0 Type='3' Data='0000'/>stable member <0 Type='3' Data='ffff'/>already,
+  so you've probably heard this all before.<0 Type='4'/><3 Type='0' Data='0101'/>But if you keep using stables and building
+  up your <0 Type='3' Data='0000'/>Pony Points<0 Type='3' Data='ffff'/>, you'll have that
+  harness before you know it!
+Talk25: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>This time of day, I'm always here, keeping
+  watch in case any bad guys come!<0 Type='4'/><0 Type='3' Data='0200'/><FontSize Value='80'/>If bad guys ever do show up, it'll be my job to
+  keep my family safe...<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Balloon01: |
+  All good over here!
+WakkaCharm: |
+  Oh, cool! A ring garland.
+Talk09: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>If you sign up to be a <0 Type='3' Data='0000'/>stable member <0 Type='3' Data='ffff'/>at
+  the counter, I bet you'll be towing stuff
+  around in no time!
+Talk26: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Wait a sec,<5 Type='0'/> your horse already has a
+  towing harness on it!
+Balloon02: |
+  Nothing outta the ordinary!
+Talk27: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Towing harnesses are great. Once you've
+  got one, you can have your horse tow a
+  wagon or even building materials!
+Balloon03: |
+  Hoo, hoo! Ha, ha!
+Talk28: |
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>WHOA!<5 Type='0'/> A real live swordsman!<FontSize Value='100'/><5 Type='0'/>
+  
+  
+  Urk!
+  
+  
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/><FontSize Value='125'/>Sorry!<5 Type='0'/> I said that too loud!<FontSize Value='100'/>
+  
+  
+  Oh, I mean, uh... <5 Type='0'/>I'm sorry. I got a little
+  too excited there.
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Um, <5 Type='0'/>my name is Kenyo!
+  
+  
+  I want to be a swordsman someday,
+  so I'm doing all this work to bulk up!
+  Nice to meet ya!
+Balloon04: |
+  Sleep...is also training...
+BoneHorse: |
+  A bone horse?!

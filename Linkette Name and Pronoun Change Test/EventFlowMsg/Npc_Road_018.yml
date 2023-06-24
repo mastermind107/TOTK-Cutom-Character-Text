@@ -1,0 +1,298 @@
+talk_1008: |
+  <3 Type='0' Data='0800'/>Hey! What if we went for matching colors?
+  That could be cute!
+talk_5007: |
+  <3 Type='0' Data='0900'/>Can't you see that I'm all dressed up?<0 Type='4'/>I refuse to let this stylish ensemble get
+  ruined. If you want to talk, let's do it
+  somewhere with a roof.
+near_2000: |
+  Is the pasture this way?
+talk_4000: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>We went to the dye shop, <5 Type='0'/>the pasture,<5 Type='0'/>
+  and the lab, but...
+  
+  <3 Type='0' Data='0a01'/>we weren't able to make it to the <0 Type='3' Data='0000'/>cave<0 Type='3' Data='ffff'/>
+  where <0 Type='3' Data='0000'/>Misko's treasure<0 Type='3' Data='ffff'/> is supposed to be.
+talk_5008: |
+  <3 Type='0' Data='0700'/>Sorry, but can this wait?<0 Type='4'/>These are my best clothes, so I really
+  need to get them somewhere dry.
+near_2001: |
+  You can smell the nature!
+talk_4001: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>But since we know which roads lead to
+  the <0 Type='3' Data='0000'/>cave<0 Type='3' Data='ffff'/>, we can go there next time.
+near_5100: |
+  It's a fashion disaster!
+talk_5009: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Good morning, <5 Type='0'/>Ms. Fashionable.
+SagonoHat: |
+  I must have that hat.
+talk_4002: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>How sure are we that <0 Type='3' Data='0000'/>Misko's treasure<0 Type='3' Data='ffff'/>
+  really exists?<0 Type='4'/>The <0 Type='3' Data='0000'/>clothing collection <0 Type='3' Data='ffff'/>that he spent his
+  whole life amassing, hidden away in dank,
+  old <0 Type='3' Data='0000'/>caves<0 Type='3' Data='ffff'/>? <5 Type='0'/>Sounds a little far-fetched.
+talk_4003: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>You say "his whole life," <5 Type='0'/>but we don't
+  know that Misko was a "he."<0 Type='4'/>Or even if they were real.
+talk_2200: |
+  <3 Type='0' Data='0701'/>Are you here on a sightseeing tour?<5 Type='0'/>
+  If so, you should go where we're going—
+  <0 Type='3' Data='0000'/>Hateno Pasture<0 Type='3' Data='ffff'/>!
+  They're famous for their fresh cow milk.<5 Type='0'/>
+  It's bound to be your tastiest stop today!
+talk_3100: |
+  <3 Type='0' Data='0701'/>Checking out the sights? Same here.<5 Type='0'/>
+  We came all this way, so we've got to
+  squeeze in as much fun as we can!
+  It's been a good day so far. We already
+  visited the <0 Type='3' Data='0000'/>dye shop <0 Type='3' Data='ffff'/>and the <0 Type='3' Data='0000'/>pasture <0 Type='3' Data='ffff'/>and
+  went all over.
+  Last on our list is the <0 Type='3' Data='0000'/>lab<0 Type='3' Data='ffff'/>.<0 Type='4'/>I'd better go, or we won't get there
+  before nightfall!
+talk_4004: |
+  <3 Type='0' Data='0800'/>Come on! <5 Type='0'/>This is an ADVENTURE!<5 Type='0'/>
+  You've gotta stop overthinking it and let
+  your heart get swept up in the romance!
+talk_2201: |
+  <3 Type='0' Data='0700'/>If you're looking for sightseeing spots,
+  you should go where we're going—
+  <0 Type='3' Data='0000'/>Hateno Pasture<0 Type='3' Data='ffff'/>!
+  The milk from their cows is famous! <5 Type='0'/>
+  How could anyone resist a visit to a
+  stylish place like that?
+talk_3101: |
+  <3 Type='0' Data='0700'/>We came all this way, so we've got to
+  squeeze in as much fun as we can!<0 Type='4'/>It's been a good day so far. We already
+  visited the <0 Type='3' Data='0000'/>dye shop <0 Type='3' Data='ffff'/>and the <0 Type='3' Data='0000'/>pasture <0 Type='3' Data='ffff'/>and
+  went all over.<0 Type='4'/>Last on our list is the <0 Type='3' Data='0000'/>lab<0 Type='3' Data='ffff'/>.<0 Type='4'/>I'd better go, or we won't get there
+  before nightfall!
+talk_4007: |
+  <3 Type='0' Data='0700'/>I was wondering why you wanted to
+  sightsee at the lab. <0 Type='4'/>Now it makes sense. <5 Type='0'/>You wanted to go
+  and find <0 Type='3' Data='0000'/>Misko's treasure<0 Type='3' Data='ffff'/>. <5 Type='0'/>That's quite
+  the capper to our itinerary.
+near_1000: |
+  Is the dye shop this way?
+talk_1300: |
+  <3 Type='0' Data='0701'/>Are you headed to the <0 Type='3' Data='0000'/>Kochi Dye Shop<0 Type='3' Data='ffff'/>?<5 Type='0'/>
+  That's where we're going!<0 Type='4'/>You can get your clothes dyed there.
+  Maybe you and me and my friends can
+  all be matching colors!
+  <3 Type='0' Data='0100'/>...I'm kidding, haha.<5 Type='0'/> I don't even
+  know you!
+talk_4008: |
+  <3 Type='0' Data='0700'/>Well, I happened to be talking to a Cece
+  fan on the <0 Type='3' Data='0000'/>road<0 Type='3' Data='ffff'/>, and I mentioned that we
+  were going to Hateno Village.<0 Type='4'/>That's when they told me a rumor that
+  <0 Type='3' Data='0000'/>Misko's treasure <0 Type='3' Data='ffff'/>was resting in a cave
+  alongside the road to Hateno Beach.
+talk_1301: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>What's up? <5 Type='0'/>Do you not know where to
+  find the <0 Type='3' Data='0000'/>Kochi Dye Shop<0 Type='3' Data='ffff'/>?<0 Type='4'/><3 Type='0' Data='0701'/>I'm heading there now, so you can just
+  follow me.
+near_4100: |
+  That was quite the day.
+talk_4009: |
+  <3 Type='0' Data='0700'/>Cece fans traveling the roads know a
+  weird amount about <0 Type='3' Data='0000'/>Misko's treasure<0 Type='3' Data='ffff'/>.<0 Type='4'/>If they're all so desperately searching
+  for it, <5 Type='0'/>maybe <0 Type='3' Data='0000'/>Misko's treasure <0 Type='3' Data='ffff'/>really
+  does exist.
+near_5000: |
+  Not my only good outfit!
+near_4101: |
+  Where to tomorrow?
+talk_2100: |
+  <3 Type='0' Data='0701'/>Checking out the sights? Same here.<5 Type='0'/>
+  We came all this way, so we've got to
+  squeeze in as much fun as we can!
+  Today we've still got to look around the
+  pasture and take a tour of the lab.<0 Type='4'/>Lots to see! <5 Type='0'/>I'd better go or we won't get
+  to everything before nightfall!
+talk_3000: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0a0054006900720065006400'/>That's the lab over there... <5 Type='0'/>Which means
+  this road going south, that's...
+talk_2101: |
+  <3 Type='0' Data='0700'/>We came all this way, so we've got to
+  squeeze in as much fun as we can!<0 Type='4'/>Today we've still got to look around the
+  pasture and take a tour of the lab.<0 Type='4'/>Lots to see! <5 Type='0'/>I'd better go or we won't get
+  to everything before nightfall!
+near_3200: |
+  So...tired...
+talk_3001: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='1000540069007200650064005f0030003000'/>Yeah, if you go that way...<5 Type='1'/><0 Type='4'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>That'll lead you to...<5 Type='1'/>the cave where...
+  <5 Type='1'/>Misko's treasure rests...<5 Type='1'/>
+talk_3002: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a0054006900720065006400'/>Maybe we'd better call it a day... <5 Type='0'/>After we
+  catch our breath, let's return to the inn...
+talk_5010: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hello, <5 Type='0'/>Ms. Fashionable.
+talk_5011: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Good evening, <5 Type='0'/>Ms. Fashionable.
+talk_1200: |
+  <3 Type='0' Data='0701'/>Are you here on a sightseeing tour? If so,
+  you should go where we're going—<5 Type='0'/>the
+  <0 Type='3' Data='0000'/>Kochi Dye Shop<0 Type='3' Data='ffff'/>!
+  They'll dye your clothes any color you
+  like!<5 Type='0'/> It sounds like an unmissable
+  experience for fashion lovers.
+talk_1201: |
+  <3 Type='0' Data='0700'/>If you're looking for sightseeing spots,
+  you should go where we're going—<5 Type='0'/>the
+  <0 Type='3' Data='0000'/>Kochi Dye Shop<0 Type='3' Data='ffff'/>!
+  They'll dye your clothes any color you
+  like!<5 Type='0'/> It sounds like an unmissable
+  experience for fashion lovers.
+talk_3005: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a0054006900720065006400'/>That story of <0 Type='3' Data='0000'/>Misko's treasure<0 Type='3' Data='ffff'/> being near
+  the road to Hateno Beach... <5 Type='1'/>Is it true?
+near_4000: |
+  My feet are killing me.
+talk_4300: |
+  <3 Type='0' Data='0701'/>Are you headed to the <0 Type='3' Data='0000'/>inn<0 Type='3' Data='ffff'/>? <5 Type='0'/>That's where
+  we're going!<0 Type='4'/>Usually I get so caught up talking to my
+  friends, morning comes before I know it.
+  But tonight I'll sleep soundly!
+talk_3006: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a0054006900720065006400'/>Yep. <5 Type='1'/>I asked a Cece fan on the <0 Type='3' Data='0000'/>road <0 Type='3' Data='ffff'/>about
+  it, so we're good.
+talk_4301: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>What's up? <5 Type='0'/>Do you not know where to
+  find the <0 Type='3' Data='0000'/>inn<0 Type='3' Data='ffff'/>?<0 Type='4'/><3 Type='0' Data='0701'/>I'm heading there now, so you can just
+  follow me.
+talk_3007: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a0054006900720065006400'/>Good... Probably true, then... <5 Type='0'/>Cece fans
+  know a lot about Misko...<0 Type='4'/>But for now, let's call it a day... Catch our
+  breath, and head back to the inn...
+talk_2000: |
+  <3 Type='0' Data='0800'/>Pastures are great, huh? They've got so
+  many cows!
+talk_2001: |
+  <3 Type='0' Data='0800'/>Yes, but only in Hateno Village are the
+  cows as stylish as everyone else!
+near_3101: |
+  *pant* *pant* I give up...
+talk_1100: |
+  <3 Type='0' Data='0701'/>Checking out the sights?<5 Type='0'/> Same here.
+  We came all this way, so we've got to
+  squeeze in as much fun as we can!
+  Today we're planning to visit the dye
+  shop, look around the pasture, and take
+  a tour of the lab.
+  Lots to see!<5 Type='0'/> I'd better go, or we won't get
+  to everything before nightfall!
+talk_2004: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Well, what do you say we get ourselves
+  some milk?<0 Type='4'/>Should we ask a farmer, or...
+talk_1101: |
+  <3 Type='0' Data='0700'/>We came all this way, so we've got to
+  squeeze in as much fun as we can.<0 Type='4'/>Today we're planning to visit the dye
+  shop, look around the pasture, and take
+  a tour of the lab.<0 Type='4'/>Lots to see!<5 Type='0'/> I'd better go, or we won't get
+  to everything before nightfall!
+near_2200: |
+  ♪Cowwws!♪
+talk_4200: |
+  <3 Type='0' Data='0400'/>You're still not done sightseeing yet?<5 Type='0'/>
+  Wouldn't you rather get cozy at the <0 Type='3' Data='0000'/>inn<0 Type='3' Data='ffff'/>?<0 Type='4'/><3 Type='0' Data='0701'/>The lady who runs it is a Cece fan too.<5 Type='0'/>
+  Though perhaps that was obvious from
+  how stylish it is.
+talk_2006: |
+  <3 Type='0' Data='0c00'/>Mm, I could go for a hot cup of milk.
+talk_4201: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>Are you sure you don't want to call it a
+  day on sightseeing? Go back to the <0 Type='3' Data='0000'/>inn<0 Type='3' Data='ffff'/>?<0 Type='4'/><3 Type='0' Data='0701'/>The inn's owner is a Cece fan, you know.<5 Type='0'/>
+  Though perhaps that was obvious from
+  how stylish it is.
+near_00: |
+  But we came all this way!
+talk_2008: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>So what are we in the mood for? Cheese<5 Type='0'/>
+  or milk?
+talk_2009: |
+  <3 Type='0' Data='0700'/>Or I could use some of that nice, fresh
+  milk to make a mean egg pudding.<0 Type='4'/>They sell bird eggs in the general store...<5 Type='0'/>
+  But I'd need cane sugar as well, and I
+  don't have any.
+near_3000: |
+  Is the lab this way?
+talk_3300: |
+  <3 Type='0' Data='0701'/>Are you headed to the <0 Type='3' Data='0000'/>lab<0 Type='3' Data='ffff'/>? That's where
+  we're going!<0 Type='4'/><3 Type='0' Data='0c01'/>But I'm not totally sure we'll get there
+  in time. It's at the top of the hill, so we've
+  got a real climb ahead of us.
+talk_3301: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>What's up? <5 Type='0'/>Do you not know where to
+  find the <0 Type='3' Data='0000'/>lab<0 Type='3' Data='ffff'/>?<0 Type='4'/><3 Type='0' Data='0701'/>I'm heading there now, so you can just
+  follow me.
+talk_1000: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>So this is it! The <0 Type='3' Data='0000'/>Kochi Dye Shop<0 Type='3' Data='ffff'/>!<0 Type='4'/>Just like they say, it's a smartly designed
+  shop with smartly dressed employees.<0 Type='4'/>Fitting, considering that this is where
+  Cece got her start!
+near_1200: |
+  What clothes should I dye?
+talk_1001: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>I can't quite decide what clothes to have
+  them dye.<0 Type='4'/>Or what colors I want. I guess I should
+  figure that out first...
+talk_4100: |
+  <3 Type='0' Data='0400'/>Are you going sightseeing now?<5 Type='1'/> Well,
+  good luck to you.<0 Type='4'/><3 Type='0' Data='0701'/>We went to the dye shop, the pasture,
+  AND the lab today, so we're beat.<0 Type='4'/>Nothing for it but to rest at the inn.<5 Type='0'/>
+  See you around.
+talk_5000: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Good morning, <5 Type='0'/>traveler.
+NakedPlayer: |
+  Down to the skivvies, hm?
+near_1201: |
+  What colors do I want?
+talk_1002: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/>Listen to us, hemming and hawing over
+  every decision! The joys of fashion, huh?
+talk_4101: |
+  <3 Type='0' Data='0700'/>We went to the dye shop, the pasture,
+  AND the lab today, so we're beat.<0 Type='4'/>We're headed back to the inn now,
+  so excuse us.
+near_5200: |
+  My clothes'll get soaked!
+talk_5001: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hello, <5 Type='0'/>traveler.
+talk_5002: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Good evening, <5 Type='0'/>traveler.
+talk_5003: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Taking their time, aren't they? <5 Type='0'/>But I
+  suppose I have to wait until they arrive.
+talk_2300: |
+  <3 Type='0' Data='0701'/>Are you heading to <0 Type='3' Data='0000'/>Hateno Pasture<0 Type='3' Data='ffff'/>?<5 Type='0'/>
+  That's where we're going!<0 Type='4'/>We've gotta climb up a hill to get there,
+  but I'm sure that tasty milk will make it
+  all worthwhile!
+talk_3200: |
+  <3 Type='0' Data='0701'/>Are you here on a sightseeing tour?
+  If so, you should go where we're going—<5 Type='0'/>
+  the <0 Type='3' Data='0000'/>lab<0 Type='3' Data='ffff'/>!<0 Type='4'/>They say a mad scientist works there.
+  I can't wait to find out what kind of stylish
+  outfit they're wearing!
+talk_5004: |
+  <3 Type='0' Data='0c00'/>I might as well wait until we're all present.
+talk_2301: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>What's up? Do you not know where to
+  find <0 Type='3' Data='0000'/>Hateno Pasture<0 Type='3' Data='ffff'/>?<0 Type='4'/><3 Type='0' Data='0701'/>I'm heading there now, so you can just
+  follow me.
+talk_3201: |
+  <3 Type='0' Data='0700'/>If you're looking for sightseeing spots,
+  you should go where we're going—<5 Type='0'/>
+  the <0 Type='3' Data='0000'/>lab<0 Type='3' Data='ffff'/>!<0 Type='4'/>They say a mad scientist works there.
+  I can't wait to find out what kind of stylish
+  outfit they're wearing!
+talk_5005: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Huh? Looks like we're not all here yet.
+  I guess I'll wait a bit longer.
+talk_1007: |
+  <3 Type='0' Data='0c00'/>We finally made it, and now I can't decide
+  what I want. Which clothes? What colors?<0 Type='4'/>This is my chance to prove I'm stylish
+  enough to call myself a Cece fan. I can't
+  screw it up.
+talk_5006: |
+  <3 Type='0' Data='0900'/>I don't have time for chitchat! <5 Type='0'/>My clothes
+  are getting wet!

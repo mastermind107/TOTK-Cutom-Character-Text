@@ -1,0 +1,130 @@
+Near001: |
+  ...
+Talk103: |
+  <3 Type='0' Data='0800'/>Thank you very much! I'll restock soon.
+Talk104: |
+  <3 Type='0' Data='0a00'/>I'm sorry... We're completely sold out at
+  the moment.<5 Type='1'/> But if you want to sell
+  something, I'm all ears!
+Com_Talk_13: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>How many would you like to sell?
+Talk105: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>Oh, I sell all sorts of things. Please don't
+  be shy—have a look around!
+  
+  Or will you sell something to me?
+Com_Talk_14: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>For <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>, that will be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>
+  in total!
+5500: |
+  OK.
+Talk106: |
+  <3 Type='0' Data='0800'/>I've got some wares that would be useful
+  for someone like you, Ms. Hero!
+  
+  If you use a brightbloom seed in a dark
+  place, it'll light up the area. I bet you'd
+  find that handy, huh!
+Com_Talk_15: |
+  <3 Type='0' Data='0a00'/>I'm sorry. I can't really do anything
+  with that...
+5501: |
+  Never mind.
+Talk107: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>If there's anything you don't need, I'd be
+  happy to have a look at it.
+Com_Talk_16: |
+  <3 Type='0' Data='0a00'/>Um. Can you remove the clothes you're
+  trying to sell me first, please?
+5502: |
+  I'll buy.
+Talk108: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='08004500610073006500'/>Thanks for letting me help you save
+  Hyrule, Ms. Hero!
+  
+  I'll make sure to prepare a variety of
+  items again for next time.
+5503: |
+  Never mind.
+Talk109: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='08004500610073006500'/>Thank you! I'm so glad I prepared a
+  variety of items!
+Talk110: |
+  <3 Type='0' Data='0000'/>That's what I usually say, anyway, but
+  there's nothing here...
+  
+  <3 Type='0' Data='0a00'/>I'm sorry... We're completely sold out
+  at the moment. But if you want to sell
+  something, let me know!
+Talk111: |
+  ...<5 Type='1'/>
+Com_Talk_50: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/><0 Type='3' Data='ffff'/>That will be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. Is that OK?
+5507: |
+  I'll take 'em all!
+5508: |
+  All of them.
+Com_Talk_52: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>For <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>, that comes to <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+Com_Talk_53: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0a005400680069006e006b00'/>Changed your mind?
+Com_Talk_54: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a005400680069006e006b00'/>Er... You don't have enough rupees...
+Com_Talk_55: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Looks like your pouch is full. I can buy
+  things from you if that helps free
+  up space.
+0000: |
+  I want to sell.
+Com_Talk_02b: |
+  <3 Type='0' Data='0800'/>OK! Anything else I can have?
+Com_Talk_56: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>One, right? In that case, that comes to
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+0001: |
+  What do you sell?
+Com_Talk_02c: |
+  <3 Type='0' Data='0800'/>I'll take that off your hands.
+  Anything else?
+Com_Talk_05b: |
+  <3 Type='0' Data='0001'/>Let me know what you want to
+  sell, please.
+0002: |
+  Goodbye.
+Com_Talk_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>OK! What do you want to sell?
+Com_Talk_02d: |
+  <3 Type='0' Data='0800'/>Thank you very much! Is there anything
+  else you want to sell?
+Com_Talk_05c: |
+  <3 Type='0' Data='0001'/>Take your time.
+Com_Talk_01: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>That will be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. Is that OK?
+Com_Talk_05d: |
+  <3 Type='0' Data='0001'/>Which will you sell?
+Com_Talk_02: |
+  <3 Type='0' Data='0800'/>Thank you very much. Would you like to
+  sell anything else?
+Com_Talk_31: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/><0 Type='3' Data='ffff'/>How many?
+Com_Talk_04: |
+  <3 Type='0' Data='0a00'/>Oh... That's too bad.
+Com_Talk_33: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>In that case, that will be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>!
+Com_Talk_05: |
+  <3 Type='0' Data='0001'/>Which would you like to sell?
+Com_Talk_34: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0b01'/><0 Type='3' Data='ffff'/>All of them?! Well, <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them comes to
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>!
+Com_Talk_35: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0b01'/><0 Type='3' Data='ffff'/>Every one you have?! I'll pay
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/> <0 Type='3' Data='ffff'/>for <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them!
+Talk100: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Well, look who we have here! Hello,
+  Ms. Hero, and welcome to the
+  General Shoppe!
+Talk101: |
+  <3 Type='0' Data='0000'/>Please buy whatever you want! Or do you
+  want to sell me something?
+Near000: |
+  The General Shoppe!
