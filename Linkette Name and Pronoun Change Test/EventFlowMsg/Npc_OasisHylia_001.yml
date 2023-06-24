@@ -1,0 +1,153 @@
+talk0001: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='180043007500730074006f006d00530061007600610061007100'/>Sav'aaq!<5 Type='0'/> That's how you greet someone
+  during the day!<5 Type='0'/> Did you know that?
+talk0027: |
+  <3 Type='0' Data='0701'/>But I'm sure as long as you behave
+  yourself, you won't run into any trouble.
+talk0002: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1c0043007500730074006f006d0053006100760073006100610062006100'/>Sav'saaba! That's how you greet someone
+  at night!<5 Type='0'/> Did you know that?
+talk0028: |
+  <3 Type='0' Data='0800'/>Anyway! Since you're here already, you
+  absolutely need to try <0 Type='3' Data='0000'/>Romah's<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>spa plan<0 Type='3' Data='ffff'/>!
+  
+  And if you don't have enough to pay for it
+  right now, you can always try the spa plan
+  that <0 Type='3' Data='0000'/>Olu<0 Type='3' Data='ffff'/>, her apprentice, offers.
+  <FontSize Value='80'/>But, well... Just keep in mind that it's discounted for
+  a reason. I don't think the results are guaranteed...<FontSize Value='100'/>
+talk0003: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1a0043007500730074006f006d005300610076006f00740074006100'/>Sav'otta!<5 Type='0'/> That's how you greet someone
+  in the morning!<5 Type='0'/> You remember, right?
+talk0029: |
+  <3 Type='0' Data='0800'/>It's really rare for a voe to be able to
+  come and go in Gerudo Town, so make
+  the most of it! Sav'orq!
+talk0016: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>The spa plan that <0 Type='3' Data='0000'/>Olu<0 Type='3' Data='ffff'/> offers is reasonably
+  priced and a good option too!
+  
+  <FontSize Value='80'/>But, well... Just keep in mind that it's discounted for
+  a reason. I don't think the results are guaranteed...<FontSize Value='100'/>
+talk0004: |
+  <3 Type='0' Data='0800'/>You must be that man—I mean voe—that
+  everyone is talking about! It's so unusual
+  to see a man here...
+  So you really did get special permission
+  to be in here, huh?
+  
+  <3 Type='0' Data='0400'/>All the same, you should still be on your
+  best behavior.
+  
+  You wouldn't want to end up thrown out
+  or in jail. That's what normally happens
+  when men come here.
+talk0017: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0800'/>Olu<0 Type='3' Data='ffff'/> is apprenticing under <0 Type='3' Data='0000'/>Romah<0 Type='3' Data='ffff'/>.
+  
+  
+  She's the only vai who has ever had
+  the opportunity to inherit Romah's
+  special technique.
+  <3 Type='0' Data='0700'/>But...she's still learning. The effects of
+  her spa plan are a bit less reliable, you
+  might say.
+  The price is more affordable though!
+  If you're in the mood to take a chance,
+  you should give it a shot!
+near0002: |
+  <4 Type='0' Data='1400430061006c006c004600610072005f0030003100'/>Welco— Wait, a man?!
+near0003: |
+  Improved constitution!
+near0004: |
+  For an overheated body!
+talk0007: |
+  <3 Type='0' Data='0800'/>You must be that man—I mean voe—that
+  everyone is talking about! It's so unusual
+  to see a man here...
+near0005: |
+  For those freezing nights!
+talk0008: |
+  <FontSize Value='80'/><3 Type='0' Data='0700'/>Like what happened to that guy over there...<FontSize Value='100'/>
+near0006: |
+  A man?!
+talk0009: |
+  <3 Type='0' Data='0700'/>Have you tried either of the spa plans?
+  
+  
+  <0 Type='3' Data='0000'/>Romah<0 Type='3' Data='ffff'/>'s speaks for itself, but <0 Type='3' Data='0000'/>Olu<0 Type='3' Data='ffff'/>'s is
+  worth checking out too, if you're a bit
+  light on rupees. You can't go wrong!
+near0007: |
+  <4 Type='0' Data='10004700720065006500740069006e006700'/>Improved constitution!
+0000: |
+  Romah?
+near0008: |
+  <4 Type='0' Data='10004700720065006500740069006e006700'/>For an overheated body!
+0001: |
+  Olu?
+near0009: |
+  <4 Type='0' Data='10004700720065006500740069006e006700'/>For those freezing nights!
+talk0021: |
+  <3 Type='0' Data='0701'/>But I don't think you have anything to
+  worry about as long as you behave.
+0002: |
+  Goodbye.
+talk0022: |
+  <3 Type='0' Data='0800'/>Anyway, this is important! Since you've
+  been allowed in town, you absolutely have
+  to try the <0 Type='3' Data='0000'/>spa plan<0 Type='3' Data='ffff'/> at Hotel Oasis!
+  The owner of the place, <0 Type='3' Data='0000'/>Romah<0 Type='3' Data='ffff'/>, has a
+  special technique that is all the rage.
+  
+  <3 Type='0' Data='0701'/>Originally I was just another customer
+  coming here to relax, but I got hooked...
+  
+  Now I work here as an assistant, ha!
+talk0023: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='180043007500730074006f006d00530061007600610061007100'/>Sav'aaq!<5 Type='0'/> That's how you greet someone
+  during the day!<5 Type='0'/> You remember, right?
+talk0010: |
+  <3 Type='0' Data='0800'/>The owner of Hotel Oasis, <0 Type='3' Data='0000'/>Romah<0 Type='3' Data='ffff'/>, is
+  known by vai the world over!
+  
+  Her special relaxation technique can not
+  only improve the condition of your skin...
+  
+  but it is known to <0 Type='3' Data='0000'/>awaken dormant powers<0 Type='3' Data='ffff'/>
+  inside you for a time, as well!
+  
+  <3 Type='0' Data='0700'/>Originally I was just another customer
+  coming here to relax, but I got hooked...
+  
+  Now I work here as an assistant, ha!
+  
+  
+  <0 Type='3' Data='0000'/>Olu<0 Type='3' Data='ffff'/>'s spa plan is pretty good too, but
+  in the end...<0 Type='3' Data='0000'/>Romah<0 Type='3' Data='ffff'/>'s is by far the more
+  popular one!
+talk0024: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1c0043007500730074006f006d0053006100760073006100610062006100'/>Sav'saaba! That's how you greet someone
+  at night!<5 Type='0'/> You remember, right?
+talk0011: |
+  <3 Type='0' Data='0800'/>It's really rare for a voe to be able to
+  come and go in Gerudo Town.
+  
+  You should absolutely check out Romah's
+  spa plan—you won't be able to find
+  anything like it anywhere else!
+  Try it! Try it!
+talk0025: |
+  <3 Type='0' Data='0800'/>You're back!
+  
+  
+  It's always kind of exciting to see you,
+  what with men not really allowed to come
+  into Gerudo Town!
+  <3 Type='0' Data='0701'/>Of course, you should be careful not to
+  cause any problems...<5 Type='1'/>
+talk0000: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1a0043007500730074006f006d005300610076006f00740074006100'/>Sav'otta!<5 Type='0'/> That's how you greet someone
+  in the morning!<5 Type='0'/> Did you know that?
+talk0026: |
+  <FontSize Value='80'/><3 Type='0' Data='0700'/>Otherwise, you might end up like that guy...<FontSize Value='100'/>

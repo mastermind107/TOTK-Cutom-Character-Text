@@ -1,0 +1,324 @@
+talk0038: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Your last attempt didn't reflect so well
+  on you. <5 Type='0'/>Make sure you're good and ready
+  this time!
+near0002: |
+  I expect a lot from you!
+talk0039: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>The record holder for the Desert Race
+  is Captain Teake with <0 Type='3' Data='0000'/><2 Type='14' Data='420043006900720063007500690074005f004400650073006500720074005f00540069006d0065005f005200650063006f00720064005f004d0069006e00750074006500ffff00cd'/>:<2 Type='19' Data='420043006900720063007500690074005f004400650073006500720074005f00540069006d0065005f005200650063006f00720064005f005300650063006f006e006400ffff00cd'/><0 Type='3' Data='ffff'/>.<0 Type='4'/>Just thought you should know. If you're
+  going to run, you might as well aim for
+  the record, right?
+near0003: |
+  Don't die on me out there!
+talk0024: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>What's wrong? <5 Type='0'/>Don't tell me you're here
+  to quit the race.
+near0004: |
+  Will you step up?
+talk0010: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>So, then. Ready to get running?<0 Type='4'/>The clock starts once you go through the
+  <0 Type='3' Data='0000'/>first arch<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0701'/>Get ready and start at your own leisure.
+talk0025: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>I was afraid of that. <5 Type='0'/>At least no one can
+  say you don't know your limits.<0 Type='4'/>I expect you to come back here as soon
+  as you feel up to it, soldier. You know
+  you'll regret it if you don't!
+talk0026: |
+  <3 Type='0' Data='0701'/>Good.<0 Type='4'/><3 Type='0' Data='0900'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>So why are you wasting time?! <5 Type='0'/>You're on
+  the clock, soldier!
+talk0011: |
+  <FontSize Value='125'/><3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>WELL DONE, SOLDIER!<0 Type='4'/><FontSize Value='100'/>Come back here so we can go over
+  the results!
+1001: |
+  I'll take the arrows.
+near0005: |
+  Did you make some room?
+talk0027: |
+  <3 Type='0' Data='0701'/>Also...it'll cost <0 Type='3' Data='0000'/>10 rupees <0 Type='3' Data='ffff'/>per attempt.
+  Are you ready to give it a try?
+talk0012: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Your time was...<5 Type='1'/><0 Type='3' Data='0000'/><2 Type='14' Data='28004d0069006e006900470061006d0065005f00540069006d00650072004d0069006e00750074006500ffff00cd'/>:<2 Type='19' Data='28004d0069006e006900470061006d0065005f00540069006d00650072005300650063006f006e006400ffff00cd'/>.<2 Type='19' Data='32004d0069006e006900470061006d0065005f00540069006d00650072004d0069006c006c0069005300650063006f006e006400ffff00cd'/><0 Type='3' Data='ffff'/>!
+1002: |
+  I'll be back.
+talk0028: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='0e0057006f0072006b005f0030003000'/>Hey! You! <5 Type='0'/>What was that half-hearted jog
+  out there?<0 Type='4'/>This is serious training, not a picnic in
+  the dunes! <5 Type='0'/>You failed this attempt. Get
+  back here, on the double!
+talk0013: |
+  <3 Type='0' Data='0701'/>Congratulations! <5 Type='1'/>Except for one thing.
+  I think you forgot the rules.
+talk0029: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='0e0057006f0072006b005f0030003000'/>Hey! You! <5 Type='0'/>You've gone off course!<0 Type='4'/>If you can't follow the rules I laid out,
+  this training session is over. <5 Type='0'/>Get back
+  here, on the double!
+talk0014: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Hey... <5 Type='0'/>Not bad!<0 Type='4'/><3 Type='0' Data='0c01'/>The Desert Race is a struggle between
+  your body's limits and the harsh desert
+  environment.<0 Type='4'/>Even among us Gerudo soldiers, there
+  aren't many who can finish the race.
+talk0000: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>I remember you. <5 Type='0'/>You're the vai who
+  fought alongside our soldiers.
+talk0015: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Another strong run!<0 Type='4'/>Don't forget your prize.
+talk0001: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Very well! <5 Type='0'/>From now on, soldier, you're
+  at my mercy.<0 Type='4'/>Hope you're ready, because I'm going to
+  run you ragged!<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>But first, some ground rules.<0 Type='4'/>In the Desert Race, you must <0 Type='3' Data='0000'/>pass
+  through <2 Type='14' Data='3c0043006900720063007500690074005f004400650073006500720074005f0043006800650063006b0050006f0069006e00740043006f0075006e007400ffff00cd'/> arches <0 Type='3' Data='ffff'/>around the desert
+  before <0 Type='3' Data='0000'/>reaching the goal<0 Type='3' Data='ffff'/>.<0 Type='4'/>The desert is hard on a runner! <5 Type='0'/>You
+  shouldn't hesitate to <0 Type='3' Data='0000'/>use whatever
+  advantages you can think of<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>However, if you stray too far off course
+  or cross the finish line without passing
+  through all the arches, you fail.<0 Type='4'/>There's also a <0 Type='3' Data='0000'/>time limit of<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/><2 Type='14' Data='400043006900720063007500690074005f004400650073006500720074005f00540069006d0065005f004c0069006d00690074005f004d0069006e00750074006500ffff00cd'/>:<2 Type='19' Data='400043006900720063007500690074005f004400650073006500720074005f00540069006d0065005f004c0069006d00690074005f005300650063006f006e006400ffff00cd'/><0 Type='3' Data='ffff'/>. <5 Type='0'/>I don't
+  want anyone staying out for too long in
+  the desert conditions.<0 Type='4'/><3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>If you can beat the record, there's some
+  <0 Type='3' Data='0000'/>traditional Gerudo cloth<0 Type='3' Data='ffff'/> in it for you!
+talk0016: |
+  Once you go through that, you have to
+  take the rest of the arches in the desert
+  in order.
+talk0017: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>It's <0 Type='3' Data='0000'/>10 rupees <0 Type='3' Data='ffff'/>per attempt. Are you ready
+  to try the <0 Type='3' Data='0000'/>Desert Race<0 Type='3' Data='ffff'/>?
+talk0002: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0c005300610064005f0030003100'/>Oh well. I thought you had it in you...<5 Type='0'/>
+  You can still come by whenever you feel
+  up to the challenge.
+talk0090: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Come back once you've made space for
+  your prize.
+talk0018: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>I've heard about you. <5 Type='0'/>The vai who fought
+  alongside our soldiers, right?
+talk0091: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c005300610064005f0030003000'/>Do you still want to stop, even knowing
+  that I won't give back the <0 Type='3' Data='0000'/>10 rupee<0 Type='3' Data='ffff'/>
+  training fee?
+talk0004: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>The Desert Race is a harsh training
+  program. <5 Type='0'/>Make sure you're fully prepped
+  before you start your run.
+talk0005: |
+  <3 Type='0' Data='0701'/>Wait here while I get the arches ready.<5 Type='0'/>
+  It shouldn't be long.
+talk0006: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>The <0 Type='3' Data='0000'/>first arch <0 Type='3' Data='ffff'/>is the one close by.
+talk0007: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Very well! <5 Type='0'/>From now on, soldier, you're at
+  my mercy.<0 Type='4'/>Hope you're ready, because I'm going to
+  run you ragged!
+  
+talk0080: |
+  <3 Type='0' Data='0701'/>If you want to test your limits further,
+  the cost is the usual <0 Type='3' Data='0000'/>10 rupees<0 Type='3' Data='ffff'/>. What
+  do you think?
+talk0081: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>You don't see these as often as you used
+  to in the desert, but they're used in an
+  elixir that increases your health.<0 Type='4'/>You'll want one on hand when things get
+  really tense.
+talk0082: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>So, then. Ready to get running?<0 Type='4'/>The clock starts once you go through the
+  <0 Type='3' Data='0000'/>first arch<0 Type='3' Data='ffff'/>.<0 Type='4'/>Get ready and start at your own leisure.
+talk0009: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>The clock starts once you pass through
+  this <0 Type='3' Data='0000'/>arch<0 Type='3' Data='ffff'/>. <5 Type='0'/>Prepare yourself and get started
+  at your leisure.<0 Type='4'/>Unless...<5 Type='0'/>you're not getting cold feet,
+  are you?
+talk0083: |
+  <3 Type='0' Data='0c01'/>Hmmm.<0 Type='4'/><0 Type='3' Data='0000'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/><0 Type='3' Data='ffff'/>I wanted to give you a <0 Type='3' Data='0000'/>Gerudo scimitar<0 Type='3' Data='ffff'/>.<5 Type='0'/>
+  But there's no room for it in that pouch
+  of yours.<0 Type='4'/><3 Type='0' Data='0701'/>How about <0 Type='3' Data='0000'/>10 arrows<0 Type='3' Data='ffff'/> instead?
+talk0084: |
+  <3 Type='0' Data='0c01'/>Hmmm.<0 Type='4'/><0 Type='3' Data='0000'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/><0 Type='3' Data='ffff'/>I wanted to give you a <0 Type='3' Data='0000'/>Gerudo scimitar<0 Type='3' Data='ffff'/>.<5 Type='0'/>
+  But there's no room for it in that pouch
+  of yours.<0 Type='4'/><3 Type='0' Data='0701'/>You should come back once you've made
+  space for your prize.
+talk0070: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Now that you've finished a run, you
+  should aim to beat the Gerudo soldier
+  record of <0 Type='3' Data='0000'/><2 Type='14' Data='420043006900720063007500690074005f004400650073006500720074005f00540069006d0065005f005200650063006f00720064005f004d0069006e00750074006500ffff00cd'/>:<2 Type='19' Data='420043006900720063007500690074005f004400650073006500720074005f00540069006d0065005f005200650063006f00720064005f005300650063006f006e006400ffff00cd'/><0 Type='3' Data='ffff'/>.
+talk0085: |
+  <3 Type='0' Data='0c01'/>Hmmm.<0 Type='4'/><0 Type='3' Data='0000'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/><0 Type='3' Data='ffff'/>I wanted to give you a <0 Type='3' Data='0000'/>Gerudo shield<0 Type='3' Data='ffff'/>.<5 Type='0'/>
+  But there's no room for it in that pouch
+  of yours.<0 Type='4'/><3 Type='0' Data='0701'/>How about <0 Type='3' Data='0000'/>five arrows<0 Type='3' Data='ffff'/> instead?
+talk0071: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>As of today, you've graduated from a
+  mere trainee soldier.<0 Type='4'/>Come again if you ever want to test your
+  limits! You're welcome anytime.
+talk0086: |
+  <3 Type='0' Data='0c01'/>Hmmm.<0 Type='4'/><0 Type='3' Data='0000'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/><0 Type='3' Data='ffff'/>I wanted to give you a <0 Type='3' Data='0000'/>Gerudo shield<0 Type='3' Data='ffff'/>.<5 Type='0'/>
+  But there's no room for it in that pouch
+  of yours.<0 Type='4'/><3 Type='0' Data='0701'/>You should come back once you've made
+  space for your prize.
+talk0072: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Huh! Not a bad attempt.<0 Type='4'/>Don't forget your prize.
+talk0087: |
+  <3 Type='0' Data='0c01'/>Hmmm.<0 Type='4'/><0 Type='3' Data='0000'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/><0 Type='3' Data='ffff'/>I wanted to give you a <0 Type='3' Data='0000'/>hearty lizard<0 Type='3' Data='ffff'/>.<5 Type='0'/>
+  But there's no room for it in that pouch
+  of yours.<0 Type='4'/><3 Type='0' Data='0701'/>You should come back once you've made
+  space for your prize.
+talk0073: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>That's the kind of run I like to see.<0 Type='4'/>Here, eat this to cool down.
+talk0088: |
+  <3 Type='0' Data='0c01'/>Hmmm.<0 Type='4'/><0 Type='3' Data='0000'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/><0 Type='3' Data='ffff'/>I wanted to give you a <0 Type='3' Data='0000'/>hydromelon<0 Type='3' Data='ffff'/>.<5 Type='0'/>
+  But there's no room for it in that pouch
+  of yours.<0 Type='4'/><3 Type='0' Data='0701'/>You should come back once you've made
+  space for your prize.
+talk0074: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>You finished the race and didn't get hurt.
+  That's pretty good!
+talk0089: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>You came to claim your prize, right?
+talk0075: |
+  <3 Type='0' Data='0701'/>In the desert, even a little carelessness
+  can cost your life.
+talk0060: |
+  <3 Type='0' Data='0801'/>The fastest time on record is <0 Type='3' Data='0000'/><2 Type='14' Data='420043006900720063007500690074005f004400650073006500720074005f00540069006d0065005f005200650063006f00720064005f004d0069006e00750074006500ffff00cd'/>:<2 Type='19' Data='420043006900720063007500690074005f004400650073006500720074005f00540069006d0065005f005200650063006f00720064005f005300650063006f006e006400ffff00cd'/>.<2 Type='19' Data='4c0043006900720063007500690074005f004400650073006500720074005f00540069006d0065005f005200650063006f00720064005f004d0069006c006c0069005300650063006f006e006400ffff00cd'/><0 Type='3' Data='ffff'/>.
+  For your next attempt, I want to see you
+  beat it.
+talk0061: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Ah, you're back!<5 Type='0'/> The current record for
+  the <0 Type='3' Data='0000'/>Desert Race<0 Type='3' Data='ffff'/> is <0 Type='3' Data='0000'/><2 Type='14' Data='420043006900720063007500690074005f004400650073006500720074005f00540069006d0065005f005200650063006f00720064005f004d0069006e00750074006500ffff00cd'/>:<2 Type='19' Data='420043006900720063007500690074005f004400650073006500720074005f00540069006d0065005f005200650063006f00720064005f005300650063006f006e006400ffff00cd'/>.<2 Type='19' Data='4c0043006900720063007500690074005f004400650073006500720074005f00540069006d0065005f005200650063006f00720064005f004d0069006c006c0069005300650063006f006e006400ffff00cd'/><0 Type='3' Data='ffff'/>.<0 Type='4'/>The training fee is <0 Type='3' Data='0000'/>10 rupees<0 Type='3' Data='ffff'/> per attempt.
+  Are you ready to try again?
+talk0076: |
+  <3 Type='0' Data='0701'/>If you've learned from this mistake, are
+  you ready to make another attempt?
+  It'll cost you <0 Type='3' Data='0000'/>10 rupees<0 Type='3' Data='ffff'/>.
+talk0062: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>You're welcome to try the <0 Type='3' Data='0000'/>Desert Race <0 Type='3' Data='ffff'/>as
+  many times as you want!<0 Type='4'/>The current record is <0 Type='3' Data='0000'/><2 Type='14' Data='420043006900720063007500690074005f004400650073006500720074005f00540069006d0065005f005200650063006f00720064005f004d0069006e00750074006500ffff00cd'/>:<2 Type='19' Data='420043006900720063007500690074005f004400650073006500720074005f00540069006d0065005f005200650063006f00720064005f005300650063006f006e006400ffff00cd'/>.<2 Type='19' Data='4c0043006900720063007500690074005f004400650073006500720074005f00540069006d0065005f005200650063006f00720064005f004d0069006c006c0069005300650063006f006e006400ffff00cd'/><0 Type='3' Data='ffff'/>. <5 Type='0'/>We ask
+  <0 Type='3' Data='0000'/>10 rupees <0 Type='3' Data='ffff'/>per attempt. Are you ready to
+  try again?
+talk0077: |
+  <3 Type='0' Data='0001'/>Would you like to try now? It's still only
+  <0 Type='3' Data='0000'/>10 rupees<0 Type='3' Data='ffff'/>.
+talk0063: |
+  <3 Type='0' Data='0701'/>This is a training area for Gerudo warriors.<0 Type='4'/>The harsh program here requires stamina,
+  willpower, and smarts to cross the desert.<0 Type='4'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Welcome to the starting line for the
+  <0 Type='3' Data='0000'/>Desert Race<0 Type='3' Data='ffff'/>!<0 Type='4'/><3 Type='0' Data='0701'/>I'm here to oversee the Desert Race and
+  give advice to any challengers.<0 Type='4'/>Up to now, only Gerudo warriors were
+  allowed to undergo training this rough.<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>But since you've already proven yourself
+  in battle, we'll make an exception for you.
+0014: |
+  Yes, I'm still stopping.
+talk0078: |
+  <4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>I'll be waiting for your next attempt!
+talk0064: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Keep in mind that the arch <0 Type='3' Data='0000'/>on the rocky
+  hill<0 Type='3' Data='ffff'/> gets harder to see as you get closer.<0 Type='4'/>You can't see the <0 Type='3' Data='0000'/>finish line<0 Type='3' Data='ffff'/> from here,
+  but if you follow the arches in order,
+  you'll come across it eventually.
+talk0079: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Good answer!
+talk0065: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>If you can beat the record, there's some
+  <0 Type='3' Data='0000'/>traditional Gerudo cloth<0 Type='3' Data='ffff'/> in it for you!
+0001: |
+  I'm bowing out.
+talk0050: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>We both know you can do better. <5 Type='0'/>What do
+  you say to making another attempt for
+  <0 Type='3' Data='0000'/>10 rupees<0 Type='3' Data='ffff'/>?
+talk0066: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>There are prizes in it for you based on
+  your results. Assuming you reach the
+  finish line at all.<0 Type='4'/>I want to see you go above and beyond,
+  soldier!
+0002: |
+  Never!
+talk0051: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Do you remember how I told you to pass
+  through ALL of the arches before reaching
+  the goal?<0 Type='4'/>I'm sorry, but if you can't follow the rules,
+  you don't pass the test.
+talk0067: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>To even approach Captain Teake's record
+  is an honorable showing!<0 Type='4'/>This is your reward. <5 Type='0'/>Take it with pride!
+talk0052: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>As of today, you've graduated from a
+  mere trainee soldier.<0 Type='4'/>Come again if you ever want to test your
+  limits! You're welcome anytime.
+0004: |
+  No, I'm doing this.
+talk0068: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>That was a beautiful run! <5 Type='0'/>Here, eat this.
+  It should help you cool off.
+talk0053: |
+  <3 Type='0' Data='0700'/>...<0 Type='4'/><FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/><2 Type='14' Data='28004d0069006e006900470061006d0065005f00540069006d00650072004d0069006e00750074006500ffff00cd'/>:<2 Type='19' Data='28004d0069006e006900470061006d0065005f00540069006d00650072005300650063006f006e006400ffff00cd'/>.<2 Type='19' Data='32004d0069006e006900470061006d0065005f00540069006d00650072004d0069006c006c0069005300650063006f006e006400ffff00cd'/>?!<0 Type='4'/><FontSize Value='100'/>I've never seen anyone do better than
+  Captain Teake. <5 Type='0'/>But the chief did speak
+  highly of you...<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>A promise is a promise. Here's something
+  to mark you getting the fastest time!
+talk0069: |
+  <3 Type='0' Data='0701'/>We ask <0 Type='3' Data='0000'/>10 rupees <0 Type='3' Data='ffff'/>per attempt as a
+  training fee. Are you ready to try the
+  <0 Type='3' Data='0000'/>Desert Race<0 Type='3' Data='ffff'/>?
+0005: |
+  Let's do this!
+talk0054: |
+  <3 Type='0' Data='0700'/>...<0 Type='4'/><FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/><2 Type='14' Data='28004d0069006e006900470061006d0065005f00540069006d00650072004d0069006e00750074006500ffff00cd'/>:<2 Type='19' Data='28004d0069006e006900470061006d0065005f00540069006d00650072005300650063006f006e006400ffff00cd'/>.<2 Type='19' Data='32004d0069006e006900470061006d0065005f00540069006d00650072004d0069006c006c0069005300650063006f006e006400ffff00cd'/>?!<0 Type='4'/><FontSize Value='100'/>You've somehow gotten even faster.<5 Type='0'/>
+  No wonder the chief speaks so highly
+  of you.<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Here's something to celebrate you setting
+  a new record. <5 Type='0'/>Enjoy!
+0006: |
+  Some other time...
+talk0040: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>I'm glad to see you running again. <5 Type='0'/>Let me
+  see you go above and beyond, soldier!
+talk0055: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>I'm so proud to have produced a soldier
+  as hardy as you.
+talk0041: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Ahh, hello again. Are you here to try the
+  <0 Type='3' Data='0000'/>Desert Race<0 Type='3' Data='ffff'/>? We ask a training fee of
+  <0 Type='3' Data='0000'/>10 rupees<0 Type='3' Data='ffff'/> per attempt.
+0007: |
+  Let me hear the rules.
+talk0056: |
+  <3 Type='0' Data='0700'/>...<0 Type='4'/><FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/><2 Type='14' Data='28004d0069006e006900470061006d0065005f00540069006d00650072004d0069006e00750074006500ffff00cd'/>:<2 Type='19' Data='28004d0069006e006900470061006d0065005f00540069006d00650072005300650063006f006e006400ffff00cd'/>.<2 Type='19' Data='32004d0069006e006900470061006d0065005f00540069006d00650072004d0069006c006c0069005300650063006f006e006400ffff00cd'/>?!<0 Type='4'/><FontSize Value='100'/>I've never seen anyone do better than
+  Captain Teake. <5 Type='0'/>But the chief did speak
+  highly of you...<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>A promise is a promise. Here's something
+  to mark you getting the fastest time!
+talk0043: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>You're welcome to try the <0 Type='3' Data='0000'/>Desert Race <0 Type='3' Data='ffff'/>as
+  many times as you want! <5 Type='0'/>It's <0 Type='3' Data='0000'/>10 rupees<0 Type='3' Data='ffff'/>
+  per attempt. Ready to get started?
+talk0058: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Looks like there's little but sand in your
+  wallet. <5 Type='0'/>Why don't you come back when
+  you have some rupees to spare?
+talk0044: |
+  <FontSize Value='80'/><0 Type='3' Data='0200'/><3 Type='0' Data='0c01'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>At least he's safe. <5 Type='1'/>That's what matters.<0 Type='3' Data='ffff'/><FontSize Value='100'/>
+talk0030: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>What do you think you're doing?!<0 Type='4'/>On a real mission, the scavengers would
+  be picking your bones clean!
+talk0045: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Very well. <5 Type='0'/>I will be here if you feel like
+  trying again.<0 Type='4'/>It's my duty to support you until you can
+  cross the Desert Race's finish line!
+talk0032: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>But there was a fire in your legs. <5 Type='0'/>What do
+  you say to making another attempt for
+  <0 Type='3' Data='0000'/>10 rupees<0 Type='3' Data='ffff'/>?
+talk0033: |
+  <3 Type='0' Data='0801'/>Next, you should aim to beat the Gerudo
+  soldier record of <0 Type='3' Data='0000'/><2 Type='14' Data='420043006900720063007500690074005f004400650073006500720074005f00540069006d0065005f005200650063006f00720064005f004d0069006e00750074006500ffff00cd'/>:<2 Type='19' Data='420043006900720063007500690074005f004400650073006500720074005f00540069006d0065005f005200650063006f00720064005f005300650063006f006e006400ffff00cd'/><0 Type='3' Data='ffff'/>.
+talk0049: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Very well. <5 Type='0'/>If you ever want a rematch with
+  the desert, come see me.<0 Type='4'/>I'll support you through however many
+  attempts it takes!
+talk0020: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>The rules of the Desert Race are simple.<5 Type='0'/>
+  <0 Type='3' Data='0000'/>Pass through all <2 Type='14' Data='3c0043006900720063007500690074005f004400650073006500720074005f0043006800650063006b0050006f0069006e00740043006f0075006e007400ffff00cd'/> arches <0 Type='3' Data='ffff'/>before
+  <0 Type='3' Data='0000'/>reaching the goal<0 Type='3' Data='ffff'/>!<0 Type='4'/>The desert is hard on a runner! <5 Type='0'/>You
+  shouldn't hesitate to <0 Type='3' Data='0000'/>use whatever
+  advantages you can think of<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>However, if you stray too far off course
+  or cross the finish line without passing
+  through all the arches, you fail.<0 Type='4'/>There's also a <0 Type='3' Data='0000'/>time limit of<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/><2 Type='14' Data='400043006900720063007500690074005f004400650073006500720074005f00540069006d0065005f004c0069006d00690074005f004d0069006e00750074006500ffff00cd'/>:<2 Type='19' Data='400043006900720063007500690074005f004400650073006500720074005f00540069006d0065005f004c0069006d00690074005f005300650063006f006e006400ffff00cd'/><0 Type='3' Data='ffff'/>. <5 Type='0'/>I don't
+  want anyone staying out for too long in
+  the desert conditions.
+near0000: |
+  Things are looking good...
