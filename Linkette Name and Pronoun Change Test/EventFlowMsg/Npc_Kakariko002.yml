@@ -1,11 +1,11 @@
 talk0123: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Master Linkette... Good morning.
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Lady Linkette... Good morning.
 Ballon01_13: |
   I must keep studying...
 talk0124: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Master Linkette... Hello.
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Lady Linkette... Hello.
 talk0125: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Master Linkette... Good evening.
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Lady Linkette... Good evening.
 Ballon01_15: |
   How strange...
 talk0126: |
@@ -23,17 +23,17 @@ talk0150: |
   I must keep studying if I have any hope of
   becoming a great chief like Grandmother.
   
-  Master Linkette... Thank you for waking me.
+  Lady Linkette... Thank you for waking me.
 Ballon01_101: |
   Bless us, sweet Goddess...
 talk0151: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Master Linkette, the hour is quite late. Please
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Lady Linkette, the hour is quite late. Please
   don't worry about me. You should get
   some rest.
   I plan to head off to bed myself, after
   studying for just a while longer...
 talk0152: |
-  <3 Type='0' Data='0c00'/>Master Linkette...<5 Type='1'/> I am always happy to see
+  <3 Type='0' Data='0c00'/>Lady Linkette...<5 Type='1'/> I am always happy to see
   you, of course. It's just...<5 Type='1'/>well...<5 Type='1'/>
   
   While I have somehow gotten used to
@@ -47,7 +47,7 @@ Ballon01_01: |
 Ballon01_102: |
   He must be sleeping again.
 talk0153: |
-  <FontSize Value='80'/><3 Type='0' Data='0c00'/>Master Linkette...<5 Type='1'/> As you are well aware, we Sheikah
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/>Lady Linkette...<5 Type='1'/> As you are well aware, we Sheikah
   have a deeply twisted history with that mask
   you're wearing.
   Some even feel a rush of fear just looking at it.<5 Type='1'/>
@@ -61,7 +61,7 @@ talk0154: |
   
   As chief, I cannot allow myself to be seen speaking
   to someone dressed like that.<5 Type='0'/> To that end, please
-  excuse me, Master Linkette.<FontSize Value='100'/>
+  excuse me, Lady Linkette.<FontSize Value='100'/>
 Ballon01_03: |
   What next...
 WakkaCharm: |
@@ -85,7 +85,7 @@ talk0114: |
 Ballon01_106: |
   Olkin's house...
 talk0115: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Master Linkette...<5 Type='0'/> Is there anything you need
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Lady Linkette...<5 Type='0'/> Is there anything you need
   from me?
   
   I haven't discerned anything about
@@ -115,12 +115,12 @@ talk0116: |
   firmly toward the villagers. As their chief,
   it is up to me to watch over the village.
   Duty aside... Know that I am always
-  praying for your safety, Master Linkette.
+  praying for your safety, Lady Linkette.
   Always.
   <3 Type='0' Data='0501'/>Please... Take care of yourself as surely
   as you take care of the rest of Hyrule.
 talk0140: |
-  <3 Type='0' Data='0c00'/>M-M...<5 Type='0'/>Master Linkette... Ahem, I...<5 Type='1'/> Um...
+  <3 Type='0' Data='0c00'/>M-M...<5 Type='0'/>Lady Linkette... Ahem, I...<5 Type='1'/> Um...
   
   
   I have certainly come a long way when it
@@ -144,7 +144,7 @@ Ballon01_109: |
   They're trying their best...
 talk0118: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>It's gotten quite late. Please rest
-  yourself, Master Linkette.
+  yourself, Lady Linkette.
   
   Upon exiting the structure, there's an inn
   to the right. I hope...you find peaceful
@@ -156,7 +156,7 @@ talk0141: |
   ...
   
   
-  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>M-M-M...<5 Type='0'/>MASTER LINK?!
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>M-M-M...<5 Type='0'/>MASTER LINKETTE?!
   
   
   I...I apologize... I was just so...surprised?
@@ -167,22 +167,22 @@ talk0141: |
 talk0142: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>I was just this moment praying for your
   safety during your perilous journeys,
-  Master Linkette.
+  Lady Linkette.
   Seeing your face when you found out that
   the words "<0 Type='3' Data='0000'/>Demon King<0 Type='3' Data='ffff'/>" were written on
-  the stone slab... Oh, Master Linkette.
+  the stone slab... Oh, Lady Linkette.
   I knew at once that you must be carrying
   the burden of a difficult quest upon your
   broad...um, upon your shoulders.
   All I can do is pray with all of my heart.
   Please do take care of yourself.
 talk0143: |
-  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>Master Linkette... Could it be that you're
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>Lady Linkette... Could it be that you're
   going somewhere?
 TerrorFire: |
   Please be careful!
 talk0146: |
-  <3 Type='0' Data='0b00'/><4 Type='0' Data='0c004e006f007400690063006500'/>Master Linkette? <5 Type='1'/>Where are you off to?
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0c004e006f007400690063006500'/>Lady Linkette? <5 Type='1'/>Where are you off to?
 talk0130: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>I must do something to make up for
   becoming so immersed in figuring
@@ -191,7 +191,7 @@ talk0130: |
   From now on, I will go out of my way to
   make that much more apparent.
   Please speak to the villagers as well,
-  Master Linkette. Your presence has a way of
+  Lady Linkette. Your presence has a way of
   bringing comfort to those around you.
 talk0148: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>There is the matter of the monsters that
@@ -207,20 +207,20 @@ talk0131: |
   <3 Type='0' Data='0800'/>If I do that, I will hopefully be able to
   figure out how to improve their lives
   and make this village better and better!
-  As for you, Master Linkette... I hope that you
+  As for you, Lady Linkette... I hope that you
   will come and visit us anytime you please.
 talk0149: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>It's nearly daybreak. Please take your
-  rest soon, Master Linkette.
+  rest soon, Lady Linkette.
 TerrorArrow_02: |
   Please, stop!
 talk0132: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Master Linkette... Thank you for stopping by,
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Lady Linkette... Thank you for stopping by,
   even with all the rain.
 TerrorFlash: |
   Aaah!
 talk0133: |
-  <3 Type='0' Data='0c00'/>M-M...<5 Type='0'/>Master Linkette! That is to say... Um...<5 Type='1'/>
+  <3 Type='0' Data='0c00'/>M-M...<5 Type='0'/>Lady Linkette! That is to say... Um...<5 Type='1'/>
   
   
   I'm terribly grateful that you've come to
@@ -271,7 +271,7 @@ Talk0151: |
   anything transpires, we are here for you.
 Talk0152: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Oh!<5 Type='0'/> I neglected to tell you this
-  earlier, Master Linkette...
+  earlier, Lady Linkette...
   
   I have taken over the title of chief from
   my grandmother.

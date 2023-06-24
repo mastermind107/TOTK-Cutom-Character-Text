@@ -13,10 +13,10 @@ Near_05: |
 Near_06: |
   Even from here...
 Talk_20: |
-  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hello again, Mr. Linkette! Were you up all
+  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hello again, Ms. Linkette! Were you up all
   night? You must be tired!
 BlackZelda_01: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Did you hear, Mr. Linkette?!<5 Type='0'/>
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Did you hear, Ms. Linkette?!<5 Type='0'/>
   
   
   Someone that looked like Princess Zelda
@@ -25,7 +25,7 @@ BlackZelda_01: |
   <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>At least, that's what I heard. Pretty
   important news, if it's true!
 Talk_21: |
-  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hello again, Mr. Linkette! We've been seeing
+  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hello again, Ms. Linkette! We've been seeing
   lots of monsters appear at night. I hope
   you've stayed safe out there.
 BlackZelda_02: |
@@ -37,7 +37,7 @@ BlackZelda_02: |
 TerrorArrow: |
   What is happening?
 Talk_22: |
-  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hello again, Mr. Linkette! Been working
+  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hello again, Ms. Linkette! Been working
   hard today, huh?
 BlackZelda_03: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003100'/>I don't need a telescope to help save
@@ -45,13 +45,13 @@ BlackZelda_03: |
   my eyes will be too.
   I won't give up until she's safe!
 Talk_23: |
-  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hello again, Mr. Linkette! There are lots of
+  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hello again, Ms. Linkette! There are lots of
   monsters outside this late. That's got to
   make things tough for travelers.
 Talk_11: |
-  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Linkette? Mr. Linkette?<0 Type='4'/>Is that really you?!<FontSize Value='100'/><0 Type='4'/><3 Type='0' Data='0b01'/><FontSize Value='125'/>Where have you been?!<FontSize Value='100'/>
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Linkette? Ms. Linkette?<0 Type='4'/>Is that really you?!<FontSize Value='100'/><0 Type='4'/><3 Type='0' Data='0b01'/><FontSize Value='125'/>Where have you been?!<FontSize Value='100'/>
 Talk_24: |
-  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hello again, Mr. Linkette! You must be soaked
+  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hello again, Ms. Linkette! You must be soaked
   through! Stay dry if you can!
 Talk_25: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>No one's seen you or <0 Type='3' Data='0000'/>Princess Zelda<0 Type='3' Data='ffff'/>
@@ -89,7 +89,7 @@ Talk_28: |
   weapons from other parts of Hyrule...<0 Type='4'/>I've got to sear the sight of them into
   my memory!
 Talk_03: |
-  <3 Type='0' Data='0701'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>That is really you...<5 Type='1'/>right, Mr. Linkette?<0 Type='4'/><0 Type='3' Data='0200'/><FontSize Value='80'/>I just can't believe it!<FontSize Value='100'/><0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/><0 Type='3' Data='ffff'/>Please, be sure to check in with <0 Type='3' Data='0000'/>Purah<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0701'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>That is really you...<5 Type='1'/>right, Ms. Linkette?<0 Type='4'/><0 Type='3' Data='0200'/><FontSize Value='80'/>I just can't believe it!<FontSize Value='100'/><0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/><0 Type='3' Data='ffff'/>Please, be sure to check in with <0 Type='3' Data='0000'/>Purah<0 Type='3' Data='ffff'/>.
   She keeps an eye on everything here at
   <0 Type='3' Data='0000'/>Lookout Landing<0 Type='3' Data='ffff'/>.
 Talk_29: |
@@ -99,7 +99,7 @@ Talk_29: |
   I've got to sear the sight of them into
   my memory!
 Talk_04: |
-  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Mr. Linkette, did you hear? Gerudo soldiers
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Ms. Linkette, did you hear? Gerudo soldiers
   came to aid us!<0 Type='4'/>We've been barely scraping by with our
   handmade weapons. Now it'll be much
   easier to protect Lookout Landing!
@@ -111,7 +111,7 @@ TerrorSword: |
   Please, stop!
 Talk_05: |
   <3 Type='0' Data='0b00'/><4 Type='0' Data='26005100750065007300740069006f006e00530075007200700072006900730065005f0030003000'/>Eee!<5 Type='1'/> I don't believe it! The legendary
-  Mr. Linkette is talking to me!<0 Type='4'/><3 Type='0' Data='0801'/>You wanted a closer look at this weapon,
+  Ms. Linkette is talking to me!<0 Type='4'/><3 Type='0' Data='0801'/>You wanted a closer look at this weapon,
   I take it?
 Near_02: |
   I made my own weapon!

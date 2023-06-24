@@ -66,7 +66,7 @@ talk_0091: |
   before my eyes.
 talk_0125: |
   <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>But still, I know you would not misspeak,
-  Master Linkette, especially on a matter of
+  Lady Linkette, especially on a matter of
   such importance. How confusing...
 talk_0126: |
   <3 Type='0' Data='0b00'/>Oh, pardon me. I was lost in thought.
@@ -119,7 +119,7 @@ talk_0011: |
   Goodbye.
 talk_0053: |
   <3 Type='0' Data='0801'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003200'/>I'm overjoyed that both you and Princess
-  Zelda are safe, Master Linkette.
+  Zelda are safe, Lady Linkette.
 talk_0012: |
   <3 Type='0' Data='0c01'/><4 Type='0' Data='0c004c0061007500670068005300'/>It's a silly thought, but I wish I could see
   a <0 Type='3' Data='0000'/>picture of the inside<0 Type='3' Data='ffff'/>.
@@ -134,7 +134,7 @@ talk_0129: |
   Princess Zelda came here to
   Kakariko Village.
 talk_0095: |
-  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Oh! My apologies, Master Linkette!<5 Type='0'/> I was so
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Oh! My apologies, Lady Linkette!<5 Type='0'/> I was so
   pleased to see you, I completely forgot
   common courtesy.
   <3 Type='0' Data='0701'/>Please allow me to introduce Mr. Tauro,
@@ -241,7 +241,7 @@ talk_0017: |
   Let's just say it's thrown me off my
   balance. It's so hard to believe.
   
-  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>And yet, I do believe you, Master Linkette.
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>And yet, I do believe you, Lady Linkette.
   I could not bring myself to doubt you for
   even a moment.
   And if these ruins pose some kind of a
@@ -253,11 +253,11 @@ talk_0017: |
   <3 Type='0' Data='0c00'/>However, looking inside the ruins without
   damaging them is a difficult hurdle, one
   well beyond my understanding.
-  <3 Type='0' Data='0701'/>Please, Master Linkette. Lend your wisdom
+  <3 Type='0' Data='0701'/>Please, Lady Linkette. Lend your wisdom
   to Mr. Tauro. With your help, I'm certain
   a way forward will be revealed.
 talk_0000: |
-  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Oh!<5 Type='0'/> Is that you, Master Linkette?!
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Oh!<5 Type='0'/> Is that you, Lady Linkette?!
 talk_0116: |
   <3 Type='0' Data='0d01'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Right you are, Mr. Tauro.<5 Type='0'/> There is no
   longer any reason to prohibit your
@@ -265,7 +265,7 @@ talk_0116: |
   Let's open up the floating Ring Ruin
   at once!
 talk_0018: |
-  <3 Type='0' Data='0b00'/>Um, Master Linkette? Did I see you go inside
+  <3 Type='0' Data='0b00'/>Um, Lady Linkette? Did I see you go inside
   of the floating Ring Ruin?
   
   I just...<5 Type='0'/> N-no! Never mind! It's nothing!<5 Type='0'/>
@@ -305,7 +305,7 @@ talk_0103: |
   <3 Type='0' Data='0c00'/>It's such an unbelievable tale, and yet... 
   
   
-  I trust you completely, Master Linkette. It
+  I trust you completely, Lady Linkette. It
   must be as you say.
   
   It is hard to explain, but the princess we
@@ -378,7 +378,7 @@ talk_0109: |
   And the real Princess Zelda is
   still missing?!
   
-  <3 Type='0' Data='0901'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Are you serious, Master Linkette?! It's
+  <3 Type='0' Data='0901'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Are you serious, Lady Linkette?! It's
   certainly hard to believe...
   
   <3 Type='0' Data='0c01'/>Yet I find it impossible that you would

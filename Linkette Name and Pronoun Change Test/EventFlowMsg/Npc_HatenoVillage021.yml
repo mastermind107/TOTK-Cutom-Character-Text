@@ -87,7 +87,7 @@ talk54: |
   you, mister?
 talk96: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Nice evening, huh? Oh...aren't you the
-  guy I met before? Who were you again?
+  gal I met before? Who were you again?
 talk55: |
   <3 Type='0' Data='0800'/>Oh yeah? You got good taste if you
   wandered here to Hateno Village.
@@ -156,7 +156,7 @@ talk70: |
   really good taste, so you'll recognize him
   as soon as you see him!
 talk108: |
-  <3 Type='0' Data='0700'/>Huh? Oh... Aren't you the guy I met
+  <3 Type='0' Data='0700'/>Huh? Oh... Aren't you the gal I met
   before? Who were you again?
 talk48: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Uh, mister, can this not wait? Class is

@@ -30,7 +30,7 @@ Talk_8000: |
   was so cool!<0 Type='4'/>Someday, I gotta come up with a special
   costume for A-Zoom too.
 Talk_1006: |
-  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Morning, Mr. Linkette! Are you gonna teach
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Morning, Ms. Linkette! Are you gonna teach
   us today?
 Talk_6004: |
   <3 Type='0' Data='0c00'/>The truth is, my identity as the general-
@@ -102,7 +102,7 @@ Talk_7000: |
   you should ask a grown-up.<0 Type='4'/><FontSize Value='80'/>I'm gonna get an earful if I don't make it home
   before Mom gets back to the store.<FontSize Value='100'/>
 Talk_6010: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>You need something, Mr. Linkette? I'm on
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>You need something, Ms. Linkette? I'm on
   patrol right now as A-Zoom. Gotta keep
   an eye out in case any bad guys show up!
 Talk_1000: |
@@ -142,7 +142,7 @@ Talk_6000: |
   here. It's a secret! <0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Kickin' bad-guy butts is way cooler when
   nobody knows it's you!
 Talk_7004: |
-  <3 Type='0' Data='0401'/>Seeya later, Mr. Linkette!
+  <3 Type='0' Data='0401'/>Seeya later, Ms. Linkette!
 Near_1001: |
   Gotta hurry!
 Talk_6001: |

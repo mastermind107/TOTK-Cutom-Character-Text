@@ -1200,7 +1200,7 @@ QuestionTalk_01: |
   <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Glad to help.<5 Type='1'/> What would you like to
   know about horses?
 Talk8002: |
-  <3 Type='0' Data='0800'/>Linkette.<5 Type='1'/> All right, Mr. Linkette...<5 Type='1'/> There.
+  <3 Type='0' Data='0800'/>Linkette.<5 Type='1'/> All right, Ms. Linkette...<5 Type='1'/> There.
   
   
   You're all signed up.
