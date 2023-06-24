@@ -1,0 +1,476 @@
+Talk_1202: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0a005400680069006e006b00'/>Now, about that <0 Type='3' Data='0000'/>giant white stallion<0 Type='3' Data='ffff'/>...<5 Type='0'/>
+  It would be good if we could meet it too.
+  Maybe if one of us captured it...
+Talk_310: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>So, you've come around here in search
+  of that <0 Type='3' Data='0000'/>giant white stallion<0 Type='3' Data='ffff'/>, right?<5 Type='0'/> Or is
+  it that <0 Type='3' Data='0000'/>god of horses<0 Type='3' Data='ffff'/> you're after?
+Talk_1203: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>The god of horses, found at last...<5 Type='0'/> Now,
+  maybe one of us will have luck capturing
+  that <0 Type='3' Data='0000'/>giant white stallion<0 Type='3' Data='ffff'/>.
+Talk_1006: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Whoa...<5 Type='0'/> That horse...<5 Type='0'/> That must be...
+Talk_1007: |
+  <3 Type='0' Data='0b00'/>Th-<5 Type='0'/>there's no mistaking it!
+  
+  
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>That's the giant white stallion we've
+  been trying to research!
+  
+  <3 Type='0' Data='0001'/>We've been studying the ecology of all
+  the wild animals in this area, but that
+  horse is the most interesting to us!
+  We'd heard of this exceptional creature
+  and came to try to capture it for a short
+  time to study its traits.
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>Now, seeing it this close up, that horse
+  is just so...<5 Type='0'/>intimidating!<5 Type='0'/> Its sheer
+  presence is...
+  Well, words fail me.
+  
+  
+  <3 Type='0' Data='0701'/>I can say this for sure. What we call a
+  mutation—a new term in our work—must
+  be the cause of such surprising size!
+Talk_100: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0a0053006c00650065007000'/>Gaaah... You... The horse god... Gah...
+Talk_101: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0a0053006c00650065007000'/>So...giant...
+Talk_102: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='08004500610073006500'/>Time for a break.<5 Type='0'/> A little rest will do.
+Talk_300: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Hey there!<5 Type='0'/> Are you looking for that
+  <0 Type='3' Data='0000'/>giant white stallion<0 Type='3' Data='ffff'/>? Or is it the <0 Type='3' Data='0000'/>god
+  of horses<0 Type='3' Data='ffff'/> you seek?
+Talk_103: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='08004500610073006500'/>*sigh* Finally, time for a good rest!
+Talk_20: |
+  <3 Type='0' Data='0700'/>I knew it. You're seeking the <0 Type='3' Data='0000'/>horse god<0 Type='3' Data='ffff'/>.
+  Or...<5 Type='0'/>is it the <0 Type='3' Data='0000'/>giant white stallion <0 Type='3' Data='ffff'/>you seek?
+Talk_301: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>There's a legend around these parts
+  about a god of horses.
+  
+  <3 Type='0' Data='0501'/>They say this god can restore life to
+  dead horses.
+  
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>It's only a legend though—and a legend
+  about a god seems like it could be a
+  slippery thing.
+  <3 Type='0' Data='0001'/>Really, it's Jini there you want to talk to
+  if you'd like to know more.
+  
+  So, feel free to huddle around the fire
+  there if you'd like to pass the time until
+  he wakes up!
+Talk_104: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0c004e006f007400690063006500'/>That's about it for resting up. <5 Type='0'/>I should
+  take over the watch from Straia.
+Talk_21: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>You have come here to look for the
+  <0 Type='3' Data='0000'/>giant white stallion<0 Type='3' Data='ffff'/>, right?<5 Type='0'/> Or maybe it's
+  the <0 Type='3' Data='0000'/>god of horses<0 Type='3' Data='ffff'/> you're looking for?
+Talk_302: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='0a005400680069006e006b00'/>Well, that god of horses is fine and all,<5 Type='0'/> but
+  I want to catch the <0 Type='3' Data='0000'/>giant white stallion<0 Type='3' Data='ffff'/>.
+Talk_105: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Aaand rest time is over!<5 Type='0'/> Ready to put in a
+  good day's work!
+Talk_22: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>It's like I said...<5 Type='0'/>there's an enormous white
+  horse <0 Type='3' Data='0000'/>deep within this valley<0 Type='3' Data='ffff'/>. You won't
+  believe your eyes!
+Talk_303: |
+  <3 Type='0' Data='0700'/>Still, once we catch that horse, I'd also
+  like to start that investigation into the
+  <0 Type='3' Data='0000'/>god of horses<0 Type='3' Data='ffff'/>.
+Talk_23: |
+  <3 Type='0' Data='0c00'/>Yes, yes.<5 Type='0'/> I know.<5 Type='0'/> Our research into the
+  giant white stallion is paramount.
+  
+  <3 Type='0' Data='0701'/>But if there's a <0 Type='3' Data='0000'/>horse god<0 Type='3' Data='ffff'/> somewhere,
+  I really want to know about it.
+Talk_3100: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Oh! You...<5 Type='0'/>met the horse god?!
+  
+  
+  H-<5 Type='0'/>hey!<5 Type='0'/> Get up, Straia!<5 Type='0'/> This is no time
+  to sleep!
+Talk_2000: |
+  <3 Type='0' Data='0b00'/>What did you say?<5 Type='0'/> Do you mean to tell
+  me, you've met the horse god?
+  
+  <3 Type='0' Data='0001'/>Oh, hmm, I see...<5 Type='1'/> Yes, yes...
+Talk_11: |
+  <3 Type='0' Data='0700'/>There's been strange talk for a good
+  while about a horse god—one that lives
+  here, among us.
+  I believe it's more than just legend, or
+  at least I hope so.<5 Type='0'/> It's said this god can
+  bring horses back from the dead.
+Talk_12: |
+  <3 Type='0' Data='0c00'/>That all might seem laughable,
+  even preposterous.
+  
+  But my friend and I study horses, and
+  if such a god exists here and can
+  resurrect horses...
+  <3 Type='0' Data='0001'/>Then what about...<5 Type='0'/>ancient horses? The
+  mind reels at the possibilities.
+  
+  I'm willing to suspend my disbelief in
+  horse gods for the sake of ancient
+  research. So, my search goes on.
+Talk_2002: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>I don't believe it.<5 Type='0'/> The legend is real.
+  
+  
+  <3 Type='0' Data='0000'/>And is it true...<5 Type='0'/>that the god can resurrect
+  a horse from the dead?
+Talk_13: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003000'/>But there's a complication...<5 Type='0'/>
+  
+  
+  They say this god moved—that he was
+  here but vanished.
+  
+  <3 Type='0' Data='0001'/>Fortunately, tales of the horse god also
+  abound in distant Akkala.
+  
+  It's looking more and more likely that
+  the god is not here, if he exists at all.
+  He could be somewhere in Akkala.
+Talk_2200: |
+  <3 Type='0' Data='0b00'/>Whaaat?<5 Type='0'/> Really? Wake up, Jini!<5 Type='0'/> You don't
+  want to miss this!
+Talk_2003: |
+  <3 Type='0' Data='0c00'/>Well then, I can't help thinking...
+  
+  
+  <FontSize Value='125'/><3 Type='0' Data='0901'/>Shall I eat you?<FontSize Value='100'/>
+  
+  
+  <3 Type='0' Data='0c01'/>Those words are worrisome.<5 Type='0'/> How much
+  can we begin to trust a god that says
+  something like that? Hmm...
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0600530061006400'/>As much as I've wanted to meet this god,<5 Type='0'/>
+  I'd say that we must be cautious.
+Talk_14: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Oh yes! My curiosity about this highly
+  notable horse has drawn me here.<5 Type='0'/> I've
+  seen it <0 Type='3' Data='0000'/>deep within this valley<0 Type='3' Data='ffff'/>.
+  I can verify that it lives up to the
+  description. It's giant! It's white!
+  And it's a stallion!<5 Type='0'/> Extremely rare.
+Talk_2004: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0a005400680069006e006b00'/>Right! Given we haven't captured the
+  giant white stallion yet, and haven't seen
+  it close up...<5 Type='0'/>that should be our priority.
+Talk_15: |
+  <3 Type='0' Data='0800'/>The latest talk in our field of study calls
+  such rare traits a mutation.
+  
+  We're doing research into the ecology of
+  all of the wild animals in this area.
+  
+  Oh, that such a rare horse exists! We
+  want to study this creature and see its
+  unusual traits close up!
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a005400680069006e006b00'/>But as you can guess, the stallion is
+  very strong.
+  
+  That marvelous creature refuses to have
+  anything to do with us. It escapes us
+  every time. It won't be tamed.
+Talk_2005: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0a005400680069006e006b00'/>Yes! We should focus our attention on
+  the habitat of the giant white stallion.<5 Type='0'/>
+  There's so much to study here!
+Talk_01: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Hey there!<5 Type='0'/> It's a remarkable day when we
+  see a traveler all the way out here.
+  
+  So, I've got a pretty good guess what
+  brought you. You're searching for...<5 Type='1'/>
+  
+  the <0 Type='3' Data='0000'/>giant white stallion<0 Type='3' Data='ffff'/>, right?
+Talk_16: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>All right.<5 Type='0'/> If that giant white stallion takes
+  a liking to you, come back with it and
+  visit us, OK?<5 Type='1'/> We'd love to see it.
+Talk_2006: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0a005400680069006e006b00'/>Agreed, yes.<5 Type='0'/> The local habitat of the
+  giant white stallion gives us plenty to
+  research at this time.
+Talk_02: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>No, no.<5 Type='0'/> If this fellow is of similar mind,
+  he's searching for more than that out
+  here in the wilds.
+  There's no doubt that he's really in
+  search of...<5 Type='0'/>
+  
+  the <0 Type='3' Data='0000'/>horse god<0 Type='3' Data='ffff'/>.
+Talk_17: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Well then, good talking.<5 Type='0'/> We'd appreciate
+  it if you share with us anything more you
+  hear about the horse god.
+Talk_1310: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/>*sigh* The form and sheer muscle on
+  that creature is astounding.<5 Type='0'/> Truly, an
+  impressive horse.
+  At full stride, it must be able to throw off
+  monsters like they're nothing and still
+  just keep on galloping.
+Talk_03: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0c004e006f007400690063006500'/>So, young lady.<5 Type='0'/> Tell me. You seek the
+  <0 Type='3' Data='0000'/>horse god<0 Type='3' Data='ffff'/>?
+Talk_18: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Waaait just a minute there. You're not
+  saying that WE are going to Akkala, are
+  you? Because we're not!
+  Our main research is here. We've got to
+  see that <0 Type='3' Data='0000'/>giant white stallion<0 Type='3' Data='ffff'/>.
+Talk_1311: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/>That's one very large horse, no doubt
+  about it.
+  
+  Its stamina must be considerable, given
+  the size of that animal!
+Talk_04: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0c004c0061007500670068005300'/>He does not!<5 Type='0'/> A quick study of his face
+  gives him away.
+  
+  <3 Type='0' Data='0801'/>He's got the <0 Type='3' Data='0000'/>giant white stallion<0 Type='3' Data='ffff'/> on
+  his mind, and who could blame him?
+  I'm right, <5 Type='0'/>right?
+Talk_19: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>As we discussed earlier, the horse god
+  of legend may be living among us,
+  somewhere in this vast land.
+  The strange stories about this god
+  mention that he can resurrect a dead
+  horse—bring it right back to life.
+Talk_1312: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>You can tell that giant white stallion
+  has a giant temper to match.
+  
+  I can't imagine that it listens to just
+  anyone. Training such a horse must
+  be like trying to quiet a storm!
+Talk_1100: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>That giant white stallion truly is a
+  phenomenal creature.
+  
+  I wish I could capture one of those and
+  ride it for a time. But I suppose...<5 Type='1'/>there's
+  just one such animal in the world.
+Talk_1101: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='08004500610073006500'/>The giant white stallion...
+  
+  
+  That such an animal exists...<5 Type='0'/> Then
+  perhaps so, too, does the horse god.
+Talk_210: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Have you come to find the <0 Type='3' Data='0000'/>horse god<0 Type='3' Data='ffff'/>
+  after all? Or are you searching for the
+  <0 Type='3' Data='0000'/>giant white stallion<0 Type='3' Data='ffff'/>?
+Talk_1300: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>So, young lady...<5 Type='0'/> You aren't riding the
+  giant white stallion. What a shame.
+  
+  <3 Type='0' Data='0001'/>At any rate, how is everything going with
+  you?<5 Type='0'/> Learned anything more about the
+  <0 Type='3' Data='0000'/>horse god<0 Type='3' Data='ffff'/>?
+Talk_1301: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='0c004e006f007400690063006500'/>Oh!<5 Type='0'/> Well, I see you're not riding the
+  giant white stallion. That's a pity.
+  
+  It's always a treat to observe such a
+  dashing, magnificent animal!<5 Type='0'/> I'd love to
+  see that horse anytime you can manage it.
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Anyway, what's happening in your travels
+  of late? Did you discover anything more
+  about the <0 Type='3' Data='0000'/>god of horses<0 Type='3' Data='ffff'/>?
+Near_10: |
+  That was remarkable!
+Talk_1303: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/>Well then...young lady,<5 Type='0'/> anytime that you
+  and that giant white stallion ride up, it's
+  a remarkable sight.
+  You've done much for our research.<5 Type='0'/>
+  Consider us in your debt.
+  
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>So, how are you today?<5 Type='0'/> Learn anything
+  more about the <0 Type='3' Data='0000'/>horse god<0 Type='3' Data='ffff'/>?
+Talk_1304: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0048006100700070007900'/>Hey there! I swear, it will never get old,
+  seeing you and the giant white stallion
+  gallop up.
+  We owe you our most gracious thanks
+  for everything you've done to further our
+  study of that animal's habitat.
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Anyway! Please tell me!<5 Type='0'/> Have you
+  found out anything more about that
+  <0 Type='3' Data='0000'/>god of horses<0 Type='3' Data='ffff'/>, by any chance?
+Talk_200: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0c004e006f007400690063006500'/>You there... Young lady.<5 Type='0'/> Have you come
+  to search for the <0 Type='3' Data='0000'/>horse god<0 Type='3' Data='ffff'/>?
+  
+  Or is it the <0 Type='3' Data='0000'/>giant white stallion<0 Type='3' Data='ffff'/> you seek?
+Talk_1305: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0c004e006f007400690063006500'/>Hmm... What is it, young lady?<5 Type='0'/> Have
+  you come this way now looking for that
+  <0 Type='3' Data='0000'/>giant white stallion<0 Type='3' Data='ffff'/>?
+0001: |
+  Horse god?
+Talk_1306: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Hey there!<5 Type='0'/> Have you come back this way
+  to search for the <0 Type='3' Data='0000'/>giant white stallion<0 Type='3' Data='ffff'/>?
+Talk_202: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0a0048006100700070007900'/>Right. It's a white horse, with an
+  unusually large body. We found it deep
+  inside this valley.
+  We've come to this place to study that
+  giant white stallion, and to do that, we
+  hope to capture it for a time.
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>We've had no luck so far. That horse is
+  powerful and won't be caught easily.
+  At least, not by us.
+0002: |
+  A giant white stallion?
+Talk_1307: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>So...not riding the giant white stallion
+  today?<5 Type='0'/> What a shame. I would have liked
+  to see that incredible horse again.
+Talk_203: |
+  <3 Type='0' Data='0700'/>Indeed. If you learn anything about the
+  horse god, I'd be thankful if you'd return
+  to share it with us.
+  And if you have any luck with that
+  giant white stallion, of course. I wish
+  you good fortune in your travels.
+Near_01: |
+  It's huge...and impossible.
+0003: |
+  Goodbye.
+Talk_1308: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='0c004e006f007400690063006500'/>Oh!<5 Type='0'/> It looks like you're not traveling with
+  the giant white stallion right now.<5 Type='0'/> Well,
+  that's a pity.
+  That animal just couldn't be more dashing
+  and magnificent!<5 Type='0'/> I wouldn't mind seeing
+  that horse now and then.
+Talk_204: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003100'/>Although...<5 Type='0'/>I'm sure Straia will insist that
+  we need to capture the <0 Type='3' Data='0000'/>giant white
+  stallion<0 Type='3' Data='ffff'/> first.
+Near_02: |
+  Must capture it somehow!
+Talk_1309: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='0a005400680069006e006b00'/>Incredible. That is a big horse. I don't
+  think I'll ever feel anything but awe being
+  next to that animal.
+  <3 Type='0' Data='0501'/>It's so big, in fact, that horse-riding
+  equipment just wouldn't fit its
+  immense frame.
+Talk_205: |
+  <3 Type='0' Data='0c00'/>Let's give it a shot...<5 Type='0'/>but I still feel we're
+  better off looking for the <0 Type='3' Data='0000'/>god of horses<0 Type='3' Data='ffff'/>.
+Talk_3000: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>What on...<5 Type='1'/> Straia! Wake up!
+0004: |
+  Horse god... Malanya?
+Near_03: |
+  Gaaah...
+Near_04: |
+  Mrmph...
+Near_05: |
+  All is well.
+Near_06: |
+  Sleepy. Gotta stay awake!
+Talk_2100: |
+  <3 Type='0' Data='0b00'/>Whaaat?<5 Type='0'/> It...<5 Type='0'/>it can't be!<5 Type='1'/> Wake up, Jini!
+Near_07: |
+  Wh-what's that?
+Near_08: |
+  Haha! Was I dreaming?
+Talk_1011: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0a005400680069006e006b00'/>We still haven't learned about what I am
+  personally searching for, however—the
+  horse god.
+  If you happen to find out anything about
+  such a god, I'd be thankful if you'd share
+  that with us.
+Near_09: |
+  The giant white stallion...
+Talk_2500: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='0a005400680069006e006b00'/>The horse god...<5 Type='0'/>sounds nothing like
+  what I imagined.
+  
+  Terrifying...<5 Type='0'/>perhaps.
+Talk_40: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='0c004e006f007400690063006500'/>Oh...what is it, young lady?<5 Type='0'/> Have you
+  come looking for the <0 Type='3' Data='0000'/>horse god<0 Type='3' Data='ffff'/> after all?
+  Or maybe the <0 Type='3' Data='0000'/>giant white stallion<0 Type='3' Data='ffff'/>?
+Talk_1001: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Th-<5 Type='0'/>there's no mistaking it!
+  
+  
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>That's the giant white stallion we've
+  been trying to research!
+  
+  <3 Type='0' Data='0401'/>Seeing it this close up, that horse is
+  just so...<5 Type='0'/>intimidating.<5 Type='0'/> It's so large!
+  I feel so small!
+  <4 Type='0' Data='0e0045006100730065005f0030003100'/>Words fail me.
+  
+  
+  <3 Type='0' Data='0701'/>One thing I can say with certainty is
+  that a mutation is in play here. What
+  a discovery!
+Talk_2501: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='0a005400680069006e006b00'/>I thought this god of horses might be of
+  some interest to us, but really,<5 Type='0'/> I want to
+  know more about the <0 Type='3' Data='0000'/>giant white stallion<0 Type='3' Data='ffff'/>.
+  We need to capture it for a time, just to
+  observe it close up.
+  
+  <3 Type='0' Data='0101'/>I'll admit that it's becoming a bit of
+  an...<5 Type='0'/>obsession!
+Talk_41: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Hey there! <5 Type='0'/>So, you're here to search for
+  that <0 Type='3' Data='0000'/>giant white stallion<0 Type='3' Data='ffff'/>, eh? Or is your
+  heart set on that <0 Type='3' Data='0000'/>god of horses<0 Type='3' Data='ffff'/>?
+Talk_9000: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Did<5 Type='0'/> something pass by just now?<5 Type='0'/> Like a
+  wind rushing by...
+  
+  <3 Type='0' Data='0001'/>No. It's got to be my old eyes. <5 Type='0'/>Been
+  staring at the fire too long.
+Talk_1200: |
+  <3 Type='0' Data='0700'/>I could tell you're of like mind,<5 Type='0'/> being
+  interested in the <0 Type='3' Data='0000'/>horse god<0 Type='3' Data='ffff'/>.
+Talk_1003: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>A horse of this size...<5 Type='0'/>capturing it must
+  have been hard, and riding it—next
+  to impossible.
+  Young lady,<5 Type='0'/> you are remarkable.
+Talk_9001: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Did I just see...<5 Type='0'/> It was like that giant
+  horse galloping right out of my dreams...
+  
+  <3 Type='0' Data='0001'/>No, no, no! Ridiculous!<5 Type='1'/> Just a dream.<5 Type='0'/>
+  Only a dream.
+Talk_1201: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>I've encountered the giant white stallion.<5 Type='0'/>
+  Truth be told, I wouldn't mind a face to
+  face with the <0 Type='3' Data='0000'/>god of horses<0 Type='3' Data='ffff'/> too.
+Talk_9002: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Did<5 Type='0'/> something pass by just now?<5 Type='0'/> Like a
+  wind rushing by...
+  
+  <3 Type='0' Data='0001'/>No. Only my eyes playing tricks on me.
+  I've been staring too long at that fire
+  going out.

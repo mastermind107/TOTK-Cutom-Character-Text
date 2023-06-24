@@ -209,7 +209,7 @@ Near_1000: |
 Talk_3100: |
   <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Here to check on the field?
 Talk_2000: |
-  <3 Type='0' Data='0700'/>You look like a man who gets around.<5 Type='0'/>
+  <3 Type='0' Data='0700'/>You look like a woman who gets around.<5 Type='0'/>
   Wish I wasn't so tied down like I am.<0 Type='4'/>On days like this, my <0 Type='3' Data='0000'/>work to tend the
   field near the school<0 Type='3' Data='ffff'/> hurts my lower
   back so.<0 Type='4'/>It makes the road home feel longer than

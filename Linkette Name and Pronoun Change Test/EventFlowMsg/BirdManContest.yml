@@ -1,0 +1,296 @@
+Talk29: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Excellent... Thank you for your generous
+  contribution!
+Talk46: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Well done today. A little more practice
+  and you'll be flying like a pro.
+  
+  <3 Type='0' Data='0801'/>Here's your reward.
+Talk47: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Here you are.
+Talk48: |
+  <3 Type='0' Data='0c00'/>Flying is all about equilibrium.<5 Type='0'/>
+  To maneuver the wings, start from
+  <0 Type='3' Data='0000'/>a position with good balance<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0701'/>Then to steer, try moving around—
+  <0 Type='3' Data='0000'/>forward, backward, side to side<0 Type='3' Data='ffff'/>.
+  That should, in theory, do the trick!
+Talk49: |
+  <3 Type='0' Data='0700'/>What is it?<5 Type='0'/> Did you need something
+  from Mr. Branli?
+0000: |
+  I'll do it.
+0001: |
+  No way.
+0002: |
+  Sure!
+Talk10: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>How about it? Feeling flightworthy?<5 Type='0'/> 
+  Ready to help with my research?
+0003: |
+  No, thanks.
+0004: |
+  I'm backing out.
+Talk11: |
+  <3 Type='0' Data='0700'/>You landed...<5 Type='1'/> <0 Type='3' Data='0000'/><2 Type='9' Data='280042006900720064006d0061006e0043006f006e0074006500730074005f00530063006f0072006500ffff00cd'/> m <0 Type='3' Data='ffff'/>from the center.
+0005: |
+  I'll still do it.
+Talk12: |
+  <3 Type='0' Data='0a00'/>Dear oh dear. <5 Type='1'/>Did you slip and fall off?<5 Type='0'/>
+  That didn't yield any useful data at all...
+  No reward for you!
+0006: |
+  I need more details.
+Talk30: |
+  <3 Type='0' Data='0700'/>Would you like to have the parameters
+  explained once again?
+Talk13: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>That was our best flight so far!<5 Type='0'/>
+  
+  
+  <3 Type='0' Data='0801'/>Here's hoping that you continue to smash
+  record after record!
+0007: |
+  Fine...
+Talk31: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>Hmm.<5 Type='0'/> I would have expected you to
+  remember. But very well. It is YOUR life
+  we're risking, after all...
+  Mimo!<5 Type='0'/> Refresh the young lady's memory!
+Talk14: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>How awe-inspiring!<5 Type='0'/> You landed right
+  inside the circles! A perfect flight!
+  
+  Which means that my research is
+  finally complete!
+  
+  <3 Type='0' Data='0701'/>Mimo!<5 Type='0'/> Give the young lady his reward!
+  He deserves everything we've got!
+0008: |
+  I'm not paying that!
+Talk32: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>Ready?<5 Type='1'/> Then fly, bird-man! Flyyy!
+Talk15: |
+  <3 Type='0' Data='0700'/>Hmm!<5 Type='0'/> Not quite bird-like, but not bad by
+  any means either!
+  
+  <3 Type='0' Data='0701'/>This will give me a good starting point
+  for my research. <5 Type='0'/>Mimo! Give the young
+  lady his reward!
+0009: |
+  No need.
+Talk50: |
+  <3 Type='0' Data='0a00'/>*siiigh*<5 Type='1'/> It's raining, and we still aren't
+  taking a day off.
+Talk33: |
+  <3 Type='0' Data='0800'/>That really was a beautiful flight! <5 Type='0'/>You
+  controlled the wings like they were an
+  extension of your body.
+  <3 Type='0' Data='0801'/>Here's your reward.
+Talk16: |
+  <3 Type='0' Data='0c00'/>Hmm.<5 Type='1'/> Well, not every experiment can be a
+  resounding success. I'm sure I'll find
+  some use for this data in my research.
+  <3 Type='0' Data='0701'/>In terms of compensation...<5 Type='1'/>I'd say you
+  earned a small reward. <5 Type='0'/>Mimo!
+Talk51: |
+  <3 Type='0' Data='0c00'/>I'm also curious how this weather may
+  affect the wings' aerodynamics.
+Talk34: |
+  <3 Type='0' Data='0900'/>What are you doing?!<5 Type='0'/> You can't get off
+  the wings in the middle of the experiment!
+  <5 Type='0'/>Mimo! <5 Type='0'/>Go pick him up!
+Talk17: |
+  <3 Type='0' Data='0900'/>Hnng...<5 Type='0'/> What happened? You looked
+  so confident, and yet failed so badly!
+  This does nothing for my research!
+  I'm sorry, but I won't give you a reward
+  for...that!
+Talk35: |
+  <3 Type='0' Data='0c00'/>Hmm. <5 Type='1'/>You could just sit back and let the
+  science happen, but no. You want all the
+  ins and outs picked apart... <5 Type='0'/>Fine.
+  <3 Type='0' Data='0700'/>Mimo, fill the young lady in!
+Talk52: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Guhhh...<5 Type='1'/> Fine.<5 Type='0'/> Mimo!<5 Type='0'/> Clean this up!
+Talk18: |
+  <3 Type='0' Data='0800'/>That was impressive. Even we Rito can't
+  fly that accurately.
+  
+  <3 Type='0' Data='0801'/>Here's your reward.
+Talk36: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>How about it?<5 Type='0'/> Ready to cast off gravity's
+  cruel bonds and SOAR?
+Talk53: |
+  <3 Type='0' Data='0900'/>Hey! HEY!<5 Type='0'/> How am I supposed to see you
+  that far away?
+  
+  Mimo!<5 Type='0'/> Go pick him up!
+Talk19: |
+  <3 Type='0' Data='0700'/>You know, I could still use more data...<5 Type='0'/>
+  Another experiment wouldn't hurt!<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0701'/>How about it? Want to take to the skies
+  again?
+Near00: |
+  The skies beckon!
+Talk37: |
+  <3 Type='0' Data='0c00'/>Hm! <5 Type='0'/>Exploring a remote island like this...<5 Type='0'/>
+  Very well.
+Talk54: |
+  <3 Type='0' Data='0a00'/>I said to fly to the <0 Type='3' Data='0000'/>center of the circles<0 Type='3' Data='ffff'/>!<5 Type='1'/>
+  You've screwed up the entire experiment.<5 Type='0'/>
+  No reward for you!
+Talk38: |
+  <3 Type='0' Data='0900'/>Answering a question with a question?
+  That's pretty rude... But very well.
+Talk55: |
+  <3 Type='0' Data='0b00'/>Hm? What are you doing?
+Near01: |
+  You can fly rain or shine!
+Talk39: |
+  <3 Type='0' Data='0701'/>I am a scholar, presently engaged in
+  <0 Type='3' Data='0000'/>research on the mechanics of flight<0 Type='3' Data='ffff'/>.
+  
+  Mimo and I ran into each other when
+  I was searching for a test site where
+  I could perform my experiments.
+  It was he who suggested this island.
+Talk56: |
+  <3 Type='0' Data='0700'/>We need those wings for our research.
+  Please leave them where they are.
+Talk57: |
+  The rain may limit your visibility
+  somewhat, but no matter.
+Talk58: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>What's happening in that head of yours?
+  Taking an interest in my work, hm?
+Talk00: |
+  <3 Type='0' Data='0b00'/>Whoa!<5 Type='0'/> A visitor? That's...new. What are
+  you doing here?
+0010: |
+  Yes, please.
+Talk01: |
+  <3 Type='0' Data='0701'/>Mr. Branli!
+0011: |
+  Exploring!
+0012: |
+  Who are you?
+Talk02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>You know, I could use a test subj—<5 Type='0'/>
+  Ah, research assistant.
+0013: |
+  I'm not interested.
+Talk03: |
+  <3 Type='0' Data='0800'/>Marvelous! <5 Type='0'/>You won't regret it!
+  
+  
+  <3 Type='0' Data='0c01'/>Now, to be totally candid, we've run into
+  an unexpected funding shortage...
+  
+  <3 Type='0' Data='0701'/>So I hate to ask, but would you mind
+  kicking in, oh, let's say <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/>?
+Talk20: |
+  <3 Type='0' Data='0800'/>Ah, marvelous!<5 Type='0'/> The more you fly, the
+  more my research progresses!
+  
+  <3 Type='0' Data='0701'/>Naturally, I'll need you to provide another
+  contribution of <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/>...
+Talk04: |
+  <3 Type='0' Data='0c00'/>Hmm.<5 Type='1'/> So, the miracle of flight doesn't
+  interest you... <5 Type='0'/>That's fine. Let me know if
+  you change your mind.
+Talk21: |
+  <3 Type='0' Data='0c00'/>Hmm.<5 Type='0'/> So, you had your taste of flight,
+  and now you're done?<5 Type='1'/> Fine.<0 Type='4'/><3 Type='0' Data='0701'/>Well, I'll be here, tirelessly working on
+  my research! <5 Type='0'/>Come back if and when
+  you're ready to make scientific history!
+Talk05: |
+  <3 Type='0' Data='0701'/>Mimo!<5 Type='0'/> Ready the wings!
+Talk22: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Is something wrong? <5 Type='0'/>Mr. Branli, I think he
+  wants to talk to you.
+Talk40: |
+  <3 Type='0' Data='0700'/>All right... See the object over there that
+  looks like <0 Type='3' Data='0000'/>a set of wings<0 Type='3' Data='ffff'/>? <5 Type='0'/>It fell from the
+  sky recently.
+  Mr. Branli thinks it may be an ancient
+  flying device that could be used to <0 Type='3' Data='0000'/>soar
+  freely through the air<0 Type='3' Data='ffff'/>.<5 Type='0'/>
+  But at present, that's only an
+  untested hypothesis.
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>We need you to prove or disprove it
+  by <0 Type='3' Data='0000'/>getting on the wings <0 Type='3' Data='ffff'/>and <0 Type='3' Data='0000'/>flying <0 Type='3' Data='ffff'/>to
+  the objective.
+Talk06: |
+  <3 Type='0' Data='0700'/>Hmm.<5 Type='0'/> Seeing as you're new to this
+  experiment, we had best lay out the
+  parameters.
+  Mimo!<5 Type='0'/> Tell the young lady what he'll
+  be doing!
+Talk23: |
+  <3 Type='0' Data='0700'/>Since the experiment already began,
+  I can't give back the <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/> you
+  gave me. Is that OK?
+Talk41: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Mr. Branli told me he dreamt of flying
+  without wings. It was all so intriguing,
+  I had to get involved.
+Talk07: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>Hrrng!<5 Type='0'/> You don't have enough!
+  
+  
+  <3 Type='0' Data='0701'/>PLEASE save up and come back!
+Talk24: |
+  <3 Type='0' Data='0700'/>All right, then!<5 Type='0'/> Get back out there!
+Talk42: |
+  <3 Type='0' Data='0700'/>Now that you're <0 Type='3' Data='0000'/>on the wings<0 Type='3' Data='ffff'/>, it's nearly
+  time to <0 Type='3' Data='0000'/>take flight<0 Type='3' Data='ffff'/>.
+Talk08: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>What?!<5 Type='0'/> What's so important you had to
+  stop the experiment?<5 Type='1'/> Please don't tell me
+  you're backing out.
+Talk25: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>If you have second thoughts about your
+  second thoughts, we'll be here.
+Talk09: |
+  <3 Type='0' Data='0700'/>Hello, young lady!<5 Type='0'/> My <0 Type='3' Data='0000'/>flight research <0 Type='3' Data='ffff'/>is
+  progressing by the day. Lots of interesting
+  insights and learnings, yes indeed.
+  Is that why you're here? You want to
+  assist me?
+Talk43: |
+  We are asking you to aim for the <0 Type='3' Data='0000'/>center
+  of the circles <0 Type='3' Data='ffff'/>over there. <5 Type='0'/><0 Type='3' Data='0000'/>Land as close
+  to the target as you can.<0 Type='3' Data='ffff'/>
+  Maneuvering with the wings may be
+  difficult, but we believe you can steer
+  by maintaining good balance.
+  <4 Type='0' Data='10005400680069006e006b005f0030003000'/>Note that <0 Type='3' Data='0000'/>you may not get off the wings<0 Type='3' Data='ffff'/>
+  until the experiment is complete, as that
+  would render the data useless.
+  The closer you get to the goal, the better
+  data we'll be able to yield, and the more
+  we'll compensate you for your help!
+Talk26: |
+  <3 Type='0' Data='0800'/>WONDERFUL! <5 Type='0'/>You looked like a bird
+  soaring through the heavens!
+  
+  This will push my research forward by
+  leaps and bounds!
+  
+  <3 Type='0' Data='0701'/>Mimo!<5 Type='0'/> Give the young lady her reward!
+  And make it big!
+Talk27: |
+  <3 Type='0' Data='0700'/>Yes, Mr. Branli. One moment.
+Talk44: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>All ready, sir!
+Talk28: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Ugh!<5 Type='0'/> Don't you care AT ALL about
+  supporting science?!
+  
+  <3 Type='0' Data='0701'/>Researchers have to eat, you know!
+  If you don't contribute, then you don't
+  get to fly.
+Talk45: |
+  <3 Type='0' Data='0a00'/>That's a bold way to talk to your only
+  employee...<5 Type='1'/>

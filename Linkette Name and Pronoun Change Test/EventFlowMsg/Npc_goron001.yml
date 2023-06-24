@@ -1,0 +1,140 @@
+talk09: |
+  <3 Type='0' Data='0700'/>Careful out there!
+talk10: |
+  <3 Type='0' Data='0a00'/>Young'un, <5 Type='0'/>you don't quite have the funds.
+  Sorry 'bout that.
+0000: |
+  A regular bed.
+talk11: |
+  <3 Type='0' Data='0700'/>How long do you wanna rest on the
+  regular bed?
+0001: |
+  A bed and massage.
+talk12: |
+  <3 Type='0' Data='0700'/>A room and a massage, got it. How long
+  do ya wanna rest for?
+Talk_09: |
+  <3 Type='0' Data='0800'/>Thanks to you, young lady, I recalled
+  the place where I saw the moon lookin'
+  very particular.
+  My fuzzy memory around it isn't
+  fuzzy anymore.
+  
+  I can't thank ya enough for the help.
+  Thank ya!
+0002: |
+  I'm not tired.
+talk13: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Then please take it easy until morning.
+0003: |
+  Until morning.
+talk14: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Then please take it easy until noontime.
+Talk_10: |
+  <3 Type='0' Data='0700'/>Welp! No time like the present. We'd best
+  get a move on and begin preparations for
+  the journey ahead.
+0004: |
+  Until noon.
+talk15: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Then please take it easy until nighttime.
+Talk_11: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>All I need is a decade. Not long at all.
+0005: |
+  Until night.
+talk16: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a005400680069006e006b00'/>Good morning!
+  
+  
+  Hope ya slept well. Take care now.
+Talk_12: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068004c00'/>That's the Tray I know! So speedy.
+  
+  
+  Try as I might, I won't be ready to head
+  out for at least 15 years, myself.
+0006: |
+  Never mind.
+talk17: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a005400680069006e006b00'/>Hope ya slept well. Take care now.
+talk18: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a005400680069006e006b00'/>Nighttime already!
+  
+  
+  Hope ya slept well. Best of luck out there.
+talk19: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a005400680069006e006b00'/>Good morning!
+  
+  
+  Hope the massage was nice.<5 Type='0'/> Best of luck
+  out there.
+Talk_15: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh, hey! You're the guy who showed me
+  that picture of the moon in daylight!
+0009: |
+  A massage?
+Talk_17: |
+  <3 Type='0' Data='0700'/>Oh?<5 Type='1'/> You staying the night?
+talk20: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a005400680069006e006b00'/>Hope the massage was nice.<5 Type='0'/> Best of luck
+  out there.
+Near_00: |
+  The inn's over here!
+Talk_00: |
+  <3 Type='0' Data='0700'/>We don't see many strangers round here!
+  
+  
+  I gotta tell ya, if <0 Type='3' Data='0000'/>marbled rock roast <0 Type='3' Data='ffff'/>is
+  popular among the kids, well, so be it.
+  
+  But they're losin' their heads over it—
+  tricking travelers into forkin' over rupees,
+  and droppin' work for more of them rocks.
+  Goron City used to be such a nice place...
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/><0 Type='3' Data='ffff'/>We elders can't eat <0 Type='3' Data='0000'/>marbled rock roast<0 Type='3' Data='ffff'/>, 
+  so we're stuck watching things fall apart.
+  <3 Type='0' Data='0701'/>'Scuse my jabberin'. So!
+  You staying here?
+talk21: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a005400680069006e006b00'/>Nighttime already!
+  
+  
+  Hope the massage was nice.<5 Type='0'/> Best of luck
+  out there.
+Talk_18: |
+  <3 Type='0' Data='0700'/>You've really been showin' your age
+  lately. Ever since you realized the marbled
+  rock roast was too tough for you to eat it.
+  I've been worried about you, buddy.
+  
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Y'know, the place where we saw the full
+  moon shining on the ground is basically
+  our point of origin.
+  I bet if we go there, you'll be rejuvenated.
+  C'mon! Time for a trip to see the moon!
+talk22: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>New to the art of Goron massage, are ya?
+  That's OK. First time for everything, as
+  they say.
+  A Goron-style massage is done on top of
+  a hard rock bed. <5 Type='0'/>Pressure is applied to
+  your body to squeeze all the tension out.
+  <3 Type='0' Data='0800'/>S'right! It doesn't hurt one bit.<5 Type='0'/> Mostly.<5 Type='0'/>
+  I tell ya, I even doze off sometimes!
+  
+  Afterward, you'll sleep like a rock and
+  feel great when ya wake up. You'll be all
+  limber and full of energy!
+Talk_19: |
+  <3 Type='0' Data='0800'/>That's my buddy! The kind of Goron who's
+  always thinkin' about others.
+Talk_02: |
+  <3 Type='0' Data='0700'/>No troublesome whippersnappers here.
+  You'll sleep soundly!
+Near_03: |
+  Can't leave unprepared.
+talk08: |
+  <3 Type='0' Data='0100'/>A regular bed will cost ya <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/>.<5 Type='1'/> If ya
+  wanna throw in a Goron massage, that'll
+  run ya <0 Type='3' Data='0000'/>50 rupees<0 Type='3' Data='ffff'/>.

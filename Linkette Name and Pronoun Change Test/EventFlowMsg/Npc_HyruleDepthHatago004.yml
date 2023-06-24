@@ -1,0 +1,57 @@
+NakedPlayer: |
+  You're past needing armor.
+WakkaCharm: |
+  Look at that ring garland!
+Talk01: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>...Hm?<5 Type='0'/> Is something bothering you,
+  young lady?
+Talk04_01: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Morning...<5 Type='1'/> Say, you seem like a bright
+  young lady.<5 Type='0'/> You interested in this poster?
+Talk02: |
+  <3 Type='0' Data='0001'/>Oho, could it be? Is this bright young
+  fellow interested in the poster too?
+Talk04_02: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Good evening.<5 Type='0'/> Say, you seem like a
+  bright young lady. <5 Type='0'/>Are you interested
+  in this poster?
+Talk03: |
+  <3 Type='0' Data='0001'/>Reports say this is a picture of a <0 Type='3' Data='0000'/>beast
+  that's been rumored<0 Type='3' Data='ffff'/> to be lurking
+  somewhere in Hyrule.
+  <3 Type='0' Data='0c00'/>It's been the talk of all the stables.
+  
+  
+  They say that Princess Zelda herself was
+  seen traveling with this beast. Look at
+  those tusks.<5 Type='0'/> What a fearsome creature!
+  <3 Type='0' Data='0701'/>I wonder where this beast is right now.<5 Type='0'/>
+  Quite a mystery, don't you think?
+  
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>If I were younger, I'd hike to all the
+  stables to find out if there's any truth
+  to these rumors.
+Talk04: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>...Hm?<5 Type='1'/> You seem like a bright young lady.<5 Type='0'/>
+  Are you interested in this poster?
+Talk05: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>You seem like a bright young lady.<5 Type='0'/>
+  Are you interested in this poster?
+Near01: |
+  I'll solve this mystery...
+Talk06: |
+  <3 Type='0' Data='0001'/>Reports say this is a picture of a <0 Type='3' Data='0000'/>beast
+  that's been rumored <0 Type='3' Data='ffff'/>to be lurking
+  somewhere in Hyrule.
+  It's been the talk of all the stables.
+  
+  
+  <3 Type='0' Data='0c00'/>They say that Princess Zelda herself was
+  seen traveling with this beast. Such
+  monstrous tusks! Truly fearsome.
+  But the truth is, nobody knows much at
+  all about this thing. It's a mystery.
+  
+  <3 Type='0' Data='0a00'/>If I were younger, I'd hike to all the
+  stables to find out if there's any truth
+  to these rumors.

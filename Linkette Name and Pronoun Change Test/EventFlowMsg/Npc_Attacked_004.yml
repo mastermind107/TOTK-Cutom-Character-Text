@@ -1,0 +1,168 @@
+Ballon_0004: |
+  Oh, blessed rain...
+Talk_0007: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Did you not hear me? My fault entirely.
+  
+  
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0901'/><0 Type='3' Data='ffff'/>The <0 Type='3' Data='0000'/>legendary sword <0 Type='3' Data='ffff'/>is meant for a
+  chosen one, like me.
+Talk_0008: |
+  <3 Type='0' Data='0b00'/>Hang on. You're still there?
+  
+  
+  You didn't happen to...<5 Type='0'/>overhear what
+  I was just saying, did you?
+Talk_0010: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Hold on there. You didn't happen to...
+  hear what I was saying, did you?
+Talk_0071: |
+  <4 Type='0' Data='0a0053006c00650065007000'/>Sorelia...<5 Type='0'/> I'll protect you...<5 Type='0'/>
+  something-something woods...<5 Type='0'/>
+  <0 Type='3' Data='0000'/>legendary sword<0 Type='3' Data='ffff'/>...
+Talk_0011: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0a005400680069006e006b00'/>From what I've learned so far, a
+  <0 Type='3' Data='0000'/>legendary sword <0 Type='3' Data='ffff'/>exists somewhere
+  in Hyrule.
+  And it's highly likely to be found in the
+  <0 Type='3' Data='0000'/>something-something woods<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>So, that much I know, but where might
+  woods of a something-something
+  nature be?
+  I have to find the sword soon and return
+  to my wife, Sorelia, at Lakeside Stable.
+0001: |
+  Legendary sword?
+Talk_0012: |
+  <3 Type='0' Data='0701'/>Please, forgive me. I went to great trouble
+  to learn about the <0 Type='3' Data='0000'/>legendary sword<0 Type='3' Data='ffff'/> that
+  can defeat any monster.
+  If I sounded unwelcoming in the slightest,
+  it's only because I find myself on a
+  personal journey of some urgency.
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>I must protect my dear wife, Sorelia, from
+  any and all harm.
+  
+  To do that, I must find that sword in the
+  <0 Type='3' Data='0000'/>something-something woods<0 Type='3' Data='ffff'/> soon. Only
+  then may I return to my wife's side!
+Talk_0060: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0a005400680069006e006b00'/>I've been so focused on searching for the
+  <0 Type='3' Data='0000'/>legendary sword<0 Type='3' Data='ffff'/> that I've neglected to
+  find my way to a proper bath in a while.
+  So, this rain is good for washing away
+  the sweat...<5 Type='1'/> Quite nice, really.
+Talk_0073: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Ah! The lady with the <0 Type='3' Data='0000'/>legendary sword<0 Type='3' Data='ffff'/>!
+0002: |
+  I couldn't hear a thing.
+Talk_0013: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>Ah, I shared more than I should have. But
+  I needn't fear. It...doesn't seem like a
+  <0 Type='3' Data='0000'/>legendary sword<0 Type='3' Data='ffff'/> is part of your destiny.
+Talk_0061: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>What fine weather, perfect for searching
+  the land for the <0 Type='3' Data='0000'/>legendary sword<0 Type='3' Data='ffff'/>.
+Talk_0074: |
+  <3 Type='0' Data='0700'/>Nice weather, eh? Perfect for finding a
+  <0 Type='3' Data='0000'/>legendary sword<0 Type='3' Data='ffff'/> replacement.
+Talk_0001: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/><FontSize Value='80'/>So, if I gather my thoughts, what I know is this...
+  
+  
+  The <0 Type='3' Data='0000'/>legendary sword<0 Type='3' Data='ffff'/> is more than fable and far
+  closer to fact.
+  
+  Can it truly defeat any monster? Does it truly exist
+  in Hyrule? Yes and yes.
+  
+  And it's highly likely to be found in the
+  <0 Type='3' Data='0000'/>something-something woods<0 Type='3' Data='ffff'/>.<FontSize Value='100'/>
+0003: |
+  That's right.
+Talk_0002: |
+  <4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Huh?
+Talk_0050: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>What? <5 Type='0'/>Th-that sword!
+  
+  
+  Could it be...the <0 Type='3' Data='0000'/>legendary sword<0 Type='3' Data='ffff'/>?
+Talk_0003: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Ha, well... <5 Type='0'/>You heard. I thought as much.<5 Type='0'/>
+  But I have nothing to fear.
+  
+  I stand comforted that only the chosen
+  one can wield the <0 Type='3' Data='0000'/>legendary sword <0 Type='3' Data='ffff'/>that
+  defeats any monster.
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>The chosen one isn't an eavesdropper.
+  He is an eave that is perfectly fine with
+  being dropped in on. Me, I mean.
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Ah, let me share this openly... <5 Type='0'/>Some
+  days ago, I bid farewell to my dear wife,
+  Sorelia, to set out from Lakeside Stable.
+  I find myself now at this stable, but the
+  <0 Type='3' Data='0000'/>something-something woods<0 Type='3' Data='ffff'/> that I
+  seek is still far away.
+  <3 Type='0' Data='0901'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>So, forgive me if I have no more time
+  for eavesdroppers. I have to find the
+  legendary sword to protect my dear wife.
+Ballon_0001: |
+  My dear, dear wife...
+Talk_0051: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/>Ah, no. But it can't be. Y-you're
+  joking, right?
+  
+  <0 Type='3' Data='0200'/><FontSize Value='80'/>But...<5 Type='0'/>uh...<5 Type='0'/>is it?<5 Type='0'/> It is.<5 Type='0'/> The sword of legend.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+  
+  
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003000'/>I... <0 Type='3' Data='0200'/><FontSize Value='80'/><5 Type='0'/><FontSize Value='100'/><0 Type='3' Data='ffff'/>I see...<0 Type='3' Data='0200'/><FontSize Value='80'/><5 Type='0'/><FontSize Value='100'/><0 Type='3' Data='ffff'/> So, you got to it first.
+  
+  
+  And the fact that you're wielding
+  the sword means that YOU are the
+  chosen one.
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>All right, then!<5 Type='0'/> Let it be known that you
+  are an important person, <5 Type='0'/>because the
+  legendary sword protects such persons!
+  Now, I must protect my important wife,
+  Sorelia!<5 Type='0'/> I vow to get a worthy weapon in
+  place of the legendary sword!
+Talk_0004: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>Ah! Not a word of it? Well then...
+  
+  
+  <3 Type='0' Data='0701'/>Please, forgive me. I went to great trouble
+  to learn about the <0 Type='3' Data='0000'/>legendary sword<0 Type='3' Data='ffff'/> that
+  can defeat any monster.
+  If I sounded unwelcoming, it's only
+  because I find myself on a personal
+  journey of some urgency.
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Ah, here is my story...<5 Type='0'/> Some days ago,
+  I bid farewell to my dear wife, Sorelia, to
+  set out from Lakeside Stable.
+  I finally reached this stable, but I seek the
+  <0 Type='3' Data='0000'/>something-something woods <0 Type='3' Data='ffff'/>that are
+  still far away.
+  <3 Type='0' Data='0900'/><4 Type='0' Data='180057006f0072006b00480065006100760079005f0030003100'/>I must find this legendary sword!<5 Type='1'/> I must
+  protect my dear wife from all danger!
+0006: |
+  Goodbye.
+Talk_0052: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003000'/>Ah... <5 Type='0'/>I imagine that Sorelia is all alone,
+  waiting for my return.
+  
+  I must find the legendary sword and
+  return to her side as soon as I can.
+Talk_0005: |
+  <3 Type='0' Data='0b00'/>Tell me, you. How long have you
+  been there?
+  
+  You didn't happen to...<5 Type='0'/>overhear what
+  I was just saying, did you?
+Talk_0053: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>You were the one to be entrusted with
+  the legendary sword!<5 Type='0'/> That sword protects
+  important people.
+  So, I will be the one to protect my
+  important wife, Sorelia!<5 Type='0'/> I vow to get a
+  weapon in place of the legendary sword!
