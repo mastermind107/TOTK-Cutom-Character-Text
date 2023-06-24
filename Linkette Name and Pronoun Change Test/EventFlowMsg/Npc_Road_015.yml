@@ -1,0 +1,248 @@
+Near_StartPoint_01: |
+  Gonna sell, sell, sell!
+Com_Talk_11_d: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Much obliged!<5 Type='0'/> Thanks!
+Atacked01: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>You!<5 Type='0'/> I need your help again!<5 Type='0'/> Please!
+0001: |
+  I'm buying.
+0002: |
+  I'm selling.
+SavedLv3_00: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='08004500610073006500'/>*sigh* <5 Type='0'/>Thanks. <5 Type='1'/>Something reaaal bad
+  almost happened there!
+StartPoint_01: |
+  <3 Type='0' Data='0000'/>If you follow the coast <0 Type='3' Data='0000'/>southwest<0 Type='3' Data='ffff'/>, you'll
+  arrive at my hometown, <0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/>.
+0003: |
+  Goodbye.
+SavedLv3_01: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/>That was killer! <5 Type='1'/>Literally!
+StartPoint_02: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>But I hear the village is in trouble.
+  It's been taken over by pirates.<0 Type='4'/>I've thought about going back and trying
+  to do something...<5 Type='0'/>but I don't know the
+  first thing about using a sword.
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Now, using a fishing net's a different
+  story. Nobody can toss a net better
+  than me.
+  There's no better proof of that than the
+  fish I'm selling. All freshly caught!
+BadWeather_01: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>This weather can really bring you down...
+  
+  
+  <3 Type='0' Data='0101'/>Fortunately, my freshly caught fish will
+  perk you right back up!
+SavedLv2_00: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='08004500610073006500'/>Phew!<5 Type='0'/> Nice one.<5 Type='1'/> Guess I should've known
+  you'd pull it off.
+StartPoint_03: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>But I hear the village is still recovering
+  from the recent pirate takeover.<0 Type='4'/>I've thought about going back and trying
+  to help out...<5 Type='0'/>but I don't know the first
+  thing about using a hammer.
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Now, using a fishing net's a different
+  story. Nobody can toss a net better
+  than me.
+  There's no better proof of that than the
+  fish I'm selling. All freshly caught!
+Com_Talk_30: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>How many will you buy?
+SavedLv2_01: |
+  <3 Type='0' Data='0800'/>You took care of the monsters? How?<5 Type='0'/>
+  I mean, wow!
+StartPoint_04: |
+  Between the pirate attack and recovering
+  from the pirate attack, things were a
+  little rocky over there for a while.
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>But thanks to some guy everyone's calling
+  "the savior of the village," the place is
+  happier and more peaceful than ever.
+  <4 Type='0' Data='0c004c0061007500670068005300'/>Now I can catch and sell fish here in
+  Hateno with a clear conscience!
+Com_Talk_31: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>So...<2 Type='2' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> comes to <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. OK?
+SavedLv1_00: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='08004500610073006500'/>*sigh* <5 Type='0'/>You saved my life. <5 Type='0'/>You really are
+  something, you know that?
+StartPoint_05: |
+  <3 Type='0' Data='0100'/>But I haven't been back in a while. I'm
+  too darn happy selling my wares here!
+Com_Talk_05b: |
+  <3 Type='0' Data='0100'/>I owe you one, so I'll give you a
+  good deal.
+Com_Talk_32: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>One? That'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>, all right?
+SavedLv1_01: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='08004500610073006500'/>That's a relief.<5 Type='0'/> Even the easy monsters
+  freak me out.
+StartPoint_06: |
+  <3 Type='0' Data='0300'/>I hear it's been in a bad way ever since
+  the pirates attacked.<0 Type='4'/>But I found purpose here, so I haven't
+  been back.
+Com_Talk_05c: |
+  <3 Type='0' Data='0000'/>Anything you want to sell? Don't be shy!
+Com_Talk_33: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>One? That'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>, all right?
+ShopGreet_00: |
+  <3 Type='0' Data='0800'/>Take a look at the fish I caught. I'm so
+  proud of every last one of 'em!
+Com_Talk_05d: |
+  <3 Type='0' Data='0100'/>C'mon, sell me stuff!
+Com_Talk_34: |
+  <3 Type='0' Data='0b01'/>All of them?!<5 Type='0'/><0 Type='4'/><2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them would be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>...
+  You sure?
+Com_Talk_35: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0b01'/><0 Type='3' Data='ffff'/>A-all <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them?!<5 Type='1'/> I could give you
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>... But are you sure?
+Com_Talk_36: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/>Wow, I'm all sold out! <5 Type='0'/>Guess I'd better
+  go catch more! <5 Type='0'/>Ha!
+Com_Talk_37: |
+  <3 Type='0' Data='0800'/>Well, I'm completely sold out! <5 Type='0'/>You're
+  officially the customer of my dreams.
+  
+  <3 Type='0' Data='0101'/>I'll catch more fish. In the meantime,
+  would you like to take a look at my
+  inventory list?
+Greeting: |
+  <3 Type='0' Data='0800'/>Heya!<5 Type='0'/> Seems like you do a lotta traveling.
+  You are makin' sure to stop by your
+  hometown now and then, right?
+Guardian00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0a0053006300610072006500'/>That is one scary monster. <5 Type='0'/>Be careful, pal!
+5500: |
+  Yes.
+5501: |
+  No.
+Near_BackRange_01: |
+  Fresh off the hook!
+Com_Talk_00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>What do you want to sell me?
+5502: |
+  Deal.
+Near_Thunder: |
+  Can't fish in this...
+Near_BackRange_02: |
+  This is the place for me.
+Com_Talk_01: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><0 Type='3' Data='ffff'/>I'll give you <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>, OK?
+5503: |
+  Never mind.
+ShopTalk_01: |
+  <3 Type='0' Data='0101'/>Do you need anything else?
+Com_Talk_02: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Thanks! Anything else you want to sell?
+Com_Talk_02b: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Thanks!
+Near_GoalPoint_01: |
+  Fish for sale!
+Com_Talk_02c: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>That's most kind! Thanks!
+FriendGreet_00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/><FontSize Value='125'/>Whoa!<FontSize Value='100'/>
+  
+  
+  It's the girl who got me outta that cave!<0 Type='4'/><3 Type='0' Data='0800'/>Thanks!<5 Type='0'/> You're the reason I'm back
+  sellin' my wares in the open air.<5 Type='0'/><0 Type='4'/>And guess what? I'm catchin' my own
+  now! No more sellin' secondhand fish
+  for me.
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>This is my first catch of many. Soon,
+  people from all over will be eatin' my fish!
+Com_Talk_02d: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>I'd call that a fair trade. Thanks!
+Com_Talk_04: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a005400680069006e006b00'/>That's all right. Think it over.
+EnokidaSignboard: |
+  Hudson Construction?
+Com_Talk_05: |
+  <3 Type='0' Data='0100'/>I'm always lookin' for a deal!
+5507: |
+  I'll take 'em all!
+Thanks00: |
+  <3 Type='0' Data='0101'/>Here's a reward. <5 Type='0'/>Come on, don't be
+  modest. You earned it.
+ShopGreet_01_2: |
+  <3 Type='0' Data='0101'/>You're gonna wanna buy my fish!
+Com_Talk_06: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Is there anything else you want?
+5508: |
+  All of them.
+ShopGreet_01_3: |
+  <3 Type='0' Data='0800'/>If you like fish, you'll love mine! I've got
+  the finest around!
+  
+  I also have <0 Type='3' Data='0000'/>cheese <0 Type='3' Data='ffff'/>from <0 Type='3' Data='0000'/>Hateno Village<0 Type='3' Data='ffff'/>
+  that's all the rage right now!
+Com_Talk_07: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>Oh...<5 Type='0'/> Sorry, pal.<5 Type='0'/> I'm all out of that.
+ShopGoodBye_01: |
+  <3 Type='0' Data='0700'/>Gotcha. Come back soon!
+Com_Talk_08: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Um...<5 Type='0'/> You don't have enough rupees.<5 Type='0'/>
+  Sorry, but I can't go any lower.
+Com_Talk_09: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>Looks like your pouch is full.<5 Type='0'/> Come back
+  when you've made some room.
+Com_Talk_10: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>You want to buy that?
+Com_Talk_11: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Thanks!
+Com_Talk_12: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Take a nice, long look! <5 Type='0'/>You ever seen
+  prettier fish than these?
+Com_Talk_13: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>How many do you want to sell?
+Com_Talk_14: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>I'll buy <2 Type='2' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> for <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>, OK?
+Near_Rain: |
+  I'll fish after the rain stops.
+Com_Talk_15: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0a005400680069006e006b00'/>Ahhh...<5 Type='0'/> Sorry, pal.<5 Type='0'/> I can't buy that.
+Greeting_00: |
+  <3 Type='0' Data='0800'/>Hey!<5 Type='0'/> Look at ya, soaked to your bones
+  like a proper, rugged fisherman!<0 Type='4'/>But even the toughest fishermen return to
+  their home port. You are makin' sure to
+  visit your hometown now and then, right?
+Com_Talk_16: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>You're wearing that.<5 Type='0'/> Could you sell it to
+  me after you've taken it off?
+Greeting_01: |
+  <3 Type='0' Data='0800'/>Hey there!<5 Type='0'/> You takin' in the beautiful
+  sights of Hateno Village?
+Greeting_02: |
+  <3 Type='0' Data='0800'/>Hey!<5 Type='0'/> Look at ya, soaked to your bones
+  like a proper, rugged fisherman!
+GoalPoint_01_2: |
+  <3 Type='0' Data='0800'/>You owe it to yourself to buy my fish. Hey,
+  buy some for everyone in Hateno Village!
+Near_GoRange_01: |
+  Peace of mind is important.
+FriendGreet_02_00: |
+  I've decided to do business in Hateno
+  Village up on the hill. All the Cece
+  excitement has the place bustling.
+Near_GoRange_02: |
+  ♪Fish, fish, tasty fish!♪
+Com_Talk_20: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Rain or shine, my fish are always fresh!<5 Type='0'/>
+  Smell for yourself!
+Com_Talk_11_b: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Thanks much!
+FriendGreet_01_00: |
+  I've decided to do business in Hateno
+  Village. With everyone going gaga over
+  Cece, the place is bustling.
+GoalPoint_01: |
+  <3 Type='0' Data='0700'/>Just when I finally get used to riding a
+  horse, I've gotta do this brutal climb
+  up to Hateno Village.
+  But imagining all the people there stuffing
+  their faces with my freshly caught fish
+  helps me push through the exhaustion!
+Com_Talk_11_c: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Customers like you make my job
+  a pleasure!
+Atacked00: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0a0053006300610072006500'/>Aieee!<5 Type='0'/> Heeelp!

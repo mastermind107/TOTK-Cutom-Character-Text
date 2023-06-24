@@ -82,7 +82,7 @@ Com_Photo_02: |
 9003: |
   I'm not showing you.
 Talk1001: |
-  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Ah! Sir! <5 Type='0'/>You can't just take things from
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Ah! Madam! <5 Type='0'/>You can't just take things from
   the stable as you please!
   
   <3 Type='0' Data='0001'/>That decoration there is kind of lucky
@@ -103,7 +103,7 @@ Com_Photo_03: |
   <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>It's supposed to be absolutely
   enchanting to look at.
 Talk1002: |
-  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Ah! Sir! <5 Type='0'/>I told you, you can't just take
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Ah! Madam! <5 Type='0'/>I told you, you can't just take
   things from our stable!
   
   <3 Type='0' Data='0a01'/>If you want your own, you'll just have to

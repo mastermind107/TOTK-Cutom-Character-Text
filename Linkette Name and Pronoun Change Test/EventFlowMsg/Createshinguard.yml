@@ -5,7 +5,7 @@ Createshinguard_1040: |
   <3 Type='0' Data='0a00'/><4 Type='0' Data='1000530063006100720065005f0030003000'/>I... Eek!
   
   
-  <FontSize Value='80'/>H-help me, Sir Linkette...<FontSize Value='100'/>
+  <FontSize Value='80'/>H-help me, Madam Linkette...<FontSize Value='100'/>
 Createshinguard_1055: |
   <3 Type='0' Data='0b00'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>You mean to say...<5 Type='0'/> You already found it?
   
@@ -25,7 +25,7 @@ Createshinguard_1100: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>You witnessed something unseemly.<5 Type='1'/>
   Worry not, I intend to give Chroma a
   stern warning.
-  Sir Linkette...<5 Type='1'/> If you so please, will you speak
+  Madam Linkette...<5 Type='1'/> If you so please, will you speak
   with <0 Type='3' Data='0000'/>Queen<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>Yona<0 Type='3' Data='ffff'/>?
   
   Helm aside, <0 Type='3' Data='0000'/>Queen Yona<0 Type='3' Data='ffff'/> is earnestly
@@ -38,14 +38,14 @@ Createshinguard_1045: |
   
   
   Queen Yona originally intended to search
-  for Sir Linkette's <0 Type='3' Data='0000'/>Zora helm<0 Type='3' Data='ffff'/> herself to present
+  for Madam Linkette's <0 Type='3' Data='0000'/>Zora helm<0 Type='3' Data='ffff'/> herself to present
   to him in gratitude.
   But someone insisted that she hand off
   the task. "Leave it to me," that Zora said.
   Who was it? Was it not...<5 Type='1'/>you, Chroma?
   <3 Type='0' Data='0700'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Look... I understand being moved by
   Queen Yona's kind spirit and the domain's
-  gratitude for Sir Linkette.
+  gratitude for Madam Linkette.
   In truth, I have full faith in you and your
   own kind spirit. That is why I am so hard
   on you.
@@ -55,7 +55,7 @@ Createshinguard_1101: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>You witnessed something unseemly...<5 Type='1'/>
   Worry not, I intend to give Chroma a
   stern warning.
-  Sir Linkette...<5 Type='1'/> If you so please, will you speak
+  Madam Linkette...<5 Type='1'/> If you so please, will you speak
   with <0 Type='3' Data='0000'/>Queen<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>Yona<0 Type='3' Data='ffff'/>?
   
   Helm aside, <0 Type='3' Data='0000'/>Queen<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>Yona<0 Type='3' Data='ffff'/> is earnestly
@@ -73,7 +73,7 @@ Createshinguard_1055_01: |
   overlooking something...
 Createshinguard_1081: |
   <3 Type='0' Data='0201'/>This was intended to be our opportunity
-  to honor Sir Linkette for his contributions.
+  to honor Madam Linkette for his contributions.
   Instead, we caused trouble for him.
   <4 Type='0' Data='100041006e006700720079005f0030003000'/>We have much to be sorry for! And yet...<5 Type='1'/>
   There it is. That inexplicable smirk upon
@@ -104,12 +104,12 @@ Createshinguard_1070: |
   To think that it was hidden in the floating
   fish-shaped island...
 Createshinguard_1010: |
-  <FontSize Value='80'/><3 Type='0' Data='0401'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Hm?<5 Type='1'/> Ah!<5 Type='1'/> Sir Linkette!<FontSize Value='100'/>
+  <FontSize Value='80'/><3 Type='0' Data='0401'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Hm?<5 Type='1'/> Ah!<5 Type='1'/> Madam Linkette!<FontSize Value='100'/>
 Createshinguard_1070_01: |
   <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Wait a moment...<5 Type='0'/> Huh?!<5 Type='1'/>
   
   
-  Sir Linkette! That thing upon your head...<5 Type='0'/>
+  Madam Linkette! That thing upon your head...<5 Type='0'/>
   Is that not the <0 Type='3' Data='0000'/>Zora helm<0 Type='3' Data='ffff'/>?!
 Createshinguard_1085: |
   <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>No...<5 Type='1'/> It cannot be! I was so sure the
@@ -119,7 +119,7 @@ Createshinguard_1025: |
   lack of progress in the tasks you have
   been entrusted with!
   The <0 Type='3' Data='0000'/>Zora helm<0 Type='3' Data='ffff'/> we are to present to
-  Sir Linkette seems to be <0 Type='3' Data='0000'/>stored in a sky fish<0 Type='3' Data='ffff'/>...
+  Madam Linkette seems to be <0 Type='3' Data='0000'/>stored in a sky fish<0 Type='3' Data='ffff'/>...
   
   <4 Type='0' Data='100041006e006700720079005f0030003100'/>Queen Yona kindly provided you with that
   helpful information, yet you have done
@@ -130,7 +130,7 @@ Createshinguard_1060: |
   
   That means the information Queen Yona
   found is the only key we have to repaying
-  our immense debt to Sir Linkette...
+  our immense debt to Madam Linkette...
 Createshinguard_1070_02: |
   <3 Type='0' Data='0c00'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>To think it was hidden on a fish-shaped
   island floating up in the sky...
@@ -145,13 +145,13 @@ Createshinguard_1075: |
   <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>So! The Zora helm was up in the sky!<5 Type='0'/>
   Meaning it was impossible for us to find
   it from the start.
-  Thanks to you, Sir Linkette, our goal was
+  Thanks to you, Madam Linkette, our goal was
   achieved, same as though we had
   retrieved the helm for you ourselves.
   Perhaps this means that Khira's lengthy
   lectures will finally come to an end...
 Createshinguard_1015: |
-  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Oh!<5 Type='1'/> Sir Linkette!<5 Type='1'/> Wherever are my manners?
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Oh!<5 Type='1'/> Madam Linkette!<5 Type='1'/> Wherever are my manners?
   
   
   I was not quick to notice you had graced
@@ -166,5 +166,5 @@ Createshinguard_1050: |
   <4 Type='0' Data='10005400680069006e006b005f0030003000'/>Hmm...<5 Type='1'/> <0 Type='3' Data='0000'/>Sky fish<0 Type='3' Data='ffff'/>...<5 Type='1'/> Fish...<5 Type='0'/> F-I-S-H...<5 Type='1'/> Oof, all of this
   fish talk is making me famished.<FontSize Value='100'/>
 Createshinguard_1065: |
-  <3 Type='0' Data='0b00'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Ah!<5 Type='0'/> It is you! <5 Type='0'/>Sir Linkette!<5 Type='0'/> Is there something
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Ah!<5 Type='0'/> It is you! <5 Type='0'/>Madam Linkette!<5 Type='0'/> Is there something
   we can help you with?

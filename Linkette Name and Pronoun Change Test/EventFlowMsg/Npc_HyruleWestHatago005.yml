@@ -92,7 +92,7 @@ Talk9018: |
 7011: |
   What's a Malanya bed?
 DoNotWakka_01: |
-  <3 Type='0' Data='0700'/>Admiring that decoration, sir?
+  <3 Type='0' Data='0700'/>Admiring that decoration, madam?
   
   
   That's a ring garland! <5 Type='0'/>Real popular item.
@@ -631,7 +631,7 @@ Talk8067: |
 7005: |
   Malanya bed.
 BurnedWakka_Common01: |
-  <3 Type='0' Data='0b00'/>Hey! <5 Type='0'/>Sir!<5 Type='0'/> Please don't mess around with
+  <3 Type='0' Data='0b00'/>Hey! <5 Type='0'/>Madam!<5 Type='0'/> Please don't mess around with
   our ring garland!
   
   It's a treasured, flowery decoration!
@@ -640,7 +640,7 @@ BurnedWakka_Common01: |
 Talk8068: |
   <3 Type='0' Data='0801'/>You get <0 Type='3' Data='0000'/>two Pony Points<0 Type='3' Data='ffff'/>!
 BurnedWakka_Common02: |
-  <3 Type='0' Data='0b00'/>Sir!<5 Type='0'/> I believe I asked you NOT to mess
+  <3 Type='0' Data='0b00'/>Madam!<5 Type='0'/> I believe I asked you NOT to mess
   with that garland!
 Talk8069: |
   <3 Type='0' Data='0800'/>Welcome to the <0 Type='3' Data='0000'/>stable<0 Type='3' Data='ffff'/>.<5 Type='0'/> Do you want to

@@ -14,7 +14,7 @@ CreateArmor_08: |
 0001: |
   Ancient Waterworks?
 CreateArmor_48: |
-  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Sir Linkette. I shall never forget all that you
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Madam Linkette. I shall never forget all that you
   have done for us Zora, not for the rest
   of my days.
   Please do not be a stranger to our
@@ -37,18 +37,18 @@ CreateArmor_08_01: |
   I wonder where in the waterworks the
   Zora greaves were offered...
 CreateArmor_20: |
-  <3 Type='0' Data='0d00'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Oh, Sir Linkette!<5 Type='1'/> Thank you for stopping by!
+  <3 Type='0' Data='0d00'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Oh, Madam Linkette!<5 Type='1'/> Thank you for stopping by!
   
   
   <3 Type='0' Data='0001'/>As it were, I have still not located the
   Zora greaves...
 CreateArmor_40: |
-  <3 Type='0' Data='0000'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh, Sir Linkette!<5 Type='0'/> About the Zora greaves...
+  <3 Type='0' Data='0000'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh, Madam Linkette!<5 Type='0'/> About the Zora greaves...
 CreateArmor_40_01: |
-  <3 Type='0' Data='0000'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh, Sir Linkette!<0 Type='4'/><3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Just a moment.<5 Type='0'/> What is that upon your
+  <3 Type='0' Data='0000'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh, Madam Linkette!<0 Type='4'/><3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Just a moment.<5 Type='0'/> What is that upon your
   feet? Could those be...<5 Type='1'/>the Zora greaves?!
 CreateArmor_01: |
-  <3 Type='0' Data='0d01'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Oh, Sir Linkette!<5 Type='1'/> Thank you ever so much for
+  <3 Type='0' Data='0d01'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Oh, Madam Linkette!<5 Type='1'/> Thank you ever so much for
   your noble efforts.
   
   <3 Type='0' Data='0701'/>I have been earnestly pondering what
@@ -58,7 +58,7 @@ CreateArmor_02: |
   <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Hm?<5 Type='1'/> You have already found it?!
   
   
-  <3 Type='0' Data='0100'/>Hee-hee!<5 Type='1'/> Oh, Sir Linkette, I am truly no
+  <3 Type='0' Data='0100'/>Hee-hee!<5 Type='1'/> Oh, Madam Linkette, I am truly no
   match for you!
 CreateArmor_22: |
   <3 Type='0' Data='0701'/><4 Type='0' Data='0a005400680069006e006b00'/>It is said that those who wear the
@@ -97,7 +97,7 @@ CreateArmor_44: |
   And the Zora greaves were at the bottom
   of that big hole. <5 Type='1'/>Extraordinary!<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>After all that my Sidon has told me,
   I can safely say that it is so like you
-  to find them on your own, Sir Linkette!
+  to find them on your own, Madam Linkette!
 CreateArmor_44_2: |
   May they prove useful to you during your
   noble travels.
@@ -116,7 +116,7 @@ CreateArmor_02_01: |
   
   <3 Type='0' Data='0100'/>Hee-hee!<5 Type='1'/> To think that after all of my
   fretting, you already found them. I am
-  truly no match for you, Sir Linkette!
+  truly no match for you, Madam Linkette!
 CreateArmor_05: |
   <3 Type='0' Data='0c00'/>It seems the <0 Type='3' Data='0000'/>Zora greaves <0 Type='3' Data='ffff'/>were offered at
   the <0 Type='3' Data='0000'/>Ancient Zora Waterworks<0 Type='3' Data='ffff'/> at the
@@ -125,7 +125,7 @@ CreateArmor_05: |
   If that is correct, I wonder where in the
   waterworks the greaves were offered...
 CreateArmor_06: |
-  <3 Type='0' Data='0d01'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Sir Linkette!
+  <3 Type='0' Data='0d01'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Madam Linkette!
   
   
   I am overjoyed that your precious
@@ -142,14 +142,14 @@ CreateArmor_46: |
   
   Whenever my dear Sidon opens his
   mouth, chances are it is to speak of
-  you, Sir Linkette.
+  you, Madam Linkette.
   <4 Type='0' Data='1000480061007000700079005f0030003000'/>He'll say things like, "Linkette is the best!"
   And also, "No task is insurmountable
   when I am with Linkette!"
   I feel a bit silly telling you this, but after
   all that has transpired, I truly understand
   how he came to feel that way.
-  Sir Linkette... Thank you. So very much. That
+  Madam Linkette... Thank you. So very much. That
   he has found a true companion in you
   makes me as happy as it does him.
   <3 Type='0' Data='0d00'/><4 Type='0' Data='0c004c0061007500670068005300'/>Zora's Domain will always be with you,
@@ -164,11 +164,11 @@ CreateArmor_47: |
   tell you...
   
   <3 Type='0' Data='0100'/>I asked <0 Type='3' Data='0000'/>Chroma<0 Type='3' Data='ffff'/> and <0 Type='3' Data='0000'/>Khira<0 Type='3' Data='ffff'/> to try to find
-  some way to assist you, Sir Linkette.
+  some way to assist you, Madam Linkette.
   
   They are now investigating something
   additional to the Zora greaves...
   the <0 Type='3' Data='0000'/>Zora helm<0 Type='3' Data='ffff'/>.
   <3 Type='0' Data='0100'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>I am certain that the helm will also prove
-  useful to you on your journey, Sir Linkette.<5 Type='1'/>
+  useful to you on your journey, Madam Linkette.<5 Type='1'/>
   I hope you will speak with them about it.

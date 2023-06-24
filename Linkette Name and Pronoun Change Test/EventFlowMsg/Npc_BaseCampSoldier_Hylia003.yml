@@ -22,7 +22,7 @@ Talk_23: |
   <3 Type='0' Data='0b00'/><4 Type='0' Data='26005100750065007300740069006f006e00530075007200700072006900730065005f0030003100'/>Huh? <5 Type='1'/>L-L-<5 Type='0'/>Linkette?!<0 Type='4'/>Is that really you?<0 Type='4'/><3 Type='0' Data='0a01'/>I heard you had returned, but, well, I was
   too shy to try talking to you... <5 Type='1'/>Oh!
 Talk_24: |
-  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Linkette, sir! You're in the newspaper!<0 Type='4'/>The shadowy hero who pulled Rito Village
+  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Linkette, Madam! You're in the newspaper!<0 Type='4'/>The shadowy hero who pulled Rito Village
   from the brink of oblivion...<0 Type='4'/>Kiimo over in the <0 Type='3' Data='0000'/>emergency shelter<0 Type='3' Data='ffff'/>
   reads the <0 Type='3' Data='0000'/>newspaper <0 Type='3' Data='ffff'/>every single day.
   He showed me the article.
@@ -42,7 +42,7 @@ Talk_10: |
   Go find <0 Type='3' Data='0000'/>Purah<0 Type='3' Data='ffff'/>!<0 Type='4'/>I think she's in the <0 Type='3' Data='0000'/>research lab<0 Type='3' Data='ffff'/>. That's
   located in the <0 Type='3' Data='0000'/>building with the telescope<0 Type='3' Data='ffff'/>!
 BlackZelda_01: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Sir, you're back!<0 Type='4'/>Did you hear the latest? It sounds like
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Madam, you're back!<0 Type='4'/>Did you hear the latest? It sounds like
   Princess Zelda might be in Hyrule Castle.
   
   I don't usually put stock in rumors, but
@@ -97,7 +97,7 @@ TerrorArrow: |
 Near_01: |
   Huh?
 Talk_00: |
-  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='26005100750065007300740069006f006e00530075007200700072006900730065005f0030003100'/>Linkette, sir? Is that you?<0 Type='4'/>It is, isn't it?!<FontSize Value='100'/><0 Type='4'/><3 Type='0' Data='0b01'/><FontSize Value='125'/>Wh-where have you been?!<FontSize Value='100'/>
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='26005100750065007300740069006f006e00530075007200700072006900730065005f0030003100'/>Linkette, Madam? Is that you?<0 Type='4'/>It is, isn't it?!<FontSize Value='100'/><0 Type='4'/><3 Type='0' Data='0b01'/><FontSize Value='125'/>Wh-where have you been?!<FontSize Value='100'/>
 Talk_18: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>On rainy days like this, I like to kick back
   and read the <0 Type='3' Data='0000'/>newspaper<0 Type='3' Data='ffff'/>. You read today's

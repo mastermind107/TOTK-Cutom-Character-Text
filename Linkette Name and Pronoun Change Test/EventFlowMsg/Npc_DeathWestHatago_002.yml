@@ -27,7 +27,7 @@ Com_Photo_04: |
   <3 Type='0' Data='0b01'/><4 Type='0' Data='26005100750065007300740069006f006e00530075007200700072006900730065005f0030003100'/>What?!<5 Type='0'/> You have a <0 Type='3' Data='0000'/>picture of a
   Goron soaking in hot springs<0 Type='3' Data='ffff'/>?
 DoNotWakka_01: |
-  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Sir! Sir! That bit of decoration is a
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Madam! Madam! That bit of decoration is a
   beloved fixture here at the stable.
   You must not remove it!
   It was made in a place far to the south of
@@ -49,7 +49,7 @@ Com_Photo_05: |
   me.<5 Type='0'/> I could paint a copy of it, easy as
   can be.
 DoNotWakka_02: |
-  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Sir! Please! I'm telling you that's the
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Madam! Please! I'm telling you that's the
   stable's good-luck charm! You simply
   can't take it!
   If you find it so desirable, go get

@@ -41,7 +41,7 @@ Talk0001: |
   the road, turn to the west, and then take
   the mountain path from Woodland Stable.
 DoNotWakka_01: |
-  <3 Type='0' Data='0701'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Sir, has that caught your eye?<5 Type='0'/> Attractive,
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Madam, has that caught your eye?<5 Type='0'/> Attractive,
   isn't it?<5 Type='0'/> It's called a <0 Type='3' Data='0000'/>ring garland<0 Type='3' Data='ffff'/>.
   
   They're sold in a place called <0 Type='3' Data='0000'/>Kakariko
@@ -64,7 +64,7 @@ Com_Photo_05: |
   I'm certain I could do up a painting, quick
   and easy.
 DoNotWakka_02: |
-  <3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Sir! Please!<5 Type='0'/> Just because you want it
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Madam! Please!<5 Type='0'/> Just because you want it
   doesn't mean you can just up and
   take it like that.
   <3 Type='0' Data='0701'/>They're sold in a place called <0 Type='3' Data='0000'/>Kakariko

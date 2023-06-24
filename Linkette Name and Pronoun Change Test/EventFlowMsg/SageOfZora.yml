@@ -60,7 +60,7 @@ DividedSlate_Ready04: |
 talk0017: |
   <3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003000'/>Ugh... <5 Type='0'/>Can't we play something else?
 Yona_14: |
-  <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Good morning, Sir Linkette! Can I help you
+  <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Good morning, Madam Linkette! Can I help you
   with something?
 talk0018: |
   <3 Type='0' Data='0601'/><4 Type='0' Data='0e0057006f0072006b005f0030003100'/>King Dorephan Super Punch! AND Super
@@ -169,7 +169,7 @@ talk0031: |
   was at our disposal.
 Hifumi_NakedPlayer: |
   <3 Type='0' Data='0700'/>It seems Lady Yona has some welcome
-  news for you, Sir Linkette...naked though you
+  news for you, Madam Linkette...naked though you
   may be. Ahem...
   Please do robe yourself and speak
   with her.
@@ -222,7 +222,7 @@ FindDrefan_Complete01: |
   waterfall!<5 Type='0'/> And, also, that's where
   King Dorephan is!
 Yona_30: |
-  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>However, with your great skill, Sir Linkette,
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>However, with your great skill, Madam Linkette,
   I am certain you will find a way up that
   waterfall, clouded though it is.
 talk0034: |
@@ -385,7 +385,7 @@ talk0039: |
   have become ill due to the sludge.
   
   <3 Type='0' Data='0c01'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Ah! By the way, Lady Yona had mentioned
-  that she may be able to help you, Sir Linkette.
+  that she may be able to help you, Madam Linkette.
   
   I wonder what she meant by that.
 FindDrefan_Complete07: |
@@ -455,7 +455,7 @@ GoToLake_Yona_01: |
   THAT is the Sidon I know!
   
   
-  <3 Type='0' Data='0d01'/>Sir Linkette, please take good care of him,
+  <3 Type='0' Data='0d01'/>Madam Linkette, please take good care of him,
   as I know you always do.
 talk0054: |
   <3 Type='0' Data='0701'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>That's right! You hear that, mister?
@@ -467,12 +467,12 @@ GoToLake_Yona_02: |
   <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>That is the Sidon I know!
   
   
-  Sir Linkette, please take good care of him,
+  Madam Linkette, please take good care of him,
   as I know you always do.
 talk0055: |
   <3 Type='0' Data='0001'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>No way! I forbid it!
 GoToLake_Yona_03: |
-  <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh! Sir Linkette! There is something I was
+  <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh! Madam Linkette! There is something I was
   hoping to speak with you about.
   
   It is about an item of yours that you
@@ -493,7 +493,7 @@ GoToLake_Yona_03: |
   Hmm... <5 Type='0'/>Since they are used for making
   armor, Dento the blacksmith may know
   something about how to get one.
-  <3 Type='0' Data='0000'/>If you locate one, Sir Linkette, please bring it
+  <3 Type='0' Data='0000'/>If you locate one, Madam Linkette, please bring it
   to me. Do so, and I shall fix your precious
   item at once and return it to your care!
   <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>As you well know, the Zora armor allows
@@ -537,7 +537,7 @@ GoToLake_Yona_05: |
   <3 Type='0' Data='0000'/>Hmm... <5 Type='0'/>Since they are used for making
   armor, Dento the blacksmith may know
   something about how to get one.
-  <3 Type='0' Data='0100'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>If you locate one, Sir Linkette, please bring it
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>If you locate one, Madam Linkette, please bring it
   to me. Do so, and I shall fix your precious
   item at once and return it to your care!
   As you well know, the Zora armor allows
@@ -741,7 +741,7 @@ MeetParkShido_Yona_02: |
   highest mountain in the area...<5 Type='0'/> The one
   known as Ploymus Mountain.
   <3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068005300'/>Hee-hee... <5 Type='0'/>He will be so delighted to see
-  you, Sir Linkette, that he may just fly right
+  you, Madam Linkette, that he may just fly right
   into the sky!
 DividedSlate_RepairCompleteDemo06: |
   <3 Type='0' Data='0401'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Hm? You...fixed it?!
@@ -857,7 +857,7 @@ Yona_05: |
   even a Hylian like you to <0 Type='3' Data='0000'/>climb waterfalls<0 Type='3' Data='ffff'/>
   with ease.
   I am certain that it will prove useful
-  to you, Sir Linkette.
+  to you, Madam Linkette.
 MeetParkShido_Yona_05: |
   <3 Type='0' Data='0701'/>Is there anything else I can help you with?
 DividedSlate_RepairCompleteDemo09: |
@@ -896,7 +896,7 @@ TestDemoMessage_30: |
   <3 Type='0' Data='0001'/><4 Type='0' Data='160053006800690064006f0043006c0065006e0063006800'/>Linkette! We must release the water only after
   all of the water vessels are full!
 Yona_06: |
-  <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Good morning, Sir Linkette! Have you located
+  <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Good morning, Madam Linkette! Have you located
   an ancient arowana, by any chance?
 MeetParkShido_Yona_06: |
   <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Be well, dear Linkette. If ever I can be of use,
@@ -937,7 +937,7 @@ ApearDungeon_26: |
 AfterGolemBattleTalk_Near01: |
   Is that...
 Yona_08: |
-  <3 Type='0' Data='0700'/>Lady Yona...<5 Type='0'/> Sir Linkette is here at last.
+  <3 Type='0' Data='0700'/>Lady Yona...<5 Type='0'/> Madam Linkette is here at last.
 MeetParkShido_Yona_08: |
   <3 Type='0' Data='0001'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>I hear the king has left the domain to
   investigate the sludge.
@@ -1103,7 +1103,7 @@ talk0024: |
   We have to stay here until <0 Type='3' Data='0000'/>Lady Yona <0 Type='3' Data='ffff'/>says
   it's safe to leave.
 Yona_20: |
-  <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Hello, Sir Linkette! Have you located an
+  <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Hello, Madam Linkette! Have you located an
   ancient arowana, by any chance?
 FindDrefan_FindDrefan19: |
   <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>A place <0 Type='3' Data='0000'/>somewhere between Ploymus
@@ -1118,12 +1118,12 @@ talk0025: |
   <3 Type='0' Data='0c01'/><4 Type='0' Data='0c005300610064005f0030003000'/>It's true, Brother.<5 Type='0'/> The sludge...<5 Type='0'/>
   it's dangerous.
 Yona_21: |
-  <201 Type='4'/><3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Good evening, Sir Linkette. Have you located
+  <201 Type='4'/><3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Good evening, Madam Linkette. Have you located
   an ancient arowana, by any chance?
 Dm_ZO_0006_16: |
   <3 Type='0' Data='0001'/><4 Type='0' Data='12005300690063006b005400680069006e006b00'/>Be careful out there.
 Yona_22: |
-  <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Hello, Sir Linkette! Can I help you
+  <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Hello, Madam Linkette! Can I help you
   with something?
 talk0026: |
   <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Hm? <5 Type='0'/>What's up, guy?
@@ -1139,7 +1139,7 @@ ShidoStop_00: |
 talk0027: |
   <3 Type='0' Data='0701'/><4 Type='0' Data='0a005400680069006e006b00'/>Are you sure we can't go?!
 Yona_23: |
-  <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Good evening, Sir Linkette! Can I help you
+  <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Good evening, Madam Linkette! Can I help you
   with something?
 near0001: |
   An ancient stone slate!
@@ -1338,7 +1338,7 @@ talk0042: |
 ReportToParkShido_Yona_01: |
   <3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003400'/>We will be fine here! Please focus your
   energies on dealing with that monster,
-  Sir Linkette!
+  Madam Linkette!
 BeaforeVortexNear_01: |
   That must be...
 DividedSlate_Complete_04: |
@@ -1349,7 +1349,7 @@ talk0043: |
   sound like him at all!
 ReportToParkShido_Yona_02: |
   <3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003400'/>Please focus on handling that monster,
-  Sir Linkette!
+  Madam Linkette!
 DividedSlate_Complete_05: |
   <3 Type='0' Data='0001'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Linkette... The task of interpreting this stone
   slate seems to be just out of our grasp.
@@ -1365,7 +1365,7 @@ ReportToParkShido_Hifumi_00: |
   Yona may have a nice conversation with
   her prince!
 ReportToParkShido_Hifumi_01: |
-  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Sir Linkette! Please make quick work of that
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Madam Linkette! Please make quick work of that
   awful monster!
 TerminalTalk_09: |
   <3 Type='0' Data='0001'/><4 Type='0' Data='0a005400680069006e006b00'/>That water... Linkette, I wonder if there is
@@ -1377,7 +1377,7 @@ ReportToParkShido_Hifumi_02: |
 0010: |
   See you later!
 ReportToParkShido_Hifumi_03: |
-  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Do your best, Sir Linkette!
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Do your best, Madam Linkette!
 0011: |
   Where's King Dorephan?
 0012: |
