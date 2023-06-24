@@ -1,0 +1,251 @@
+Talk_21: |
+  <3 Type='0' Data='0800'/>So you went to <0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/>.
+  I appreciate you updating me on
+  the situation there...
+  I'm sorry those pirates trashed the place.
+  Undoing the damage will take hard work—<5 Type='0'/>
+  and hard cash.
+  <3 Type='0' Data='0100'/>Because my husband frankly doesn't
+  make much money, I'd better work extra
+  hard so we can pitch in!
+  Back to it!
+Talk_22: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e00430061006c006c00460061007200'/>Heeey! Welcome! It's your first time at
+  my store, right?<0 Type='4'/>It's the only place to shop here in
+  Lookout Landing. I know it looks a
+  little thrown together...
+  But I stock a nice selection of goods.
+  I ran a store back in my hometown, so
+  I hope you like my place here!
+Talk_23: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e00430061006c006c00460061007200'/>Heeey! Welcome!<0 Type='4'/>Heading out? Stock up before you go!
+Talk_24: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e00430061006c006c00460061007200'/>Heeey! Welcome! You're out pretty
+  late, huh?<0 Type='4'/>Stock up with whatever you need. Buy
+  lots and lots!
+Talk_25: |
+  <3 Type='0' Data='0700'/>I'm afraid you caught us at a bad time.
+  We're sold out of everything.<0 Type='4'/>This is not the pace I'm used to.
+  The general store I ran in my <0 Type='3' Data='0000'/>hometown<0 Type='3' Data='ffff'/>
+  almost never sold out.<0 Type='4'/>Anyway, thank you for dropping by!
+Talk_26: |
+  <3 Type='0' Data='0800'/>I'll restock our sold-out items, so do
+  come again!
+Talk_27: |
+  <3 Type='0' Data='0800'/>Thanks for telling me about the situation
+  in Lurelin Village.
+  
+  I can't tell you how upset I was when
+  I heard how those pirates had trashed
+  everything.
+  Now I'll be able to do business with a
+  clear head.
+Talk_28: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0c004e006f007400690063006500'/>...Oh! Before you go.
+  
+  
+  I couldn't help but notice that lovely
+  fabric you've got.
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Have you thought about bringing it to
+  the dye shop in Hateno Village?
+  
+  That's a hamlet on the edge of Necluda,
+  southeast of here.
+  
+  It's not exactly close, but I think you'll
+  find it's well worth the journey!
+Com_Talk_13: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><0 Type='3' Data='ffff'/>How many can you sell me?
+Com_Talk_14: |
+  Hm, <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><0 Type='3' Data='ffff'/><2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> in total? That'll net you
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. OK?
+Com_Talk_15: |
+  <3 Type='0' Data='0a00'/>I'm afraid I can't take that off your hands.
+Com_Talk_16: |
+  <3 Type='0' Data='0700'/>Huh? You want me to buy you too?
+  Take that off before you sell it to me.
+Talk_10: |
+  <3 Type='0' Data='0800'/>Thank you! I ordered that special.
+  I'm sure you'll get use out of it.
+Talk_11: |
+  <3 Type='0' Data='0800'/>Thank you! I'm sure my husband
+  appreciates this as well!
+Talk_12: |
+  <3 Type='0' Data='0800'/>That's so generous of you, Ma'am! You've
+  made me very happy today.
+Talk_13: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e00430061006c006c00460061007200'/>Heeey! Welcome! It's your first time at
+  my store, right?<0 Type='4'/>It's the only place to shop here in
+  Lookout Landing. I know it looks a
+  little thrown together.
+  But I stock a nice selection of goods.
+  I ran a store back in my <0 Type='3' Data='0000'/>hometown<0 Type='3' Data='ffff'/>, so
+  I hope you'll support my place here!
+  <3 Type='0' Data='0800'/>I'm really proud of the <0 Type='3' Data='0000'/>Hateno cheese<0 Type='3' Data='ffff'/>
+  that I'm now able to bring in from
+  <0 Type='3' Data='0000'/>Hateno Village<0 Type='3' Data='ffff'/>.<0 Type='4'/>That village is in Necluda—far, far away
+  in the southeast on its distant edge.
+  So that cheese is a real rarity here!
+0001: |
+  Your hometown?
+Com_Talk_31: |
+  <3 Type='0' Data='0800'/>How many will it be?
+Talk_14: |
+  <3 Type='0' Data='0700'/>I had to close up shop in my <0 Type='3' Data='0000'/>hometown<0 Type='3' Data='ffff'/>.
+  It just wasn't possible to do business
+  there anymore...
+  Ah! Do you like cheese? My shipment
+  of <0 Type='3' Data='0000'/>Hateno cheese <0 Type='3' Data='ffff'/>just arrived!<0 Type='4'/>It's a rare product imported from
+  <0 Type='3' Data='0000'/>Hateno Village <0 Type='3' Data='ffff'/>in Necluda to the
+  southeast! I highly recommend it!
+  We appreciate your business!
+0002: |
+  Goodbye.
+0003: |
+  Buy my stuff!
+Com_Talk_33: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><0 Type='3' Data='ffff'/>One? That'll be...<0 Type='3' Data='0000'/><5 Type='0'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>! OK?
+Talk_16: |
+  <3 Type='0' Data='0700'/>So you went to Lurelin Village. Thanks for
+  telling me about what's happening there.
+  
+  I know those pirates will be gone
+  someday...and in the meantime, I'll work
+  hard at running my business here!
+  Back to it!
+Com_Talk_34: |
+  <3 Type='0' Data='0701'/>You want to buy all <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>? That'll be
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. How about it?
+Com_Talk_05b: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0801'/><0 Type='3' Data='ffff'/>Anything else to sell? The more I put on
+  my shelves, the more money I'll make—<5 Type='0'/>
+  and the sooner I can go back home.
+Talk_17: |
+  <3 Type='0' Data='0700'/>Lurelin Village is safe, which means
+  I can focus one hundred percent on
+  my customers!
+Com_Talk_00: |
+  <3 Type='0' Data='0700'/>What'll it be?
+Com_Talk_35: |
+  <3 Type='0' Data='0701'/>You want to sell all <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>? That'll be
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. Is that OK?
+Com_Talk_05c: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0801'/><0 Type='3' Data='ffff'/>Are you gonna sell me anything else?
+  It'd make me happy, and my husband too!
+Talk_18: |
+  <3 Type='0' Data='0700'/>Lurelin Village is safe, which means
+  I can focus one hundred percent on
+  my customers!
+  On that note, I just received a shipment
+  of Hateno cheese!<0 Type='4'/>It's a rare product imported from
+  <0 Type='3' Data='0000'/>Hateno Village <0 Type='3' Data='ffff'/>in Necluda to the
+  southeast! I highly recommend it!
+  We appreciate your business!
+Com_Talk_01: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><0 Type='3' Data='ffff'/>That'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>, OK?
+Com_Talk_05d: |
+  <3 Type='0' Data='0801'/>Take your time making a selection!
+NakedPlayer_00: |
+  You can buy armor here.
+Com_Talk_02: |
+  <3 Type='0' Data='0800'/>Thanks! Be sure to look around—we have
+  some rare products in stock.
+NakedPlayer_01: |
+  We never turn folks away!
+NakedPlayer_02: |
+  Care to buy some clothes?
+Com_Talk_04: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><4 Type='0' Data='0c004c0061007500670068005300'/><0 Type='3' Data='ffff'/>Mm, no rush. Take your time deciding!
+Com_Talk_50: |
+  Nice choice! <0 Type='3' Data='0000'/><3 Type='0' Data='0800'/><0 Type='3' Data='ffff'/>Is <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/> <0 Type='3' Data='ffff'/>OK?
+Com_Talk_02b: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0800'/><0 Type='3' Data='ffff'/>Goody, goody! I'm glad I got that!
+Com_Talk_05: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0801'/><0 Type='3' Data='ffff'/>Our selection's limited, so if you sell
+  me stuff, that'll really help!
+Com_Talk_02c: |
+  <3 Type='0' Data='0800'/>Thanks! I'll buy more if you'd like!
+Com_Talk_52: |
+  <3 Type='0' Data='0701'/>OK, <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them, huh? How does
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/> <0 Type='3' Data='ffff'/>sound?
+Com_Talk_02d: |
+  <3 Type='0' Data='0800'/>Thank you very much! Good haul! 
+5500: |
+  Yes.
+Talk_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e00430061006c006c00460061007200'/>Heeey! Welcome! It's your first time at
+  my store, right?<0 Type='4'/>It's the only place to shop here in
+  Lookout Landing. I know it looks a
+  little thrown together...
+  But I stock a nice selection of goods.
+  I ran a store back in my <0 Type='3' Data='0000'/>hometown<0 Type='3' Data='ffff'/>, so
+  I hope you'll support my place here!
+Com_Talk_53: |
+  <3 Type='0' Data='0700'/>No problem! Come again soon!
+5501: |
+  No.
+Talk_01: |
+  <3 Type='0' Data='0700'/>Someday, I'll be able to go back to
+  my <0 Type='3' Data='0000'/>hometown<0 Type='3' Data='ffff'/>. And until then, I'll sell
+  as much stuff as I can!
+Com_Talk_54: |
+  <3 Type='0' Data='0700'/>The prices are the prices, no matter how
+  important you are. No discounts.
+5502: |
+  I'll buy.
+Talk_02: |
+  <3 Type='0' Data='0700'/>I come from a small fishing town called
+  <0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/>.<0 Type='4'/>It's waaay to the <0 Type='3' Data='0000'/>south<0 Type='3' Data='ffff'/>, on the
+  <0 Type='3' Data='0000'/>southeastern corner <0 Type='3' Data='ffff'/>of Hyrule. Used to
+  be a peaceful place too.
+  <3 Type='0' Data='0a00'/>Then the <0 Type='3' Data='0000'/>pirates <0 Type='3' Data='ffff'/>arrived.<0 Type='4'/>I used to run the village's <0 Type='3' Data='0000'/>general store<0 Type='3' Data='ffff'/>.
+  But when those pirates arrived, I had to
+  grab all the goods I could carry and run.<0 Type='4'/>I... <5 Type='0'/>I don't know how it's going there now.<0 Type='4'/><3 Type='0' Data='0700'/>I hope I can return someday. But for
+  now, I'll just keep selling as much stuff
+  as I can!
+  Please, let me know if there's anything
+  you'd like!
+Com_Talk_55: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Looks like your pouch is full. Nothing else
+  will fit in there.<0 Type='4'/>If there's anything you don't need, I can
+  buy it off you.
+5503: |
+  Never mind.
+Talk_03: |
+  <3 Type='0' Data='0800'/>If you want something, just pick it out and
+  let me know!
+Com_Talk_56: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0801'/><0 Type='3' Data='ffff'/>One? That'll be...<5 Type='0'/><0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>!
+  What a good deal for you!
+Talk_04: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e00430061006c006c00460061007200'/>Heeey! Welcome! You're up bright and
+  early today.<0 Type='4'/>Go ahead. Buy lots and lots!
+Talk_05: |
+  <3 Type='0' Data='0700'/>I had to close up shop in my <0 Type='3' Data='0000'/>hometown<0 Type='3' Data='ffff'/>.
+  It just wasn't possible to do business
+  there anymore...
+Talk_06: |
+  <3 Type='0' Data='0800'/>Not interested?<0 Type='4'/>That's fine. It's been a pleasure doing
+  business with you!
+5507: |
+  I'll buy them all!
+Talk_07: |
+  <3 Type='0' Data='0701'/>Anything else you need?
+5508: |
+  I'll sell them all.
+Near_00: |
+  A new face!
+Talk_08: |
+  <3 Type='0' Data='0800'/>Thank you! This'll really help me out!
+Talk_20: |
+  <3 Type='0' Data='0700'/>My hometown is safe, so I can focus one
+  hundred percent on my customers!
+  
+  On that note, you've simply gotta try
+  that <0 Type='3' Data='0000'/>Hateno cheese<0 Type='3' Data='ffff'/>!<0 Type='4'/>It's a rare product imported from
+  <0 Type='3' Data='0000'/>Hateno Village <0 Type='3' Data='ffff'/>in Necluda to the
+  southeast!
+  We appreciate your business!
+Talk_09: |
+  <3 Type='0' Data='0800'/>Good eye! That was hard to get ahold of!

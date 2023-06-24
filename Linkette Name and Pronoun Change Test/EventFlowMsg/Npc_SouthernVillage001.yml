@@ -1,0 +1,205 @@
+Talk_0008: |
+  <3 Type='0' Data='0800'/>You got it!<5 Type='0'/> Forget your troubles, and have
+  a nice, peaceful sleep.
+Talk_0009: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>Oh, that's shame.<5 Type='0'/> Well, I hope to see
+  you soon!
+Talk_0010: |
+  <3 Type='0' Data='0a00'/>Oh dear. You don't have enough rupees...<5 Type='0'/>
+  But do come stay with us soon.
+Near_0001: |
+  Welcome!
+Talk_0011: |
+  <3 Type='0' Data='0a00'/>Sir, you haven't got enough rock salt...<5 Type='0'/>
+  Come again when you have some.
+Near_0002: |
+  You can stay for free.
+Talk_0012: |
+  <3 Type='0' Data='0800'/>Did you sleep well?<5 Type='0'/> Come again anytime!
+Near_0003: |
+  How I miss the sea...
+Talk_0013: |
+  <3 Type='0' Data='0800'/>Oh, it's you, the traveler! Good to see
+  you again!<0 Type='4'/>...<0 Type='4'/><3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>It's...<5 Type='0'/> It's me, remember? We met at
+  <0 Type='3' Data='0000'/>Kara Kara Bazaar<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0a01'/>Hmph. You're a horrible voe if you can
+  forget a fabulous woman like me.<0 Type='4'/><3 Type='0' Data='0800'/>But your saving grace is that you've done
+  so much good around here.<0 Type='4'/>You beat those awful pirates, and you
+  rebuilt my inn, without which I'd have no
+  way to make a living.
+  <4 Type='0' Data='12004c00610075006700680053005f0030003000'/>And indeed, the whole village benefits
+  from the customers I draw here.
+  
+  Sarqso, from the bottom of my heart!
+  
+  
+  Now then, my special <0 Type='3' Data='0000'/>salt spa<0 Type='3' Data='ffff'/> will soothe
+  your body and soul.
+Near_0004: |
+  I'm worried...
+Talk_0014: |
+  <3 Type='0' Data='0800'/>Now relax,<5 Type='0'/> and leave the rest to me!
+Talk_0015: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>You've got some knots back here...<5 Type='0'/> Soon,
+  you'll feel fresh as a coastal breeze!
+Talk_0016: |
+  <3 Type='0' Data='0700'/>I ask my customers to bring their own
+  rock salt for the spa.
+  
+  I'll need <0 Type='3' Data='0000'/>five pieces <0 Type='3' Data='ffff'/>of <0 Type='3' Data='0000'/>rock salt<0 Type='3' Data='ffff'/>. Is that
+  all right?
+Talk_0017: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>When I see the sunset leaving its
+  colors on the water, I think of my
+  hometown, <0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/>...
+Talk_0018: |
+  <3 Type='0' Data='0800'/>Welcome, ma'am!<0 Type='4'/>I have to thank you for what you did.
+  Without my inn, I'd have no way to
+  make a living.
+  And indeed, the whole village benefits
+  from the customers I draw here.<0 Type='4'/>Sarqso, from the bottom of my heart!<0 Type='4'/><3 Type='0' Data='0700'/>Sorry...<5 Type='1'/> I spent some time as a refugee in
+  the Gerudo region, so I picked up some of
+  the local language. 
+  <3 Type='0' Data='0800'/>Sarqso! Thank you for coming!<0 Type='4'/>Now then, my special <0 Type='3' Data='0000'/>salt spa<0 Type='3' Data='ffff'/> will soothe
+  your body and soul.
+Talk_0019: |
+  <3 Type='0' Data='0800'/>Sav'aaq!
+  
+  
+  <3 Type='0' Data='0a01'/>...Oh, there I go again. I can't seem to
+  shake off the Gerudo language.
+  
+  <3 Type='0' Data='0701'/>I meant to say, "Rise and shine!"<5 Type='1'/>
+  No matter what time it is, that's the best
+  thing to hear when you wake up.
+Talk_0020: |
+  <3 Type='0' Data='0b00'/>You're a traveler, right? Do you happen
+  to know anything about <0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/>?
+Talk_0021: |
+  <3 Type='0' Data='0a00'/>If you haven't even heard of it, I can't
+  expect you to know its fate.
+  
+  Lurelin Village is on Hyrule's southeastern
+  coast. It's a small fishing town.
+  
+  <3 Type='0' Data='0a01'/>I used to run an inn there, until a gang of
+  <0 Type='3' Data='0000'/>pirates<0 Type='3' Data='ffff'/> descended upon us.
+  
+  I fled all this way with nothing but the
+  clothes on my back.
+Talk_0022: |
+  <3 Type='0' Data='0b00'/>Have... <5 Type='0'/>Have you heard anything about
+  <0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/>?
+Talk_0023: |
+  <3 Type='0' Data='0a00'/>Fair enough. I can't expect you to know
+  anything about my little fishing town on
+  the southeastern coast.
+  *sigh* While I'm glad I found refuge in
+  the desert, away from those pirates, I do
+  miss the ocean...
+0000: |
+  Never mind.
+Talk_0024: |
+  <3 Type='0' Data='0a00'/>It's a small fishing town on the
+  southeastern coast of Hyrule.
+  
+  <3 Type='0' Data='0a01'/>I used to run an inn there, until a gang of
+  pirates descended upon us.
+  
+  I had to flee with nothing but the clothes
+  on my back.
+0001: |
+  A bed.
+Talk_0025: |
+  <3 Type='0' Data='0a00'/>This place is safe enough. The sand
+  shroud has settled down, and the
+  soldiers can chase off the monsters...
+  But who's going to chase away the
+  <0 Type='3' Data='0000'/>pirates <0 Type='3' Data='ffff'/>that attacked my village?
+0002: |
+  I'll do the salt spa.
+Talk_0026: |
+  <3 Type='0' Data='0a00'/>And what do I find out here? A terrible
+  <0 Type='3' Data='0000'/>sand shroud <0 Type='3' Data='ffff'/>and <0 Type='3' Data='0000'/>mysterious monsters<0 Type='3' Data='ffff'/>
+  lurking about.
+  I don't know what to do with myself now.
+0003: |
+  Salt spa?
+0004: |
+  Until morning.
+Talk_0027: |
+  <3 Type='0' Data='0800'/>Rise and shine! This is the time we
+  agreed on. Come again!
+0005: |
+  Until noon.
+Talk_0028: |
+  <3 Type='0' Data='0800'/>Rise and sav'aaq!
+  
+  
+  <3 Type='0' Data='0a01'/>...Did I just mix Hylian and Gerudo?
+  Sorry. Seems I truly can't shake off the
+  Gerudo language.
+  <3 Type='0' Data='0801'/>But maybe that's not a bad thing!
+0006: |
+  Until night.
+Talk_0029: |
+  <3 Type='0' Data='0800'/>Oh! I was about to go rouse you, but...<5 Type='0'/>
+  you woke up right on schedule!
+  
+  Do come again!
+Talk_0001: |
+  <3 Type='0' Data='0800'/>Welcome!<5 Type='1'/> Please make yourself at home.
+0007: |
+  Never mind.
+Talk_0030: |
+  <3 Type='0' Data='0800'/>Rise and shine!
+  
+  
+  I meant to rouse you, but...<5 Type='0'/>you woke up
+  right on schedule!
+  
+  That's a good sign—<5 Type='0'/>it means your body
+  got all the rest it needed. Come back to
+  the salt spa soon!
+Talk_0031: |
+  <3 Type='0' Data='0a00'/>It feels safe here, at least, with all the
+  soldiers around to protect us.
+  
+  I just can't help but wish my village had
+  been so well defended.
+  
+  Then maybe the monsters wouldn't have
+  taken it over...
+Talk_0002: |
+  <3 Type='0' Data='0700'/>A bed at the inn will cost <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/>.
+  But for a weary traveler like you, I suggest
+  our salt spa! It uses soothing <0 Type='3' Data='0000'/>rock salt<0 Type='3' Data='ffff'/>.
+0008: |
+  Here you go.
+0009: |
+  Lurelin Village?
+Talk_0003: |
+  <3 Type='0' Data='0a00'/>Fair enough. It's a small village, and it's a
+  long ways southeast of here.
+  
+  I can't expect you to know about such a
+  remote place.
+0010: |
+  Goodbye.
+Talk_0004: |
+  <3 Type='0' Data='0700'/>You can use a bed here for free.<5 Type='0'/> Or would
+  you like to experience our calming salt
+  spa, which uses <0 Type='3' Data='0000'/>rock salt<0 Type='3' Data='ffff'/>?
+Talk_0005: |
+  <3 Type='0' Data='0b00'/>You don't know what a salt spa is?
+  You're missing out!
+  
+  <3 Type='0' Data='0701'/>In short, I give you a massage using rock
+  salt mixed with Lurelin seawater. It'll relax
+  you like nothing else!
+  I ask you to bring your own <0 Type='3' Data='0000'/>rock salt<0 Type='3' Data='ffff'/>,
+  but it's worth it. You'll be amazed how
+  soft it makes your skin feel!
+Talk_0006: |
+  <3 Type='0' Data='0700'/>So what will it be?
+Talk_0007: |
+  <3 Type='0' Data='0700'/>For how long?

@@ -1,0 +1,135 @@
+Talk13: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1400410064006d00690072006100740069006f006e00'/>Welcome, good madam! <5 Type='0'/>Care to try one of
+  our famous <0 Type='3' Data='0000'/>Malanya Buns<0 Type='3' Data='ffff'/>?
+  
+  It's a very popular new pastry that
+  our stable's offering to celebrate the
+  great <0 Type='3' Data='0000'/>god of horses<0 Type='3' Data='ffff'/>.
+  It's crispy on the outside, soft on
+  the inside, and might even give you a 
+  little <0 Type='3' Data='0000'/>luck<0 Type='3' Data='ffff'/>!
+  Best of all, it can be yours for just
+  <0 Type='3' Data='0000'/>10 rupees<0 Type='3' Data='ffff'/>! What do you say?
+Talk30: |
+  <3 Type='0' Data='0701'/>I've got plenty more Malanya Buns, so if
+  you want another, just ask!
+Near01: |
+  The sign's all ready!
+Talk14: |
+  <3 Type='0' Data='0800'/>Excellent choice, madam!
+Talk31: |
+  <3 Type='0' Data='0c01'/>I wish I could give Malanya one of these
+  buns. Maybe then he'd have the energy to
+  leave his bud.
+Near02: |
+  Yikes! It's coming down!
+Talk32: |
+  <3 Type='0' Data='0100'/>Now that Malanya's feeling better, I might
+  go and offer him a few buns!
+Near03: |
+  Care for a bun?
+Talk33: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1400410064006d00690072006100740069006f006e00'/>How would you like one of our delicious
+  <0 Type='3' Data='0000'/>Malanya Buns<0 Type='3' Data='ffff'/>?
+  
+  Only <0 Type='3' Data='0000'/>10 rupees<0 Type='3' Data='ffff'/>!
+Talk34: |
+  <3 Type='0' Data='0701'/>Can I interest you in one of our
+  world-famous <0 Type='3' Data='0000'/>Malanya Buns<0 Type='3' Data='ffff'/>?
+  
+  It's crispy on the outside, soft on
+  the inside, and might even give you a
+  little <0 Type='3' Data='0000'/>luck<0 Type='3' Data='ffff'/>!
+  And it's only <0 Type='3' Data='0000'/>10 rupees<0 Type='3' Data='ffff'/>! Interested?
+0001: |
+  I'll take one.
+0002: |
+  No, thanks.
+Talk35: |
+  <3 Type='0' Data='0000'/>First, close your eyes... <5 Type='0'/>Imagine the god
+  of horses standing in front of you...
+  
+  <FontSize Value='125'/>Then open wide and stuff it in!<FontSize Value='100'/>
+Talk01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1400410064006d00690072006100740069006f006e00'/>Heya! <5 Type='0'/>Welcome to East Akkala Stable,
+  stomping ground of the horse god! 
+0003: |
+  Sure, that's fine!
+Talk36: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1400410064006d00690072006100740069006f006e00'/>Welcome, <5 Type='0'/>good madam.
+Talk02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1400410064006d00690072006100740069006f006e00'/>Welcome, good madam!<5 Type='0'/> Looks like today's a
+  wet one.
+  
+  Let's make this fast, shall we?
+0004: |
+  Never mind.
+GoldHorse: |
+  That's a special horse.
+Talk38: |
+  <3 Type='0' Data='0c01'/>Hey, you're on the god of horses' turf
+  now. Put on some clothes.
+Talk39: |
+  It's started to rain.
+Talk04: |
+  <3 Type='0' Data='0701'/>You got some kind of <0 Type='3' Data='0000'/>problem with
+  your horse<0 Type='3' Data='ffff'/>?
+  
+  You'd be better off talking to <0 Type='3' Data='0000'/>Malanya<0 Type='3' Data='ffff'/>,
+  the god of horses about it—<5 Type='0'/>not me.
+Talk21: |
+  <3 Type='0' Data='0000'/>So... We want our customers to enjoy
+  <0 Type='3' Data='0000'/>Malanya Buns <0 Type='3' Data='ffff'/>at their freshest.
+  
+  Which means you have to eat it here.<5 Type='0'/>
+  Is that OK?
+Talk22: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Gotcha. If you change your mind, just
+  come find me, 'K?
+Talk40: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Take that road behind the stable to reach
+  him without getting lost.<5 Type='1'/>
+Talk23: |
+  <3 Type='0' Data='0700'/>All right! That'll be <0 Type='3' Data='0000'/>10 rupees<0 Type='3' Data='ffff'/>, please!
+LargeHorse: |
+  You tamed that thing?
+Talk41: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>That's all for me. I've got <0 Type='3' Data='0000'/>buns <0 Type='3' Data='ffff'/>to sell.<5 Type='0'/>
+  Later, pal!
+Talk24: |
+  <3 Type='0' Data='0300'/>Oh, this is awkward. You don't have
+  enough rupees.
+  
+  How about you fatten up your wallet a bit,
+  and then come back?
+Talk25: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Thanks, bud!
+  
+  
+  There's a procedure you have to follow
+  when you eat this, so listen closely.
+WakkaCharm: |
+  What a nice ring garland.
+Talk26: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>With the bun in your mouth, turn toward
+  the god of horses. Facing him, ponder his
+  awesome power...
+  And chew like you've never chewed
+  before! But keep that mouth closed!
+  
+  Then swallow before it dissolves!
+Talk27: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>So! What do you think?
+  
+  
+  Tasty, right? And not just that, but you
+  feel changed somehow, huh?
+Talk28: |
+  <3 Type='0' Data='0800'/>I can tell you look a little different now!
+Talk29: |
+  <3 Type='0' Data='0c00'/>Huh... Actually, you don't seem much
+  different than before.
+  
+  Guess you ate it wrong. Tough luck!
+BoneHorse: |
+  A bone horse?!
