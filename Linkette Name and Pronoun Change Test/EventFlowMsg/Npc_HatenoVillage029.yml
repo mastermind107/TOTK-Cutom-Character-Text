@@ -32,24 +32,24 @@ Talk_6003: |
   because I want to be the first one to
   welcome her home when she gets back!
 Talk_1003: |
-  <3 Type='0' Data='0700'/>Good morning to you, Ms. Linkette!
+  <3 Type='0' Data='0700'/>Good morning to you, Ms. Rinkuru!
   Nice weather we're having.<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0b01'/>Oh, but I can't fritter away my time talking
   to you. Class is starting soon!
 Talk_6017: |
   <3 Type='0' Data='0700'/>You have business at Ms. Zelda's house
-  too, Ms. Linkette?<0 Type='4'/>You know she's not back home yet, right?<0 Type='4'/><3 Type='0' Data='0a00'/>Right around the time of the Upheaval,
+  too, Ms. Rinkuru?<0 Type='4'/>You know she's not back home yet, right?<0 Type='4'/><3 Type='0' Data='0a00'/>Right around the time of the Upheaval,
   Ms. Zelda just stopped coming home.<0 Type='4'/><FontSize Value='80'/>She always used to say, "See you later," whenever
   she left the village, but not that time...<FontSize Value='100'/>
 Talk_1004: |
-  <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Ms. Linkette, I don't have the time to fritter
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Ms. Rinkuru, I don't have the time to fritter
   away talking! Class is starting soon!
 Talk_6018: |
-  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>Oh! Uhhh?!<0 Type='4'/><3 Type='0' Data='0701'/>Ms. Linkette? Do you have business at
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>Oh! Uhhh?!<0 Type='4'/><3 Type='0' Data='0701'/>Ms. Rinkuru? Do you have business at
   Ms. Zelda's house too?<0 Type='4'/>You know she's not back home yet, right?<0 Type='4'/><3 Type='0' Data='0a00'/>Right around the time of the Upheaval,
   Ms. Zelda just stopped coming home.<0 Type='4'/><FontSize Value='80'/>She always used to say, "See you later," whenever
   she left the village, but not that time...<FontSize Value='100'/>
 Talk_1005: |
-  <3 Type='0' Data='0700'/>Good morning, Ms. Linkette! Too bad about
+  <3 Type='0' Data='0700'/>Good morning, Ms. Rinkuru! Too bad about
   the weather today.<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0b01'/>Not that I have time to stand around
   talking about it. Class is starting soon!
 Talk_6006: |
@@ -85,11 +85,11 @@ Talk_6008: |
   <3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>Ms. Zelda might be back at her home by
   now, so I need to go check! Goodbye!
 Talk_6009: |
-  <3 Type='0' Data='0400'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Sorry, Ms. Linkette, but I can't talk right now.
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Sorry, Ms. Rinkuru, but I can't talk right now.
   I'm in a hurry. Can we pick this up later?<0 Type='4'/>Ms. Zelda might be back at her home by
   now, so I need to go check! Goodbye!
 Talk_7002: |
-  <3 Type='0' Data='0700'/>Sorry, Ms. Linkette, but I'm in a hurry. If you
+  <3 Type='0' Data='0700'/>Sorry, Ms. Rinkuru, but I'm in a hurry. If you
   have questions about the village, you
   should ask my papa.<0 Type='4'/>He's the <0 Type='3' Data='0000'/>mayor <0 Type='3' Data='ffff'/>of this village! He should
   be at home right now. I'm headed there
@@ -112,18 +112,18 @@ Talk_7006: |
   of this village!
 Talk_8000: |
   <3 Type='0' Data='0800'/>The picture you brought in was
-  amazing, mister!<0 Type='4'/>You gotta tell Ms. Zelda the story of the
+  amazing!<0 Type='4'/>You gotta tell Ms. Zelda the story of the
   ancient hero when she gets back.
 Talk_6010: |
   <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>Oh! Uhhh?!<0 Type='4'/>Do you have business at Ms. Zelda's
-  house too, mister?<0 Type='4'/><3 Type='0' Data='0701'/>You know she's not back home yet, right?<0 Type='4'/><3 Type='0' Data='0a00'/>Right around the time of the Upheaval,
+  house too, ma'am?<0 Type='4'/><3 Type='0' Data='0701'/>You know she's not back home yet, right?<0 Type='4'/><3 Type='0' Data='0a00'/>Right around the time of the Upheaval,
   Ms. Zelda just stopped coming home.<0 Type='4'/><FontSize Value='80'/>She always used to say, "See you later," whenever
   she left the village, but not that time...<FontSize Value='100'/>
 Near_7000: |
   Another day without her...
 Talk_8001: |
   <3 Type='0' Data='0800'/>That curry you brought in was incredible,
-  Ms. Linkette!<0 Type='4'/>Can I have the recipe so I can make it for
+  Ms. Rinkuru!<0 Type='4'/>Can I have the recipe so I can make it for
   Ms. Zelda when she comes back?
 Near_7001: |
   Ms. Zelda... *snore*

@@ -1,0 +1,218 @@
+Talk_21: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey! It's the guy who fixed our house!
+Near_02: |
+  Where'd it go?
+Talk_56: |
+  <3 Type='0' Data='0700'/>Huh? You don't have it... Did you lose
+  it somewhere?
+Talk_22: |
+  <3 Type='0' Data='0800'/>Hi, house-fixer guy! Good morning!
+Near_03: |
+  I gotta find it!
+Talk_57: |
+  <3 Type='0' Data='0a00'/>Aww, really?
+Talk_23: |
+  <3 Type='0' Data='0a00'/>It's Dad's favorite thing.<0 Type='4'/>He loves it so much, he put it in an
+  <0 Type='3' Data='0000'/>iron chest<0 Type='3' Data='ffff'/> so nobody'd take it.<0 Type='4'/>But I checked everywhere, and I couldn't
+  find the chest.<0 Type='4'/>I think those pirates sank it. So it's
+  probably in the bay, since it's too heavy
+  to float away.<0 Type='4'/><3 Type='0' Data='0700'/>Dad's pretending like he doesn't mind,
+  but I bet he's really sad it's gone.<0 Type='4'/>I gotta get it back!
+Talk_58: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>No more time to hunt treasure today.<5 Type='0'/>
+  Let's try again tomorrow!
+  
+  <3 Type='0' Data='0c01'/>That <0 Type='3' Data='0000'/>treasure chest <0 Type='3' Data='ffff'/>sure is hard to find.<5 Type='0'/>
+  It must have sunk really deep.
+Near_04: |
+  Where could it be?
+Near_05: |
+  Today's the day!
+Talk_24: |
+  <3 Type='0' Data='0700'/>Yeah, let's play some other time!
+  
+  
+  <3 Type='0' Data='0a01'/>After I find that shirt...
+Near_06: |
+  *yawn* I'll do it tomorrow.
+Talk_25: |
+  <3 Type='0' Data='0c00'/>Weeeird...<0 Type='4'/>This smell is SO familiar!
+Near_07: |
+  Is that Dad's...
+Talk_26: |
+  <3 Type='0' Data='0b00'/>That color... <5 Type='1'/>That smell that sticks in
+  my nose!<0 Type='4'/>There's no mistaking it! This is Dad's
+  blue shirt!
+Talk_27: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0e00430061006c006c00460061007200'/>Daaad!
+Talk_28: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>And you! Rebuilding houses, finding
+  lost shirts...<0 Type='4'/>What can't you do?
+Talk_40: |
+  <3 Type='0' Data='0800'/>Hi, savior guy! Good morning!
+Talk_29: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>And you! Saving villages, finding
+  lost items...
+  
+  What can't you do?
+Talk_41: |
+  <3 Type='0' Data='0800'/>Hi, savior guy!
+Talk_42: |
+  <3 Type='0' Data='0800'/>Hiii! Did you have a good day, savior guy?
+Talk_43: |
+  <3 Type='0' Data='0800'/>Hey, you're the guy who fixed our house
+  when it broke!
+  
+  Um... <5 Type='1'/>Thank youuu!
+Talk_44: |
+  <3 Type='0' Data='0800'/>Hey, you're the guy who fixed our house
+  and our village and stuff! <5 Type='0'/>The savior guy!
+  
+  Um... <5 Type='1'/>Thank youuu!
+Talk_45: |
+  <3 Type='0' Data='0c00'/>I thought this'd be a good time to look.
+  Y'know, morning, when the water's all
+  sparkly and see-through...
+Talk_10: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>This guy found your shirt, Dad!
+Talk_46: |
+  <3 Type='0' Data='0c00'/>I was hoping the sun would make it easier
+  to spot... Weird!
+Talk_11: |
+  <3 Type='0' Data='0800'/>It smells like you! Hee-hee!
+Talk_47: |
+  <3 Type='0' Data='0c00'/>I was sure I'd find it today, but I ran out
+  of time. Gotta eat dinner.
+0000: |
+  Blue shirt?
+Talk_12: |
+  <3 Type='0' Data='0c00'/>Where's that <0 Type='3' Data='0000'/>iron chest <0 Type='3' Data='ffff'/>with Dad's
+  <0 Type='3' Data='0000'/>blue shirt<0 Type='3' Data='ffff'/>?<0 Type='4'/>It's heavy, so if it sank in the ocean,
+  it should still be <0 Type='3' Data='0000'/>in the bay <0 Type='3' Data='ffff'/>somewhere.<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0700'/>Dad's pretending like he doesn't mind,
+  but I bet he's really sad it's gone.<0 Type='4'/>I gotta get it back!
+0001: |
+  Bye-bye.
+Talk_48: |
+  <3 Type='0' Data='0b00'/>That <0 Type='3' Data='0000'/>blue shirt <0 Type='3' Data='ffff'/>smells like my dad! That's
+  my dad's shirt!
+Talk_13: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Whaaa? But, Dad, weren't you sad about
+  your shirt?
+Talk_14: |
+  <3 Type='0' Data='0701'/>Rain won't stop me!
+Talk_49: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Yay! You took off my dad's <0 Type='3' Data='0000'/>blue shirt<0 Type='3' Data='ffff'/>!
+  
+  
+  Dad loved that shirt... He'll be so glad to
+  have it back!
+0002: |
+  Here you go!
+Talk_15: |
+  <3 Type='0' Data='0800'/>You wanna practice ocean-walking
+  with me?<0 Type='4'/>Then you and me and my big brother,
+  Zuta, can go look for the <0 Type='3' Data='0000'/>blue treasure
+  chest<0 Type='3' Data='ffff'/> with the <0 Type='3' Data='0000'/>iron shirt<0 Type='3' Data='ffff'/>!
+Talk_16: |
+  <3 Type='0' Data='0800'/>Y'know, everyone's calling you
+  the savior of our village!<0 Type='4'/>Thanks for putting everything back how it
+  used to be.
+Talk_17: |
+  <3 Type='0' Data='0801'/>My mom and dad said to say thanks if
+  I saw you.
+Talk_18: |
+  <3 Type='0' Data='0b00'/>Huh? You smell like my dad!
+  
+  
+  Maybe you... <5 Type='0'/>Did you find my dad's
+  <0 Type='3' Data='0000'/>blue shirt<0 Type='3' Data='ffff'/>?<5 Type='1'/>
+Talk_19: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0a0053006c00650065007000'/>Tomorrow... Tomorrow I'll find it...
+Talk_30: |
+  <3 Type='0' Data='0100'/>My trusty blue shirt... <5 Type='0'/>When I was a
+  young man, I used to wear it all the time.
+  
+  But I haven't put it on since the boys'
+  mom started picking out my clothes.
+  
+  Seems a shame to keep that beauty in a
+  moldy old chest though... <5 Type='0'/>Say, would you
+  want it?
+Talk_31: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>Well, yeah... The one I'm wearing! I was
+  eating soup, and I got a big stain on it.
+  
+  I thought it was ruined.
+  
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>But then Mommy got rid of the stain,
+  so it's good as new!
+Talk_32: |
+  <3 Type='0' Data='0800'/>Wrong shirt! Wrong shirt!
+Talk_33: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Afraid so, kiddo.<5 Type='2'/> But I am grateful you did
+  all that for your old man!
+  
+  <3 Type='0' Data='0701'/>Honestly, I can't believe how fast you
+  two are growing up.
+  
+  <3 Type='0' Data='0300'/><4 Type='0' Data='1000530063006100720065005f0030003100'/>You make your dad proud, you know that?<5 Type='0'/>
+  Very, very proud.
+Talk_34: |
+  <3 Type='0' Data='0700'/>After the pirates tore down our house,
+  we had to go live in a tent.
+  
+  It was actually kinda fun—like having a
+  secret base! But I'm waaay happier now
+  we're back home.
+Talk_35: |
+  <3 Type='0' Data='0a00'/>I wish I could search for it now, but I gotta
+  go to bed. Tomorrow, I guess...
+Talk_36: |
+  <3 Type='0' Data='0800'/>Hi, house-fixer guy! Hello!
+Talk_01: |
+  <3 Type='0' Data='0c00'/>Sorry, but I can't play right now.
+  I gotta find my dad's <0 Type='3' Data='0000'/>blue shirt<0 Type='3' Data='ffff'/>...
+Talk_37: |
+  <3 Type='0' Data='0800'/>Hiii! How was your day, house-fixer guy?
+Talk_02: |
+  <3 Type='0' Data='0a00'/>Sorry... I can't play right now.<0 Type='4'/>I've got to find Dad's <0 Type='3' Data='0000'/>blue shirt<0 Type='3' Data='ffff'/>.
+Talk_38: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>What did you think? Pretty good, huh?
+Talk_03: |
+  <3 Type='0' Data='0800'/>I'm learning how to walk on the ocean!
+  It's hard!<0 Type='4'/>But, but...my big brother and I are trying
+  to find sunken treasure.<0 Type='4'/>It's a <0 Type='3' Data='0000'/>blue treasure chest<0 Type='3' Data='ffff'/> with an <0 Type='3' Data='0000'/>iron
+  shirt <0 Type='3' Data='ffff'/>in it!<5 Type='1'/>
+Talk_50: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Huh... You're wearing <5 Type='0'/>a <0 Type='3' Data='0000'/>blue shirt<0 Type='3' Data='ffff'/>...<0 Type='4'/>Too bad! My brother, Zuta, is looking for
+  an iron shirt! That's not iron!
+Talk_39: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Oh, so...all this time, we were worried
+  about the wrong shirt?
+Talk_51: |
+  <3 Type='0' Data='0800'/>Oh! That blue shirt... It looks just like one
+  I used to wear.
+Talk_52: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Thank you! I gotta go tell my dad!
+Talk_07: |
+  <3 Type='0' Data='0700'/>Being in a tent was kinda fun—like having
+  a secret base! But I'm waaay happier now
+  we're back home.
+Talk_53: |
+  <3 Type='0' Data='0b01'/>Wait a minute...
+Talk_08: |
+  <3 Type='0' Data='0801'/>I met you at the Skyview Tower!
+Talk_54: |
+  <3 Type='0' Data='0b01'/>Where did you find it?!
+Near_01: |
+  I guess it sank...
+Talk_20: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0a0053006c00650065007000'/>Where is iiit... Zzz...
+Talk_55: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>And can you take it off, please? My dad
+  needs it back!
+Talk_09: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>So that's what you two were doing on
+  the beach all day—looking for this?
+  I thought you were out playing!<0 Type='4'/>Gosh. Thanks for finding this, guys.

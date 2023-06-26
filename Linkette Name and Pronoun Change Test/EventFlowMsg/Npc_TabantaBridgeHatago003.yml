@@ -1,0 +1,170 @@
+Talk14: |
+  <3 Type='0' Data='0801'/>That's it for my explanation!<5 Type='0'/> Was there
+  anything else you didn't understand?
+BoneHorse: |
+  Is that thing a horse?
+Talk15: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>All righty!<5 Type='0'/>
+Talk16: |
+  <3 Type='0' Data='0800'/>Yeah, see you! Talk to me anytime you
+  need something—or even just because!
+Talk17: |
+  <3 Type='0' Data='0b01'/>The thunder's rumbling, so be careful
+  about <0 Type='3' Data='0000'/>what you've got equipped<0 Type='3' Data='ffff'/>!
+Talk18: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Ah, it's you, ma'am!<5 Type='0'/> Hello!<5 Type='0'/> Welcome to
+  <0 Type='3' Data='0000'/>Tabantha Bridge Stable<0 Type='3' Data='ffff'/>!
+Talk19: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Ah, it's you, ma'am!<5 Type='0'/> Good evening!<5 Type='0'/>
+  Welcome to <0 Type='3' Data='0000'/>Tabantha Bridge Stable<0 Type='3' Data='ffff'/>!
+WakkaCharm: |
+  Aww, it's so cute!
+Talk20: |
+  <3 Type='0' Data='0b00'/>Whoa! Ma'am, you're soaking wet.<5 Type='0'/> Were
+  you walking in the rain?<5 Type='0'/> You should rest
+  and dry off inside.
+Talk21: |
+  <3 Type='0' Data='0801'/>So, did you come talk to me because...<5 Type='0'/>
+  you wanted to ask about the stable?
+Talk09_01: |
+  <3 Type='0' Data='0101'/>If you're curious about what's around
+  us, talk to my mom outside the stable.
+Talk22: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hiya, ma'am!<5 Type='0'/> Wanna chat?
+LargeHorse: |
+  Will that fit in the stable?
+Talk23: |
+  <FontSize Value='80'/><3 Type='0' Data='0800'/><4 Type='0' Data='0e00480075006d006d0069006e006700'/><FontSize Value='100'/>♪If you treat your horse <5 Type='0'/>with love and
+  affection, <FontSize Value='80'/><FontSize Value='100'/><5 Type='1'/>they'll get tamer and tamer,<5 Type='0'/>
+  and follow directions!♪<5 Type='0'/>
+  I bet you haven't heard that song before,
+  huh?<5 Type='0'/> That's because I made it up!
+Talk24: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0e00480075006d006d0069006e006700'/>♪If you love your horse every day,<5 Type='0'/> they'll
+  listen to what you have to say!♪
+Talk25: |
+  <FontSize Value='80'/><3 Type='0' Data='0800'/><4 Type='0' Data='0e00480075006d006d0069006e006700'/><FontSize Value='100'/>♪If you've got lots of unused stuff,<5 Type='0'/>
+  materials and more, <5 Type='0'/>don't waste another
+  second, <5 Type='0'/>just sell 'em at the store!♪
+  <3 Type='0' Data='0000'/>You haven't heard that song anywhere
+  else, right?<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>That's because I made it up! I based it on
+  something a guest told me one time.
+Talk26: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0e00480075006d006d0069006e006700'/>♪Before unused materials start to smell,<5 Type='0'/>
+  get to the store and sell, sell, sell!♪<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>If you want to sell your extra stuff, the
+  guy with the beetle backpack is always
+  buying things.
+  <4 Type='0' Data='12004c00610075006700680053005f0030003100'/>That's what another visitor told me,
+  at least!
+GoldHorse: |
+  Such a pretty color.
+Talk27: |
+  <3 Type='0' Data='0800'/>I'm so glad you made it to our stable.<5 Type='0'/>
+  You should take a nice, long rest here!
+Talk28: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0a005400680069006e006b00'/>If your body hurts,<5 Type='0'/> <0 Type='3' Data='0000'/>rest in a bed<0 Type='3' Data='ffff'/> and
+  you'll feel all better!
+Talk01: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Ah...<5 Type='0'/> Good evening!<5 Type='1'/> Er, no. Good day!
+  Yeah, that's what I meant!
+0001: |
+  Yeah!
+Talk22_01: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0600530061006400'/>This rain just won't stop...<5 Type='0'/> Oh, did you
+  wanna chat, ma'am?
+Talk30: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Are you here to see the <0 Type='3' Data='0000'/>Stable Trotters<0 Type='3' Data='ffff'/>'
+  performance too?
+  
+  Or did you come to ask me about
+  the stable?
+Talk02: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Ah...<5 Type='0'/> Good day!<5 Type='1'/> Er, no. Good evening!
+  Yeah, that's right!
+0002: |
+  See you!
+Talk31: |
+  <3 Type='0' Data='0800'/>You didn't know?<5 Type='0'/> Those people over there
+  are the Stable Association-recognized
+  <0 Type='3' Data='0000'/>Stable Trotters<0 Type='3' Data='ffff'/> musical troupe!
+Talk03: |
+  <3 Type='0' Data='0c01'/>W...<5 Type='0'/>wel...<5 Type='1'/>
+  
+  
+  <FontSize Value='125'/><3 Type='0' Data='0800'/>Welcome to our stable!<5 Type='1'/><FontSize Value='100'/>
+  
+  
+  <3 Type='0' Data='0101'/>Ahaha!<5 Type='0'/> Sorry, I'm nervous! You're
+  our first new customer in a while!
+0003: |
+  The Stable Trotters?
+Talk04: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>You're a traveler, aren't you, ma'am!<5 Type='0'/>
+  This stable is so far to the west that
+  we don't get many new customers!
+Talk05: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Even less now... <5 Type='0'/>There's this <0 Type='3' Data='0000'/>really bad
+  snowstorm<0 Type='3' Data='ffff'/> in the Hebra region next to
+  us, so nobody's showing up.
+Talk34: |
+  <3 Type='0' Data='0800'/>Those people over there...<5 Type='0'/> ♪They're the
+  Stable Association-recognized <0 Type='3' Data='0000'/>Stable
+  Trotters <0 Type='3' Data='ffff'/>musical trouuupe!♪
+Talk06: |
+  <3 Type='0' Data='0801'/>So? <5 Type='0'/>Did you come talk to me because you
+  wanted to ask about the stable?
+Talk35: |
+  <3 Type='0' Data='0101'/>When the troupe leader and all four
+  musicians are gathered together, they
+  just make the happiest music!
+Balloon01: |
+  Welcome!
+Talk07: |
+  <3 Type='0' Data='0800'/>As I suspected!<5 Type='0'/> You just had this look
+  about you that said, "I hope someone
+  tells me all about this amazing place."<5 Type='0'/>
+  Well, allow me to give you an explanation
+  of <0 Type='3' Data='0000'/>Tabantha Bridge Stable<0 Type='3' Data='ffff'/>!<5 Type='0'/>
+Talk36: |
+  <3 Type='0' Data='0800'/>Even though we don't have many
+  customers, they always put on amazing
+  performances for us.
+  I wish I could let them perform for lots
+  and lots of people somehow!
+Balloon02: |
+  What should I sing next?
+Talk08: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='10004700720065006500740069006e006700'/>OK, so, if you want to rest here, go to the
+  counter inside the stable!
+Talk37: |
+  <3 Type='0' Data='0801'/>Is there anything else you want to ask?
+Balloon03: |
+  ♪I'll sing without lyrics!♪
+Talk09: |
+  <3 Type='0' Data='0101'/>Normally my mom would tell you all about
+  the area around us...
+  
+  But she's under the tree talking to a Rito
+  lady right now, so I'll tell you instead!
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>If you head west from here, there's
+  <0 Type='3' Data='0000'/>Rito Village<0 Type='3' Data='ffff'/>!<5 Type='1'/> And if you head east,
+  there's <0 Type='3' Data='0000'/>New Serenne Stable<0 Type='3' Data='ffff'/>!
+Talk38: |
+  <4 Type='0' Data='0a0053006c00650065007000'/>Welcome...<5 Type='1'/>to...<5 Type='1'/>our stable...<5 Type='1'/><0 Type='4'/><4 Type='0' Data='0c004c0061007500670068005300'/>I...did it. <5 Type='1'/>I said it...right...
+Talk10: |
+  <3 Type='0' Data='0101'/>If you're curious about what's around
+  us, talk to my mom inside the stable.
+Talk11: |
+  <3 Type='0' Data='0101'/>And if you wanna know about the stable's
+  facilities, just ask my big brother, Kenyo!
+  He's running laps right now.<5 Type='0'/>
+Talk12: |
+  <3 Type='0' Data='0101'/>And if you wanna know about the stable's
+  facilities, just ask my big brother, Kenyo!
+  He's working just nearby.<5 Type='0'/>
+Talk13: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Oh, and also...<5 Type='0'/>I'd be happy if you talked
+  to my little brother, Sho, too!
+  
+  I love getting to work with my family!

@@ -1,0 +1,112 @@
+0008: |
+  Here's white Chuchu jelly.
+Talk_00_49: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Huh?<5 Type='1'/> Ma'am, I felt a cold breeze coming
+  from your pouch.
+0009: |
+  Here you go.
+Talk_00_10: |
+  <3 Type='0' Data='0700'/>You know the reason I like making
+  arrows? It's my papa. He creates the
+  strongest bows around!<0 Type='4'/>I wanted to make arrows that'd go
+  perfectly with his bows.<0 Type='4'/>All I have to do is keep working hard,
+  getting my name out there, and one day...<0 Type='4'/><3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>I'll be a world-famous arrow maker!
+  One my papa can be proud of!
+Talk_00_20_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>My papa told me you can use <0 Type='3' Data='0000'/>ice fruit <0 Type='3' Data='ffff'/>to
+  freeze monsters solid!
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Which gave me an amazing idea for an
+  invention, mwaha.
+Talk_00_11: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>Huh?<5 Type='1'/> Ma'am, what's that you've got?<5 Type='1'/>
+  That's the <0 Type='3' Data='0000'/>ice fruit <0 Type='3' Data='ffff'/>I wanted, isn't it?!<0 Type='4'/><3 Type='0' Data='0000'/>Can I have one? Pleeease?
+near_00: |
+  It'll freeze 'em solid...
+Talk_00_13: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a005400680069006e006b00'/>What am I gonna do? Without <0 Type='3' Data='0000'/>ice fruit<0 Type='3' Data='ffff'/>,
+  I can't make my invention!
+  
+  You go to all the trouble coming up with
+  an idea, and it sits there, taking up space
+  in your head... <5 Type='1'/>Gah!
+near_01: |
+  It's not fair...
+Talk_00_27: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>Huh?<5 Type='1'/> Ma'am, what's that you've got?
+  That's the <0 Type='3' Data='0000'/>ice fruit <0 Type='3' Data='ffff'/>I wanted, isn't it?!<0 Type='4'/><3 Type='0' Data='0b01'/>Whoa! Looks like you've also got some
+  cold, jellylike stuff!
+near_02: |
+  Gonna work my hardest.
+Talk_00_28: |
+  <3 Type='0' Data='0301'/>Problem is...<5 Type='1'/>I can't go and pick the fruit,
+  since Papa always tells me not to go out
+  on my own.<0 Type='4'/><4 Type='0' Data='0600530061006400'/>Ugh, it's so not fair! This is the best
+  invention I've come up with in so long.
+  But without <0 Type='3' Data='0000'/>ice fruit<0 Type='3' Data='ffff'/>, I can't make it.
+Talk_00_40: |
+  <3 Type='0' Data='0700'/>Sorry, but I'm on my way home. I've got
+  work to do.
+Talk_00_19_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Hmm. How 'bout this one?
+Talk_00_05: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>No way!<5 Type='1'/> What's that stuff you've got?
+  That cold, jellylike stuff!
+Talk_00_19: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Huh? <5 Type='0'/>You need something, ma'am?<5 Type='1'/>
+  'Cause I'm actually kinda busy.
+Talk_00_41: |
+  <3 Type='0' Data='0001'/>Is that <0 Type='3' Data='0000'/>white Chuchu jelly<0 Type='3' Data='ffff'/>, from one of the
+  monsters that'll freeze you solid if you
+  touch it?
+  <3 Type='0' Data='0800'/>Wahoo! Waha! <5 Type='0'/>It's not exactly what I
+  had in mind, but I bet I can use that to
+  make my big invention!
+  Oops, I almost forgot. <5 Type='1'/>Manners.<0 Type='4'/>May I please have one, ma'am?
+Talk_00_06: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Yaaay! Now I can finally make
+  my invention!<0 Type='4'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>When I <0 Type='3' Data='0000'/>attach <0 Type='3' Data='ffff'/>this to the <0 Type='3' Data='0000'/>tip of an arrow<0 Type='3' Data='ffff'/>,<5 Type='0'/>
+  I'll have an arrow that can freeze
+  monsters from far away!
+  <3 Type='0' Data='0b00'/>Sometimes I'm so smart, I scare myself
+  a little.<0 Type='4'/>I wonder what would happen with <0 Type='3' Data='0000'/>other
+  materials<0 Type='3' Data='ffff'/>... <5 Type='0'/>You could make <0 Type='3' Data='0000'/>arrows with
+  all sorts of effects<0 Type='3' Data='ffff'/>!
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Wow, listen to me. With every breath,
+  I spew out brilliance! <5 Type='0'/>Fwaaa!<0 Type='4'/><3 Type='0' Data='0701'/><4 Type='0' Data='08004500610073006500'/>But I should probably stop talking before
+  I give away all my best ideas...<0 Type='4'/>Anyway, here's a thank-you present.
+Talk_00_42: |
+  <3 Type='0' Data='0001'/>Is that <0 Type='3' Data='0000'/>white Chuchu jelly<0 Type='3' Data='ffff'/>, from one of the
+  monsters that'll freeze you solid if you
+  touch it?
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Wow! <5 Type='0'/>It's not exactly what I had in
+  mind, but I bet I can use that to make
+  my big invention!
+  May I have one of either the <0 Type='3' Data='0000'/>ice fruit <0 Type='3' Data='ffff'/>or
+  the <0 Type='3' Data='0000'/>white Chuchu jelly<0 Type='3' Data='ffff'/>, please?
+Talk_00_43: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>...Huh?<5 Type='1'/> Ma'am, what's that you've got?<5 Type='1'/>
+  That's <0 Type='3' Data='0000'/>white Chuchu jelly<0 Type='3' Data='ffff'/>, isn't it?!<0 Type='4'/>Can I have one? Pleeeease?
+0003: |
+  Take this ice fruit.
+Talk_00_08: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0600530061006400'/>That's too bad.
+Talk_00_44: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>Ah! Ma'am, it looks like you've got the
+  <0 Type='3' Data='0000'/>ice fruit <0 Type='3' Data='ffff'/>I wanted!<0 Type='4'/>And look at that! You also have <0 Type='3' Data='0000'/>white
+  Chuchu jelly<0 Type='3' Data='ffff'/>!<0 Type='4'/>I'd be suuuper happy if you gave me
+  one of either of them! <5 Type='0'/>Please?
+0004: |
+  ...No.
+Talk_00_45: |
+  <0 Type='3' Data='0000'/>Ice fruit<0 Type='3' Data='ffff'/>! <0 Type='3' Data='0000'/>Ice fruit<0 Type='3' Data='ffff'/>! <0 Type='3' Data='0000'/>Ice fruit<0 Type='3' Data='ffff'/>!<0 Type='4'/><3 Type='0' Data='0300'/><4 Type='0' Data='0a005400680069006e006b00'/>...Nope. Looks like wishing for them
+  didn't work. <0 Type='4'/>I guess I'll never be able to test my
+  invention and see if it really does <0 Type='3' Data='0000'/>freeze<0 Type='3' Data='ffff'/>
+  monsters solid.
+Talk_00_20: |
+  <3 Type='0' Data='0301'/>My problem is...<5 Type='1'/>I can't go out to pick
+  fruit right now, with the blizzard and all.
+  
+  <4 Type='0' Data='0600530061006400'/>Ugh, it's so not fair! This is the best
+  invention I've come up with in so long.
+  But without <0 Type='3' Data='0000'/>ice fruit<0 Type='3' Data='ffff'/>, I can't make it.

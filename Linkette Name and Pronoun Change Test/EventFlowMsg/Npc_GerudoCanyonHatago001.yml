@@ -114,7 +114,7 @@ talk0004: |
   be right back to fix it," she said.<5 Type='0'/> And then she
   completely abandoned us...<FontSize Value='100'/>
 Photo_02: |
-  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Oh, Linkette,<5 Type='0'/> did that <0 Type='3' Data='0000'/>picture frame<0 Type='3' Data='ffff'/> pique
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Oh, Rinkuru,<5 Type='0'/> did that <0 Type='3' Data='0000'/>picture frame<0 Type='3' Data='ffff'/> pique
   your curiosity?
 9007: |
   Looks good to me.
@@ -384,7 +384,7 @@ Com_Photo_06: |
   smiling Spectacle Rock<0 Type='3' Data='ffff'/>, I'd be really glad
   if you showed it to me!
 talk0040: |
-  <3 Type='0' Data='0401'/><4 Type='0' Data='1c0055006e0063006f006e007300630069006f00750073005f0030003000'/>Um, sir...<5 Type='1'/> That is quite the outfit you have
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1c0055006e0063006f006e007300630069006f00750073005f0030003000'/>Um, ma'am...<5 Type='1'/> That is quite the outfit you have
   on. <5 Type='1'/>Or...don't have on, as it were.
 Com_Photo_07: |
   <3 Type='0' Data='0101'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>Yes...<5 Type='0'/> Yes, I knew this sight would be just
@@ -454,7 +454,7 @@ talk0045: |
   <3 Type='0' Data='0001'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>Bit of a night owl, aren't you?
 talk0030: |
   <3 Type='0' Data='0801'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>OK! Welcome to Gerudo Canyon Stable!
-  You, sir, have the honor of being the very
+  You, ma'am, have the honor of being the very
   last guest this stable will ever have!
   And that, dear customer, deserves
   commemoration...
@@ -477,7 +477,7 @@ talk0033: |
   <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Well, that appears to be the end of my
   time as a stablehand.<5 Type='0'/>
   
-  <3 Type='0' Data='0801'/>It's been a pleasure, sir, and I sincerely
+  <3 Type='0' Data='0801'/>It's been a pleasure, ma'am, and I sincerely
   hope your journey ahead is a fruitful one!
   
   Now then,<5 Type='1'/> I still have a little more junk

@@ -34,7 +34,7 @@ Near_1003: |
 Com_Talk_05b: |
   <0 Type='3' Data='0000'/><3 Type='0' Data='0101'/><0 Type='3' Data='ffff'/>What'll you sell me?
 Talk_00: |
-  <3 Type='0' Data='0800'/>So you're Linkette, huh? Some of the soldiers
+  <3 Type='0' Data='0800'/>So you're Rinkuru, huh? Some of the soldiers
   were just telling me.
   
   As a simple man from <0 Type='3' Data='0000'/>Lurelin<0 Type='3' Data='ffff'/>, I'm a
@@ -84,7 +84,7 @@ Talk_04: |
   <3 Type='0' Data='0100'/>There was no one in my village quite
   like Kosi, I'll tell you that.
 Talk_21: |
-  <3 Type='0' Data='0700'/>Hi, sir! Welcome! This shop belongs to my
+  <3 Type='0' Data='0700'/>Hi, ma'am! Welcome! This shop belongs to my
   beautiful wife, Mubs!
 Talk_1013: |
   <3 Type='0' Data='0800'/>Come in! Welcome! Look at these fish!
@@ -102,7 +102,7 @@ Talk_05: |
   <3 Type='0' Data='0800'/>And you'll be my first customer!
   Won't you?
 Talk_22: |
-  <3 Type='0' Data='0700'/>Hi, sir! Welcome!<0 Type='4'/>This shop belongs to Mubs, my wife,
+  <3 Type='0' Data='0700'/>Hi, ma'am! Welcome!<0 Type='4'/>This shop belongs to Mubs, my wife,
   whose smile brightens rainy days!
 Talk_1014: |
   <3 Type='0' Data='0800'/>Come in! Welcome!<0 Type='4'/>Rain or shine, we'll always have the
@@ -199,7 +199,7 @@ Talk_1001: |
   <3 Type='0' Data='0800'/>Welcome, welcome! Want some fish?
   Caught just this morning—<5 Type='0'/>still flappin'
   their flippers!
-  Without your help, Linkette, we could never
+  Without your help, Rinkuru, we could never
   have opened the shop back up.<0 Type='4'/>So load up, OK? You earned it!
 Com_Talk_16: |
   <3 Type='0' Data='0a00'/>I can't buy clothes with you in them.<5 Type='0'/>
@@ -218,7 +218,7 @@ Talk_10: |
 Talk_1002: |
   <3 Type='0' Data='0800'/>Always happy to help!
 Talk_11: |
-  <3 Type='0' Data='0700'/>Hi, sir! Welcome!<0 Type='4'/>This shop belongs to Mubs, my wife,
+  <3 Type='0' Data='0700'/>Hi, ma'am! Welcome!<0 Type='4'/>This shop belongs to Mubs, my wife,
   who's as beautiful as a sunrise!
 Talk_1003: |
   <3 Type='0' Data='0800'/>Come again!
@@ -251,7 +251,7 @@ Talk_13: |
 Talk_1005: |
   <3 Type='0' Data='0800'/>Enjoy! And please come again!
 Talk_14: |
-  <3 Type='0' Data='0700'/>Hi, sir! Welcome!<0 Type='4'/>This shop belongs to Mubs, my wife,
+  <3 Type='0' Data='0700'/>Hi, ma'am! Welcome!<0 Type='4'/>This shop belongs to Mubs, my wife,
   who's more dazzling than the sun!
 Talk_1006: |
   <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Of course, we <0 Type='3' Data='0000'/>won't take money <0 Type='3' Data='ffff'/>from the
@@ -263,13 +263,13 @@ Com_Talk_55: |
 5500: |
   Yes.
 Talk_15: |
-  <3 Type='0' Data='0700'/>Hi, sir! Welcome!<0 Type='4'/>This shop belongs to Mubs, my wife,
+  <3 Type='0' Data='0700'/>Hi, ma'am! Welcome!<0 Type='4'/>This shop belongs to Mubs, my wife,
   who shines like the moon!
 Talk_1007: |
   <3 Type='0' Data='0800'/>Welcome, welcome! Hungry for fish?
   Caught just this morning—<5 Type='0'/>still flappin'
   their flippers!
-  Oh, it's you! I've got to thank you, Linkette.
+  Oh, it's you! I've got to thank you, Rinkuru.
   You really brought the Lurelin spirit back
   to this community.<0 Type='4'/><3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Of course, we <0 Type='3' Data='0000'/>won't take money<0 Type='3' Data='ffff'/> from the
   generous soul who rebuilt our village.<0 Type='4'/>Help yourself to anything and everything

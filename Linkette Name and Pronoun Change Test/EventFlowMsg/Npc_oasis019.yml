@@ -1,0 +1,133 @@
+talk0001: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>What's that? You have special permission
+  from the chief?
+  
+  <3 Type='0' Data='0701'/>Well, that explains that! And...<5 Type='1'/>sorry
+  for shouting.
+  
+  <0 Type='3' Data='0200'/><FontSize Value='80'/><3 Type='0' Data='0c01'/>Wait... Maybe a Hylian could endure my
+  spa-plan practice?<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+talk0002: |
+  <FontSize Value='125'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1400520075006e0061007700610079005f0030003100'/>Sound the alarm! Guards!<FontSize Value='100'/>
+talk0015: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004e006f007400690063006500'/>I've mostly worked on vai, so let me know
+  if I'm pressing too hard.
+talk0003: |
+  <3 Type='0' Data='0800'/>OK, Ms. vai—if you don't mind, would
+  you consider helping me with my
+  spa-plan practice?
+  I call it practice, but I can guarantee that
+  it will make your body feel good as new.
+  Don't worry about that!
+  But—and this is what I'm still working
+  on—if I get things just right...
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>you'll feel a boost of energy <0 Type='3' Data='0000'/>just like<0 Type='3' Data='ffff'/> with
+  the owner's spa plan!
+talk0016: |
+  <3 Type='0' Data='0800'/>Hee-hee! Just kidding! It's absolutely
+  adorable when you panic!
+  
+  You know, we don't get many...any...
+  Hylian customers.
+  
+  Would you consider helping me with my
+  spa-plan practice?
+near0001: |
+  Affordable spa plans here!
+talk0018: |
+  The apprentice spa plan is only <0 Type='3' Data='0000'/>25 rupees<0 Type='3' Data='ffff'/>
+  too! That's <0 Type='3' Data='0000'/>half<0 Type='3' Data='ffff'/> what the owner's plan
+  costs, you know!
+talk0005: |
+  <3 Type='0' Data='0800'/>Sarqso! How long would you like
+  to relax for?
+talk0019: |
+  The apprentice spa plan is only <0 Type='3' Data='0000'/>25 rupees<0 Type='3' Data='ffff'/>
+  too! That's <0 Type='3' Data='0000'/>half<0 Type='3' Data='ffff'/> what the owner's plan
+  costs, you know!
+talk0006: |
+  <3 Type='0' Data='0800'/>OK... I've got to put all of my focus—all
+  of my power—into this!
+talk0007: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Good practice for me! A good deal on
+  spa treatment for you!
+  
+  Always glad to practice more, so you're
+  welcome back anytime!
+talk0008: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>I'm really only an apprentice, so there's
+  a lot left to learn.
+  
+  <3 Type='0' Data='0801'/>Oh,<5 Type='0'/> but even so, I can guarantee that
+  it will make your body feel good as new.
+  Don't worry about that!
+  But—and this is what I'm still working
+  on—if I get things just right...
+  
+  you'll feel a boost of energy <0 Type='3' Data='0000'/>just like<0 Type='3' Data='ffff'/> with
+  the owner's spa plan!
+talk0009: |
+  <3 Type='0' Data='0a00'/>Oh, I see. I guess practice can wait until
+  some other time, then...
+0000: |
+  Yes, please!
+talk0020: |
+  The apprentice spa plan is only <0 Type='3' Data='0000'/>25 rupees<0 Type='3' Data='ffff'/>
+  too! That's <0 Type='3' Data='0000'/>half<0 Type='3' Data='ffff'/> what the owner's plan
+  costs, you know!
+0001: |
+  Help you practice?
+talk0021: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>The apprentice spa plan is only <0 Type='3' Data='0000'/>25 rupees<0 Type='3' Data='ffff'/>
+  too! That's <0 Type='3' Data='0000'/>half<0 Type='3' Data='ffff'/> what the owner's plan
+  costs, you know!
+0002: |
+  No, thanks.
+0003: |
+  Until morning.
+talk0022: |
+  <3 Type='0' Data='0800'/>The apprentice spa plan is only <0 Type='3' Data='0000'/>25 rupees<0 Type='3' Data='ffff'/>
+  too! That's <0 Type='3' Data='0000'/>half<0 Type='3' Data='ffff'/> what the owner's plan
+  costs, you know!
+talk0010: |
+  <3 Type='0' Data='0a00'/>Oh... Looks like you don't have enough
+  money. Don't get me wrong, it's nice
+  that you're up for helping me practice...
+  But it still costs me a little to get all
+  the oils and such. I can't really lower
+  the price.
+0004: |
+  Until noon.
+0005: |
+  Until the evening.
+talk0011: |
+  <3 Type='0' Data='0701'/>H-how...was that?<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0701'/>Well, you might not be fully relaxed, but
+  you seem to be less tired, at least.
+  
+  <3 Type='0' Data='0800'/>Clearly I still have a lot of practice ahead
+  of me, so come back anytime!
+talk0012: |
+  <3 Type='0' Data='0800'/>There's no line for helping me with my
+  spa-plan practice! I really appreciate any
+  opportunity to hone my skills!
+0006: |
+  Actually, never mind.
+talk0000: |
+  <3 Type='0' Data='0b00'/>Wait! What?! A new Hylian? No way!
+talk0013: |
+  <3 Type='0' Data='0801'/>You came back!
+  
+  
+  We don't ever get any new Hylian customers,
+  so of course I remember you!
+  
+  How about it? Will you <0 Type='3' Data='0000'/>help me out <0 Type='3' Data='ffff'/>with
+  my spa-plan practice?
+  
+  <3 Type='0' Data='0800'/>I have a better chance of getting it right
+  using these beds than with the ones in
+  the shelter.

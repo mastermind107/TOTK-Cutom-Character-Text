@@ -43,7 +43,7 @@ talk_Goron011_10: |
   Princess Zelda, how did you get waaay
   up there?
 talk38_11: |
-  <3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Linkettey!<5 Type='0'/> Did you SEE that?!<5 Type='1'/>
+  <3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Rinkury!<5 Type='0'/> Did you SEE that?!<5 Type='1'/>
 talk08: |
   <3 Type='0' Data='0c00'/>So the Gorons were fixated on something
   called marbled rock roast and had
@@ -91,14 +91,14 @@ talk09: |
   everything! Things could've gotten much
   worse for them if you hadn't shown up.
   I'm glad I trusted you with taking care of
-  things there, Linkettey.
+  things there, Rinkury.
 talk38_13: |
   <3 Type='0' Data='0c01'/><4 Type='0' Data='0c005300610064005f0030003100'/>The soldiers and I can't reach <0 Type='3' Data='0000'/>Hyrule
   Castle <0 Type='3' Data='ffff'/>as it is now.
   
   <3 Type='0' Data='0701'/>You might be the only one who can do it.
 talk38_14: |
-  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>Ugh, I'm sorry, Linkette. I know I'm always
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>Ugh, I'm sorry, Rinkuru. I know I'm always
   throwing you into dangerous situations.
   
   But you really are the only one up to
@@ -272,7 +272,7 @@ talk21: |
   Zelda<0 Type='3' Data='ffff'/> was connected to what happened
   in both places...
   That must have been exceptionally
-  challenging, Linkette.
+  challenging, Rinkuru.
   
   <3 Type='0' Data='0700'/>But because of you, things are back to
   normal there. And some of those you
@@ -292,7 +292,7 @@ talk22: |
   Zelda<0 Type='3' Data='ffff'/> somehow... Hm...
   
   That must have been exceptionally
-  challenging, Linkette.
+  challenging, Rinkuru.
   
   <3 Type='0' Data='0700'/>But thanks to your efforts, some normalcy
   has returned.
@@ -327,7 +327,7 @@ talk_HighMountain009_01: |
   Without your guidance, I don't think Tulin
   would have matured so much in such a
   short time.
-  <4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Thank you, Linkette.
+  <4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Thank you, Rinkuru.
   
   
   <3 Type='0' Data='0001'/>Despite everything you helped with,<5 Type='1'/> we'd
@@ -340,7 +340,7 @@ talk24: |
   <3 Type='0' Data='0700'/>Anyway, if you need a refresher on what
   to do, check your <0 Type='3' Data='0000'/>Purah Pad<0 Type='3' Data='ffff'/>.
 talk_HighMountain009_02: |
-  <3 Type='0' Data='0700'/>Oho, if it isn't Linkette. I failed to mention
+  <3 Type='0' Data='0700'/>Oho, if it isn't Rinkuru. I failed to mention
   this, but I told Purah about the village
   earlier.
   You helped Tulin grow so much during
@@ -386,7 +386,7 @@ talk28: |
   Zelda<0 Type='3' Data='ffff'/> somehow... Hm...
   
   That must have been exceptionally
-  challenging, Linkette.
+  challenging, Rinkuru.
   
   <3 Type='0' Data='0700'/>But thanks to your efforts, some normalcy
   has returned.
@@ -412,7 +412,7 @@ talk_3_17: |
 Near_Goron033_01: |
   I won't get wet here.
 talk_HighMountain009_08: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='26005100750065007300740069006f006e00530075007200700072006900730065005f0030003100'/>Oh, hey, Linkette. Have you heard?
+  <3 Type='0' Data='0700'/><4 Type='0' Data='26005100750065007300740069006f006e00530075007200700072006900730065005f0030003100'/>Oh, hey, Rinkuru. Have you heard?
   
   
   <3 Type='0' Data='0c01'/>Apparently Purah spotted a figure within
@@ -425,7 +425,7 @@ talk_HighMountain009_08: |
   so worked up, thinking it might be
   Princess Zelda.
 talk_3_18: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hiya, Linkettey. Popping by to make
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hiya, Rinkury. Popping by to make
   an appearance?
   
   I don't see any visible injuries...<5 Type='1'/> So you
@@ -448,7 +448,7 @@ talk30: |
   Zelda<0 Type='3' Data='ffff'/> somehow... Hm...
   
   That must have been exceptionally
-  challenging, Linkette.
+  challenging, Rinkuru.
   
   <3 Type='0' Data='0700'/>But thanks to your efforts, some normalcy
   has returned.
@@ -479,7 +479,7 @@ talk31: |
   Zelda<0 Type='3' Data='ffff'/> somehow... Hm...
   
   That must have been exceptionally
-  challenging, Linkette.
+  challenging, Rinkuru.
   
   <3 Type='0' Data='0700'/>But thanks to your efforts, some normalcy
   has returned.
@@ -519,7 +519,7 @@ talk34: |
 Near_Goron011_01: |
   Splooshy sploosh!
 talk35: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='200050007500720061006800540061006c006b0053006500720069006f0075007300'/>Linkettey. Welcome back. I've been hearing
+  <3 Type='0' Data='0700'/><4 Type='0' Data='200050007500720061006800540061006c006b0053006500720069006f0075007300'/>Rinkury. Welcome back. I've been hearing
   a lot about your adventures...
 Near_Goron011_02: |
   Is it true?
@@ -538,7 +538,7 @@ Near_Goron011_03: |
 0024: |
   Goodbye.
 talk38: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Linkettey, I heard what happened!
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Rinkury, I heard what happened!
 Near_01: |
   Wonder if it'll stop soon...
 talk39: |
@@ -621,7 +621,7 @@ talk44: |
   <3 Type='0' Data='0700'/>Thanks to your help, it's become clear as
   day that there's a connection between
   <0 Type='3' Data='0000'/>Princess Zelda<0 Type='3' Data='ffff'/> and <0 Type='3' Data='0000'/>the Upheaval<0 Type='3' Data='ffff'/>.
-  Great work, Linkettey.
+  Great work, Rinkury.
   
   
   <3 Type='0' Data='0701'/><4 Type='0' Data='0a005400680069006e006b00'/>However, things are much more serious
@@ -691,7 +691,7 @@ talk47: |
   the Zora's water, and finally, the Gerudo
   menaced by Gibdos and a sand shroud.
   <3 Type='0' Data='0700'/>You faced some serious challenges, and
-  you overcame all of them. Well done, Linkette.
+  you overcame all of them. Well done, Rinkuru.
   
   <3 Type='0' Data='0c01'/>So...the person resembling <0 Type='3' Data='0000'/>Princess Zelda<0 Type='3' Data='ffff'/>
   was behind the scenes for all of the

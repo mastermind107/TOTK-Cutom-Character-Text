@@ -92,7 +92,7 @@ Talk9018: |
 7011: |
   What's a Malanya bed?
 DoNotWakka_01: |
-  <3 Type='0' Data='0700'/>Admiring that decoration, madam?
+  <3 Type='0' Data='0700'/>Admiring that decoration, ma'am?
   
   
   That's a ring garland! <5 Type='0'/>Real popular item.
@@ -146,7 +146,7 @@ KyoukaiTalk03: |
   <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Anything else?
 Talk8077: |
   <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Oh! <5 Type='1'/>It looks like you've got some points
-  saved up, Linkette.
+  saved up, Rinkuru.
   
   If you want to <0 Type='3' Data='0000'/>get your reward<0 Type='3' Data='ffff'/>,<5 Type='0'/> step up
   to the side counter where I keep the
@@ -161,7 +161,7 @@ KyoukaiTalk04: |
 0036: |
   Take horse.
 Talk8078: |
-  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Linkette, this was your first time using a
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Rinkuru, this was your first time using a
   stable outside of the mini stables, right?
 Explain1007: |
   <3 Type='0' Data='0801'/><4 Type='0' Data='0a0048006100700070007900'/>As a reward for 16 points, you can now
@@ -311,7 +311,7 @@ Reaction_0003: |
   I already know.
 Register01: |
   <3 Type='0' Data='0a00'/>I'm sorry, but it seems you've hit your
-  registration limit, Linkette...
+  registration limit, Rinkuru...
   
   You would need to let one of your horses
   go to free up space. What would you like
@@ -631,7 +631,7 @@ Talk8067: |
 7005: |
   Malanya bed.
 BurnedWakka_Common01: |
-  <3 Type='0' Data='0b00'/>Hey! <5 Type='0'/>Madam!<5 Type='0'/> Please don't mess around with
+  <3 Type='0' Data='0b00'/>Hey! <5 Type='0'/>Ma'am!<5 Type='0'/> Please don't mess around with
   our ring garland!
   
   It's a treasured, flowery decoration!
@@ -640,7 +640,7 @@ BurnedWakka_Common01: |
 Talk8068: |
   <3 Type='0' Data='0801'/>You get <0 Type='3' Data='0000'/>two Pony Points<0 Type='3' Data='ffff'/>!
 BurnedWakka_Common02: |
-  <3 Type='0' Data='0b00'/>Madam!<5 Type='0'/> I believe I asked you NOT to mess
+  <3 Type='0' Data='0b00'/>Ma'am!<5 Type='0'/> I believe I asked you NOT to mess
   with that garland!
 Talk8069: |
   <3 Type='0' Data='0800'/>Welcome to the <0 Type='3' Data='0000'/>stable<0 Type='3' Data='ffff'/>.<5 Type='0'/> Do you want to
@@ -1060,7 +1060,7 @@ Register15: |
 Bell0003: |
   <3 Type='0' Data='0701'/>If you save up just <0 Type='3' Data='0000'/><2 Type='2' Data='380048006f0072007300650049006e006e005f004e006500780074005200650077006100720064004e0065006500740050006f0069006e007400ffff00cd'/> more <201 Type='6' Data='0a0070006f0069006e0074000c0070006f0069006e00740073000000'/><0 Type='3' Data='ffff'/>...
 Talk03: |
-  <3 Type='0' Data='0c00'/>You don't have the necessary funds, Linkette.<5 Type='1'/>
+  <3 Type='0' Data='0c00'/>You don't have the necessary funds, Rinkuru.<5 Type='1'/>
   I'm afraid that you can't stay unless you
   pay the full amount.
 0066: |
@@ -1163,7 +1163,7 @@ Take1006: |
   <3 Type='0' Data='0700'/>Please ask whenever you feel like
   changing your horse's <0 Type='3' Data='0000'/>gear<0 Type='3' Data='ffff'/>!
 Talk8055: |
-  <3 Type='0' Data='0800'/>Linkette,<5 Type='0'/> welcome to our <0 Type='3' Data='0000'/>stable<0 Type='3' Data='ffff'/>!
+  <3 Type='0' Data='0800'/>Rinkuru,<5 Type='0'/> welcome to our <0 Type='3' Data='0000'/>stable<0 Type='3' Data='ffff'/>!
   
   
   If you catch a wild horse and bring it
@@ -1183,7 +1183,7 @@ Register04_01: |
   <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Now with that settled, I can register this
   new horse you've brought.
 Talk8058: |
-  <3 Type='0' Data='0800'/>Welcome, Linkette!<5 Type='0'/> Do you want to register
+  <3 Type='0' Data='0800'/>Welcome, Rinkuru!<5 Type='0'/> Do you want to register
   a horse? Or take one out for a ride?
   
   How can I help?
@@ -1192,7 +1192,7 @@ Custom001: |
   saddle or bridle? Restyle its mane?
 Talk8059: |
   <3 Type='0' Data='0800'/>Thanks for your continued
-  patronage, Linkette!
+  patronage, Rinkuru!
   
   Do you want to register a horse? Take
   one out for a ride?<5 Type='0'/> How can I help?
@@ -1200,7 +1200,7 @@ QuestionTalk_01: |
   <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Glad to help.<5 Type='1'/> What would you like to
   know about horses?
 Talk8002: |
-  <3 Type='0' Data='0800'/>Linkette.<5 Type='1'/> All right, Ms. Linkette...<5 Type='1'/> There.
+  <3 Type='0' Data='0800'/>Rinkuru.<5 Type='1'/> All right, Ms. Rinkuru...<5 Type='1'/> There.
   
   
   You're all signed up.
@@ -1240,7 +1240,7 @@ Com_Photo_02: |
 Com_Welcome: |
   <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Welcome to <0 Type='3' Data='0000'/>New Serenne Stable<0 Type='3' Data='ffff'/>.
 Register32: |
-  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Thank you, Linkette.<0 Type='4'/>As a patron of the stables, we're offering
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Thank you, Rinkuru.<0 Type='4'/>As a patron of the stables, we're offering
   you a <0 Type='3' Data='0000'/>half-price discount on all fees<0 Type='3' Data='ffff'/> at
   our inn.
   <3 Type='0' Data='0701'/>That also makes registering a horse only

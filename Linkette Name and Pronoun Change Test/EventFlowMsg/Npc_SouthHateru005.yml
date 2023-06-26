@@ -104,7 +104,7 @@ Talk_0055: |
   Just wait until Dad sees THIS!
 Talk_0056: |
   <3 Type='0' Data='0000'/>Huh? Looks like you can't take it. You're
-  holding too many things, mister.
+  holding too many things.
   
   I thought I'd give you a <0 Type='3' Data='0000'/>swift carrot<0 Type='3' Data='ffff'/>
   I bought with Shibo when I went to
@@ -114,7 +114,7 @@ Talk_0056: |
 0009: |
   Footprints?
 Talk_0057: |
-  <3 Type='0' Data='0800'/>Oh, mister! Did you make some room in
+  <3 Type='0' Data='0800'/>Oh, ma'am! Did you make some room in
   what you're carrying?
   
   <3 Type='0' Data='0701'/>Huh? It looks like you're still holding
@@ -129,7 +129,7 @@ Talk_0040: |
   <3 Type='0' Data='0701'/>Hey, Darton! That guy is here! You have
   to say "welcome"!
 Talk_0058: |
-  <3 Type='0' Data='0800'/>Oh, mister! You must have made room in
+  <3 Type='0' Data='0800'/>Oh, ma'am! You must have made room in
   what you're carrying! Then I'll give you
   this, like I said!
 Talk_0041: |
@@ -154,7 +154,7 @@ Talk_0044: |
   
   Darton is obsessed with Dondons now.
 Talk_0003: |
-  <3 Type='0' Data='0400'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Huh? Didn't I already say it, mister?
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Huh? Didn't I already say it, ma'am?
   
   
   Wait, is it raining? Let's get inside, quick!
@@ -164,7 +164,7 @@ Talk_0045: |
 Talk_0046: |
   <3 Type='0' Data='0c00'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Huh? No, I think it's more like blaaam.
 Talk_0005: |
-  <3 Type='0' Data='0400'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Huh? Didn't I already say it, mister?
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Huh? Didn't I already say it, ma'am?
 Talk_0047: |
   <3 Type='0' Data='0800'/>Shibo, come on! We need to strategize
   about the <0 Type='3' Data='0000'/>footprints<0 Type='3' Data='ffff'/>!
@@ -181,7 +181,7 @@ Talk_0030: |
   footprints<0 Type='3' Data='ffff'/> so we don't forget, but you
   HAVE to say "welcome"!
 Talk_0048: |
-  <3 Type='0' Data='0700'/>M-mister! Welcome!
+  <3 Type='0' Data='0700'/>M-ma'am! Welcome!
 Talk_0007: |
   <3 Type='0' Data='0800'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Darton, did you hear that?! The footprints
   we saw were the real deal!

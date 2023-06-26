@@ -1,0 +1,128 @@
+Talk_14: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='0c004e006f007400690063006500'/>The road gets slippery in the rain,
+  so be careful.
+Talk_27: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>What's the matter, buddy? Didn't you
+  hear I said you're suspicious? Don't you
+  know what that word means?
+Talk_15: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Oh, you're not? Then I'll give you the
+  gatekeeper's greeting!<0 Type='4'/><3 Type='0' Data='0501'/>Uh...how did it go again?
+Talk_28: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Oh, right! Then I should let you know
+  about the village.<0 Type='4'/><3 Type='0' Data='0c01'/>Uh...one sec.
+Talk_16: |
+  <3 Type='0' Data='0700'/>But I only need to stay on guard duty
+  while it's light out. My mom takes over
+  at night.<0 Type='4'/><FontSize Value='80'/><3 Type='0' Data='0c01'/>Mom's kind of a scaredy-cat, so I hope she's
+  cut out to be a guard.<FontSize Value='100'/>
+Talk_29: |
+  <3 Type='0' Data='0900'/>Aha! <5 Type='0'/>A suspicious guy!
+Near_10: |
+  Not suspicious at all!
+Talk_18: |
+  <3 Type='0' Data='0800'/>Hey there, traveler! You've come to
+  <0 Type='3' Data='0000'/>Hateno Village<0 Type='3' Data='ffff'/>, home of fine produce
+  and dyed goods!
+Talk_05: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0a0053006c00650065007000'/>*snore* Don't worry, Dad... <5 Type='0'/>I'll keep the
+  village safe...<5 Type='0'/>
+Talk_07: |
+  <3 Type='0' Data='0700'/>You're up early, buddy. I wake up early
+  every day too, so I can start guard duty!
+Talk_08: |
+  <3 Type='0' Data='0700'/>Since my dad works far away, I make sure
+  to guard the village every day.
+Near_01: |
+  Nothing suspicious. Yet.
+Talk_09: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='08004500610073006500'/>They say even monsters need their sleep.
+  That's why I'm OK standing down at night.
+Near_02: |
+  I keep watch every day!
+0000: |
+  I'm not suspicious.
+Near_03: |
+  *mumble* *mumble*
+0001: |
+  That's me. Suspicious.
+Near_04: |
+  Rain won't keep me down!
+Near_05: |
+  You there! Friend or foe?!
+Near_06: |
+  Leave the rest to me!
+Talk_30: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0048006100700070007900'/>Do you know Ms. Zelda? She's really a
+  princess, but she started a <0 Type='3' Data='0000'/>school <0 Type='3' Data='ffff'/>right
+  here in our village!<0 Type='4'/><3 Type='0' Data='0a01'/><4 Type='0' Data='0a005400680069006e006b00'/>But folks say they don't know where
+  she is now.<0 Type='4'/>That's why my dad quit bein' a guard at
+  <0 Type='3' Data='0000'/>Hateno Village<0 Type='3' Data='ffff'/> to go search for Ms. Zelda
+  at a place called Lookout Landing.<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068004c00'/>But don't worry! Me and my mom are
+  handling guard duty just fine!
+Near_07: |
+  Someone's here!
+Talk_31: |
+  <3 Type='0' Data='0700'/>There's some stores and a dyed-goods
+  place on the busy street.<0 Type='4'/><3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>I work here as a guard, but there's no
+  suspicious folks in Hateno Village anyway,
+  so you can relax and take it easy!
+Near_08: |
+  No shady folks allowed!
+Talk_32: |
+  <3 Type='0' Data='0700'/>If you don't know where a store you're
+  trying to find is, follow old man Seldon!<0 Type='4'/>He's this huge guy who wanders around
+  the village all the time.<0 Type='4'/><3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>I work here as a guard, but there's no
+  suspicious folks in Hateno Village anyway,
+  so you can relax and take it easy!
+Near_09: |
+  Headin' back to the gate.
+Talk_33: |
+  <3 Type='0' Data='0800'/>We mostly grow veggies in <0 Type='3' Data='0000'/>Hateno Village<0 Type='3' Data='ffff'/>,
+  but we also have lots of cows!<0 Type='4'/><0 Type='3' Data='0000'/>The barn <0 Type='3' Data='ffff'/>is on top of the hill, so it's kinda
+  far from here, but I love that place!<0 Type='4'/><3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>I work here as a guard, but there's no
+  suspicious folks in Hateno Village anyway,
+  so you can relax and take it easy!
+Talk_34: |
+  <3 Type='0' Data='0101'/>Seeya. I need to hurry and relieve Mom
+  on guard duty!
+Talk_22: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Huh? You're suspicious? <5 Type='1'/>Y...y...<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0801'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>Yippee! You're the first actually
+  suspicious guy I've met! I could tell
+  as soon as I saw you!<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh, but I'm not supposed to talk to the
+  suspicious ones.
+Talk_35: |
+  <3 Type='0' Data='0201'/>No one wanders into other people's
+  houses if they're not suspicious, ma'am!<0 Type='4'/>That doesn't happen here! Not in my
+  village, anyway!
+Talk_10: |
+  <3 Type='0' Data='0700'/>It takes real concentration to do guard
+  duty while it's raining!
+Talk_23: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>You've come to <0 Type='3' Data='0000'/>Hateno Village<0 Type='3' Data='ffff'/>, home of
+  fine produce and dyed goods!<0 Type='4'/>Our <0 Type='3' Data='0000'/>vegetables<0 Type='3' Data='ffff'/> are the best around, and
+  we're at the four fronts of <0 Type='3' Data='0000'/>fashion<0 Type='3' Data='ffff'/>!<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0c01'/><0 Type='3' Data='0200'/><FontSize Value='80'/>Did I say that right? <5 Type='0'/>My dad would've known.<5 Type='0'/>
+  Too bad he's still at Lookout Landing.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_36: |
+  <3 Type='0' Data='0401'/>You again, ma'am?! This gets more
+  suspicious every time!<0 Type='4'/>I'm not gonna let you mess with my
+  house or my family while Dad's away at
+  Lookout Landing!
+Talk_11: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Halt and identify yourself, suspicious guy!
+Talk_24: |
+  <3 Type='0' Data='0900'/>My dad told me not to talk to any
+  suspicious folks, and that means you.
+Talk_37: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Oh...you're not suspicious? You're just
+  a traveler? No fooling?<0 Type='4'/>Hmm. I guess that's OK. <5 Type='0'/>My dad always
+  said to be nice to travelers.
+Talk_25: |
+  <3 Type='0' Data='0700'/>Huh? You're not suspicious after all?<5 Type='0'/>
+  Then I'll give you the gatekeeper's
+  greeting.<0 Type='4'/><3 Type='0' Data='0c01'/>Uh...how did it go again?
+Talk_26: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068004c00'/>That's right, I remember you now!
+  The suspicious guy!<0 Type='4'/>I knew you seemed as suspicious as the
+  last time we met!<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>Oh, but I'm not supposed to talk to the
+  suspicious ones.

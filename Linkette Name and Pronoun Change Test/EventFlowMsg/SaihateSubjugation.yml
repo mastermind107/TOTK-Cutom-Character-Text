@@ -1,0 +1,183 @@
+Talk0103: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>But it's strange... As soon as it went
+  around <0 Type='3' Data='0000'/>the rear side of the island<0 Type='3' Data='ffff'/>, the
+  ship disappeared.
+Talk0027: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>It's something I picked up on a previous
+  monster-control crew expedition.<0 Type='4'/><3 Type='0' Data='0801'/>I've been holding on to it as a lucky charm
+  all this time, but you'll probably get more
+  use out of it than I would!
+Talk0010: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>Now then, time to put together a report
+  on what happened here and finally leave
+  this island.
+  Once I'm back, I'm turning over a new
+  leaf. No more scaredy-Sesami. I'm going
+  to be capable and courageous like you!
+  <3 Type='0' Data='0801'/>So thanks for the help and the inspiration,
+  ma'am!<5 Type='0'/> I hope I'll see you around!
+Talk0011: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Hey!<5 Type='0'/> You came back!<0 Type='4'/>I still plan on leaving this island once I've
+  got my report written up for the monster-
+  control crew, but ah...
+  <3 Type='0' Data='0c01'/>This is a big island and gathering up all
+  the info I need takes time.
+  
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>So long as I'm here, I might as well
+  unwind a little, right? Just for a while...
+Near0000: |
+  I wanna go home...
+Talk0007_01: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Oh!<5 Type='0'/> I should probably give you some
+  token of gratitude for risking your life!<0 Type='4'/>Here. <5 Type='0'/>Accept this with my thanks. 
+Talk0012: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Once the report is written, I'll leave the
+  island...<5 Type='0'/> Yeah.<0 Type='4'/>It's a big island, so it's taking me a while
+  to get my info together, that's all.<0 Type='4'/><3 Type='0' Data='0001'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>It's not at all related to how scenic and
+  relaxing this place is, no, sir.
+Near0001: |
+  Three strongholds...
+Near0002: |
+  It's gotten so quiet...
+Near0003: |
+  Do I have to?
+Talk0015: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>You really helped me out, so I'd love to
+  give you a <0 Type='3' Data='0000'/>Blue-Maned Lynel saber horn<0 Type='3' Data='ffff'/>.<0 Type='4'/>Just let me know once you've made some
+  space in your pouch!
+Talk0016: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh, perfect, you've made some room!<5 Type='1'/>
+  Well then, once again...<5 Type='0'/>please accept
+  this with my thanks.
+Near0004: |
+  Just about done...
+Near0005: |
+  Run? Or fight?
+Talk0017: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hey!<5 Type='0'/> I can tell just by looking at you that
+  something happened. What's up?
+Talk0000: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='26005100750065007300740069006f006e00530075007200700072006900730065005f0030003000'/>Who the—<5 Type='0'/> Ma'am, you must have a death
+  wish to make your way to this island.
+Talk0018: |
+  <4 Type='0' Data='10005400680069006e006b005f0030003000'/>I do think the pirates' hideout is
+  somewhere on this island...
+  
+  But I can't do a thorough search with
+  those strongholds in my way.
+Talk0001: |
+  <3 Type='0' Data='0701'/>You've heard the rumors, right? They say
+  this is where the pirates that attacked
+  Lurelin Village hide out.<0 Type='4'/>I mean, I sure don't wanna be here...<5 Type='0'/><0 Type='4'/><3 Type='0' Data='0a01'/>But I'm on a mission to locate the pirates'
+  hideout for the monster-control crew.
+Talk0019: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>*sigh*<5 Type='0'/> I want to finish my scouting and go
+  home already. <5 Type='0'/>If only those <0 Type='3' Data='0000'/>monster
+  strongholds <0 Type='3' Data='ffff'/>weren't there...
+Talk0003_00: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='20005100750065007300740069006f006e0041006e006700720079005f0030003000'/>Hey, buddy...<5 Type='0'/> You're still hanging
+  around here?
+Talk0002: |
+  <3 Type='0' Data='0501'/>From what I've seen, this island has
+  <0 Type='3' Data='0000'/>three monster strongholds<0 Type='3' Data='ffff'/>.
+Talk0003: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>It's my mission to scout out the
+  pirates' hideout.
+  
+  But there are <0 Type='3' Data='0000'/>three monster strongholds<0 Type='3' Data='ffff'/>
+  keeping me from investigating.
+  
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>*sigh*<5 Type='0'/> I wish those <0 Type='3' Data='0000'/>strongholds<0 Type='3' Data='ffff'/> were
+  gone. It'd make things much easier.
+Talk0020: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hey there.<5 Type='0'/> Don't tell me...<5 Type='0'/> Something else
+  happened, didn't it?
+Talk0004: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>The island seems so much more tranquil...
+  <5 Type='1'/>Could it be?
+  
+  <3 Type='0' Data='0b01'/>You cleared out the monster strongholds?<5 Type='1'/>
+  All three of them?!
+  
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Hah!<5 Type='0'/> You're amazing!<5 Type='1'/> Oh, you don't even
+  know how big a help that is.
+  
+  <3 Type='0' Data='0101'/>Perfect timing, too, since I just saw a
+  <0 Type='3' Data='0000'/>pirate ship<0 Type='3' Data='ffff'/> coming in.
+Talk0021: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>What's that? <5 Type='0'/>You found a pirate ship in a
+  cave around the back of the island?<0 Type='4'/><3 Type='0' Data='0801'/>Then that cave has to be their <0 Type='3' Data='0000'/>hideout<0 Type='3' Data='ffff'/>!
+  No doubt about it!
+Talk0022: |
+  <3 Type='0' Data='0301'/>As much as I'd love to march right in
+  there and rout the pirates...
+  
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003100'/>I'm only a scout. Even thinking about
+  taking on a force like that turns my legs
+  into jelly.
+  So what now? Do I slink away to safety
+  or <0 Type='3' Data='0000'/>fight the pirates in their hideout<0 Type='3' Data='ffff'/>?<0 Type='4'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>I'll just think it over until I can move
+  my legs again...
+Talk0006: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Just as the pirate ship went around the
+  <0 Type='3' Data='0000'/>rear of the island<0 Type='3' Data='ffff'/>, it vanished.<0 Type='4'/>If they're mooring at their <0 Type='3' Data='0000'/>hideout <0 Type='3' Data='ffff'/>over
+  there, then this scouting mission just
+  turned into an <0 Type='3' Data='0000'/>eradication<0 Type='3' Data='ffff'/> one.
+  <3 Type='0' Data='0a01'/>The thought of which petrifies me...<0 Type='4'/><4 Type='0' Data='0c005300610064005f0030003000'/>So what now? Do I run home? Or do I
+  locate the <0 Type='3' Data='0000'/>hideout<0 Type='3' Data='ffff'/> and inevitably die
+  trying to <0 Type='3' Data='0000'/>fight the pirate horde<0 Type='3' Data='ffff'/>?
+Talk0023: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>You...<5 Type='0'/>defeated every last pirate on the
+  ship?<5 Type='1'/> That's incredible!<5 Type='0'/> You're like a
+  one-man monster-control crew!
+  <3 Type='0' Data='0801'/>I was only planning on scouting the place
+  out. HQ's going to be thrilled to hear that
+  the pirates are no longer a threat!
+Talk0100: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>By the by,<5 Type='0'/> I just now saw a <0 Type='3' Data='0000'/>pirate ship<0 Type='3' Data='ffff'/>
+  approaching the island.
+Talk0024: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>But as soon the ship rounded the <0 Type='3' Data='0000'/>back of
+  the island<0 Type='3' Data='ffff'/>, it disappeared.
+Talk0007: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>A cave?<5 Type='0'/> Hidden around the back of the
+  island? And there was a pirate ship?!<0 Type='4'/>You beat every single pirate on the ship
+  too?!<5 Type='1'/> Holy cow!<5 Type='0'/> You're like a one-man
+  monster-control crew!
+  <3 Type='0' Data='0801'/>I mean, I'm part of a monster-control
+  crew, and I still lost my nerve. Thanks
+  to you, I can finally breathe easy.
+Talk0101: |
+  <3 Type='0' Data='0c01'/>So where did it go?<0 Type='4'/>Maybe the pirates really do have a
+  hideout on this island, and that's where
+  the ship disappeared to.
+  <3 Type='0' Data='0001'/>But that would make it the monster-
+  control crew's duty to find and <0 Type='3' Data='0000'/>eradicate<0 Type='3' Data='ffff'/>
+  them, not just scout things out...
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>I can handle one or two enemies, but that
+  sounds like...more. Ugh, I'm so nervous,
+  I'm frozen to this spot.
+  Do I retreat?<5 Type='0'/> Or do I locate the <0 Type='3' Data='0000'/>hideout<0 Type='3' Data='ffff'/>
+  and try to fight the pirates myself?<5 Type='0'/> Oooh,
+  what should I do?
+Talk0008: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Heh heh...<5 Type='0'/> Weren't expecting something
+  that rare, were you?<0 Type='4'/>I picked it up on a previous monster-
+  control-crew expedition.<0 Type='4'/><3 Type='0' Data='0801'/>I've been holding on to it as a lucky charm
+  all this time, but you'll probably get more
+  use out of it than I would.
+Talk0026: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>If the pirates are hiding out on the rear
+  side of the island, then <0 Type='3' Data='0000'/>eradicating<0 Type='3' Data='ffff'/> them
+  would be for the betterment of society...
+  <3 Type='0' Data='0a01'/>Y-you hear that, legs? Let's swallow those
+  nerves and get moving again. Please?<0 Type='4'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Do I retreat to safety or <0 Type='3' Data='0000'/>storm the
+  hideout<0 Type='3' Data='ffff'/>? I want to help, but I don't
+  want to throw my life away.
+Talk0009: |
+  <3 Type='0' Data='0401'/>Huh?<4 Type='0' Data='20005100750065007300740069006f006e0041006e006700720079005f0030003100'/> Hey, make some room in your
+  pouch already! <5 Type='0'/>I'm offering you a
+  <0 Type='3' Data='0000'/>Blue-Maned Lynel saber horn <0 Type='3' Data='ffff'/>here!
+  <3 Type='0' Data='0101'/>Well, once you pare down that absurd
+  amount of stuff, the horn's all yours.
+  I'm that grateful!

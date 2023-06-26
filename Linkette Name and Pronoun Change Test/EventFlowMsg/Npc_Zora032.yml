@@ -31,7 +31,7 @@ near1007: |
 near1008: |
   Safety check!
 talk1020: |
-  <3 Type='0' Data='0000'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Linkette!<5 Type='0'/> If you are seeking an audience with
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Rinkuru!<5 Type='0'/> If you are seeking an audience with
   His Majesty, King Sidon, please proceed
   to the throne room.
   The Exalted Dorephan is with him as well.
@@ -54,7 +54,7 @@ talk1031: |
   The Exalted Dorephan is there as well.
 talk1021: |
   <3 Type='0' Data='0000'/><4 Type='0' Data='0a0048006100700070007900'/>I heard you were responsible for cleaning
-  up this statue, Linkette.
+  up this statue, Rinkuru.
   
   We are truly lucky that you were here
   to help us out of this mess.
@@ -89,7 +89,7 @@ talk1023: |
   <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Now that the sludge is gone, tourists have
   finally started coming here again.
   
-  Aside from you, Linkette, our first visitor was
+  Aside from you, Rinkuru, our first visitor was
   the traveling merchant Mr. Sasan.
   
   <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>He seemed to have a connection with
@@ -110,9 +110,9 @@ talk1024: |
 WaterPumpWater_01: |
   Precious water...
 talk1005: |
-  <3 Type='0' Data='0800'/>Linkette! So you are responsible for the
+  <3 Type='0' Data='0800'/>Rinkuru! So you are responsible for the
   sludge disappearing! I might have
-  guessed as much.<5 Type='1'/> Thank you, good sir!
+  guessed as much.<5 Type='1'/> Thank you, ma'am!
   <3 Type='0' Data='0701'/>As captain of the guard, it is my duty to
   reflect upon the awful tragedies endured
   by the domain because of the Upheaval...

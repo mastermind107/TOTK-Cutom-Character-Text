@@ -1,0 +1,124 @@
+Talk_01: |
+  <3 Type='0' Data='0501'/>I'll never fix the Skyview Tower at
+  this rate.<5 Type='0'/>
+Talk_02: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>That flying monster took the terminal
+  from the Skyview Tower.
+Talk_28: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='0c004e006f007400690063006500'/>Ah,<5 Type='0'/> well, you look busy.<5 Type='1'/> I'm pretty busy
+  too. I'm off to work at the next site.
+  Like they say, "Son and done"!
+Talk_03: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Good grief.<5 Type='1'/> That sticky-clawed terror has
+  a habit of stealing things.
+Talk_04: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0600530061006400'/>That rascal doesn't miss a thing.<5 Type='0'/> If it
+  notices us, it'll fly away and be more
+  on guard...
+Talk_05: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Ma'am! You got the tower's terminal back!
+Talk_19: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0a005400680069006e006b00'/>Uh-oh. I've lost sight of the monster...
+Talk_06: |
+  <4 Type='0' Data='12004c00610075006700680053005f0030003100'/><FontSize Value='125'/>I'll tighten this... And done!<FontSize Value='100'/>
+Talk_07: |
+  <3 Type='0' Data='0101'/>There! That's not going anywhere,<5 Type='0'/> even if
+  a monster is real determined.
+Near_00: |
+  What a mess...
+Talk_08: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='10004700720065006500740069006e006700'/>You can see Tarrey Town from here.
+  I wonder how everyone is doing...
+Near_01: |
+  It flew away...
+Near_02: |
+  Huh? Where did it go?
+0001: |
+  What's the matter?
+Near_03: |
+  It came back!
+Talk_40: |
+  <3 Type='0' Data='0401'/>You got the terminal back!<5 Type='0'/> That
+  flying rascal was the worst.
+0002: |
+  Goodbye.
+Talk_41: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0a005400680069006e006b00'/>This is really bad...<5 Type='0'/> Where in the world
+  did it go?
+Talk_42: |
+  <3 Type='0' Data='0a00'/>The terminal for this Skyview Tower, the
+  one that monster stole...
+  
+  That creature dropped the terminal,
+  and it fell around here somewhere.
+  But I lost sight of it!
+0003: |
+  Tarrey Town?
+Talk_43: |
+  <3 Type='0' Data='0a00'/>The terminal...<5 Type='0'/>must have fallen
+  somewhere though.<5 Type='0'/> I can't fix this
+  Skyview Tower without it.
+Talk_44: |
+  <3 Type='0' Data='0c00'/>You can't see Tarrey Town in this
+  weather, unfortunately.
+Talk_32: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0048006100700070007900'/>I look up to President Hudson so much.
+  I can't help it!<5 Type='1'/> I can only hope to be half
+  as important as him someday.
+Talk_45: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>But it's over there.<5 Type='1'/> You'd be able to see
+  it if the weather was nicer.
+Talk_33: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0a005400680069006e006b00'/>I can't fix the Skyview Tower without the
+  terminal that monster's holding.
+Talk_20: |
+  <3 Type='0' Data='0101'/>The president of our construction
+  company lives there. He built up that
+  town from nothing. <5 Type='0'/>Hudson is brilliant!
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0048006100700070007900'/>Oh,<5 Type='0'/> I can't help looking up to him.<0 Type='4'/>I can only hope to be half as important
+  as Hudson is someday.
+Talk_34: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Please,<5 Type='0'/> would you maybe move
+  the terminal over there for me?
+Talk_21: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Just over there...<5 Type='1'/> Can you make out all
+  of the houses?
+Talk_35: |
+  <3 Type='0' Data='0701'/>I'll repair the terminal once it's in place.<5 Type='0'/>
+  Sorry to ask for even more help!
+Talk_36: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>You really helped me out!<5 Type='0'/> I'll get the
+  terminal up and running in the Skyview
+  Tower right away!
+Talk_10: |
+  <3 Type='0' Data='0800'/>Let's install it in the Skyview Tower.
+  No time to waste!
+Talk_37: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0a005400680069006e006b00'/>The tower's terminal is too heavy for
+  me. I just can't move it where it needs
+  to go.
+Talk_11: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>I couldn't have done it without you!<5 Type='0'/>
+  I really appreciate it.
+Talk_38: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Bye!
+Talk_12: |
+  <3 Type='0' Data='0501'/>If you <0 Type='3' Data='0000'/>hide out of view<0 Type='3' Data='ffff'/>, it may <0 Type='3' Data='0000'/>lower its
+  guard and come down<0 Type='3' Data='ffff'/>.<5 Type='0'/> It's too clever and
+  quick to rush.
+Talk_00: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003100'/>Sorry.<5 Type='1'/> You stopped by at a rough time.
+Talk_26: |
+  <FontSize Value='125'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Ah!<5 Type='1'/> The terminal!<5 Type='0'/><FontSize Value='100'/>
+Talk_39: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Thanks!<5 Type='0'/> That really helped me out.
+  
+  
+  <3 Type='0' Data='0101'/>And to carry such a heavy thing on
+  your own too.
+  
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>I'd have a hard time moving that
+  by myself.
+Talk_13: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>That's where Hudson Construction is
+  located—the crew that I work for.

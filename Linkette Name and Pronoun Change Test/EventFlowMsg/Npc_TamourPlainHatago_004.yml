@@ -13,7 +13,7 @@ Com_Photo_03: |
   the place.<0 Type='4'/><3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003100'/>I'd go paint a picture myself, but work
   keeps me too busy.
 Com_Photo_Thank: |
-  <3 Type='0' Data='0701'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Thanks to you, Linkette, I finished that
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Thanks to you, Rinkuru, I finished that
   painting. My daughters sure are happy!<0 Type='4'/>I've even heard them say they'd like to
   ring it with their own special someone.<5 Type='1'/>
   I sure hope they find the same joy I did.
@@ -23,7 +23,7 @@ Com_Photo_04: |
   <3 Type='0' Data='0401'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Oh,<5 Type='0'/> did you bring me a picture of the
   <0 Type='3' Data='0000'/>Unity Bell<0 Type='3' Data='ffff'/>?!
 DoNotWakka_01: |
-  <3 Type='0' Data='0001'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Whoa there, <5 Type='0'/>sir, please stop!<5 Type='0'/> That belongs
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Whoa there, <5 Type='0'/>ma'am, please stop!<5 Type='0'/> That belongs
   to the stable. <5 Type='0'/>You can't remove it!
   
   The shape of that <0 Type='3' Data='0000'/>ring garland<0 Type='3' Data='ffff'/> is
@@ -48,7 +48,7 @@ Com_Photo_05: |
   as reference, I'm sure I could paint up
   something real nice.
 DoNotWakka_02: |
-  <3 Type='0' Data='0900'/>Excuse me, sir! That's the stable's 
+  <3 Type='0' Data='0900'/>Excuse me, ma'am! That's the stable's 
   good-luck charm, so kindly leave it alone!<0 Type='4'/>If you like it, I'm sure you can find one
   for yourself.<0 Type='4'/>They're made in <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>, a town
   in the hills a ways southwest of here.

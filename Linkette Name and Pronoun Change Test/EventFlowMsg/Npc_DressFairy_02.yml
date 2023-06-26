@@ -1,0 +1,252 @@
+ComTalk_024: |
+  <3 Type='0' Data='0a00'/>I'm sorry... <5 Type='1'/>That clothing item is
+  impossible to enhance...
+ComTalk_025: |
+  <3 Type='0' Data='0a00'/>I'm sorry... <5 Type='1'/>It appears that it is impossible
+  to enhance that clothing item...
+ComTalk_026: |
+  <3 Type='0' Data='0c00'/>To enhance that item, I need some power
+  from my sisters.<5 Type='1'/> But they're still cowering
+  in their flower buds...
+ComTalk_027: |
+  <3 Type='0' Data='0c00'/>I cannot enhance that clothing item with
+  my power alone.<5 Type='1'/> I need to borrow some
+  power from my sisters...
+ComTalk_010: |
+  <3 Type='0' Data='0700'/>Have you got other clothes you'd like me
+  to <5 Type='1'/>work my magic on?
+ComTalk_028: |
+  <3 Type='0' Data='0c00'/>I can't right now... <5 Type='0'/>However, if my sisters
+  were able to lend me their power,<5 Type='0'/> then I
+  could enhance that clothing item...
+ComTalk_051: |
+  <3 Type='0' Data='0800'/>Oooh, do you feel it?<5 Type='0'/> The <5 Type='1'/>care <5 Type='1'/>I put
+  into it...
+ComTalk_011: |
+  <3 Type='0' Data='0700'/>You want to know why you can't
+  enhance it? Allow me to explain...
+ComTalk_029: |
+  <3 Type='0' Data='0700'/>Oh? <5 Type='1'/>If you want me to enhance that
+  clothing item, then you will need to take
+  care of another one of my sisters...
+ComTalk_052: |
+  <3 Type='0' Data='0800'/>Mm... <5 Type='0'/>I put my heart into it.
+ComTalk_012: |
+  <3 Type='0' Data='0c00'/>I'd love to enhance your clothing, but...<5 Type='0'/>
+  you're not wearing much, and you're
+  not carrying any either.
+  If you get your hands on some clothes
+  that look like they could be enhanced,<5 Type='0'/>
+  stop by.
+ComTalk_053: |
+  <3 Type='0' Data='0800'/>Ahh... <5 Type='0'/>I like them <5 Type='0'/>strong.
+ComTalk_013: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0c004e006f007400690063006500'/>Oh my...<5 Type='1'/> You're not wearing any clothes
+  that I can enhance? That won't do!
+  
+  Let me take a look at your things.<5 Type='1'/>
+  Maybe we can find something I can
+  help you with...
+ComTalk_054: |
+  <3 Type='0' Data='0800'/>There you are!<5 Type='0'/> Take it as a sign of
+  my...appreciation.
+ComTalk_015: |
+  <3 Type='0' Data='0700'/>With the power available to me...<5 Type='0'/>
+  I can enhance your clothing
+  <0 Type='3' Data='0000'/>a fair amount<0 Type='3' Data='ffff'/>.
+0000: |
+  Enhance away!
+Talk_00: |
+  <3 Type='0' Data='0900'/>Oh, the nerve of you coming here!
+  Please, go away.
+  
+  You're just a monster who's after my
+  <0 Type='3' Data='0000'/>blessing of clothing enhancement<0 Type='3' Data='ffff'/>.
+  
+  The world outside my bud is filthy with
+  gloom and full of monsters. Don't try to
+  deny it.
+  I know it's true. My older sister Tera
+  told me!
+  
+  <3 Type='0' Data='0700'/>Even the music I love is gone, and
+  until I hear the <0 Type='3' Data='0000'/>sound of a flute<0 Type='3' Data='ffff'/> out in
+  the world...
+  I'll never go outside again.
+ComTalk_016: |
+  <3 Type='0' Data='0700'/>With the power available to me...<5 Type='0'/>
+  I can <0 Type='3' Data='0000'/>greatly<0 Type='3' Data='ffff'/> enhance your clothing.
+0001: |
+  No, thanks.
+ComTalk_017: |
+  <3 Type='0' Data='0700'/>With the power available to me...<5 Type='0'/> I can
+  enhance your clothing <0 Type='3' Data='0000'/>to the maximum<0 Type='3' Data='ffff'/>.
+ComTalk_040: |
+  <3 Type='0' Data='0700'/>Mmm... <5 Type='0'/>You're the one who brought the
+  musical troupe to me, aren't you?
+  
+  Don't be shy. I could tell it was you, even
+  while I was hiding.
+  
+  Perhaps your reward should be ME
+  joining you as a co-adventurer, hmm?
+  
+  <4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Ha! <5 Type='0'/>I'm only teasing you...<5 Type='1'/> But you get
+  even cuter when you're blushing.
+Talk_1008: |
+  <3 Type='0' Data='0a00'/>I moved near the stable to grant my
+  <0 Type='3' Data='0000'/>blessings<0 Type='3' Data='ffff'/> to travelers.
+  
+  If I heard the <0 Type='3' Data='0000'/>sound of a flute <0 Type='3' Data='ffff'/>played by a
+  musician in a troupe, I'd feel cheered up
+  enough to come out and face the world.
+ComTalk_018: |
+  <3 Type='0' Data='0c00'/>You want me to enhance your
+  <2 Type='11' Data='2600530068006f0070005f00530065006c006500630074004900740065006d004e0061006d006500ffff'/>?
+ComTalk_041: |
+  <3 Type='0' Data='0700'/>I really can't thank you enough, young
+  man,<5 Type='1'/> but that won't stop me from trying.
+  
+  If you have the materials needed to
+  enhance a piece of clothing,<5 Type='0'/> I will
+  gladly help you.
+  So why don't you let me take a peek
+  in that little pouch of yours?
+Talk_1009: |
+  <4 Type='0' Data='0c005300610064005f0030003100'/>No matter how many times you ask, I'm
+  not going to leave my flower bud.
+  
+  I know the world outside is filthy with
+  gloom and monsters. You can't deny it.
+  
+  I won't offer my <0 Type='3' Data='0000'/>blessing of clothing
+  enhancement<0 Type='3' Data='ffff'/> to any of you monsters.
+  I can't even face what's out there now.
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0c005300610064005f0030003000'/>I think that only the <0 Type='3' Data='0000'/>sound of a flute<0 Type='3' Data='ffff'/>,
+  played by a musician in a troupe, would
+  cheer me up enough to come outside.
+ComTalk_001: |
+  <3 Type='0' Data='0c00'/>Your scent, young lady... It's a fragrance
+  that's familiar to me.
+  
+  So...<5 Type='0'/>you have some clothing you want to
+  enhance and the necessary materials?<5 Type='0'/>
+  Why don't you let me take a look?
+ComTalk_019: |
+  <3 Type='0' Data='0c00'/>You're telling me to enhance the
+  <2 Type='11' Data='2600530068006f0070005f00530065006c006500630074004900740065006d004e0061006d006500ffff'/>?
+0004: |
+  Can you enhance this?
+ComTalk_002: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0c005300610064005f0030003000'/>Ahhh...<5 Type='0'/>too bad.<0 Type='4'/>There's always next time!
+ComTalk_043: |
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I think my little sister Mija said she was
+  planning to stay near a stable in Hebra
+  north of here...
+0005: |
+  I'd rather you not...
+ComTalk_044: |
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I hear my younger sister Cotera is near
+  a stable not far from <0 Type='3' Data='0000'/>Dueling Peaks<0 Type='3' Data='ffff'/>, off
+  in Necluda to the east.
+ComTalk_101: |
+  <3 Type='0' Data='0900'/>Oh, myyy... <5 Type='1'/>If you want to enhance that,
+  you'll need to save your rupees!
+ComTalk_045: |
+  <4 Type='0' Data='0a005400680069006e006b00'/>Oh my... I can feel it...<5 Type='0'/> <0 Type='3' Data='0000'/>Two<0 Type='3' Data='ffff'/> <5 Type='1'/>of my sisters
+  are still cowering in their flower buds.
+  
+  young lady, if you meet them, would you
+  please soothe them too?
+  
+  Consider it a...<5 Type='0'/>special request from me.
+ComTalk_004: |
+  <3 Type='0' Data='0800'/>young lady... <5 Type='1'/>I know what you've done
+  for my family. My sisters are grateful too.
+  
+  ♪I'm feeling extra special!♪<5 Type='1'/> If you
+  want to enhance your clothing, come
+  back anytime.
+ComTalk_102: |
+  <3 Type='0' Data='0900'/>I can't demonstrate my powers without
+  sufficient rupees.<5 Type='1'/> ♪Time to start saving!♪
+ComTalk_005: |
+  <3 Type='0' Data='0700'/>Oh my... <5 Type='1'/>Do you have any other clothes
+  I can enhance right now?<5 Type='0'/> It doesn't seem
+  so. I would love to help...
+ComTalk_103: |
+  <3 Type='0' Data='0900'/>You don't have the necessary rupees...<5 Type='1'/>
+  ♪All in good time, boy.♪
+ComTalk_046: |
+  <3 Type='0' Data='0101'/>Some sets of clothing, when each piece
+  is enhanced twice, will grant you a <0 Type='3' Data='0000'/>new
+  power<0 Type='3' Data='ffff'/> when worn.
+  If you can, give<5 Type='0'/> it<5 Type='0'/> a<5 Type='0'/> try!
+ComTalk_006: |
+  <3 Type='0' Data='0701'/>If you gather more materials or soothe my
+  sisters, come back to see me!
+ComTalk_104: |
+  <3 Type='0' Data='0a00'/>Notice anything missing?<5 Type='1'/> Rupees,
+  perhaps? That enhancement requires
+  more than you can afford!
+ComTalk_007: |
+  <3 Type='0' Data='0701'/>If you find any new clothes that you want
+  me to enhance, come back to see me!
+ComTalk_030: |
+  <3 Type='0' Data='0a00'/>Oh, myyy... You don't seem to have the
+  materials needed to enhance that
+  clothing item.
+ComTalk_008: |
+  <3 Type='0' Data='0700'/>OK. <5 Type='0'/>Got it! Now then...
+  ♪Close your eyes!♪
+ComTalk_031: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>You don't have the necessary materials...<5 Type='1'/>
+  ♪All in good time, boy.♪
+ComTalk_009: |
+  <3 Type='0' Data='0700'/>So...<5 Type='0'/>have you picked which clothes you'd
+  like me to enhance?
+ComTalk_032: |
+  <3 Type='0' Data='0a00'/>You don't have the necessary materials...<5 Type='1'/>
+  ♪All in good time, boy.♪
+ComTalk_033: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Notice anything missing?<5 Type='1'/> You don't have
+  the materials needed to strengthen that
+  clothing item.
+ComTalk_034: |
+  <3 Type='0' Data='0a01'/>Aw, ooh... <5 Type='0'/>You want something else?
+ComTalk_035: |
+  <3 Type='0' Data='0a01'/>Oh, my... <5 Type='0'/>Did you make a mistake?
+ComTalk_036: |
+  <3 Type='0' Data='0a01'/>Oooh... <5 Type='0'/>Not that one?
+ComTalk_037: |
+  <3 Type='0' Data='0701'/>Teasing me?<5 Type='1'/> You little meanie...
+ComTalk_038: |
+  <4 Type='0' Data='0a005400680069006e006b00'/>Oh my... I can feel it...<5 Type='0'/> <0 Type='3' Data='0000'/>One<0 Type='3' Data='ffff'/> <5 Type='1'/>of my sisters
+  is still cowering in her flower bud.
+  
+  Young lady, if you meet her, would
+  you please soothe her with her
+  <0 Type='3' Data='0000'/>favorite music<0 Type='3' Data='ffff'/>?
+  Consider it a...<5 Type='0'/>special request from me.
+ComTalk_020: |
+  <3 Type='0' Data='0c00'/>You want to enhance the
+  <2 Type='11' Data='2600530068006f0070005f00530065006c006500630074004900740065006d004e0061006d006500ffff'/>?
+ComTalk_021: |
+  <3 Type='0' Data='0c00'/>OK, I'm gonna enhance the
+  <2 Type='11' Data='2600530068006f0070005f00530065006c006500630074004900740065006d004e0061006d006500ffff'/>.
+ComTalk_039: |
+  <3 Type='0' Data='0800'/>I hope you feel<5 Type='0'/> the<5 Type='0'/> care<5 Type='0'/> I put into this...<5 Type='1'/>
+  Now, one more thing.
+  
+  How about enhancing it<5 Type='0'/> one more time?
+  
+  
+  Some sets of clothing, when each piece
+  is enhanced twice, will grant you a <0 Type='3' Data='0000'/>new
+  power<0 Type='3' Data='ffff'/> when worn.
+ComTalk_022: |
+  <3 Type='0' Data='0a00'/>Oh, no, no, no... <5 Type='1'/>I can't enhance this
+  clothing item.
+ComTalk_023: |
+  <3 Type='0' Data='0a00'/>No good... <5 Type='1'/>I can't enhance that
+  clothing item...

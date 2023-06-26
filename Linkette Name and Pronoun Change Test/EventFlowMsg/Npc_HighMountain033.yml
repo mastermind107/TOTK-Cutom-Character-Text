@@ -1,0 +1,75 @@
+Talk10_01: |
+  <3 Type='0' Data='0101'/>I'm gonna keep practicing my cooking
+  until everyone in the village loves it!<0 Type='4'/><3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Speaking of which! <5 Type='1'/>Do you want to hear
+  about what I've learned so far?
+Near32: |
+  So much to learn!
+Near33: |
+  Another day in the kitchen!
+Talk10: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Look, ma'am, look! The blizzard stopped,
+  and the sky cleared up!<0 Type='4'/><3 Type='0' Data='0801'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>This will definitely for sure make Mama
+  and everyone else in the village happy!
+Talk24: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='0a005400680069006e006b00'/>Things are really tough in the village right
+  now because of the blizzard.<0 Type='4'/><3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>That's why I'm learning how to make food!
+  Everyone feels better after a yummy meal.<0 Type='4'/>Every day I take a look at the recipe book
+  and try something new. It's going great!
+Talk27: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08004500610073006500'/>It's getting late today. I'll go back to the
+  cookbook tomorrow.
+Talk28: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Hey, ma'am. Didja know there's a recipe
+  book at the Slippery Falcon?<0 Type='4'/>I look at it every day to learn how to be
+  a good cook!
+Talk29: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Do you need something, ma'am? I've got
+  my hands a little full now.<0 Type='4'/>I'd love to chat, but I'm on my way to the
+  kitchen so I can try out a new recipe!
+Talk51: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Yoo-hoo, ma'am! <5 Type='1'/>Do you want to hear
+  what I've learned about cooking so far?
+Near28: |
+  Zzz... Zzz...
+Near50: |
+  I'm learning so much...
+Talk52: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Yoo-hoo! <5 Type='1'/>Do you want to hear what I've
+  learned about cooking again?
+Near29: |
+  I wanna be like Mama!
+Talk24_00: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Hi, ma'am! <5 Type='1'/>I'm still working hard!
+0001: |
+  Tell me!
+Talk53: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Great! <5 Type='0'/>Ummm, let's see...
+0002: |
+  Maybe next time.
+Talk54: |
+  <3 Type='0' Data='0701'/>Remember how I tried to make a fish pie?
+Talk07: |
+  <FontSize Value='80'/><3 Type='0' Data='0001'/><4 Type='0' Data='100053006c006500650070005f0030003000'/>Enjoy...<5 Type='0'/>the food...<FontSize Value='100'/>
+Talk55: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>I used <0 Type='3' Data='0000'/>Tabantha wheat<0 Type='3' Data='ffff'/> and <0 Type='3' Data='0000'/>goat butter<0 Type='3' Data='ffff'/>
+  as the basis for the dough.<5 Type='0'/><0 Type='4'/>It turns out you can make all sorts of pies
+  depending on what you add to that!<0 Type='4'/>If you add fruit and cane sugar, you'll
+  make a <0 Type='3' Data='0000'/>fruit pie<0 Type='3' Data='ffff'/>. <5 Type='1'/>Meat and rock salt make
+  a <0 Type='3' Data='0000'/>meat pie<0 Type='3' Data='ffff'/>. You get the idea!
+Talk08: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Thank you for the fish! I'm gonna
+  make a real yummy meal with it!
+Talk56: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>If you add <0 Type='3' Data='0000'/>goat butter<0 Type='3' Data='ffff'/> to <0 Type='3' Data='0000'/>Tabantha wheat<0 Type='3' Data='ffff'/>
+  and <0 Type='3' Data='0000'/>cane sugar<0 Type='3' Data='ffff'/>, <5 Type='0'/>you can bake a cake.<0 Type='4'/>If you mix in a tree nut on top, you get
+  a <0 Type='3' Data='0000'/>nutcake<0 Type='3' Data='ffff'/>. <5 Type='1'/>Or you could use a carrot
+  instead for a <0 Type='3' Data='0000'/>carrot cake<0 Type='3' Data='ffff'/>!
+Talk57: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>You should definitely try out some of this
+  stuff for yourself!
+Near30: |
+  The sky's cleared up!
+Talk58: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Sure. <5 Type='0'/>Next time it is!
+Near31: |
+  Gettin' yawny...

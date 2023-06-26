@@ -20,7 +20,7 @@ Com_Photo_03: |
   here, I don't know when I'll be able to
   paint something like that.
 Com_Photo_Thank: |
-  <3 Type='0' Data='0800'/>Thanks to you, Linkette, a ray of light shines
+  <3 Type='0' Data='0800'/>Thanks to you, Rinkuru, a ray of light shines
   in my storm-battered stable.
   
   Visitors to Faron may not find clear skies
@@ -101,7 +101,7 @@ Com_Photo_10: |
   <3 Type='0' Data='0800'/>Whenever I look at that picture, I get
   excited all over again.
 Talk_0001: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Is this your first time in the area, sir?<0 Type='4'/>It's a little-known fact that our stable
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Is this your first time in the area, ma'am?<0 Type='4'/>It's a little-known fact that our stable
   receives orders from <0 Type='3' Data='0000'/>Princess Zelda<0 Type='3' Data='ffff'/>
   herself.
   At her direction, we opened a sanctuary

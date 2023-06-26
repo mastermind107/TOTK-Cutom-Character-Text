@@ -17,14 +17,14 @@ talk138: |
 0011: |
   No, I'm not.
 talk122: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh, Professor Linkette! Hey there!<0 Type='4'/>Are you on the way to school too?
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh, Professor Rinkuru! Hey there!<0 Type='4'/>Are you on the way to school too?
   We'd better hurry if we don't wanna
   get soaked!
 talk123: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Can't we talk at school? Better there than
   in the middle of this rain!
 talk62: |
-  <3 Type='0' Data='0700'/>Um... Do I know you, mister?
+  <3 Type='0' Data='0700'/>Um... Do I know you, ma'am?
 0014: |
   I'm a traveler.
 talk63: |
@@ -60,7 +60,7 @@ talk111: |
   days have a different feel to what we see
   nowadays. I like 'em!<0 Type='4'/>I think I'll tell my dad about it!
 talk51: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Huh? Who are you, mister?
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Huh? Who are you, ma'am?
 talk113: |
   <3 Type='0' Data='0700'/>The monster curry you made for us had...
   I guess you'd call it an interesting flavor.<0 Type='4'/>And as soon as I saw the color, suddenly
@@ -84,7 +84,7 @@ talk114: |
   too. <5 Type='1'/>Hm?
 talk54: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Nice evening, huh? Wait...do I know
-  you, mister?
+  you, ma'am?
 talk96: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Nice evening, huh? Oh...aren't you the
   gal I met before? Who were you again?
@@ -92,7 +92,7 @@ talk55: |
   <3 Type='0' Data='0800'/>Oh yeah? You got good taste if you
   wandered here to Hateno Village.
 talk97: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey, Professor Linkette! I know you want to
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey, Professor Rinkuru! I know you want to
   talk and all, but...<0 Type='4'/>I'm supposed to be helping at the shop,
   so I gotta get going.<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>That's the dye shop, by the way. If you
   get bored with how your clothes look,
@@ -113,32 +113,32 @@ talk119: |
   <3 Type='0' Data='0b00'/>What the— Where did you come from?!
   Don't startle me!
 talk99: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey, Professor Linkette! Greetings and
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey, Professor Rinkuru! Greetings and
   salutations! <5 Type='1'/>I mean, saturations!
 talk40: |
-  <3 Type='0' Data='0300'/><4 Type='0' Data='0c00570061006b00650075007000'/>*yawn* Hey, mister.<0 Type='4'/>I'm tired, and I've got school tomorrow,
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0c00570061006b00650075007000'/>*yawn* Hey, ma'am.<0 Type='4'/>I'm tired, and I've got school tomorrow,
   so let's play some other time.
 talk82: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh! Hey, Professor Linkette!<0 Type='4'/>Are you on the way to school too? Let's
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh! Hey, Professor Rinkuru!<0 Type='4'/>Are you on the way to school too? Let's
   get a move on so we're not late!
 talk41: |
   <3 Type='0' Data='0000'/><4 Type='0' Data='0a0053006c00650065007000'/>What book...<5 Type='0'/>should I...<5 Type='0'/>read tomorrow...
 talk83: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hurry, Professor Linkette! Or else we're
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hurry, Professor Rinkuru! Or else we're
   gonna be late for school!
 talk84: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Need me for somethin', mister? Hey, if
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Need me for somethin', ma'am? Hey, if
   you wanna talk, can we do it at school?
   I hate gettin' wet.
 talk43: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Welcome! Are you a traveler?
 talk85: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Hm? Wait, didn't I just see you, mister?
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Hm? Wait, didn't I just see you, ma'am?
   Who were you again?
 near01: |
   STILL no lesson?
 talk88: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh! Hey, Professor Linkette! Are you subbing
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh! Hey, Professor Rinkuru! Are you subbing
   for our class today too?<0 Type='4'/>I hope so. Your lessons are fun and easy
   to understand, so I get excited to learn.
 near02: |
@@ -159,7 +159,7 @@ talk108: |
   <3 Type='0' Data='0700'/>Huh? Oh... Aren't you the gal I met
   before? Who were you again?
 talk48: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Uh, mister, can this not wait? Class is
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Uh, can this not wait? Class is
   about to start!<0 Type='4'/>Why don't you watch Professor Symin's
   lecture with the rest of us?
 talk89: |
@@ -170,15 +170,15 @@ talk71: |
   <3 Type='0' Data='0700'/>Ahhh, then you must be a Cece fan! Here
   to pay your respects or something?
 talk132: |
-  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey, Professor Linkette! Greetings and
+  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey, Professor Rinkuru! Greetings and
   salutations! <5 Type='1'/>I mean, saturations!<0 Type='4'/>Glad you could make it even though
   it's raining!
 talk109: |
-  <3 Type='0' Data='0700'/>Oh, Professor Linkette. Nice evening, huh?
+  <3 Type='0' Data='0700'/>Oh, Professor Rinkuru. Nice evening, huh?
   What are you doing out this late?<0 Type='4'/>Never mind. I'm tired, so I should get to
   sleep soon. Goodnight, professor! 
 talk31: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Sorry, mister!<0 Type='4'/>Ask someone else! I'm in a hurry!
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Sorry, ma'am!<0 Type='4'/>Ask someone else! I'm in a hurry!
 talk133: |
   <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>Gaaah... If you wanna talk, can we go
   somewhere that has a roof?<0 Type='4'/><3 Type='0' Data='0701'/>I'm in a hurry anyway. I'm supposed to
@@ -213,10 +213,10 @@ talk135: |
   <3 Type='0' Data='0b00'/>Bwah! Who are you? Don't sneak up on
   me like that!
 talk136: |
-  <3 Type='0' Data='0b00'/>What the— Professor Linkette?! Where did
+  <3 Type='0' Data='0b00'/>What the— Professor Rinkuru?! Where did
   you come from? Don't startle me!
 talk34: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey, mister. I know you want to talk and
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey, ma'am. I know you want to talk and
   all, but...<0 Type='4'/>I'm supposed to be helping at the shop,
   so I gotta get going.<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>That's the dye shop, by the way. If you
   get bored with how your clothes look,

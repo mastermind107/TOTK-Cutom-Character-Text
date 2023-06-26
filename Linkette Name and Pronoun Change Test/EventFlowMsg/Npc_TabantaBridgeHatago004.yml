@@ -1,0 +1,102 @@
+Talk08_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>What's up, ma'am?
+Talk10: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>That biiig mountain over there is <0 Type='3' Data='0000'/>Satori
+  Mountain<0 Type='3' Data='ffff'/>! <5 Type='0'/>They say it's crawling with
+  rare bugs!
+  <3 Type='0' Data='0a01'/>I, um...<5 Type='0'/> I love bugs, but it's hard to find
+  rare ones around here.
+  
+  <3 Type='0' Data='0801'/>That's why someday I wanna go to that
+  mountain and catch enough bugs to fill
+  up a ginormous rucksack!
+Talk11: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0a0048006100700070007900'/>Also!<5 Type='0'/> The <0 Type='3' Data='0000'/>beetle shopkeeper <0 Type='3' Data='ffff'/>knows just
+  about everything you could ever wanna
+  know about bugs.
+  So you should definitely have him teach
+  you lots and lots!
+Talk12: |
+  <3 Type='0' Data='0700'/>OK! If you ever wanna hear about it,
+  just let me know!
+WakkaCharm: |
+  Huh... A ring garland?
+LargeHorse: |
+  I want a ride on that.
+Ballon01: |
+  Any bugs around here?
+Talk13: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Well, um...<5 Type='0'/>my mom and dad are always
+  busy, so my siblings and I try to help out!
+  
+  <3 Type='0' Data='0701'/>If you wanna learn about stuff at the
+  stable, try asking my brother and
+  sister outside.
+Talk01: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Ah!<5 Type='1'/> Hello.
+Ballon02: |
+  Come on out, bugs...
+Talk14: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0a0048006100700070007900'/>My mom and dad are always busy, so my
+  siblings and I try to help out!
+  
+  <3 Type='0' Data='0701'/>If you want to hear more about the stable,
+  try asking my brother and sister outside.
+Talk02: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Ah!<5 Type='1'/> Good evening.
+Talk15: |
+  <3 Type='0' Data='0a00'/>I wanna catch a rare bug tomorrow.<5 Type='0'/>
+  Do you think...<5 Type='0'/>it might rain?
+Talk03: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>That's <0 Type='3' Data='0000'/>Satori Mountain<0 Type='3' Data='ffff'/>.<5 Type='0'/> They say it's
+  absolutely crawling with rare bugs!
+  
+  <3 Type='0' Data='0a01'/>I, um...<5 Type='0'/> I love bugs, but there aren't many
+  rare ones around here.
+  
+  <3 Type='0' Data='0801'/>So someday, I wanna go to that
+  mountain and catch enough bugs
+  to fill a huuuge rucksack!
+Talk16: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='100053006c006500650070005f0030003100'/>Is this<5 Type='0'/> <0 Type='3' Data='0000'/>Satori Mountain<0 Type='3' Data='ffff'/>?!<5 Type='0'/> Here...<5 Type='0'/> There...<5 Type='0'/>
+  Rare bugs everywhere!
+BoneHorse: |
+  That thing is...rattling...
+Talk04: |
+  <3 Type='0' Data='0700'/>Ah,<5 Type='0'/> also...
+Talk17: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='100053006c006500650070005f0030003100'/>Yay, it's raining...<5 Type='0'/> Look, a rare
+  <0 Type='3' Data='0000'/>thunderwing butterfly<0 Type='3' Data='ffff'/>. <5 Type='0'/>So pretty...
+  <5 Type='0'/>Zzz zzz...
+0001: |
+  Tell me!
+Talk18: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='100053006c006500650070005f0030003100'/>Rain...<5 Type='0'/> Lucky me...<5 Type='0'/> Come on out, <5 Type='0'/>rare
+  <0 Type='3' Data='0000'/>electric darner<0 Type='3' Data='ffff'/>.<5 Type='0'/> Zzz...
+Talk19: |
+  <3 Type='0' Data='0700'/>So, listen. I dunno if you know, but...
+  
+  
+  You see it?<5 Type='0'/> The big mountain over there?
+Talk06: |
+  <3 Type='0' Data='0800'/>The <0 Type='3' Data='0000'/>beetle shopkeeper<0 Type='3' Data='ffff'/> who comes here
+  knows eeeverything there is to know
+  about bugs.
+  So you should have him teach you lots
+  when he's here!
+0002: |
+  See you around!
+Talk07: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>Hey, it's you!<5 Type='0'/> Ah, whoops...
+  
+  
+  I'm supposed to greet all our customers
+  properly.<5 Type='0'/> Mom'll get mad at me again...
+Talk08: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Uh, <5 Type='0'/>so... What's up?
+GoldHorse: |
+  So shiny and golden...
+Talk09: |
+  <3 Type='0' Data='0701'/>Wanna hear about the mountain again?
+Talk20: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Woo-hoo!

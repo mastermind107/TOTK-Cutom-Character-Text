@@ -1,0 +1,147 @@
+Near_GoRange_02: |
+  I'm curious...
+Near_BackRange_01: |
+  Where could that shop be?
+StartPoint_01_2: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>In the Gerudo region, heat-resistant
+  clothes are tremendously valuable...and
+  clothes for men are incredibly rare.
+  <3 Type='0' Data='0701'/>"But wait," you ask, "if men are forbidden
+  from Gerudo Town, <5 Type='0'/>do clothes like that
+  even exist?"
+  Well, I heard that there's a hidden shop
+  in Gerudo Town that specializes in that
+  very thing!
+  <3 Type='0' Data='0801'/>How could any lover of fashion not be
+  curious about style so secretive?
+GoalPoint_01_2: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='0e00540072006f00750062006c006500'/>The <0 Type='3' Data='0000'/>southeastern part of the desert<0 Type='3' Data='ffff'/> is
+  absolutely lousy with sinkholes... I get
+  scared just thinking of falling in.
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>Why would <0 Type='3' Data='0000'/>Misko <0 Type='3' Data='ffff'/>hide their <0 Type='3' Data='0000'/>clothes<0 Type='3' Data='ffff'/>
+  somewhere so dangerous?<0 Type='4'/><3 Type='0' Data='0800'/>Those pieces must be so rare, Misko
+  didn't want anyone to have them!
+Yiga_00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Wait.<5 Type='0'/> It's not just the tights—you're in the
+  full set! Look at you, all coordinated.<0 Type='4'/>I'd never have the courage to pull that off.
+  For a variety of reasons...<0 Type='4'/><3 Type='0' Data='0801'/>But even that outfit couldn't fool me!<5 Type='0'/> 
+  I knew it was you right away.
+Near_BackRange_02: |
+  I think I'll pass.
+GoRange_01: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>So you won't hear this from anybody in
+  Gerudo Town, but...
+  
+  there's apparently a secret shop
+  somewhere in the town that sells
+  heat-resistant clothing.
+  <3 Type='0' Data='0800'/>Not too surprising, right? Well, get a load
+  of this. That clothing...is for MEN!
+  
+  Pretty mysterious, huh? Especially since
+  men aren't allowed in Gerudo Town.
+  Makes me want to investigate!
+GoRange_02: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Do you know about <0 Type='3' Data='0000'/>sinkholes<0 Type='3' Data='ffff'/>, my hero?
+  They're, uh, holes with sand flowing into
+  them...that can you sink into.
+  Perhaps that description wasn't terribly
+  helpful, but there are lots in the <0 Type='3' Data='0000'/>southeast<0 Type='3' Data='ffff'/>
+  <0 Type='3' Data='0000'/>part of the desert<0 Type='3' Data='ffff'/>, so be careful!
+  <3 Type='0' Data='0c00'/>Legend has it that the bandit Misko hid
+  their treasured <0 Type='3' Data='0000'/>clothing<0 Type='3' Data='ffff'/> around there...
+  
+  But what kind of clothing is so precious
+  that you need to hide it in a sea of
+  sandy deathtraps?
+Near_GoalPoint_01: |
+  I want those clothes, but...
+Near_StartPoint_01: |
+  A secret shop, huh?
+FriendGreet_00: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Aaah!<0 Type='4'/>Well, if it isn't the hero who saved me
+  from the Yiga Clan! What a miracle that
+  we'd meet again! 
+StartPoint_01: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>You know, it's strange... I've heard that
+  there's heat-resistant clothing for MEN
+  in Gerudo Town.
+  But men are famously forbidden in
+  Gerudo Town, so what's the story there?
+  
+  <3 Type='0' Data='0c00'/>Given the target clientele, I'd bet that it's
+  being sold in some secret shop, hidden
+  away from all the others.
+  But where could that shop be? Ugh, so
+  many questions, so few answers.
+FriendGreet_01: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh! To think we'd meet again, my hero...
+  And here, no less! Perhaps it's fate?
+GoRange_01_2: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I'm so curious about Gerudo Town's
+  secret shop. I mean, a clothing shop for
+  men in a town that doesn't admit them?
+  They supposedly sell heat-resistant
+  clothes, but who's actually buying them?
+GoRange_02_2: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0e00540072006f00750062006c006500'/>I want to know what kind of <0 Type='3' Data='0000'/>clothing
+  Misko hid<0 Type='3' Data='ffff'/>,<5 Type='0'/> so I'm tempted to make my
+  way to the <0 Type='3' Data='0000'/>southeast part of the desert<0 Type='3' Data='ffff'/>...<5 Type='1'/>
+  But the idea of falling into one of those
+  sinkholes is nightmarish enough that
+  I think I'll keep my distance.
+Yiga: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Are those...<5 Type='1'/> Yes! The tights I made!<0 Type='4'/>They suit you so well! <5 Type='1'/>Look, they're just
+  your size and everything.
+GoalPoint_01: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>There's a rumor that the bandit Misko
+  hid some of their <0 Type='3' Data='0000'/>treasure <0 Type='3' Data='ffff'/>in the <0 Type='3' Data='0000'/>desert
+  southeast<0 Type='3' Data='ffff'/> of here.
+  And get this—that "treasure" is supposed
+  to be part of Misko's <0 Type='3' Data='0000'/>legendary wardrobe<0 Type='3' Data='ffff'/>!
+  Pretty cool right?!
+  <3 Type='0' Data='0c00'/>Only problem is all the sinkholes around
+  there. I'm not sure cool clothes are worth
+  getting buried alive in a sandy pit...
+BackRange_01: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>The daytime heat in the Gerudo Desert
+  and Gerudo Canyon sure is brutal, huh?
+  
+  Apparently, someone's selling heat-
+  resistant men's clothing somewhere
+  in Gerudo Town.
+  But if guys aren't allowed into Gerudo
+  Town, how are they supposed to buy it?
+  And where would they even sell it?
+BackRange_01_2: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='1000540061006c006b00440065006e007900'/>Heat-resistant clothing would really come
+  in handy in the Gerudo Desert...
+  
+  I heard that there is a secret shop in town
+  that sells clothes for men despite rules
+  that explicitly forbid men from entering.
+  You really have to wonder what kind of
+  shop can operate like that. Makes me
+  even more curious to find it!
+BackRange_02_2: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0e00540072006f00750062006c006500'/>What was Misko thinking, hiding those
+  <0 Type='3' Data='0000'/>clothes <0 Type='3' Data='ffff'/>in a far-off place like the
+  <0 Type='3' Data='0000'/>southeast Gerudo Desert<0 Type='3' Data='ffff'/>?
+  The distance would be one thing, but all
+  those sinkholes... I'm too scared for my
+  wellbeing to actually look for those duds.
+BackRange_02: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Have you heard about the bandit Misko,
+  my hero?
+  
+  They say that long ago, Misko hid their
+  <0 Type='3' Data='0000'/>clothing collection<0 Type='3' Data='ffff'/> all over this land.
+  
+  Apparently, one piece of that collection is
+  in the <0 Type='3' Data='0000'/>southeast Gerudo Desert<0 Type='3' Data='ffff'/>...
+  
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0e00540072006f00750062006c006500'/>But that region's filled with sinkholes.<5 Type='1'/>
+  I'd rather not meet a sandy demise, so
+  I'll pass on looking for that one.
+Near_GoRange_01: |
+  How strange.

@@ -1,0 +1,144 @@
+Talk_07: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0600530061006400'/>I know that stables need a <0 Type='3' Data='0000'/>storage space
+  for building materials<0 Type='3' Data='ffff'/>, but it's taking ages
+  to get it in order.
+  I hope I can get back to looking after
+  horses or taking care of customers soon.
+Talk_08: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0600530061006400'/>All I do is clean the<0 Type='3' Data='0000'/> building material
+  storage<0 Type='3' Data='ffff'/> and trash-disposal area...
+  
+  This isn't why I wanted to work at a
+  stable. I hope I can go back to taking
+  care of horses or something soon.
+Near_05: |
+  I'd be happier as a guide...
+Talk_09: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Of course, of course. Directions are
+  important, after all. I'm happy to go over
+  them as many times as you need.
+Near_06: |
+  Done! It's done!
+WakkaCharm: |
+  A ring garland!
+LargeHorse: |
+  It's huuuge!
+Near_08: |
+  This is bad, this is bad!
+Near_09: |
+  I'll just take a breather...
+Talk_22: |
+  <3 Type='0' Data='0700'/>Ahh, I'm finally back to doing the work
+  I enjoy.
+  
+  But don't worry. My humble guiding
+  services are still available. Is there
+  anything I can help you with?
+Talk_10: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Good morning!
+Talk_23: |
+  <FontSize Value='80'/><3 Type='0' Data='0700'/><4 Type='0' Data='0a0053006c00650065007000'/>Enough...cleaning. Let me work...with horses...
+  If you're looking...for a guide...I'm...<FontSize Value='100'/>
+Talk_11: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh, a traveler! Hello!
+BoneHorse: |
+  A bone horse?!
+0001: |
+  Route to Gerudo Town?
+Talk_13: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>I'm taking a little break. Just, uh, please
+  don't tell my boss.
+Talk_01: |
+  <3 Type='0' Data='0700'/>Things are a bit of a mess around here.
+  If you need to use the stable, you can
+  check in at the counter.
+  <3 Type='0' Data='0101'/>Oh! But if you have questions about
+  routes through the area, then I'm the
+  guide for you!
+  If you're passing through here, then you
+  must be heading to <0 Type='3' Data='0000'/>Gerudo Town<0 Type='3' Data='ffff'/>, right?
+  
+  Allow me to offer information about my
+  <0 Type='3' Data='0000'/>regional recommendations<0 Type='3' Data='ffff'/>, free of charge!
+0002: |
+  Recommendations?
+Near_11: |
+  Now, where does this go...
+Talk_02: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Ah, it looks like you're interested in my
+  guide services!
+  
+  Are you headed to <0 Type='3' Data='0000'/>Gerudo Town<0 Type='3' Data='ffff'/>? Or do
+  you want information about my carefully
+  curated <0 Type='3' Data='0000'/>regional recommendations<0 Type='3' Data='ffff'/>?
+0003: |
+  Goodbye.
+Talk_03: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>If it's Gerudo Town you want, then the
+  safest route is to cross <0 Type='3' Data='0000'/>Digdogg Bridge<0 Type='3' Data='ffff'/>.
+  
+  To get there, head right when you leave
+  the stable, then take another right at the
+  three-way intersection.
+  A <0 Type='3' Data='0000'/>massive Zonai ruin<0 Type='3' Data='ffff'/> fell near the bridge.
+  That place is swarming with researchers.
+  You can't miss it.
+Talk_16: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Whew! I'm worn out. And you've been
+  working hard, too!
+GoldHorse: |
+  That's a special horse.
+Talk_17: |
+  <3 Type='0' Data='0a00'/>Phew. I'm finally done for the day. My
+  back is killing me after all that cleaning...
+  
+  <3 Type='0' Data='0801'/>But if you're looking for my guiding
+  services, then I'm fresh as can be! 
+  
+  Are you headed to <0 Type='3' Data='0000'/>Gerudo Town<0 Type='3' Data='ffff'/>? Or do
+  you want information about my carefully
+  curated <0 Type='3' Data='0000'/>regional recommendations<0 Type='3' Data='ffff'/>?
+Talk_04: |
+  <3 Type='0' Data='0c00'/>Well, you'll have to get through the desert
+  to reach Gerudo Town.
+  
+  I've heard an enormous <0 Type='3' Data='0000'/>sand shroud<0 Type='3' Data='ffff'/> has
+  blown in and they're locked down tight.
+Near_01: |
+  Gotta finish today...
+NakedPlayer: |
+  Not many layers there, eh?
+Talk_05: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Well then! Have you heard about the
+  <0 Type='3' Data='0000'/>Coliseum Ruins<0 Type='3' Data='ffff'/>?
+  
+  To get to those ruins, first face directly
+  away from the front of the stable.
+  
+  Then take a look to the mountain that's
+  somewhat off to your right. You'll find the
+  ruins by crossing over it.
+  <3 Type='0' Data='0c00'/>When you stand right in the middle of
+  the strange, circular ruins and close
+  your eyes, something happens.
+  You can hear the battle cry of those
+  powerful soldiers testing their strength
+  long, long ago.
+  <3 Type='0' Data='0800'/>Hearing that, you can't help feeling a
+  rush of adventure! I highly recommend
+  going to those ruins.<5 Type='1'/>
+  <3 Type='0' Data='0a01'/>Be warned—a truly vicious monster has
+  settled there.
+  
+  You'll probably end up testing YOUR
+  strength against it.
+Talk_18: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='26005100750065007300740069006f006e00530075007200700072006900730065005f0030003000'/>Yikes! Rain! Ooh, I sure hope we don't get
+  any <0 Type='3' Data='0000'/>lightning<0 Type='3' Data='ffff'/>...
+  
+  Ugh. I'm going somewhere dry.
+Near_02: |
+  What a mess...
+Talk_19: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Drat, it's raining! You should get out of
+  the rain, too, traveler.

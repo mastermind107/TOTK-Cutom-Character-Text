@@ -1,0 +1,211 @@
+talk0008: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>I'm not gonna do anything <0 Type='3' Data='0000'/>while you're
+  watching<0 Type='3' Data='ffff'/>, ma'am.
+SecretVegetableGarden_Npc_Kakariko004_Water_03: |
+  <3 Type='0' Data='0401'/>I just now watered them!
+talk0009: |
+  <FontSize Value='80'/><3 Type='0' Data='0500'/>Mommy, I'm gonna tell you about my <0 Type='3' Data='0000'/>secret base<0 Type='3' Data='ffff'/>.
+  So, when Daddy and Big Sis are at work and I'm
+  all alone...<FontSize Value='100'/>
+near0000: |
+  <4 Type='0' Data='0e00480075006d006d0069006e006700'/>♪Off I go!♪
+near0001: |
+  Mommy...
+near0002: |
+  No one'll find me here...
+near0003: |
+  *yawn*
+near0004: |
+  Zzz... Zzz...
+Talk_Greeting_01: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>I know you, ma'am! Did you come to say
+  good morning?
+near0005: |
+  Eep!
+talk0020: |
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Gyaaah!<FontSize Value='100'/>
+  
+  
+  What are you doing in my secret base?!<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0a01'/>Aww... Well, now that it's found out,
+  I guess I can tell you... But you have to
+  PROMISE not to tell!
+  I...<5 Type='1'/>found <0 Type='3' Data='0000'/>Mommy's recipe<0 Type='3' Data='ffff'/>!
+  
+  
+  I wanna make Mommy's cooking for
+  Daddy and Big Sis 'cause they work so
+  hard, so I'm growing my own vegetables.
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>I'm gonna keep this a secret from them
+  till I learn how to do cooking right, so
+  no telling!
+  In exchange, you can eat some vegetables
+  whenever you want.
+  
+  <3 Type='0' Data='0201'/>Remember, you can't tell anyone!
+  
+  
+  <FontSize Value='125'/>Anyone!<FontSize Value='100'/>
+Talk_Greeting_02: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>I know you, ma'am! Did you come to say
+  good afternoon?
+near0006: |
+  Rain, go awaaay!
+talk0021: |
+  <3 Type='0' Data='0b00'/>Wh-wha... You again?! Nobody saw you,
+  did they?
+  
+  <3 Type='0' Data='0701'/>This is my secret base, where I can
+  practice <0 Type='3' Data='0000'/>Mommy's cooking<0 Type='3' Data='ffff'/> all by myself!
+Talk_Greeting_03: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>I know you, ma'am! Did you come to say
+  good evening?
+near0007: |
+  <4 Type='0' Data='0e00480075006d006d0069006e006700'/>♪Hellooo, world!♪
+talk0022: |
+  <3 Type='0' Data='0c01'/>But now it's bedtime...
+Talk_Greeting_04: |
+  <3 Type='0' Data='0900'/>I hate rain!
+talk0023: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Hmm...<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0500'/>Ummm...<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0500'/>It's that...<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>I don't know you!<5 Type='1'/>
+  
+  
+  And I shouldn't talk to strangers!<5 Type='1'/> But...<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0c01'/>We're already talking, so maybe we aren't
+  strangers anymore. This is probably fine!
+talk0011: |
+  <3 Type='0' Data='0801'/>Are you here to say nice things about
+  my drawings?
+  
+  It's the Ring Ruins, see? And Big Sis
+  and me!
+  
+  <3 Type='0' Data='0701'/><0 Type='3' Data='0000'/>Five<0 Type='3' Data='ffff'/> of those ruin-y rings fell, so I gotta
+  draw three more!
+talk0024: |
+  <3 Type='0' Data='0200'/>When I was small, Big Sis used to cry
+  at Mommy's grave when it rained.
+  
+  That's why rain should go away!
+ReturnHome_01: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Huhhh?<5 Type='1'/>
+talk0012: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>You wanna draw the Ring Ruins with me?
+  I'm not gonna draw you 'cause you're
+  almost a stranger.
+  <3 Type='0' Data='0901'/>And I'm not gonna draw Daddy 'cause he
+  spends all his time at the chief's house.
+talk0025: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>I'm not scared of rain!
+  
+  
+  But when I was small, Big Sis used to
+  cry at Mommy's grave when it rained.
+  
+  That's why rain should go away!
+ReturnHome_02: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>Did you get mixed up about whose house
+  you were going to? <5 Type='0'/>We live here, silly,
+  not you!
+talk0000: |
+  <3 Type='0' Data='0900'/>Gonna<5 Type='0'/> go<5 Type='0'/> visit<5 Type='0'/> Mommy!<5 Type='0'/> Outta my way!
+talk0013: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>I drew the Ring Ruins, Big Sis, and me!
+  Isn't it good?
+  
+  <3 Type='0' Data='0300'/>I also wanna draw the <0 Type='3' Data='0000'/>stone slabs <0 Type='3' Data='ffff'/>they
+  found in the ruins...
+  
+  But they're covered in weird <0 Type='3' Data='0000'/>writing<0 Type='3' Data='ffff'/> that's
+  too hard to copy.
+ReturnHome_03: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>Did you get mixed up about whose house
+  you were going to? <5 Type='0'/>We live here, silly,
+  not you!
+talk0001: |
+  <3 Type='0' Data='0700'/>I can't visit Mommy's grave 'cause the
+  <0 Type='3' Data='0000'/>Ring Ruin<0 Type='3' Data='ffff'/> is blocking the way, so I'll pray
+  for Mommy from here.
+  Only Mommy gets to hear about my
+  <0 Type='3' Data='0000'/>secret base<0 Type='3' Data='ffff'/>!
+talk0027: |
+  <3 Type='0' Data='0900'/>Hey! It's rude to listen to me praying!
+talk0014: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>If<5 Type='0'/> you<5 Type='0'/> follow<5 Type='0'/> me,<5 Type='0'/> you're...<5 Type='1'/>
+  
+  
+  <FontSize Value='125'/>MEAN!<FontSize Value='100'/><5 Type='1'/>
+  
+  
+  No one gets to know about my<0 Type='3' Data='0000'/> secret
+  base<0 Type='3' Data='ffff'/> except<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/>Mommy!
+talk0015: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>I'm <5 Type='0'/>gonna <5 Type='0'/>go<5 Type='0'/> play!<5 Type='0'/> Outta my way!
+talk0002: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>I'm <5 Type='0'/>gonna go<5 Type='0'/> draw stuff!<5 Type='0'/> Outta my way!
+talk0028: |
+  <3 Type='0' Data='0c00'/>Now it's bedtime...
+talk0016: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>You wanna draw the Ring Ruins with me?
+  
+  
+  And maybe if you ask nice, I'll draw your
+  picture! But I gotta draw Daddy first.
+  
+  And before I draw Daddy, I gotta
+  draw Mommy!
+talk0029: |
+  <3 Type='0' Data='0700'/>Paya and the others are doing something
+  under the <0 Type='3' Data='0000'/>Ring Ruin<0 Type='3' Data='ffff'/>, and now I can go
+  pray for Mommy!
+  Only Mommy gets to hear about my
+  <0 Type='3' Data='0000'/>secret base<0 Type='3' Data='ffff'/>.
+talk0003: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Huh? Do you wanna pray to Mommy too?
+  
+  
+  Well, OK, but my <0 Type='3' Data='0000'/>secret base<0 Type='3' Data='ffff'/> is a secret
+  for just me and Mommy!
+talk0017: |
+  <3 Type='0' Data='0900'/>Daddy spends all his time at the
+  chief's house...
+  
+  So I'm not gonna draw his picture!
+talk0018: |
+  <3 Type='0' Data='0c00'/>Hmm... What did Mommy look like again?
+talk0005: |
+  <3 Type='0' Data='0700'/>I don't want Daddy and Big Sis to
+  know about this until I can do cooking
+  properly. So...shhh!
+  In exchange, you can eat some vegetables
+  whenever you want.
+  
+  <3 Type='0' Data='0900'/>But no telling!
+  
+  
+  NO...<5 Type='0'/>TELLING!
+WakkaCharm: |
+  Big Sis's ring!
+talk0006: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08004500610073006500'/>Don't...follow...me...
+SecretVegetableGarden_Npc_Kakariko004_Water_01: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Whoa!<5 Type='1'/> It's like it's raining inside the well!
+talk0007: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Waaaaaah!<5 Type='1'/>
+  
+  
+  I'm not gonna do anything <0 Type='3' Data='0000'/>while
+  you're watching<0 Type='3' Data='ffff'/>, ma'am.

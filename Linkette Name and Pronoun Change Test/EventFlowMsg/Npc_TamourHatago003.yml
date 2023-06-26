@@ -1,5 +1,5 @@
 Talk13: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='1400410064006d00690072006100740069006f006e00'/>Welcome, good madam! <5 Type='0'/>Care to try one of
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1400410064006d00690072006100740069006f006e00'/>Welcome, good ma'am! <5 Type='0'/>Care to try one of
   our famous <0 Type='3' Data='0000'/>Malanya Buns<0 Type='3' Data='ffff'/>?
   
   It's a very popular new pastry that
@@ -16,7 +16,7 @@ Talk30: |
 Near01: |
   The sign's all ready!
 Talk14: |
-  <3 Type='0' Data='0800'/>Excellent choice, madam!
+  <3 Type='0' Data='0800'/>Excellent choice, ma'am!
 Talk31: |
   <3 Type='0' Data='0c01'/>I wish I could give Malanya one of these
   buns. Maybe then he'd have the energy to
@@ -56,9 +56,9 @@ Talk01: |
 0003: |
   Sure, that's fine!
 Talk36: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='1400410064006d00690072006100740069006f006e00'/>Welcome, <5 Type='0'/>good madam.
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1400410064006d00690072006100740069006f006e00'/>Welcome, <5 Type='0'/>good ma'am.
 Talk02: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='1400410064006d00690072006100740069006f006e00'/>Welcome, good madam!<5 Type='0'/> Looks like today's a
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1400410064006d00690072006100740069006f006e00'/>Welcome, good ma'am!<5 Type='0'/> Looks like today's a
   wet one.
   
   Let's make this fast, shall we?

@@ -1,0 +1,192 @@
+Talk2004: |
+  <3 Type='0' Data='0700'/>Guess what, ma'am!<0 Type='4'/>Now that the weather's better, we're
+  slowly getting back the goods we didn't
+  have enough of.<0 Type='4'/>I'll work extra hard to sell them! Stop by
+  our store, OK?
+Talk2005: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Why not shop at the Slippery Falcon?
+  We've got all the stuff you could need!<0 Type='4'/><3 Type='0' Data='0801'/>Especially now that the blizzard's over!
+  We can finally restock all the products we
+  couldn't before.<0 Type='4'/>If you ever need to prepare for a long
+  journey, make us your first stop!
+Talk2006: |
+  <3 Type='0' Data='0800'/>Evening!<0 Type='4'/>Thanks to things warming up after the
+  blizzard, the Slippery Falcon general store
+  has all the stuff you've been waiting on!
+  <3 Type='0' Data='0701'/>We're open even after the sun goes down,
+  so come and shop anytime!
+Talk2007: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>You can shop even after dark at the
+  Slippery Falcon, a general store with
+  all the stuff you could want!<0 Type='4'/><3 Type='0' Data='0801'/>And without the blizzard to worry about,
+  we're restocking all the products we
+  didn't have on the shelves before!<0 Type='4'/>If you're preparing for a long journey,
+  be sure to come shop with us first!
+Talk1002: |
+  <3 Type='0' Data='0800'/>This is the <0 Type='3' Data='0000'/>Slippery Falcon <0 Type='3' Data='ffff'/>general store.
+  We won't let a little blizzard stop us from
+  serving our customers with a smile!
+Talk1003: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Welcome to the <0 Type='3' Data='0000'/>Slippery Falcon<0 Type='3' Data='ffff'/> general
+  store. <5 Type='0'/>You must have had a long day if
+  you're still shopping this late!
+Near2001: |
+  Visit the Slippery Falcon!
+Near2002: |
+  *yawn*
+Talk1005: |
+  <3 Type='0' Data='0800'/>Hooray, a customer! Welcome to the
+  <0 Type='3' Data='0000'/>Slippery Falcon<0 Type='3' Data='ffff'/> general store.<0 Type='4'/><3 Type='0' Data='0701'/>Thanks for stopping by in spite of
+  the weather!
+Near2003: |
+  Zzz...
+Talk1006: |
+  <3 Type='0' Data='0700'/>So, um... What can I do for you, ma'am?
+Near2004: |
+  ♪Dum dee dum!♪
+Talk1007: |
+  <3 Type='0' Data='0001'/>Can I help you with anything else?
+Com_Talk_13: |
+  <3 Type='0' Data='0001'/>How many of those do you have to sell?
+Com_Talk_14: |
+  <3 Type='0' Data='0001'/>So <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of those comes to a total of...
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>!
+Com_Talk_15: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>Sorry, ma'am, but...I can't really buy that.
+Talk1009: |
+  <3 Type='0' Data='0700'/>This is a shop where you can buy cooking
+  ingredients, plus all sorts of other stuff!<5 Type='0'/><0 Type='4'/><3 Type='0' Data='0301'/>Although we haven't gotten much
+  business since the blizzard took out
+  the bridge...<0 Type='4'/><3 Type='0' Data='0701'/>Hey, ma'am, have you seen the building
+  with the big horse on top of it <0 Type='3' Data='0000'/>across
+  the bridge<0 Type='3' Data='ffff'/>?<0 Type='4'/>The people there make these kind of thin
+  books called "newspapers."<0 Type='4'/><3 Type='0' Data='0301'/>They used to be our best customers, but I
+  haven't heard from them in a while...
+Com_Talk_16: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Whoa, whoa, ma'am! I can't buy anything
+  from you that you're still wearing!
+0001: |
+  I'm here to sell.
+Com_Talk_31: |
+  <3 Type='0' Data='0001'/><0 Type='3' Data='0000'/><4 Type='0' Data='10004700720065006500740069006e006700'/><0 Type='3' Data='ffff'/>All right. How many were you thinking?
+0002: |
+  What is this place?
+Com_Talk_33: |
+  <3 Type='0' Data='0001'/>I can pay <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/> <0 Type='3' Data='ffff'/>for that one.
+0003: |
+  Goodbye.
+Com_Talk_05b: |
+  <3 Type='0' Data='0101'/>Hehe, don't keep me in suspense, ma'am!
+  Show me what you're selling!
+Com_Talk_34: |
+  <3 Type='0' Data='0401'/>Our whole stock?<0 Type='4'/><3 Type='0' Data='0001'/>Ummm, we have <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> on hand, so...
+  That'd come to <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>!
+Com_Talk_00: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10004700720065006500740069006e006700'/>OK, got it! Sell what though?
+Com_Talk_05c: |
+  <3 Type='0' Data='0001'/>Oh, but take your time choosing!
+Com_Talk_35: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0401'/><0 Type='3' Data='ffff'/>ALL of them?!<0 Type='4'/><3 Type='0' Data='0001'/>Well, you have <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>, so, um...yeah! I'll buy
+  them for <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>!
+Talk1012_01: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>Sorry our shelves are kinda empty. <5 Type='1'/>It's
+  'cause of all the heavy snowstorms.<0 Type='4'/><3 Type='0' Data='0000'/>If you need food, like <0 Type='3' Data='0000'/>fish <0 Type='3' Data='ffff'/>or <0 Type='3' Data='0000'/>mushrooms<0 Type='3' Data='ffff'/>,
+  you could try poking around in the caves
+  outside of town.
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>There's a bunch of <0 Type='3' Data='0000'/>caves <0 Type='3' Data='ffff'/>along the road
+  to the east, and even more of them in the
+  Hebra Mountains.
+Com_Talk_05d: |
+  <3 Type='0' Data='0101'/>I'm excited to see what you've got!
+Com_Talk_01: |
+  <3 Type='0' Data='0001'/>I could give you <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>, if that's
+  OK with you.
+Talk1012_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>If you poke around inside the caves, you
+  might find <0 Type='3' Data='0000'/>fish <0 Type='3' Data='ffff'/>or <0 Type='3' Data='0000'/>mushrooms <0 Type='3' Data='ffff'/>that I don't
+  have for sale right now.<0 Type='4'/>Try the road to the east of here or up in
+  the Hebra Mountains to see if you can
+  find any <0 Type='3' Data='0000'/>cave <0 Type='3' Data='ffff'/>entrances.
+Com_Talk_02: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Thanks! <5 Type='1'/>I'll buy other stuff too,
+  if you want.
+Com_Talk_02b: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>OK! Do you have anything else to sell?
+  Just curious.
+Com_Talk_04: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>Huh? You changed your mind? Awww.
+Com_Talk_50: |
+  <3 Type='0' Data='0001'/><0 Type='3' Data='0000'/><4 Type='0' Data='10004700720065006500740069006e006700'/><0 Type='3' Data='ffff'/>Sure. That'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>, OK?
+Talk2015: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Thank you! Goodness, those went quick.
+Talk1010: |
+  <3 Type='0' Data='0001'/>Ummm...will that be all?
+Com_Talk_05: |
+  <3 Type='0' Data='0701'/>Whatever it is, we'll buy it!
+Com_Talk_02c: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Got it! Thanks! You don't happen to have
+  anything else for sale, do you?
+Talk2016: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Thank you very much! I'll make sure to
+  order some more.
+Talk1011: |
+  <3 Type='0' Data='0001'/>OK! Is that all, or did you want something
+  else while you're here?
+5500: |
+  Sure.
+Com_Talk_02d: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Okey dokey! Is that it, or...
+Com_Talk_52: |
+  <3 Type='0' Data='0001'/>You want <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>? Ummm...that'll be
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>!
+Talk2017: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Thanks a lot! I'd better make a note to
+  restock those.
+5501: |
+  I'll pass.
+Talk1012: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Come again!
+Com_Talk_53: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='0600530061006400'/>Whoa, hey, you changed your mind?
+Talk2018: |
+  <3 Type='0' Data='0700'/>Oh, was that the last one? Thank you!
+Talk1013: |
+  <3 Type='0' Data='0701'/>I don't have anything left to sell to you.
+  But you're welcome to sell stuff to me!
+5502: |
+  Sounds good.
+Com_Talk_54: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>Oh nooo! You don't have enough rupees
+  to pay for that.
+near1000: |
+  Welcome!
+5503: |
+  Never mind.
+Com_Talk_55: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0a005400680069006e006b00'/>Huh? Your bag's all full. We can fix that!
+  Just sell me anything you don't need!
+Com_Talk_56: |
+  <3 Type='0' Data='0001'/>OK, so that's...<0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+Talk1015: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Hooray! Thanks for buying stuff!
+Talk1016: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Thanks!
+Talk1017: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Thank you! Don't forget to look at the
+  other stuff we have for sale too!
+5507: |
+  I'll buy them all!
+Talk1018: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Come by anytime!
+5508: |
+  I'll sell them all.
+Talk2001: |
+  <3 Type='0' Data='0800'/>Hey there, ma'am!<0 Type='4'/>Hee-hee. <5 Type='0'/>Now that it's warmer, we can
+  get all the products we couldn't before.<0 Type='4'/><3 Type='0' Data='0701'/>If there's anything the Slippery Falcon
+  general store can do for you, ma'am,
+  come stop by anytime!
+Talk2002: |
+  <3 Type='0' Data='0700'/>I did good at work today. I've gotta keep
+  it up tomorrow and the next day too!
+Talk2003: |
+  <FontSize Value='80'/><3 Type='0' Data='0501'/><4 Type='0' Data='0a0053006c00650065007000'/>Welcome to...<5 Type='0'/>Slippery...<5 Type='0'/>Falcon...<5 Type='0'/><FontSize Value='100'/>

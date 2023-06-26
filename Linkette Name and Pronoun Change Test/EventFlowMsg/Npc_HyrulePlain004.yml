@@ -1,0 +1,119 @@
+Talk_01: |
+  <3 Type='0' Data='0800'/>Are YOU looking for <0 Type='3' Data='0000'/>stuff that fell from
+  the sky <0 Type='3' Data='ffff'/>too?!
+Talk_27: |
+  <3 Type='0' Data='0900'/>I told you already! Weren't you listening?
+  I'm talking about the <0 Type='3' Data='0000'/>boxes<0 Type='3' Data='ffff'/> that fall from
+  the sky!
+Talk_15: |
+  <3 Type='0' Data='0c00'/>Do you think you could go into the sky if
+  you had lots of <0 Type='3' Data='0000'/>big balloons<0 Type='3' Data='ffff'/> like the one
+  on the <0 Type='3' Data='0000'/>other side of the pond<0 Type='3' Data='ffff'/>?
+GoldHorse: |
+  So shiny and golden...
+LargeHorse: |
+  I want a ride on that.
+Talk_16: |
+  <3 Type='0' Data='0700'/>Sorry, it's time to say good night. We'll
+  talk again tomorrow!<0 Type='4'/>If I don't sleep lots and grow up quick, I'll
+  never be able to go to the land in the sky!
+Talk_29: |
+  <3 Type='0' Data='0701'/>Hey, I gotta know...
+Talk_03: |
+  <3 Type='0' Data='0800'/>And that means a sky person's gotta be
+  dropping them!<0 Type='4'/><3 Type='0' Data='0101'/>I always knew there was a kingdom in the
+  sky, and I've always dreamed of going up
+  there to play with all the sky animals!
+  <3 Type='0' Data='0a00'/>But I'm still little, so I'm not allowed to go
+  too far away...
+Talk_17: |
+  <FontSize Value='80'/><3 Type='0' Data='0701'/><4 Type='0' Data='0a0053006c00650065007000'/>When I grow up...I'm going for sure...<5 Type='0'/><FontSize Value='100'/>
+Talk_04: |
+  <3 Type='0' Data='0900'/>Fine, then! <5 Type='0'/>Looking for stuff that <0 Type='3' Data='0000'/>fell from
+  the sky <0 Type='3' Data='ffff'/>is more fun by myself anyway!
+Talk_18: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>There aren't many clouds right now, so
+  you can get a really good look at the
+  land in the sky!
+Talk_19: |
+  <3 Type='0' Data='0a00'/>It's all dark and dreary now, so you can
+  barely see the land in the sky.
+Talk_06: |
+  <3 Type='0' Data='0700'/>It's really easy to slip in the rain, and
+  lightning can be dangerous...
+  
+  That's why my grandpa told me good kids
+  take shelter when it rains!
+  
+  Come on, let's go find a tree to
+  hide under!
+Talk_07: |
+  <3 Type='0' Data='0700'/>Ah! Welcome!
+Talk_08: |
+  <3 Type='0' Data='0801'/>I wanna hurry and be all grown up like
+  you, ma'am. Then I can go up there!
+Near_01: |
+  Someday I'll go up there...
+Talk_09: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/>I wonder if another box will fall from the
+  sky... <5 Type='0'/>What do you think it's like up there?
+  
+  <3 Type='0' Data='0c01'/>*sigh* I hope I can go there someday.
+  I wanna play with all the sky animals!
+Near_02: |
+  I hope I can see it today!
+Near_03: |
+  Eep! I'm gonna get wet!
+Near_04: |
+  Come back out, sun...
+Near_05: |
+  Zzz... Zzz...
+Near_06: |
+  Land...in the sky...
+Talk_30: |
+  <3 Type='0' Data='0800'/>Ah, there! Look, look!
+Near_07: |
+  <4 Type='0' Data='0e00480075006d006d0069006e006700'/>♪Up so high in the sky!♪
+Talk_31: |
+  <3 Type='0' Data='0701'/>Sometimes when I'm looking at the sky,
+  a big <0 Type='3' Data='0000'/>box<0 Type='3' Data='ffff'/> falls down from that island!
+0006: |
+  Fell from the sky?
+Talk_32: |
+  When I'm looking at the sky like this,
+  sometimes these big <0 Type='3' Data='0000'/>boxes<0 Type='3' Data='ffff'/> come
+  craaashing down!
+Talk_20: |
+  <3 Type='0' Data='0900'/>Outta my way! I gotta go look at the
+  kingdom of the sky!
+0007: |
+  Gotta go.
+Talk_21: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Even with the rain, it's so bright out that
+  you can still see the land in the sky!
+Talk_34: |
+  <3 Type='0' Data='0a00'/>It's so dreary out now that you can barely
+  see the land in the sky.
+BoneHorse: |
+  That thing is...rattling...
+Talk_22: |
+  <3 Type='0' Data='0a00'/>It's time for good kids to go to sleep.
+  No more looking at <0 Type='3' Data='0000'/>the land in the sky<0 Type='3' Data='ffff'/>...
+  because I'm a good kid...<5 Type='1'/>I guess.<FontSize Value='80'/><FontSize Value='100'/>
+  If you come back tomorrow, will you help
+  me look for <0 Type='3' Data='0000'/>stuff that fell from up there<0 Type='3' Data='ffff'/>?
+Talk_23: |
+  <3 Type='0' Data='0700'/>Oh... Is this your first time here, ma'am?
+  Welcome! This is <0 Type='3' Data='0000'/>Woodland Stable<0 Type='3' Data='ffff'/>!
+Talk_10: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>I'll see you later, then! Once I'm all
+  grown up, let's meet again in the
+  kingdom of the sky!
+Talk_24: |
+  <3 Type='0' Data='0800'/>You're looking for <0 Type='3' Data='0000'/>stuff that fell from the
+  sky<0 Type='3' Data='ffff'/> too, right, ma'am?
+WakkaCharm: |
+  A ring, a ring!
+Talk_26: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>You don't know?!<0 Type='4'/>Look up there—<5 Type='0'/>there's an island floating
+  in the sky! You see it too, right?

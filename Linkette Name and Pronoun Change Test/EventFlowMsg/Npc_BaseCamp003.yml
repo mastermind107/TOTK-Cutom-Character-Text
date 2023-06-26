@@ -153,7 +153,7 @@ Talk_18: |
   If reinforcements are needed, then we can
   link up with the Zora to attack or defend.
   
-  Anyway, best of luck to you, Linkette!
+  Anyway, best of luck to you, Rinkuru!
 Talk_30: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Ah, the knight's broadsword! It has some
   heft and increases in power if you're
@@ -247,18 +247,18 @@ Talk_03: |
 Talk_105: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>I need to keep practicing so I can
   someday become as fine a swordsman
-  as the legendary Linkette!
+  as the legendary Rinkuru!
 Talk_106: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>I'm happy there's someone other than me
   who's interested in weapons. Inspires me
   to put my all into my training.
 Greeting01: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003100'/>It's Linkette! Good morning to you!
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003100'/>It's Rinkuru! Good morning to you!
 Talk_108: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>You can have it if you want. I'll give it to
   you, so just give me a moment.
 Greeting02: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003100'/>It's Linkette! We all really appreciate the
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003100'/>It's Rinkuru! We all really appreciate the
   effort you put in.
 Talk_109: |
   <3 Type='0' Data='0701'/>There we have a knight's broadsword
@@ -273,20 +273,20 @@ Talk_120: |
   <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>Wait.
   
   
-  <FontSize Value='125'/>Linkette?!<FontSize Value='100'/>
+  <FontSize Value='125'/>Rinkuru?!<FontSize Value='100'/>
   
   
   My apologies! I was being selfish, not
   even looking up from practice to see
   that it's you!
-  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>It's such an honor to meet you, sir.
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>It's such an honor to meet you, ma'am.
   
   
   Well, now that I've met you, I'm even
   more motivated to become a master
-  swordsman just like you, Linkette! <5 Type='0'/>Back to it!
+  swordsman just like you, Rinkuru! <5 Type='0'/>Back to it!
 Greeting03: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003100'/>It's Linkette! Do you ever rest? Well, we all
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003100'/>It's Rinkuru! Do you ever rest? Well, we all
   really appreciate the effort you put in.
 Talk_121: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>Hup!
@@ -308,4 +308,4 @@ Talk_20: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>If reinforcements are needed, then we can
   link up with the Zora to attack or defend.
   
-  Anyway, best of luck to you, Linkette!
+  Anyway, best of luck to you, Rinkuru!

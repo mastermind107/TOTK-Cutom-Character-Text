@@ -42,7 +42,7 @@ CheckPicture_02: |
   see the tracks of that <0 Type='3' Data='0000'/>rumored beast<0 Type='3' Data='ffff'/>
   every day.
 Register00_4: |
-  <3 Type='0' Data='0501'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Wait...<5 Type='1'/> Linkette, that horse...<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>Isn't that the <0 Type='3' Data='0000'/>golden horse<0 Type='3' Data='ffff'/> that ran away
+  <3 Type='0' Data='0501'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Wait...<5 Type='1'/> Rinkuru, that horse...<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>Isn't that the <0 Type='3' Data='0000'/>golden horse<0 Type='3' Data='ffff'/> that ran away
   from our stable?!<0 Type='4'/><3 Type='0' Data='0301'/>I don't know what to say.<5 Type='0'/> Thank you so
   much for going to the trouble of bringing
   it back here...
@@ -146,7 +146,7 @@ Com_Photo_03: |
   painting like that, our stable would be
   the toast of Tabantha.
 DoNotWakka_01: |
-  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Whoa, hey!<5 Type='0'/> Excuse me, sir, but could you
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Whoa, hey!<5 Type='0'/> Excuse me, ma'am, but could you
   leave our garland alone?!<5 Type='0'/><0 Type='4'/><3 Type='0' Data='0501'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>You can only get those in <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>
   in <0 Type='3' Data='0000'/>Necluda<0 Type='3' Data='ffff'/>, so they're pretty rare. That
   means no funny business!

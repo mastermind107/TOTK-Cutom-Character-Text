@@ -1,0 +1,180 @@
+Talk2004: |
+  <3 Type='0' Data='0700'/>The grown-ups are back, but I'm still
+  helping out around the village.<0 Type='4'/><3 Type='0' Data='0001'/>I'm not gonna start taking it easy now!
+Talk1001: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='0a0048006100700070007900'/>Whoooa! You got all the Rito stuff!
+  I bet the cold doesn't bother you at all.<0 Type='4'/><3 Type='0' Data='0001'/>Even if you go up to the <0 Type='3' Data='0000'/>freezing-cold
+  mountain peak<0 Type='3' Data='ffff'/>, you'll probably be fine!
+Talk2007: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Honestly, I wasn't sure about being alone
+  here when all the grown-ups had to go
+  away 'cause of the blizzard.<0 Type='4'/>But us kids got together and helped out
+  with running the stores and stuff. It made
+  us a little more grown-up too!<0 Type='4'/>The blizzard stopped, so the grown-ups
+  are back. But I'm still gonna help out
+  around the shop!
+Talk2008: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Evening, ma'am!<0 Type='4'/>The blizzard stopped, so the grown-ups
+  are back. But I'm still gonna help out
+  around the shop!<0 Type='4'/>There's always work to do!
+Talk1003: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Thanks for coming to the shop, ma'am!
+Near2001: |
+  Need any warm clothes?
+Talk1004: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hi, hi! Thanks for coming in, even though
+  it's snowing so hard.<0 Type='4'/><3 Type='0' Data='0701'/>It's cold in the village, but it's <0 Type='3' Data='0000'/>even colder
+  on top of the mountain<0 Type='3' Data='ffff'/>.<0 Type='4'/>You'll <0 Type='3' Data='0000'/>freeze<0 Type='3' Data='ffff'/> solid at the peak if you don't
+  <0 Type='3' Data='0000'/>find a way to keep warm<0 Type='3' Data='ffff'/>!<0 Type='4'/>Lucky for you we sell waaarm clothes!
+Near2002: |
+  *yawwwn* I'm sleepy...
+Talk1005: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>You must be working hard if you're up
+  so late. <5 Type='0'/>Welcome to the <0 Type='3' Data='0000'/>Brazen Beak<0 Type='3' Data='ffff'/>
+  armor shop!
+Com_Talk_11: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Thanks for stopping by!
+Talk1006: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>What brings you to the shop today?
+Near2004: |
+  Off to another day at work!
+Com_Talk_13: |
+  <3 Type='0' Data='0001'/>How many are you selling?
+Com_Talk_14: |
+  <3 Type='0' Data='0001'/>So <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them?<5 Type='0'/> For that, I'd pay
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>!
+Talk1008: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Can't wait for your next visit!
+Talk1009: |
+  <3 Type='0' Data='0001'/>Will there be anything else?
+Com_Talk_15: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>Sorry, ma'am. I wouldn't know what to
+  do with that.
+Com_Talk_16: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Whoa! Ma'am, stop! You gotta take stuff
+  like that off before I can buy it.
+Com_Talk_11b: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Thanks a whole bunch for buying from us!
+Com_Talk_11c: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Thanks for buying!
+Com_Talk_11d: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>You'd look pretty good in that, ma'am!
+Talk1008_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Are you leaving, ma'am? <5 Type='0'/>Let me give you
+  a neat tip first.
+0001: |
+  I'm here to sell.
+Talk1008_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey, ma'am, have you ever explored a
+  cave before?
+0002: |
+  Goodbye.
+Talk1008_03: |
+  <3 Type='0' Data='0701'/>People are finding more <0 Type='3' Data='0000'/>caves<0 Type='3' Data='ffff'/> all the time
+  on the road east of here and on the way
+  up the Hebra Mountains!<0 Type='4'/>Caves are nice because they're warm.<5 Type='0'/>
+  You can hide out from the cold there if
+  you don't have our outfits.<0 Type='4'/>Plus, you can find shiny <0 Type='3' Data='0000'/>ores <0 Type='3' Data='ffff'/>inside the
+  sparkly rocks sometimes!<0 Type='4'/><3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>We'll <0 Type='3' Data='0000'/>pay a lot for those ores<0 Type='3' Data='ffff'/>, and so will
+  the folks at the general store. So keep an
+  eagle eye out for them!
+Com_Talk_33: |
+  <3 Type='0' Data='0001'/>Just one? OK! I'd pay <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+0003: |
+  What is this place?
+Talk1008_04: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>When you're freezing outside, duck inside
+  a nearby <0 Type='3' Data='0000'/>cave <0 Type='3' Data='ffff'/>if it looks warm.<0 Type='4'/>There are plenty of <0 Type='3' Data='0000'/>caves <0 Type='3' Data='ffff'/>along the road
+  east of here and on the way up the Hebra
+  Mountains for you to take shelter in!
+Com_Talk_05b: |
+  <3 Type='0' Data='0001'/>There's no rush. Take your time!
+Com_Talk_00: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Whatcha selling, ma'am?
+Com_Talk_05c: |
+  <3 Type='0' Data='0001'/>OK, OK! I'll buy anything for the
+  right price.
+Com_Talk_35: |
+  <3 Type='0' Data='0401'/>All <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them? <3 Type='0' Data='0001'/>For that, I'd pay
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>!
+Com_Talk_05d: |
+  <3 Type='0' Data='0001'/>Just tell me what you wanna sell!
+Com_Talk_01: |
+  <3 Type='0' Data='0001'/>I'll buy that for <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/><201 Type='6' Data='0c002000720075007000650065000e0020007200750070006500650073000000'/><0 Type='3' Data='ffff'/>!
+Com_Talk_02: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0c004c0061007500670068005300'/>Thanks! So is that it?
+near1: |
+  ♪La la laaa...♪
+near2: |
+  Oh! It's too cold for that!
+Com_Talk_02b: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Thanks! Got anything else to sell?
+Com_Talk_04: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0600530061006400'/>Aww...if you say so.
+Com_Talk_50: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Absolutely! That'll be <0 Type='3' Data='0000'/><2 Type='16' Data='2800530068006f0070005f00530065006c006500630074004900740065006d0050007200690063006500ffff0001'/> rupees<0 Type='3' Data='ffff'/>.
+Talk1010: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Welcome to the <0 Type='3' Data='0000'/>Brazen Beak <0 Type='3' Data='ffff'/>armor shop!
+  We got all the cold protection you need!
+Com_Talk_05: |
+  <3 Type='0' Data='0001'/>I'll buy whatever you're selling!
+Com_Talk_02c: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0c004c0061007500670068005300'/>What a bargain! Thanks so much!
+Talk1016_01: |
+  <3 Type='0' Data='0700'/>We run the <0 Type='3' Data='0000'/>Brazen Beak<0 Type='3' Data='ffff'/> armor shop!<5 Type='1'/>
+  If you want clothes that'll keep you warm
+  in the snow, you're in the right place!
+Com_Talk_02d: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Thanks, ma'am! What else you got?
+Talk1011: |
+  <3 Type='0' Data='0700'/>This is the <0 Type='3' Data='0000'/>Brazen Beak <0 Type='3' Data='ffff'/>armor shop.
+  We have warmer armor!<0 Type='4'/>I know it's chilly here, but y'know what?
+  They say it's even colder at the <0 Type='3' Data='0000'/>top of
+  the mountain<0 Type='3' Data='ffff'/>! Brrr.<0 Type='4'/>You don't wanna freeze up there, ma'am!
+  Bundle up with some <0 Type='3' Data='0000'/>warm gear<0 Type='3' Data='ffff'/> right here
+  at the <0 Type='3' Data='0000'/>Brazen Beak<0 Type='3' Data='ffff'/>!
+5500: |
+  Sure.
+Talk1012: |
+  <3 Type='0' Data='0001'/>Do you need something more?
+5501: |
+  Never mind.
+Com_Talk_53: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>If you don't like that, don't worry.
+  We've got plenty of other stuff too!
+Talk1013: |
+  <3 Type='0' Data='0001'/>So, um, is there anything else?
+Talk1014: |
+  <3 Type='0' Data='0700'/>We're sold out now, but we'll get more
+  soon. Just give me a little while.<0 Type='4'/>It'll be worth it for all the different color
+  variations you can keep!
+5503: |
+  Never mind.
+Com_Talk_55: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Oops, your bag is all stuffed with...stuff.
+  If you wanna get rid of something, I'll pay
+  you for it!
+Talk1015: |
+  <3 Type='0' Data='0b00'/>Ma'am! <5 Type='1'/>What's gotten into you?!<0 Type='4'/>It's cold in the village, <5 Type='0'/>and it's <0 Type='3' Data='0000'/>even
+  colder up in the mountains<0 Type='3' Data='ffff'/>!
+Talk1016: |
+  <3 Type='0' Data='0700'/>This is the <0 Type='3' Data='0000'/>Brazen Beak<0 Type='3' Data='ffff'/> armor shop!<5 Type='1'/>
+  If you want clothes that'll keep you warm
+  in the snow, you're in the right place!
+Talk1015_01: |
+  <3 Type='0' Data='0b00'/>Ma'am! <5 Type='1'/>What's gotten into you?!<0 Type='4'/>Sure, the blizzard's stopped, <5 Type='0'/>but it's still
+  <0 Type='3' Data='0000'/>cold up in the mountains<0 Type='3' Data='ffff'/>!
+Talk1017: |
+  <3 Type='0' Data='0700'/>Having warm clothes won't do any good
+  if you don't remember to <0 Type='3' Data='0000'/>put them on<0 Type='3' Data='ffff'/>!
+5508: |
+  I'll sell them all.
+Talk2001: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hello, ma'am!<0 Type='4'/>The blizzard stopped, so the grown-ups
+  are back. But I'm still gonna help out
+  around the shop!<0 Type='4'/>There's always work to do!
+Talk2002: |
+  <3 Type='0' Data='0700'/>I worked hard today, and I'm gonna
+  work hard tomorrow too!
+Talk2003: |
+  <FontSize Value='80'/><3 Type='0' Data='0001'/><4 Type='0' Data='0a0053006c00650065007000'/>We have...<5 Type='0'/>warm clothes...<FontSize Value='100'/>

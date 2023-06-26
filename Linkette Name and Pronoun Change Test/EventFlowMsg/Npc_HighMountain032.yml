@@ -1,0 +1,119 @@
+Near0001: |
+  *sigh*
+Talk1019: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Aww, nooo... I did it again. The beds
+  are too soft and inviting...
+1007: |
+  Rito-down bed.
+Near0002: |
+  Welcome!
+Near2001: |
+  Why stay anywhere else?
+Near2002: |
+  So...very...tired...
+Near2004: |
+  I wasn't done sleepin'...
+Talk1030: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Eeep! A customer?! <5 Type='0'/>Who's sleeping?
+  I wasn't sleeping! <5 Type='0'/>Not me!<0 Type='4'/><3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Welcome to the Swallow's Roost Inn!<0 Type='4'/><3 Type='0' Data='0701'/>We don't have any other guests at the
+  moment, so rest easy and rest well!
+Talk1031: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Morning! How about that silky-
+  soft Rito-down bed, huh?
+Talk1032: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Rise and shine! How about that
+  silky-soft Rito-down bed, huh?<0 Type='4'/><3 Type='0' Data='0101'/>I bet you had nice, fluffy dreams on that
+  nice, fluffy pillow!
+Talk2010: |
+  <3 Type='0' Data='0700'/>I'm preparing the beds so any guest who
+  comes to stay gets a good sleep!<0 Type='4'/><3 Type='0' Data='0c01'/>I get too sleepy to work when the sun
+  starts to go down, but I'll get the hang
+  of it.<0 Type='4'/><3 Type='0' Data='0701'/>Come and stay with us anytime!
+Talk1033: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Oh! The sun's down!<0 Type='4'/><3 Type='0' Data='0101'/>How about that silky-soft Rito-down bed,
+  huh? <5 Type='0'/>I bet you had nice, fluffy dreams on
+  that nice, fluffy pillow.
+Talk1021: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='100053006c006500650070005f0030003000'/>*yawn* <5 Type='0'/>You must be tired after a long
+  day's trip getting here.<0 Type='4'/><3 Type='0' Data='0101'/>Thanks so much for coming! <5 Type='0'/>Welcome to
+  the <0 Type='3' Data='0000'/>Swallow's Roost Inn<0 Type='3' Data='ffff'/>!
+Talk1034: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>A silky-soft Rito-down bed is made with
+  looots of Rito feathers. It's soft and fluffy
+  and gives the bestest sleeps ever.<0 Type='4'/>If you only sleep in one bed here at the
+  Swallow's Roost, make it that one!<0 Type='4'/><3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>As soon my head hits the pillow, it's like
+  someone threw a blanket over me. <5 Type='0'/>N-not
+  that I ever use the beds!<0 Type='4'/>When you wake up again, you'll be full of
+  energy and ready to go!
+Talk2001: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>I'm making sure the beds are tidy so our
+  guests can sleep soundly!<0 Type='4'/><3 Type='0' Data='0801'/>I don't have to run the whole inn now,
+  but I still wanna help! <5 Type='0'/>Pretty grown-up of
+  me, huh?<0 Type='4'/><3 Type='0' Data='0001'/>Make sure you come and stay with us
+  whenever you're tired!
+Talk1011: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>A regular bed is <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/>, and a
+  silky-soft Rito-down bed is <0 Type='3' Data='0000'/>50 rupees<0 Type='3' Data='ffff'/>.
+Talk1024: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>OK, got it. I'll give you a chirp when it's
+  morning. Sleep well!
+Talk2002: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>If you stay up late and don't get enough
+  sleep, you might conk out on the job.<0 Type='4'/>So I always get plenty of sleep. You don't
+  stay up too late either, OK?
+Talk1025: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>OK, got it. I'll give you a chirp when it's
+  noon. Sleep well!
+Talk1012: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>Awww, OK. Come again when you wanna
+  use one of our comfy beds!
+Talk2003: |
+  <FontSize Value='80'/><3 Type='0' Data='0501'/><4 Type='0' Data='0a0053006c00650065007000'/>The sheets are...<5 Type='0'/>all clean... <5 Type='0'/>Zzz...<5 Type='0'/><FontSize Value='100'/>
+1001: |
+  Until morning.
+Talk1026: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>OK, got it. I'll give you a chirp when it's
+  nighttime. Sleep well!<0 Type='4'/><3 Type='0' Data='0c01'/><FontSize Value='80'/>Better make sure I don't conk out too early...<FontSize Value='100'/>
+Talk1013: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Hmmm...nope. I don't think you have
+  enough rupees for that. Save up some
+  more so you can sleep in our comfy beds!
+Talk2004: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='0a005400680069006e006b00'/>Ugh, I really wanted to sleep in some
+  more, but it's work time now. Gotta keep
+  my eyes open for customers...
+Talk1014: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Sooo, how long do you wanna sleep?
+1002: |
+  Until noon.
+1003: |
+  Until night.
+Talk1015: |
+  <3 Type='0' Data='0101'/>Well, take care!
+Talk1029: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Welcome! You're standing in the grand
+  <0 Type='3' Data='0000'/>Swallow's Roost Inn<0 Type='3' Data='ffff'/>!<0 Type='4'/><3 Type='0' Data='0101'/>Thanks a ton for making it all the way out
+  here in the middle of a blizzard!
+Talk1016: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Good morning! Did you sleep OK?
+1004: |
+  Never mind.
+1005: |
+  Regular bed.
+Talk1017: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hey! It's time to get up!
+Talk2008: |
+  <3 Type='0' Data='0700'/>I'm making sure the beds are tidy so our
+  guests can sleep soundly!<0 Type='4'/><3 Type='0' Data='0c01'/>Sometimes I end up taking a nap without
+  meaning to, but I'll get the hang of it.<0 Type='4'/><3 Type='0' Data='0701'/>Come and stay with us anytime!
+Talk1018: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='100053006c006500650070005f0030003100'/>This is a pretty weird wakeup time, huh?<5 Type='0'/><0 Type='4'/><FontSize Value='80'/>*yaaaaaawn* <5 Type='0'/>I already nodded off once today,
+  but...<5 Type='0'/>I wanna go back to bed...<FontSize Value='100'/>
+1006: |
+  "Silky soft"?
+Talk2009: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>I'm checking the beds to make sure that
+  our guests who arrive late have a good
+  sleep when they stay with us.<0 Type='4'/>Every single bed is super soft!<0 Type='4'/><3 Type='0' Data='0801'/>Hee-hee-hee. I don't have to run the inn,
+  but I'm still working hard to help out.<5 Type='0'/>
+  Come and stay with us anytime!

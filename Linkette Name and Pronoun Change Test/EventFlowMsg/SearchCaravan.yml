@@ -1,0 +1,231 @@
+talk0009: |
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>Wha— A person?!<FontSize Value='100'/><0 Type='4'/><3 Type='0' Data='0701'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>Whew, sorry, I never thought I'd run into
+  another person down here.
+  
+  Fell down a sinkhole, did you?<5 Type='0'/> So did I,
+  my guy!
+  
+  My name's Ponthos. I'm a member of a
+  caravan squad.
+  
+  Or I was before monsters attacked the
+  oasis, and I ditched my friends and ran.
+  That's how I wound up down here.
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0e0053006900670068005f0030003000'/>I've looked all over the place, but I still
+  can't find an exit.
+  
+  You and me might be down here for a
+  long, long time.
+talk0040: |
+  <3 Type='0' Data='0b01'/>Well, that's not good...<5 Type='1'/> Have you told our
+  leader over there the bad news yet?
+near0000: |
+  Please be safe...
+talk0041: |
+  But I think I caught a glimpse of <0 Type='3' Data='0000'/>Ponthos<0 Type='3' Data='ffff'/>
+  running out through the <0 Type='3' Data='0000'/>west entrance<0 Type='3' Data='ffff'/>...
+near0001: |
+  I messed up...
+talk0030: |
+  <3 Type='0' Data='0700'/>I know someone in <0 Type='3' Data='0000'/>Gerudo Town<0 Type='3' Data='ffff'/> is on the
+  lookout for stuff like this, so I was going
+  to see if they could appraise it.
+  But I'll let you have it, my guy!
+  
+  
+  <3 Type='0' Data='0100'/>It's the rarest thing I've got, and it's all
+  yours. Take good care of it for me!
+near0003: |
+  I'm so glad you're safe!
+talk0032: |
+  The name's Ponthos.<5 Type='1'/> I'm a member of the
+  caravan squad. Or at least I was...<0 Type='4'/>When the oasis we were guarding was
+  attacked by monsters, I ditched my pals
+  and ran...<5 Type='0'/>straight into a sinkhole.
+talk0033: |
+  Uh...<5 Type='1'/> Ahem.<5 Type='1'/>
+0000: |
+  Sinkhole?
+talk0020: |
+  <3 Type='0' Data='0700'/>You must have seen one by now! The
+  places in the desert where the flow of
+  sand gets all swirly, like a whirlpool?
+  One false step into one of those and it'll
+  suck you right in. They're a constant
+  worry to travelers around here.
+  Rumor has it that there are actually <0 Type='3' Data='0000'/>caves<0 Type='3' Data='ffff'/>
+  hidden under those sinkholes...
+  
+  <3 Type='0' Data='0300'/>I'm not about to investigate though.
+  Those things are scary.
+talk0034: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>You're kidding!<5 Type='1'/> There's a cave beneath
+  that sinkhole?<5 Type='1'/> And Ponthos went and got
+  himself stuck down there?
+  How are we supposed to get him out?
+  Those sinkholes are so dangerous—can
+  we even attempt a rescue mission?
+  <3 Type='0' Data='0701'/>Well...<5 Type='1'/>I suppose I should just be grateful
+  that Ponthos is relatively safe. I'll take
+  what good news I can get!
+  <3 Type='0' Data='0800'/>Thank you for letting me know!
+0001: |
+  Well, so long!
+talk0021: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/>Kinda makes me wonder though... Could there really
+  be a <0 Type='3' Data='0000'/>cave<0 Type='3' Data='ffff'/> under that sinkhole?<FontSize Value='100'/>
+talk0022: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Oh, hello there, young lady! Are you here
+  to tell me you've found Ponthos?
+  
+  ...
+  
+  
+  <3 Type='0' Data='0a00'/>Apparently not...
+talk0035: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Oh, hello, young lady! Have you come to
+  tell me that you've found Ponthos?
+talk0010: |
+  <3 Type='0' Data='0c00'/>If we get lost in the desert, our squad's
+  rule is to wait for rescue in <0 Type='3' Data='0000'/>a place that
+  stands out<0 Type='3' Data='ffff'/>—like near a tall building.
+  <3 Type='0' Data='0a01'/>But there are a lot of <0 Type='3' Data='0000'/>sinkholes<0 Type='3' Data='ffff'/> in this
+  desert, and they can really trip you up.<0 Type='4'/>I don't even want to think about what
+  would happen if you fell in.<0 Type='4'/>Our chances of finding him would be low
+  enough without the <0 Type='3' Data='0000'/>sand shroud<0 Type='3' Data='ffff'/>, but
+  with it... <5 Type='1'/>Please be OK, Ponthos.
+talk0036: |
+  <3 Type='0' Data='0a00'/>I want to save Ponthos right away, of
+  course, but... To think he fell into a
+  sinkhole, of all things.
+  Oh, what to do...
+talk0023: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>You gotta tell me, how'd you pull this off?
+talk0037: |
+  <3 Type='0' Data='0700'/>Honestly, it's kinda just taking up space.
+  I'd love for you to take it...<0 Type='4'/>But the guy it belongs to is kinda <0 Type='3' Data='0000'/>stuck in
+  a cave under a sinkhole <0 Type='3' Data='ffff'/>right now.<0 Type='4'/>If he ever comes back, though, you should
+  definitely ask if he's willing to part with it.
+talk0038: |
+  <3 Type='0' Data='0b00'/>What?! Ponthos got swallowed up by
+  a sinkhole?!<5 Type='1'/>
+talk0025: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/>Gra ha ha! Yeah, I really owe my guy for
+  this one!
+talk0000: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>young lady, please! Have you seen a
+  fellow with a scruffy beard around here?
+talk0039: |
+  <3 Type='0' Data='0c00'/>Agh, now what?<5 Type='1'/> How are we supposed to
+  get the guy out of a sinkhole?<0 Type='4'/>I wonder if that cave he's in has another
+  entrance somewhere...
+talk0026: |
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>Wha— <5 Type='1'/>A person?!<FontSize Value='100'/><0 Type='4'/>Wh-<5 Type='0'/>where did you come from?
+  
+  
+  <3 Type='0' Data='0500'/>I thought I'd searched everywhere, but I
+  couldn't find a way out of this place.
+talk0013: |
+  <3 Type='0' Data='0800'/>I still can't believe there was a whole cave
+  under a sinkhole.<0 Type='4'/>What a relief you and Ponthos made it
+  back safely!
+talk0001: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Between the storming sands and the rush
+  of people, everything was a chaotic blur...
+  
+  I could barely see a thing!
+talk0027: |
+  <3 Type='0' Data='0800'/>You're the one who rescued Ponthos!<0 Type='4'/>We've all been waiting for a chance to
+  thank you.<5 Type='0'/> Please talk to the leader of
+  our caravan squad when you can!
+talk0014: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Thank you so much!
+  
+  
+  I better hurry back—I'm sure my friends
+  are worried sick.
+  
+  Oh, but I still want to give you a proper
+  <0 Type='3' Data='0000'/>reward<0 Type='3' Data='ffff'/>. Drop by Kara Kara Bazaar when
+  you get a chance!
+talk0015: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003100'/>S-sorry, that was rather abrupt.
+  
+  
+  We're the caravan squad, a merchant
+  group hoping to trade in Gerudo Town.
+  Our friend Ponthos has, uh, disappeared.
+  <3 Type='0' Data='0c01'/>When Kara Kara Bazaar was attacked by
+  monsters, we all ran, taking refuge in
+  the inn.
+  I thought Ponthos was with us the whole
+  time, but when we finally caught our
+  breath, he was nowhere to be found.
+talk0002: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='08005300690067006800'/>If only I'd stuck with the rest of the
+  caravan squad.
+  
+  I've searched everywhere for the exit, but
+  I keep coming up empty. We might never
+  get aboveground again.
+talk0028: |
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>You made your own path?!<0 Type='4'/><3 Type='0' Data='0400'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>You are AMAZING, my guy!<FontSize Value='100'/><FontSize Value='125'/><5 Type='1'/><FontSize Value='100'/><0 Type='4'/><FontSize Value='125'/><FontSize Value='100'/><3 Type='0' Data='0701'/>Oh...<5 Type='0'/> Uh, sorry for shouting.
+talk0016: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Oh, sorry. That's not for sale.
+talk0003: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>I thought I heard some kinda commotion.
+  Look at that, we've got a path out of here!
+  
+  Did you do all this, my guy?!
+talk0029: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>How about this orb, my guy! It has a weird
+  pattern on it, and it's probably rare, right?
+  
+  Whatever it is, you know it's cool! Trust
+  me, I'm a merchant—I've got an eye for
+  things like this.
+talk0004: |
+  <3 Type='0' Data='0c00'/>Still no sign of Ponthos.<0 Type='4'/>I could have sworn I saw him run <0 Type='3' Data='0000'/>west<0 Type='3' Data='ffff'/>
+  into the desert too.<0 Type='4'/>But with that big <0 Type='3' Data='0000'/>sinkhole<0 Type='3' Data='ffff'/> out there,
+  I can't help but worry.
+talk0017: |
+  <3 Type='0' Data='0500'/>Truth be told, it's kind of a nuisance, so
+  I'd love to give it to you...
+  
+  But its owner is <0 Type='3' Data='0000'/>currently missing<0 Type='3' Data='ffff'/>.
+  
+  
+  If you'd like it, how about making a deal
+  with him when he comes back?
+talk0018: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003100'/>Sorry, that was rather abrupt. But it's our
+  friend Ponthos. He's gone missing!
+  
+  When Kara Kara Bazaar was attacked by
+  monsters, we ran away together, taking
+  shelter at the local inn.
+  But when I finally had my wits about me,
+  I realized Ponthos had disappeared.
+talk0005: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Oh! I bet we can climb that ladder up to
+  the surface!
+talk0019: |
+  <3 Type='0' Data='0c00'/>If we're lost in the desert, our squad's
+  rule is to wait for rescue in <0 Type='3' Data='0000'/>a place that
+  stands out<0 Type='3' Data='ffff'/>—like near a tall building.
+  <3 Type='0' Data='0a01'/>But with all the <0 Type='3' Data='0000'/>sinkholes<0 Type='3' Data='ffff'/> in this desert,
+  it's easy to get tripped up.<0 Type='4'/>And I'd rather not find out what would
+  happen if I fell in one...
+talk0006: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>This young lady saved your life! We all
+  owe him for that.
+  
+  Though no matter how many times I hear
+  it, I still can't believe anyone survived
+  falling into a sinkhole.
+  As the leader of the caravan squad, allow
+  me to thank you for bringing Ponthos
+  back to us.
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>And as a reward...
+talk0007: |
+  <FontSize Value='125'/><3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>No way!<FontSize Value='100'/>

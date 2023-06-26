@@ -1,0 +1,84 @@
+Talk_08: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>Our spy duty is over for today! We'll be
+  doing it again tomorrow. Are you coming
+  along too, number three?<0 Type='4'/>You don't have to decide right now! Just
+  meet us at the school in the morning, OK?
+Near_0001: |
+  *ngh*
+Near_0002: |
+  School time! Yaaay!
+Near_0003: |
+  Nothing escapes this spy!
+Near_0004: |
+  A-Zoom is on duty.
+Near_0005: |
+  Today's mission complete!
+Talk_22: |
+  <3 Type='0' Data='0101'/>We're spies for A-Zoom! <5 Type='0'/>He's a hero who
+  protects our village.<0 Type='4'/><3 Type='0' Data='0c01'/>I'm, ummm, spy number one, and my little
+  sister, Narah, is spy number two.<5 Type='0'/><0 Type='4'/><3 Type='0' Data='0801'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>That makes you spy number three, mister!
+Near_0006: |
+  So this is school.
+Talk_10: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0053006c00650065007000'/>*snore* I'm the secretest...agent...
+Near_0007: |
+  No one can see me.
+Talk_11: |
+  <3 Type='0' Data='0101'/>Your weapon is really neat! <5 Type='0'/>Every
+  wanderer has amazing gear. <5 Type='0'/>It's true!<0 Type='4'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>I love swords and bows and arrows and
+  all that stuff. <5 Type='0'/>Wanna be my friend?
+Talk_24: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Is someone there?! Halt, evildoer!<5 Type='1'/>
+Talk_12: |
+  <3 Type='0' Data='0301'/>Wait... <5 Type='0'/>How come you don't have
+  a weapon?<0 Type='4'/>What's the point of a traveler if he doesn't
+  have a cool weapon to show me?<0 Type='4'/><3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>You're boring. But that's OK!
+  I can fix that!
+Talk_25: |
+  <3 Type='0' Data='0a01'/>Awww...<5 Type='0'/>there was no evildoer? <5 Type='1'/>I really
+  wanted to beat up a bad guy.
+Talk_13: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Hey, spy number three! Mooorniiing!
+Talk_26: |
+  <3 Type='0' Data='0a01'/>Oh...it's just spy number three. I thought
+  it was my chance to beat up a bad guy.
+Talk_01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Oh! Hey. Are you what they call
+  a traveler?!
+Talk_14: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Hey, spy number three. Everything going
+  OK with your mission?
+Talk_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>I'm going on spy patrol now. We always
+  meet up at school first!<0 Type='4'/>If you don't know where the school is,
+  follow us and we'll show you!
+Talk_15: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Hey, spy number three. Are you on night
+  patrol? That's so cool!
+Talk_16: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Hey, spy number three.<0 Type='4'/>A real spy is at his best in the rain!
+  The sound of the raindrops covers your
+  footsteps for extra stealth!
+Talk_04: |
+  <3 Type='0' Data='0701'/>We're on spy patrol right now! Wanna join
+  us, number three?<0 Type='4'/><3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Our patrol route starts at school and
+  then passes through the inn.<0 Type='4'/><3 Type='0' Data='0101'/>We circle around <0 Type='3' Data='0000'/>Hateno Pasture<0 Type='3' Data='ffff'/> at the
+  top of the hill, and then head to school
+  again down the road to the back!
+Talk_05: |
+  <3 Type='0' Data='0900'/>Come on, number three! An absentminded
+  spy is no good to us!<0 Type='4'/><3 Type='0' Data='0801'/>Watch! I'm so stealthy, no one can see!
+  Gonna check out the school and
+  <0 Type='3' Data='0000'/>Hateno Pasture<0 Type='3' Data='ffff'/> on the hill!
+Talk_18: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>Being a spy is fun, but I don't mind
+  some rain as long as I still get to see
+  the classroom!
+Talk_19: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Maybe today I'll spy around <0 Type='3' Data='0000'/>Hateno Pasture<0 Type='3' Data='ffff'/>...<0 Type='4'/>It would be cooler to go to the <0 Type='3' Data='0000'/>lab<0 Type='3' Data='ffff'/> at the top of the
+  hill, but that's kinda far. I don't know if Narah could
+  make it all the way.<FontSize Value='100'/>
+Talk_06: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>The basic job of a spy is to watch for
+  stuff and report back with Sir Vaylence.<0 Type='4'/>But I dunno who that is, so I usually
+  just check in with A-Zoom instead.

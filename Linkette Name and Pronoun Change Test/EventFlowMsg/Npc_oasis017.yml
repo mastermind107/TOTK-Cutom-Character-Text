@@ -1,0 +1,136 @@
+talk0010: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Hey! You're a vai, aren't you?
+  
+  
+  So the rumors were true! There is a new vai
+  in town.
+  
+  You don't look like the Hylian dummies from
+  the "<0 Type='3' Data='0000'/>Voe and You<0 Type='3' Data='ffff'/>"<0 Type='3' Data='0000'/> class<0 Type='3' Data='ffff'/> though.
+  
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>But I guess you look like how I imagine a
+  Hylian's looks.
+  
+  Anyway! I'm Pearle. Nice to meet you!
+talk0020: |
+  <3 Type='0' Data='0201'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>And you, vai. If you need something,
+  could you speak with me instead?
+near0005: |
+  Ah! I'm gonna be late!
+talk0021: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>This is <0 Type='3' Data='0000'/>Aaqlet<0 Type='3' Data='ffff'/>! She's a vai who became
+  my sister recently.
+  
+  Well, I mean...<5 Type='1'/> Not like my blood-related
+  sister. But I think of her like she's family!
+talk0011: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>I got all caught up looking at that
+  "secret map" of Aaqlet's and made
+  myself late!
+  <0 Type='3' Data='0000'/>Ms. Ashai<0 Type='3' Data='ffff'/> is scary when she gets mad!
+  I need to hurry to class!
+talk0001: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>I always feel so safe when others are
+  sleeping nearby... But then I oversleep,
+  and I can't be late for class!
+  If I am, <0 Type='3' Data='0000'/>Ms. Ashai<0 Type='3' Data='ffff'/> will be mad! I need
+  to hurry!
+near0007: |
+  This map... Hmm.
+talk0002: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>My sister, Rotana, told me that
+  <0 Type='3' Data='0000'/>Patricia<0 Type='3' Data='ffff'/> has been doing <0 Type='3' Data='0000'/>mysterious
+  divinations <0 Type='3' Data='ffff'/>lately!
+  I'm completely stumped on Aaqlet's
+  secret map-puzzle thing, so...
+  
+  I think I'll go try and figure out the
+  mystery surrounding Patricia instead!
+  
+  I need to make it to Patricia before it
+  gets dark.
+  
+  I'll see you later! Sav'orq!
+talk0023: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>By the way, my actual older sister is
+  a scholar! Isn't that incredible?
+  
+  I think that I'll become a scholar, too,
+  when I grow up!
+near0008: |
+  So difficult...
+talk0003: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Did you come here to listen to Patricia
+  make <0 Type='3' Data='0000'/>mysterious divinations<0 Type='3' Data='ffff'/>?
+  
+  I heard that she gives them if you give her
+  a <0 Type='3' Data='0000'/>splash fruit<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003100'/>But all she shares are strange numbers!
+  I don't understand what she's trying to
+  say at all.
+  Could it be some kind of secret code?
+  Maybe a location?
+  
+  <FontSize Value='80'/>Hmmm. It'd be amazing proof of my scholarly
+  potential if I could solve this puzzle...<FontSize Value='100'/>
+near0009: |
+  I just don't get it.
+talk0024: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Hey, Ms. vai. Do you know what this
+  wall painting means?
+  
+  Aaqlet says it's some kind of <0 Type='3' Data='0000'/>map<0 Type='3' Data='ffff'/>...
+  
+  
+  But it doesn't match anything in the
+  <0 Type='3' Data='0000'/>shelter <0 Type='3' Data='ffff'/>at all!
+talk0014: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Shhh, don't talk to me right now! If <0 Type='3' Data='0000'/>Ms.<0 Type='3' Data='ffff'/>
+  <0 Type='3' Data='0000'/>Ashai<0 Type='3' Data='ffff'/> sees me talking to you...
+talk0004: |
+  <FontSize Value='80'/><3 Type='0' Data='0a01'/><4 Type='0' Data='1c0055006e0063006f006e007300630069006f00750073005f0030003100'/>Today I had to study how voe make decisions, and I
+  tried to figure out <0 Type='3' Data='0000'/>Patricia<0 Type='3' Data='ffff'/>'s divinations... I used my
+  brain so much...<5 Type='1'/> I need to sleep.<FontSize Value='100'/>
+SunazarashiDoll: |
+  I kind of want it...
+talk0015: |
+  <FontSize Value='80'/><3 Type='0' Data='0a01'/><4 Type='0' Data='1c0055006e0063006f006e007300630069006f00750073005f0030003100'/>Today I had to study how voe make decisions, and I
+  tried to figure out the map's mysteries... I used my
+  brain so much...<5 Type='1'/> I need to sleep.<FontSize Value='100'/>
+talk0026: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0a005400680069006e006b00'/>The painting on this wall is supposed to
+  be a <0 Type='3' Data='0000'/>map<0 Type='3' Data='ffff'/> of some kind...
+  
+  But it <0 Type='3' Data='0000'/>doesn't match anything in the
+  shelter <0 Type='3' Data='ffff'/>at all!
+  
+  <3 Type='0' Data='0a01'/><FontSize Value='80'/>Hmmm...<5 Type='0'/> It'd be amazing proof of my scholarly
+  potential if I could solve this puzzle...<FontSize Value='100'/>
+talk0027: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0a0053006c00650065007000'/>I want to be a great scholar... <5 Type='0'/>I'll be just
+  like Rotana...
+talk0007: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>You can hear Patricia's <0 Type='3' Data='0000'/>mysterious
+  divinations<0 Type='3' Data='ffff'/> if you offer her some
+  <0 Type='3' Data='0000'/>splash fruit<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0c01'/>But all she shares are <0 Type='3' Data='0000'/>strange numbers<0 Type='3' Data='ffff'/>! <5 Type='1'/>
+  I wonder if it's some kind of secret code...
+  
+  Maybe it somehow points to a <0 Type='3' Data='0000'/>location<0 Type='3' Data='ffff'/>?
+  
+  
+  <3 Type='0' Data='0a01'/><FontSize Value='80'/>Hmmm...<5 Type='0'/> It'd be amazing proof of my scholarly
+  potential if I could solve this puzzle...<FontSize Value='100'/>
+talk0028: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>I'm so tired... Voe are more difficult to
+  understand than any puzzle...
+talk0019: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='0e0057006f0072006b005f0030003100'/>Pearle!
+  
+  
+  You know you're not yet allowed to talk
+  to the new vai!
+talk0029: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0c005300610064005f0030003000'/>So tired... Voe behavior doesn't make
+  any sense at all...
