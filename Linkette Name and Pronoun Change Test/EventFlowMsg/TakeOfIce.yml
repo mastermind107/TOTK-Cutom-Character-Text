@@ -1,0 +1,164 @@
+talk0000: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Oh. You're a Hylian...
+  
+  
+  Vasaaq. This is the <0 Type='3' Data='0000'/>icehouse<0 Type='3' Data='ffff'/>. It's where
+  we store ice...<5 Type='0'/>obviously. It's all made from
+  snowmelt from the Gerudo Highlands.
+  I'm kind of surprised to see you here.
+  It isn't really a tourist destination.
+  
+  <3 Type='0' Data='0a00'/>But you're probably wondering where all
+  the ice is, right? Well, it's gotten hot
+  enough that it all melted.
+  Feels wrong to even call the place an
+  <0 Type='3' Data='0000'/>icehouse<0 Type='3' Data='ffff'/> right now...
+  
+  <3 Type='0' Data='0c00'/>Have you heard about the incredibly
+  popular drink the Noble Canteen in town
+  makes? Well, it uses ice from here.
+  Or it did. If I can't get ice delivered to
+  town, there won't be any signature drinks
+  being made by anyone.
+  <3 Type='0' Data='0c01'/>I've got to find a way to make ice...
+talk0023: |
+  <3 Type='0' Data='0700'/>The desert has been hotter than usual
+  and all my ice keeps melting. I'm getting
+  kind of steamed. Heh heh.
+  But you Hylians can make ice, right?
+  
+  
+  <3 Type='0' Data='0700'/>Any chance you can help me out with
+  some freezy goodness? I need ice!
+talk0017: |
+  <3 Type='0' Data='0c00'/>I won't argue that there is now ice in
+  the alcove. That much is true.
+  
+  But how much ice?<5 Type='1'/> Not a lot, not a lot...<5 Type='1'/>
+  This chunk of ice is just <0 Type='3' Data='0000'/>too small<0 Type='3' Data='ffff'/>. It'll
+  melt before it makes it to town.
+  Why don't you use the size of the alcove
+  to measure? If the ice is <0 Type='3' Data='0000'/>around the same
+  width<0 Type='3' Data='ffff'/> as the <0 Type='3' Data='0000'/>alcove<0 Type='3' Data='ffff'/>, that should do fine!
+talk0001: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Oh, you again?<5 Type='0'/> Like I said before, this is
+  the <0 Type='3' Data='0000'/>icehouse<0 Type='3' Data='ffff'/>. It's not really a place
+  tourists tend to check out though.
+  <3 Type='0' Data='0a00'/>But if you're wondering where the ice
+  is, well... It's gotten hot enough that it
+  all melted down.
+  Feels wrong to even call the place an
+  <0 Type='3' Data='0000'/>icehouse<0 Type='3' Data='ffff'/> right now...
+  
+  <3 Type='0' Data='0c00'/>Maybe you've heard about the super-
+  popular drink the Noble Canteen makes
+  in town? It uses ice from here.
+  Or it did. If I can't get ice delivered to
+  town, there won't be any signature drinks
+  being made by anyone.
+  <3 Type='0' Data='0c01'/>I've got to find a way to make ice...
+talk0024: |
+  <3 Type='0' Data='0700'/>Any chance you can help me out with
+  some freezy goodness? I need ice!
+talk0018: |
+  <3 Type='0' Data='0700'/>Hm? What...<5 Type='1'/>happened?
+talk0002: |
+  <3 Type='0' Data='0c00'/>I haven't gotten any orders for ice lately,
+  no doubt due to this strange <0 Type='3' Data='0000'/>sand shroud<0 Type='3' Data='ffff'/>
+  that won't seem to go away...
+  So if I don't have any ice to deliver when
+  the orders finally come, everyone back
+  home will be really disappointed...
+  <0 Type='3' Data='0200'/><FontSize Value='80'/>I simply cannot allow anything to come between
+  Gerudo Town and that wonderful, icy, popular drink
+  at the canteen.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+talk0019: |
+  <3 Type='0' Data='0700'/>Oh, you've put some ice in the alcove
+  for me. Sarq!
+  
+  However...<5 Type='1'/>
+talk0025: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Hey, wait! Ice!
+talk0003: |
+  <3 Type='0' Data='0c00'/>Now that the <0 Type='3' Data='0000'/>sand shroud <0 Type='3' Data='ffff'/>has finally died
+  down, I expect the demand for ice to pick
+  right up again!
+  So if I can't deliver any ice because I
+  don't have any, everyone back home
+  will be really disappointed...
+  <0 Type='3' Data='0200'/><FontSize Value='80'/>I simply cannot allow anything to come between
+  Gerudo Town and that wonderful, icy, popular drink
+  at the canteen.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+talk0004: |
+  <3 Type='0' Data='0c00'/>You know, on the really, really <0 Type='3' Data='0000'/>cold<0 Type='3' Data='ffff'/>
+  nights, I sometimes see a thin layer of ice
+  forming on the surface of the water.
+  It's always melted by the time morning
+  comes though. There must be some way
+  to get <0 Type='3' Data='0000'/>ice <0 Type='3' Data='ffff'/>in here...
+talk0010: |
+  <3 Type='0' Data='0700'/>Feel free to come back and make more
+  ice, OK? 
+  
+  Er, but I don't have anything I can give
+  you as a reward right now...
+  
+  It wouldn't feel right to accept your help
+  when I can't repay you, so give me some
+  time, OK?
+  You could always visit the spa in Gerudo
+  Town in the mean—
+  
+  Oh, wait.<5 Type='1'/> You're a foreigner, so you aren't
+  allowed inside Gerudo Town. <5 Type='1'/>Maybe you
+  could relax at Kara Kara Bazaar instead?
+near0000: |
+  Th-the ice...
+near0001: |
+  Water again...
+talk0007: |
+  <3 Type='0' Data='0b00'/>Hey! That's ice, isn't it?
+  
+  
+  I didn't know Hylians could make ice!
+  Maybe I've been in the icehouse—or up
+  on the mountain—for too long...
+  Anyway, if it's OK with you, could I have
+  this ice?
+near0002: |
+  Ice...
+talk0008: |
+  <3 Type='0' Data='0800'/>Oh, hey! Perfectly sized ice! This'll
+  definitely hold up on the trip to town.
+  That's great!
+talk0021: |
+  If it's possible to make a hunk of ice that
+  fits nicely in that alcove, that would
+  be ideal.
+talk0015: |
+  <3 Type='0' Data='0b00'/>Hey! That's ice, isn't it? I didn't know
+  Hylians could make ice!
+  
+  <3 Type='0' Data='0701'/>This is the <0 Type='3' Data='0000'/>icehouse<0 Type='3' Data='ffff'/>. It's where we store
+  ice...<5 Type='0'/>obviously. It's all made from
+  snowmelt from the Gerudo Highlands.
+  But you're probably wondering where all
+  the ice is, right? Well, it's gotten hot
+  enough that it all melted.
+  <3 Type='0' Data='0c00'/>Maybe you've heard about the super-
+  popular drink the Noble Canteen makes
+  in town? It uses ice from here.
+  Or it did. If I can't get ice delivered to
+  town, there won't be any signature drinks
+  being made by anyone.
+  <3 Type='0' Data='0701'/>That's all a long way of me asking you...
+  Can I have this ice?
+talk0009: |
+  <3 Type='0' Data='0800'/>Sarq!
+  
+  
+  Hopefully this is something you can make
+  use of! Be sure to grab something to drink
+  at the canteen in town!
+near0004: |
+  Just a bunch of water...

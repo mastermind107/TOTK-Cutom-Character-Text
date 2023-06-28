@@ -1,0 +1,113 @@
+talk0027: |
+  <3 Type='0' Data='0c00'/>OK, don't panic. When a stranger starts a
+  conversation with you...<5 Type='1'/>the first step is...<5 Type='1'/>
+talk0001: |
+  <3 Type='0' Data='0b00'/>What, already? <5 Type='0'/>Isn't that moving a little
+  fast? <5 Type='1'/>Besides, there's all sorts of chaos
+  going on in the outside world right now.<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Maybe you should get some advice from
+  that trio of graduates from the class?<0 Type='4'/>I think they're still hanging out around
+  Outskirt Stable.
+talk0014: |
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/>Patricia<0 Type='3' Data='ffff'/>? Isn't that the chief's beloved
+  sand seal?
+talk0028: |
+  <3 Type='0' Data='0a00'/>I remember what I'm supposed to do...
+  I'm supposed to... <5 Type='1'/>Nope, I'm drawing
+  a blank.<5 Type='1'/><0 Type='4'/>Even after all the "<0 Type='3' Data='0000'/>voe and You<0 Type='3' Data='ffff'/>"<0 Type='3' Data='0000'/> classes<0 Type='3' Data='ffff'/>,
+  as soon as I'm in a real-world situation,
+  all those lessons just vanish.<0 Type='4'/><FontSize Value='80'/>I knew I should have spent more time practicing.<FontSize Value='100'/>
+talk0002: |
+  <3 Type='0' Data='0c00'/>Hmm...yeah, maybe. A short trip could be
+  a good chance to get more practice in.
+talk0015: |
+  <3 Type='0' Data='0c00'/>I hear if you give her a splash fruit, she
+  says a string of strange numbers.<0 Type='4'/>And I thought...<5 Type='0'/>maybe those numbers are
+  code for some <0 Type='3' Data='0000'/>location<0 Type='3' Data='ffff'/>.
+talk0029: |
+  <3 Type='0' Data='0c00'/>Now then, when you notice a stranger
+  watching you...
+talk0016: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>I've been so relieved ever since I had a
+  natural conversation with a stranger. That stranger
+  being you, I mean.<0 Type='4'/>It wasn't as hair-raising as I was afraid of.
+  Must have been all that practice.<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>It's all thanks to you. Sarq!
+near0000: |
+  I knooow.
+talk0017: |
+  <3 Type='0' Data='0700'/>I've been so anxious about talking to a
+  strangers, but I felt like you and I had a pretty
+  natural conversation.<0 Type='4'/><3 Type='0' Data='0c01'/>If you wouldn't mind...it would be nice for
+  you to swing by the "voe and You" class
+  again. <5 Type='0'/>If you feel like it.
+near0001: |
+  Reeeally?
+talk0018: |
+  <3 Type='0' Data='0a00'/>Just thinking about a voe being here, of
+  all places, has me pretty rattled.<0 Type='4'/>But you know what would help me keep
+  calm? A nice, delicious beverage.
+talk0019: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Heheh. <5 Type='0'/>Hey, listen to this.<0 Type='4'/>I finally had a normal conversation with
+  a voe!<0 Type='4'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>And believe it or not, <5 Type='0'/>the key to it all was
+  a Noble Pursuit!
+talk0007: |
+  <FontSize Value='80'/><3 Type='0' Data='0700'/>Hey.<0 Type='4'/>Don't look now, but...<5 Type='1'/>that's a voe talking to
+  us, right?<FontSize Value='100'/>
+talk0030: |
+  <3 Type='0' Data='0700'/>Hah. Good for you.<0 Type='4'/>And I'm not surprised. I first came up with
+  the recipe when I was out searching for
+  my own one true voe.
+talk0008: |
+  <FontSize Value='80'/><3 Type='0' Data='0701'/><4 Type='0' Data='0600530061006400'/>I think you're right.<0 Type='4'/>But I've just started with the "<0 Type='3' Data='0000'/>voe and You<0 Type='3' Data='ffff'/>"<0 Type='3' Data='0000'/> class<0 Type='3' Data='ffff'/>,
+  so I'm not sure what to do about it.<FontSize Value='100'/>
+talk0031: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Wow, you don't miss a trick!<0 Type='4'/>You'll have to teach me the finer points
+  of vai-voe relations sometime.
+talk0032: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>There's nothing to it. Look into his eyes
+  and say this...<0 Type='4'/>"I had you in mind when I mixed this
+  drink." <5 Type='1'/>Exactly like that.
+talk0020: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Say, let me ask you something.<0 Type='4'/>How did you use Noble Pursuit on your
+  own quest for a special voe?
+talk0033: |
+  <3 Type='0' Data='0800'/>So cool!
+talk0034: |
+  <3 Type='0' Data='0800'/>You've got game!
+talk0021: |
+  <FontSize Value='80'/><3 Type='0' Data='0700'/><4 Type='0' Data='0c005300610064005f0030003100'/>Well, for now...<FontSize Value='100'/>
+talk0022: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>The return of the Noble Pursuit couldn't
+  have been better timed.<0 Type='4'/>Did I really have a natural conversation
+  with a voe?<0 Type='4'/>It wasn't as hair-raising as I was afraid of.
+  Must have been all that practice.<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>It's all thanks to you. Sarq!
+talk0035: |
+  <3 Type='0' Data='0800'/>I'll have to remember that!
+talk0023: |
+  <FontSize Value='80'/><3 Type='0' Data='0700'/><4 Type='0' Data='0600530061006400'/>Pretend not to notice.<FontSize Value='100'/>
+talk0036: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0a005400680069006e006b00'/>What? <5 Type='1'/>Oh...I get it.<5 Type='1'/> <3 Type='0' Data='0800'/>You're hoping it's a
+  clue to where you'll find your beloved voe.
+  <5 Type='1'/>Am I close?
+talk0024: |
+  <FontSize Value='80'/><3 Type='0' Data='0700'/>Hey.<0 Type='4'/>Don't look now, but...<5 Type='1'/>that's a stranger watching
+  us, right?<FontSize Value='100'/>
+talk0037: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Yes! Exactly, <5 Type='1'/>Nali.<0 Type='4'/>We have to go see Patricia together,
+  and soon.
+talk0025: |
+  <3 Type='0' Data='0a00'/>I can't believe I have to keep telling you
+  this, Pritana.<0 Type='4'/>There's no way I can mix a Noble Pursuit
+  down here in the shelter.<0 Type='4'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Please address all complaints to the
+  sand shroud.
+talk0038: |
+  <3 Type='0' Data='0a00'/>Pritana. Don't use my canteen as a place
+  to hole up.<0 Type='4'/>I hope when the time comes, you find a
+  voe who can mix Noble Pursuits for you.
+talk0026: |
+  <3 Type='0' Data='0700'/>One Noble Pursuit, please!
+talk0000: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Hey, Nali?<0 Type='4'/>I'm thinking it might be time soon for me
+  to go out and find my special voe.
+talk0013: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Hey, did you hear about the mysterious
+  prophecy from Patricia?

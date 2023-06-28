@@ -1,0 +1,157 @@
+talk0008: |
+  <3 Type='0' Data='0800'/>The chief is quite the vai. Good luck
+  keeping up with her!
+Com_Talk_90a: |
+  <3 Type='0' Data='0800'/>Sarqso!
+talk0009: |
+  <3 Type='0' Data='0800'/>Is it true that you and the chief stopped
+  the sand shroud together?
+  
+  How did it go? Were you two perfectly in
+  sync every step of the way?
+  
+  Thank you for helping her! She deserves
+  all the support you can give!
+Com_Talk_90b: |
+  <3 Type='0' Data='0800'/>Sarqso!<5 Type='0'/> Eat right so you can grow into
+  a fine vai!
+Com_Talk_90c: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Hee-hee!<5 Type='0'/> Well, thanks to you, I'll have to
+  restock now, won't I?
+near0000: |
+  Wow...
+shop_near00: |
+  Watch where you step!
+Com_Talk_33: |
+  <3 Type='0' Data='0100'/>One will get you <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+  Wanna sell it?
+near0001: |
+  Fresh mushrooms!
+shop_near01: |
+  Um... Ahem?
+Com_Talk_35: |
+  <3 Type='0' Data='0100'/>All <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of yours? In that case, does
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/> sound good?
+Com_Talk_02b: |
+  <3 Type='0' Data='0800'/>Sarqso!
+Com_Talk_02c: |
+  <3 Type='0' Data='0800'/>Sarqso. What do you say? Want to sell
+  me a few more things?
+Com_Talk_02d: |
+  <3 Type='0' Data='0c00'/>Sarqso...<5 Type='0'/> It is a strange day when I am
+  filling my stock from a strange in the middle
+  of town...
+0000: |
+  Buy from me.
+Com_Talk_90a_00: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Such generosity! I can see why the chief
+  considers you a friend!
+0001: |
+  Goodbye.
+Com_Talk_00: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>What are you gonna sell me?
+Com_Talk_13: |
+  <3 Type='0' Data='0100'/>That? OK, how many do you want to sell?
+5500: |
+  Yes.
+Com_Talk_01: |
+  <3 Type='0' Data='0100'/>For that... If <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/> is OK
+  with you, I'll buy it. Deal?
+Com_Talk_14: |
+  <3 Type='0' Data='0100'/>So <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them? How about
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>?
+5501: |
+  No.
+Com_Talk_02: |
+  <3 Type='0' Data='0800'/>Sarqso.<5 Type='0'/> What about the rest?
+Com_Talk_15: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>That's not really my kind of thing...
+  Maybe you can sell me something else?
+Com_Talk_16: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Hey! Hey! I'm not buying anything right
+  off your back!<5 Type='0'/> If you want to sell it, you're
+  gonna have to change out of it first!
+5503: |
+  Never mind.
+Com_Talk_04: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>Oh, did you change your mind?
+  That's too bad.
+talk0000: |
+  <3 Type='0' Data='0800'/>So you're the Hylian the chief has given
+  special permission to?
+  
+  <FontSize Value='80'/><0 Type='3' Data='0200'/><3 Type='0' Data='0c01'/>Why would the chief make a special exception for
+  you, hmm? I wonder...<0 Type='3' Data='ffff'/>
+  
+  <FontSize Value='100'/><3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/>Ooh, but I love a good mystery!
+  
+  
+  In any case, if you're planning to help the
+  chief, you've got to keep your energy up!<FontSize Value='80'/><FontSize Value='100'/>
+  
+  <3 Type='0' Data='0800'/>And mushrooms are perfect for that.
+  Do you have any idea how common they
+  are and how many nutrients they contain?
+  You should buy some—either to eat right
+  now or to save for later!
+Com_Talk_05: |
+  <3 Type='0' Data='0801'/>Take your time—no rush!
+talk0003: |
+  <3 Type='0' Data='0800'/>Mushrooms are perfect for keeping your
+  energy up! You can find them almost
+  anywhere, and they're nutrient rich!
+  Get some for yourself—for now and
+  for later!
+  
+  If you're running a little short on <0 Type='3' Data='0000'/>rupees<0 Type='3' Data='ffff'/>
+  but can't pass on these mushrooms, you
+  could always sell me something first.
+Com_Talk_50: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/><0 Type='3' Data='ffff'/>One is <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. What do you
+  think? Pretty good price?
+5508: |
+  All of them.
+talk0004: |
+  <3 Type='0' Data='0800'/>I'll make sure to get more delicious
+  mushrooms in stock soon, so come back
+  and see me again!
+  <FontSize Value='80'/><0 Type='3' Data='0200'/>This vai really has excellent taste and clearly cares
+  about her health. Maybe that's why the chief made a
+  special exception for her?<0 Type='3' Data='ffff'/><FontSize Value='100'/>
+GreetingBefore03: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='180043007500730074006f006d00560061007300610061007100'/>Vasaaq!<5 Type='0'/>
+  
+  
+  If you're planning to help protect the
+  chief, you'd best keep your energy up
+  with a hearty meal!
+talk0005: |
+  <3 Type='0' Data='0700'/>Oh? You aren't done?
+  
+  
+  I thought you were going to head out,
+  but OK.
+  
+  <0 Type='3' Data='0200'/><FontSize Value='80'/>This vai seems pretty indecisive. That certainly
+  can't be why the chief has made a special exception
+  for her...<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Com_Talk_05b: |
+  <3 Type='0' Data='0100'/>What do you want to sell?
+talk0006: |
+  <3 Type='0' Data='0800'/>If you've got a little time, why not take
+  a look at my selection!
+  
+  All the mushrooms I have are freshly
+  picked!<5 Type='0'/> They're nice and tender!
+Com_Talk_53: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a005400680069006e006b00'/>You are quite the indecisive vai,
+  aren't you...
+Com_Talk_05c: |
+  <3 Type='0' Data='0100'/>That can't be all. Come on, show me
+  some more.
+talk0007: |
+  <3 Type='0' Data='0700'/>Stop by anytime. I'm happy to see what
+  items you might be looking to sell.
+Com_Talk_05d: |
+  <3 Type='0' Data='0100'/>I'll buy anything as long as it isn't weird.
+  Too weird, anyway.

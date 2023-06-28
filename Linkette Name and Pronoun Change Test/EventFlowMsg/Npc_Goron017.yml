@@ -1,0 +1,130 @@
+Talk_07: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>Ummm...<5 Type='1'/> You don't have a <0 Type='3' Data='0000'/>cobble crusher<0 Type='3' Data='ffff'/>
+  or enough <0 Type='3' Data='0000'/>diamonds<0 Type='3' Data='ffff'/>.
+Talk_08: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>Ummm...<5 Type='1'/> You don't have enough <0 Type='3' Data='0000'/>flint<0 Type='3' Data='ffff'/>.
+Talk_09: |
+  <3 Type='0' Data='0b00'/>You don't have a <0 Type='3' Data='0000'/>cobble crusher <0 Type='3' Data='ffff'/>or
+  enough <0 Type='3' Data='0000'/>flint<0 Type='3' Data='ffff'/>.
+Talk_20: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='140055006e006400650072007300740061006e006400'/>The art of the historic <0 Type='3' Data='0000'/>Boulder Breaker<0 Type='3' Data='ffff'/>
+  is handed down through generations and
+  made only by chosen blacksmiths.
+  Creating it requires three diamonds,
+  a cobble crusher, and five pieces of flint.
+Talk_21: |
+  <3 Type='0' Data='0800'/>As much as you can listen is as much as I
+  can talk!
+Talk_22: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/>It's finished!
+Talk_10: |
+  <3 Type='0' Data='0b00'/>You don't have enough <0 Type='3' Data='0000'/>diamonds <0 Type='3' Data='ffff'/>or <0 Type='3' Data='0000'/>flint<0 Type='3' Data='ffff'/>.
+Talk_23: |
+  <3 Type='0' Data='0800'/>It's good and tough. Go ahead—try
+  swinging it around!
+  
+  ...
+  
+  
+  <3 Type='0' Data='0b00'/>Uh.<5 Type='1'/> When I said that, I didn't mean
+  RIGHT HERE. Give it a whirl outside
+  the city, 'K?
+Talk_24: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>It's thanks to you that I handle this
+  forge now, ya know. Oh, and thanks
+  for the materials!
+  <3 Type='0' Data='0701'/>I've already mastered forging and
+  repairing the <0 Type='3' Data='0000'/>Boulder Breaker<0 Type='3' Data='ffff'/>, so you
+  know who to come to if it breaks on ya.
+0000: |
+  Here ya go.
+Talk_12: |
+  <3 Type='0' Data='0700'/>Looks like everything's accounted for.<5 Type='1'/>
+  All right, I'll get to making that Boulder
+  Breaker for ya.
+Talk_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Workin' from dusk till dawn. Can't I catch
+  a break?
+  
+  Bludo can't eat <0 Type='3' Data='0000'/>marbled rock roast<0 Type='3' Data='ffff'/>, so
+  he's taking his aggression out on me by
+  makin' me work all the time.
+0001: |
+  Goodbye.
+Talk_13: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='120057006f0072006b0048006500610076007900'/>I'll imbue it with a soul and pound it
+  into life!
+Talk_14: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>I can sense the spirit of the <0 Type='3' Data='0000'/>Boulder
+  Breaker <0 Type='3' Data='ffff'/>somewhere out there.
+  
+  There's only one soul in all the world that
+  can be forged into the Boulder Breaker.
+  
+  If that soul already inhabits a Boulder
+  Breaker, I can't make another one.
+  Understood?
+0002: |
+  Make a Boulder Breaker!
+Talk_02: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Welcome!<5 Type='1'/> How's the Boulder Breaker
+  treatin' ya?
+  
+  If it hadn't been for you, this forge
+  wouldn't have been entrusted to me.
+  
+  So, please, if your Boulder Breaker
+  breaks, come holler at me!
+Talk_15: |
+  <3 Type='0' Data='0b00'/>Uh...<5 Type='1'/> You don't have anything ready!
+  
+  
+  I can't make it if you don't provide me
+  with the materials.
+0003: |
+  Never mind.
+Talk_03: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Ma'am. You already have the Boulder Breaker.
+  
+  
+  There's only one soul in all the world that
+  can be forged into the Boulder Breaker.
+  
+  If that soul already inhabits a Boulder
+  Breaker, like the one you've got there,
+  I can't make another one. Understood?
+Talk_16: |
+  <3 Type='0' Data='0a00'/>No matter my skill at the forge, without
+  materials, those skills aren't good
+  for much.
+0004: |
+  Boulder Breaker?
+Near_00: |
+  Gah!
+Talk_17: |
+  <3 Type='0' Data='0700'/>Welcome.<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0b00'/>Hey!<5 Type='1'/> It's you!<5 Type='0'/>
+  
+  
+  <3 Type='0' Data='0801'/>You're the reason this forge was left to
+  me, ya know. Thanks again for that!
+  
+  I've already mastered forging and
+  repairing the Boulder Breaker, so you
+  know who to come to if it breaks on ya.
+Talk_04: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='140055006e006400650072007300740061006e006400'/>I can make it with a cobble crusher, five
+  pieces of flint, and three diamonds.
+Near_01: |
+  I put all I had into this!
+Talk_18: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>How's the Boulder Breaker treatin' ya?
+  Don't hesitate to let me know if it breaks.
+Talk_05: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>Ummm.<5 Type='1'/> You don't have a <0 Type='3' Data='0000'/>cobble crusher<0 Type='3' Data='ffff'/>.
+Talk_19: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Come back again!
+Talk_06: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>Uh...<5 Type='1'/> You don't have enough <0 Type='3' Data='0000'/>diamonds<0 Type='3' Data='ffff'/>.

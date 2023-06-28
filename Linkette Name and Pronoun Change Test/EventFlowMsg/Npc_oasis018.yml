@@ -1,0 +1,106 @@
+talk0000: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>Nothing like going to stretch your legs
+  and ending up in the strangest place...
+  
+  Everything looks the same down here.
+  It would be so easy to get turned around.
+  
+  I wonder if the people who originally made
+  this place got lost in it all the time too.
+talk0001: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>What?<5 Type='0'/> If you're here about the <0 Type='3' Data='0000'/>cooking
+  class<0 Type='3' Data='ffff'/>, it isn't being held at the moment.
+talk0002: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Before the sand shroud settled in, Ashai
+  was teaching a cooking class here.
+  
+  You see, you can get really far in life—and
+  in love—if you have a solid grasp of the
+  essentials of cooking.
+  <3 Type='0' Data='0501'/>But she has so many students now that
+  her other class, "voe and You," takes up
+  all her time.
+  <3 Type='0' Data='0701'/><4 Type='0' Data='08004300680061007400'/>So she's opened this place up for
+  everyone's use.
+  
+  The <0 Type='3' Data='0000'/>cookbooks<0 Type='3' Data='ffff'/> here are really useful too.
+  If you're planning to do any cooking at all,
+  you should definitely give them a read.
+AssassinClothes: |
+  Hmm?
+talk0003: |
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/><4 Type='0' Data='08004500610073006500'/><FontSize Value='100'/>I thought there were supposed to be two
+  cookbooks here... Where could the other
+  one have gone?
+talk0004: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>I thought the <0 Type='3' Data='0000'/>canteen <0 Type='3' Data='ffff'/>was around here
+  somewhere...<5 Type='1'/> Huh?
+talk0010: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>What?<5 Type='0'/> I told you already—the <0 Type='3' Data='0000'/>cooking
+  class<0 Type='3' Data='ffff'/> isn't being held right now.
+talk0011: |
+  <3 Type='0' Data='0201'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>Hey, what do you want? Were you lurking
+  in the shadows there, eavesdropping on
+  what I was saying?
+  <3 Type='0' Data='0701'/>Oh... You're that vai that everyone has
+  been talking about, right?
+  
+  If I were younger, I might have been
+  surprised to see you here, but at my
+  age... <5 Type='0'/>Well, very little surprises me.
+  Disappointed that I wasn't shocked and
+  aghast at the very sight of you? Heh.
+  
+  Anyway, I'm going to go. I'm feeling
+  a little parched, so maybe something
+  to drink at the <0 Type='3' Data='0000'/>canteen<0 Type='3' Data='ffff'/>...
+talk0005: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>Now then...<5 Type='0'/> I think I'll go track down
+  some <0 Type='3' Data='0000'/>fruit <0 Type='3' Data='ffff'/>or something.
+near0000: |
+  How strange...
+talk0012: |
+  <3 Type='0' Data='0701'/>Oh. You're that vai that folks have been
+  talking about. Have you already figured
+  out how to get around the shelter?
+  <3 Type='0' Data='0a01'/>I heard this place was built a long, long
+  time ago. I wonder if the people that
+  made it got lost in it too...
+talk0006: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>Now then... I think it's about time I put in
+  an appearance at the <0 Type='3' Data='0000'/>canteen<0 Type='3' Data='ffff'/>.
+talk0013: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>I swear the <0 Type='3' Data='0000'/>fruit shop<0 Type='3' Data='ffff'/> was right around
+  here... <5 Type='1'/>Huh?
+talk0014: |
+  <3 Type='0' Data='0700'/>Do you Yiga really have so little to do that
+  you can loiter around here?
+  
+  Whatever. <5 Type='0'/>We won't have any trouble as
+  long as you stop bothering me. Right now.
+talk0008: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/><FontSize Value='80'/>Oh, no bananas at all... And here I was wanting to
+  make <0 Type='3' Data='0000'/>fried bananas<0 Type='3' Data='ffff'/> for the first time in a while.
+  
+  Coat a banana in <0 Type='3' Data='0000'/>Tabantha wheat<0 Type='3' Data='ffff'/>, fry it, then mix in
+  a bit of <0 Type='3' Data='0000'/>cane sugar<0 Type='3' Data='ffff'/>...
+  
+  <3 Type='0' Data='0101'/>Crispy on the outside, melted and gooey on the
+  inside... Great, I've made myself even more hungry
+  just thinking about it.<FontSize Value='100'/>
+0000: |
+  Cooking class?
+talk0009: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>The shelter may be cramped, and I don't
+  think I'll ever actually like it... But at least
+  the canteen is all right.
+  After all, the back of this room is right
+  <0 Type='3' Data='0000'/>under the jail<0 Type='3' Data='ffff'/>, you know.
+  
+  <3 Type='0' Data='0801'/>Hearing the sound of a voe's voice every
+  so often, even muffled through a wall,
+  makes all the drinks taste just a bit better.
+0001: |
+  Goodbye.
+BookNG: |
+  It cannot be read from here.

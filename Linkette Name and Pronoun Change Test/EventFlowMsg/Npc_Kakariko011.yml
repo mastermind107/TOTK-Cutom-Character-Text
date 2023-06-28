@@ -1,0 +1,89 @@
+0009: |
+  Goodbye.
+Talk10: |
+  <3 Type='0' Data='0c00'/>So, s-<5 Type='0'/>ma'am...<5 Type='0'/> Are you here <5 Type='0'/>to rest?
+  
+  
+  Resting is g-good for the body.<5 Type='0'/> I also...<5 Type='0'/>
+  sleep all the time...<5 Type='0'/> For my health.
+Talk11: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Y-you're a customer,<5 Type='0'/> right?<5 Type='0'/> 
+  
+  
+  Thanks for...<5 Type='0'/>waking me up...<5 Type='0'/>with the
+  scent of that truffle...<5 Type='0'/>
+  
+  I'll think of its aroma...<5 Type='0'/>the next time I drift
+  off to sleep. Very much...<5 Type='0'/>appreciated.
+  
+  <3 Type='0' Data='0c00'/>That person on the survey team was
+  telling me about...<5 Type='0'/>that <0 Type='3' Data='0000'/>stone slab<0 Type='3' Data='ffff'/>...<5 Type='0'/>and
+  before I knew it...<5 Type='0'/>you know.
+  The last thing I heard before I fell
+  asleep...<5 Type='0'/>was that there are <0 Type='3' Data='0000'/>more stone
+  slabs <0 Type='3' Data='ffff'/>with <0 Type='3' Data='0000'/>writing on them<0 Type='3' Data='ffff'/>.
+Talk12: |
+  <3 Type='0' Data='0c00'/>The soft bed is stuffed with premium
+  Cucco feathers...<5 Type='0'/>or something.<5 Type='0'/> I think.
+  
+  Sleep on that, and...<5 Type='0'/> Um...<5 Type='0'/> Ya know...<5 Type='0'/>
+  You'll be more energized<5 Type='0'/> than usual.
+Talk00: |
+  <3 Type='0' Data='0701'/>Well...<5 Type='0'/> The regular bed is <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/>.
+  And...<5 Type='0'/>th-the soft bed is <0 Type='3' Data='0000'/>30 rupees<0 Type='3' Data='ffff'/>.<5 Type='0'/>
+  I guess...
+Talk13: |
+  <3 Type='0' Data='0700'/>Oh, OK... <5 Type='1'/>You'd sleep great though...
+Talk14: |
+  <3 Type='0' Data='0c00'/>Noon?<5 Type='0'/> All righty. If you insist.
+  
+  
+  <FontSize Value='80'/>I wonder...<5 Type='0'/>if I'll be awake...<FontSize Value='100'/>
+Talk02: |
+  <3 Type='0' Data='0700'/>So, um...<5 Type='0'/> When should I wake you?
+Talk15: |
+  <3 Type='0' Data='0c00'/>Night?<5 Type='0'/> Got it. If you insist.
+  
+  
+  <FontSize Value='80'/>I wonder...<5 Type='0'/>if I'll be awake...<FontSize Value='100'/>
+Near00: |
+  A guest?
+Talk03: |
+  <3 Type='0' Data='0700'/>Well...<5 Type='0'/>d-do come again...<5 Type='0'/>OK?<5 Type='0'/>
+  Good night...
+Talk16: |
+  <3 Type='0' Data='0700'/>Good m-morning.<5 Type='0'/> Or wait... Good day.<5 Type='0'/>
+  I guess.
+Near01: |
+  Truffles... Truffles...
+0000: |
+  Regular bed.
+Talk04: |
+  <3 Type='0' Data='0c00'/>M-morning?<5 Type='0'/> All righty. If you insist.
+  
+  
+  <FontSize Value='80'/>I wonder...<5 Type='0'/>if I'll be awake...<FontSize Value='100'/>
+Talk17: |
+  <3 Type='0' Data='0700'/>Good mor...<5 Type='0'/> Wait. I mean, good evening.<5 Type='0'/>
+  I guess.
+Near02: |
+  Can't sleep with this rain...
+0001: |
+  Soft bed.
+Talk05: |
+  <3 Type='0' Data='0000'/>Um...<5 Type='0'/> Oh my... You don't...<5 Type='0'/>have
+  enough rupees.
+Talk19: |
+  <3 Type='0' Data='0c00'/>Are you...<5 Type='0'/>a g-guest? <5 Type='0'/>I suppose so...
+0002: |
+  The difference?
+0003: |
+  Morning.
+0004: |
+  Noon.
+Talk08: |
+  <3 Type='0' Data='0700'/>Good m-morning.
+0005: |
+  Night.
+0006: |
+  Changed my mind.

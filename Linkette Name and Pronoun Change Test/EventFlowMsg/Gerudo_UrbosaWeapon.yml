@@ -1,0 +1,216 @@
+talk0014: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>OK then, let me just make sure you have
+  everything I'll need...
+talk0027: |
+  <3 Type='0' Data='0000'/>I don't think I can use the shield or the
+  scimitar when they are in this state...
+talk0001: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>I poured all of my heart into making these.<5 Type='0'/>
+  
+  
+  Here, take them. They are a true symbol
+  of the gratitude of the Gerudo.
+talk0015: |
+  <3 Type='0' Data='0c01'/>Four diamonds, 10 pieces of flint...
+  a Gerudo scimitar, and a Gerudo shield.
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Hee-hee! I knew you could do it. This is
+  everything I need to get to work!<5 Type='1'/>
+  
+  Give me just a minute...
+talk0028: |
+  <3 Type='0' Data='0700'/>It's very important that the materials not
+  have any extra things attached to them.
+  
+  I'm not trying to be difficult—this is just
+  the reality of the situation.
+  
+  <3 Type='0' Data='0c01'/>Oh, and if you're worried about losing
+  whatever is attached...<5 Type='1'/>
+  
+  <3 Type='0' Data='0700'/>You should head to <0 Type='3' Data='0000'/>Tarrey Town<0 Type='3' Data='ffff'/> in
+  northeast Hyrule.
+  
+  I hear there's an expert there who has
+  specialized in removing attachments
+  and adornments.
+  They may be able to help you out.
+talk0002: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>You're the second person I've made those
+  for.<5 Type='1'/> Lady Riju was the first.
+  
+  My ancestor even made them for the
+  Champion of the Gerudo some time ago.<5 Type='1'/>
+  
+  <3 Type='0' Data='0100'/>That really just goes to show how amazing
+  they are. It'll make me happy if you take
+  good care of them.
+  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>But I did make them to be used, so don't
+  feel like you need to preserve them...<5 Type='1'/>
+  
+  Should they ever be irretrievably lost,
+  just bring me the materials again and
+  I'll remake them for you.
+  <3 Type='0' Data='0c01'/>And...also...
+  
+  
+  You can come and see me whenever you
+  like, even if you don't need anything.
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>May the blessings of the Gerudo be
+  upon you...
+near0000: |
+  Oh, vasaaq...
+talk0016: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>You're not just my savior—you're the
+  savior of all of the Gerudo.
+  
+  It would be an honor to make the <0 Type='3' Data='0000'/>arms
+  of the Seven<0 Type='3' Data='ffff'/> for you.
+near0001: |
+  You came...
+near0002: |
+  I'm feeling restless.
+talk0007: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>I wish you good fortune in your travels...
+talk0009: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Not a problem. It's entirely up to you if
+  you want me to make these weapons.
+  Let me know if you change your mind.
+talk0020: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>That's the spirit!
+  
+  
+  OK then, I just need you to gather some
+  materials for me. Can you do that?
+  
+  Truth be told, I'd like to gather the
+  materials for you myself, but it is the duty
+  of the bearer of the arms to do that.
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>I need four diamonds, 10 pieces of flint...
+  a Gerudo scimitar, and a Gerudo shield.
+  
+  Even a decayed Gerudo scimitar will do
+  the trick!
+  
+  <3 Type='0' Data='0701'/>OK then...<5 Type='0'/>once you've gathered all of
+  those materials together, come and talk
+  to me, OK?
+talk0021: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>If you hadn't shown up when you did,
+  I wouldn't be here right now.
+  
+  With me gone, the long line of those
+  who are capable of crafting the <0 Type='3' Data='0000'/>arms of
+  the Seven<0 Type='3' Data='ffff'/> would have ended too.
+  The arms of the Seven... A legendary
+  sword and shield passed down among the
+  Gerudo, wielded by a chosen individual.
+  <3 Type='0' Data='0100'/>I'm talking about a shield called the
+  <0 Type='3' Data='0000'/>Daybreaker<0 Type='3' Data='ffff'/> and a sword known as the
+  <0 Type='3' Data='0000'/>Scimitar of the Seven<0 Type='3' Data='ffff'/>.
+  And...after what you did to help me,
+  I have chosen you to carry the <0 Type='3' Data='0000'/>arms of
+  the Seven<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Now, would you allow me to make them
+  for you?
+0002: |
+  Let's get to crafting!
+talk0022: |
+  <3 Type='0' Data='0701'/>I'm always shocked when I speak with
+  the others about you. It's a real sa'oten—
+  a surprise—how incredible you are.
+  Sarqso for not only helping Gerudo Town
+  but also for helping me.
+  
+  If not for you, my people may have forever
+  lost the knowledge of how to make the
+  <0 Type='3' Data='0000'/>arms of the Seven<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0701'/>They are a legendary sword and shield
+  passed down among the Gerudo, wielded
+  by a chosen individual.
+  <3 Type='0' Data='0100'/>I'm talking about a shield called the
+  <0 Type='3' Data='0000'/>Daybreaker<0 Type='3' Data='ffff'/> and a sword known as the
+  <0 Type='3' Data='0000'/>Scimitar of the Seven<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>I have chosen you to carry the <0 Type='3' Data='0000'/>arms of
+  the Seven<0 Type='3' Data='ffff'/>.
+  
+  Would you allow me to make these
+  legendary items for you?
+0003: |
+  About the materials...
+talk0023: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Everyone, including me, has been able to
+  get back to our normal lives.
+  
+  And it's all because of you! <5 Type='0'/>Sarqso!
+  
+  
+  <3 Type='0' Data='0701'/>You know...<5 Type='1'/>we all owe you a great debt,
+  and I think I can begin to repay it by
+  crafting the <0 Type='3' Data='0000'/>arms of the Seven<0 Type='3' Data='ffff'/> for you.
+  They are a sword and shield passed down
+  by the Gerudo, and they can only be
+  wielded by a chosen individual.
+  <3 Type='0' Data='0800'/><0 Type='3' Data='0000'/><4 Type='0' Data='1000480061007000700079005f0030003100'/><0 Type='3' Data='ffff'/>I'm talking about the <0 Type='3' Data='0000'/>Scimitar of the
+  Seven <0 Type='3' Data='ffff'/>and the <0 Type='3' Data='0000'/>Daybreaker<0 Type='3' Data='ffff'/>, of course.
+  
+  They're crafted using a special technique
+  known only to me.
+  
+  <3 Type='0' Data='0801'/>And I...<5 Type='0'/>have chosen you to carry them.
+  Will you let me make the <0 Type='3' Data='0000'/>arms of the
+  Seven<0 Type='3' Data='ffff'/> for you?
+talk0010: |
+  <3 Type='0' Data='0100'/>Do you need anything else?
+0004: |
+  Felt like saying hello!
+0005: |
+  Yes, please.
+talk0011: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>I need four diamonds, 10 pieces of flint...
+  a Gerudo scimitar, and a Gerudo shield.
+  
+  Even a decayed Gerudo scimitar will do
+  the trick!
+  
+  Truth be told, it's a bit of a pain to gather
+  the materials, but...
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>I know you can do it.<5 Type='0'/> You're the vai
+  I chose, after all.
+talk0024: |
+  <3 Type='0' Data='0c00'/>Oh. <5 Type='0'/>Hmm.<5 Type='0'/> Well, you've brought me
+  enough materials, but...
+0006: |
+  Maybe later...
+talk0012: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Oh my...<5 Type='0'/> What a nice thing to say!
+  
+  
+  Well, I'm happy to see you too!
+  You're vasaaq anytime.
+talk0025: |
+  <3 Type='0' Data='0000'/>I don't think I can use the shield when it's
+  in this state...
+talk0013: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh my... It looks like you don't have all
+  the materials I need to get to work.
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>I need four diamonds, 10 pieces of flint...
+  a Gerudo scimitar, and a Gerudo shield.
+  
+  Even a decayed Gerudo scimitar will do
+  the trick!
+  
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Truth be told, I'd like to gather the
+  materials for you, but it is the duty of
+  the bearer of the arms to do that.
+  I'm sure it's a bit of a pain to do it, but...
+  
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>I know you can do it.<5 Type='0'/> You're the vai
+  I chose, after all.
+talk0026: |
+  <3 Type='0' Data='0000'/>I don't think I can use the scimitar when
+  it's in this state...

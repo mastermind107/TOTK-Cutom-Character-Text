@@ -1,0 +1,269 @@
+Talk2016: |
+  <3 Type='0' Data='0701'/>You go on ahead to <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>.
+  We're going to rest here a while.
+Talk_17: |
+  <3 Type='0' Data='0900'/>Come ON! Let us in!
+Talk2017: |
+  <3 Type='0' Data='0700'/>And have a meal! I can't travel on an
+  empty stomach!
+Talk_18: |
+  <3 Type='0' Data='0700'/>Gerudo Town is a sacred place! I told
+  you, outsider may not enter without express
+  permission, and that's final!
+Talk_19: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>All right. We tried. Perhaps it's time to
+  give up and go somewhere else.
+Talk1010: |
+  <3 Type='0' Data='0700'/>All right, big guy.
+Talk1011: |
+  <3 Type='0' Data='0700'/>The weather's a little overcast right now,
+  so they're hard to see. But it should clear
+  up sooner or later.
+Talk1012: |
+  <3 Type='0' Data='0700'/>We used to be solo travelers too, until
+  we ran into each other on the road.<0 Type='4'/>The big lump's got no sense of direction
+  at all. Would you believe he forgot the
+  way to <0 Type='3' Data='0000'/>Goron City<0 Type='3' Data='ffff'/>, his hometown?
+  I couldn't bear to watch him flail around,
+  so now we're travel buddies.
+Talk1013: |
+  <3 Type='0' Data='0b00'/>I didn't forget the way! The way changed!
+  How was I s'posed to know the lava would
+  cool like that?<0 Type='4'/>It used to be scorching hot, crisscrossing
+  the mountain...
+Talk1014: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Hahaha, all right, you win. I'll stop, since
+  I can't cook to save my life.<0 Type='4'/>That's why we're such good traveling
+  buddies. We make up for each other's
+  weaknesses.
+Talk1015: |
+  <3 Type='0' Data='0700'/>Sorry for nattering on. The sight of
+  you traveling alone just made me a
+  bit nostalgic.<0 Type='4'/>We're thinking of going to <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>
+  in the Necluda region next. That's in
+  the east.
+  This guy's dying to see the <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/>.
+Talk1016: |
+  <3 Type='0' Data='0800'/>Course I am! The ruins' ring-like shape is
+  one of a kind!<0 Type='4'/>I can't WAIT to taste them! <5 Type='1'/>I...mean chew
+  them! <5 Type='1'/>I mean...
+Talk1017: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Are you traveling alone?
+Talk_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08005300690067006800'/>Kairo, she's getting angry. Maybe let's—
+Talk1018: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='20005100750065007300740069006f006e0053007500720070007200690073006500'/>We've talked about this! Priceless ruins
+  are for seeing, not eating!<0 Type='4'/><3 Type='0' Data='0701'/>Anyway, <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/> is where
+  we're headed.
+Balloon2001: |
+  Nice to take a break.
+Talk2001: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey! You headed to <0 Type='3' Data='0000'/>Kakariko Village <0 Type='3' Data='ffff'/>too?
+Talk_02: |
+  <3 Type='0' Data='0900'/>Why? Why won't you let us in?!
+Talk1019: |
+  <3 Type='0' Data='0700'/>We're thinking of going to <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>
+  in the Necluda region next. That's to
+  the east.
+  This guy's dying to see the <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/>.
+Talk2002: |
+  <3 Type='0' Data='0700'/>Well, you're almost there.
+Talk_20: |
+  <3 Type='0' Data='0900'/>I told you! You're not permitted!
+Talk_03: |
+  <3 Type='0' Data='0700'/>As I have said, males aren't allowed here!
+  Give up! Go back where you came from!
+Talk4011: |
+  <3 Type='0' Data='0700'/>Happy to be of service.
+  
+  
+  Using <0 Type='3' Data='0000'/>Death Mountain<0 Type='3' Data='ffff'/> as a landmark is all
+  well and good, of course.
+  
+  But the <0 Type='3' Data='0000'/>red haze <0 Type='3' Data='ffff'/>around the summit looks
+  worryingly like gloom.
+  
+  Try not to get too close.
+Talk_04: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='0a0041006e00670072007900'/>My buddy told me you let her in! How
+  come she could go in and we can't?
+Talk_21: |
+  <3 Type='0' Data='0900'/>No way! I'm not givin' up!<0 Type='4'/>My friend told me she got in! If we keep
+  asking, they'll let us in too!
+Talk4012: |
+  <3 Type='0' Data='0700'/>All right—<5 Type='0'/>let's get going, then! Might as
+  well get out of this rain.
+  
+  And on our way, we'll stop by that bistro
+  place you keep mentioning.
+Near_01: |
+  Maybe we should back off.
+Talk_05: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>What? That is a lie! Your outsider friend did
+  NOT get in!<0 Type='4'/>There's only one outsider with permission to
+  enter this town.
+Talk_22: |
+  <3 Type='0' Data='0700'/>You have permission. Come in.
+Talk2005: |
+  <3 Type='0' Data='0000'/>It's on top of that hill.
+Near_02: |
+  Come on! Let us in!
+Talk_06: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>Aren't you the traveler we met on the
+  way to Kakariko Village?
+Talk_23: |
+  <3 Type='0' Data='0900'/>Those two are testing my patience.<5 Type='0'/>
+  I'm so busy with them, I've had no time
+  to decorate my weapons.
+  But I'm fine. Who I worry about is Merina.
+  She can't stand outsiders, and these ones are
+  especially annoying.
+  If she gets any madder, it'll turn into a
+  scuffle, and I do not want to be around
+  for that...
+Talk2006: |
+  <3 Type='0' Data='0700'/>Oof, I'm hungry... You SURE I can't have
+  a taste of the <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/>? A little nibble?
+Near_03: |
+  You're not permitted!
+Talk_24: |
+  <3 Type='0' Data='0900'/>Now those two have set up a tent in front
+  of the gate. <5 Type='0'/>The audacity!<0 Type='4'/>I'm so busy keeping an eye on them that
+  I have no time to decorate any weapons.<0 Type='4'/>But I'm fine. Who I worry about is Merina.
+  She can't stand outsiders, and these ones are
+  especially annoying.
+  If she gets any madder, it'll turn into a
+  scuffle, and I do not want to be around
+  for that...
+Talk2007: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='26005100750065007300740069006f006e00530075007200700072006900730065005f0030003100'/>A little nibble of rare, otherworldly ruins?
+  <5 Type='0'/>I don't think so, Kairo.
+Near_04: |
+  Gah...
+Talk_25: |
+  <3 Type='0' Data='0900'/>Those two are troublemakers. <5 Type='0'/>I had been
+  hoping to go off duty for the first time in
+  ages and decorate my favorite weapon.
+Talk2008: |
+  <3 Type='0' Data='0800'/>Bwahaha! I'm just joking!
+Near_05: |
+  We'll get in tomorrow, yep!
+Talk_09: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='0e00520075006e006100770061007900'/>What? No fair! I smell favoritism!
+Near_06: |
+  And now it's raining.
+Balloon1001: |
+  The ruins ain't far now!
+Talk2009: |
+  <3 Type='0' Data='0700'/>Sorry. Pretend you didn't hear all that.<0 Type='4'/>We're well-behaved travelers. We'd never
+  dream of sullying the places we visit.
+Near_07: |
+  Ack! I'm soaked!
+Near_08: |
+  Darn rain. I can hardly see!
+Talk1020: |
+  <3 Type='0' Data='0801'/>We're off. See you on the road!
+Talk1021: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>You're right. I'm being harsh. The way to
+  <0 Type='3' Data='0000'/>Goron City <0 Type='3' Data='ffff'/>is very complicated now.<0 Type='4'/>It's not as if you can find it by simply
+  heading toward <0 Type='3' Data='0000'/>Death Mountain <0 Type='3' Data='ffff'/>in the
+  northeast.
+Talk1022: |
+  <3 Type='0' Data='0900'/>That's it! If you keep makin' fun of me,
+  I won't cook anymore!
+Talk1005: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Then why wait? Let's go!
+Talk1023: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey, I recognize you from Lookout
+  Landing! You traveling alone, brother?
+Talk1007: |
+  <3 Type='0' Data='0700'/>Kakariko Village is right over there next
+  to that <0 Type='3' Data='0000'/>Skyview Tower<0 Type='3' Data='ffff'/>.<0 Type='4'/>And the ring-shaped rock to the left of it
+  is probably one of the <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/>.<0 Type='4'/>If you get turned around on the journey,
+  you can look at those two things to
+  reorient yourself.
+Talk1024: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>We met you at Lookout Landing! Good to
+  see a familiar face.
+Talk1008: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>You traveling alone?
+Talk1009: |
+  <3 Type='0' Data='0700'/>They're harder to see in the rain. But that
+  should clear up sooner or later.
+Talk_10: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='0a0041006e00670072007900'/>Favoritism? That outsider is special!<5 Type='0'/><0 Type='4'/>You're lucky you are dealing with me and
+  not Merina over there. She'd have carved
+  you to pieces by now.
+Talk4001: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0a005400680069006e006b00'/>You're a Goron. You should know the way
+  to <0 Type='3' Data='0000'/>Goron City<0 Type='3' Data='ffff'/>.
+  
+  How in the name of Hylia did you forget?
+Talk2010: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey, you're that traveler we saw at the
+  stable. You going to <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/> too?
+Talk_11: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh, it's you.<0 Type='4'/><3 Type='0' Data='0a00'/>I've just about had it with Kairo's
+  stubbornness. Now he's set up a tent
+  to camp out by the gate.
+  <3 Type='0' Data='0701'/>By all accounts, the place is off-limits
+  to males. I doubt they'll decide to bend
+  the rules for us.
+  How you got permission to enter, I can
+  only imagine.
+Talk4002: |
+  <3 Type='0' Data='0a00'/>Lay off! I'm embarrassed enough as it is!<0 Type='4'/>Besides, it's not that I forgot. When I left
+  the city, there was still lava everywhere.<0 Type='4'/>I didn't know <0 Type='3' Data='0000'/>Death Mountain <0 Type='3' Data='ffff'/>would stop
+  erupting, the lava would cool, and <0 Type='3' Data='0000'/>new
+  roads <0 Type='3' Data='ffff'/>would form!
+Talk2011: |
+  <3 Type='0' Data='0000'/>It's on top of that hill. <5 Type='0'/>Hard to see
+  through the rain, but I promise it's there.
+Talk_12: |
+  <3 Type='0' Data='0700'/>So it's true what folks say—males really
+  are barred from Gerudo Town.<0 Type='4'/>But you've been there, right? I'd love to
+  hear what it was like sometime.
+Talk4003: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>You don't have to tell me there was
+  lava everywhere.<0 Type='4'/>It used to be so hot that Hylians couldn't
+  step foot on the mountain without
+  fire-resistant gear.
+  <3 Type='0' Data='0c01'/>Even if I wanted to take a trip that way,
+  I couldn't.
+Talk2012: |
+  <3 Type='0' Data='0a00'/>I'm starving. If I take one more step, I'll
+  collapse from hunger!
+Talk_13: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>My friend told me she got into
+  Gerudo Town.<0 Type='4'/>He said there were lots of heavenly
+  smells—which means there are tasty
+  things to eat!
+  <4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>You've been there, right? How? What was
+  your secret?<0 Type='4'/>Persistence, right? You didn't give up,
+  so I won't either!
+Talk4004: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Well, thanks to this guy, now ya can!<0 Type='4'/>First, we have to walk down the road
+  toward <0 Type='3' Data='0000'/>Death Mountain<0 Type='3' Data='ffff'/>, which you can
+  see over in the northeast.
+  Then we'll arrive at <0 Type='3' Data='0000'/>Woodland Stable<0 Type='3' Data='ffff'/>,
+  and from there, we keep goin' north.
+  
+  Thanks again for the directions, fella!
+Talk2013: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0053006900670068005f0030003000'/>Yeesh, so dramatic.<0 Type='4'/>I guess we'll stop here and have
+  something to eat.
+Talk_14: |
+  <3 Type='0' Data='0700'/>How come you and my friend were
+  allowed into Gerudo Town?<0 Type='4'/>I can't stop wondering what's in there!
+Talk4005: |
+  <3 Type='0' Data='0700'/>All right—let's go!<0 Type='4'/>And on our way, we'll stop by that bistro
+  place you keep mentioning.
+Talk2014: |
+  <3 Type='0' Data='0a00'/>I'm starving. If I take one more step, I'll
+  collapse from hunger!
+Talk_15: |
+  <3 Type='0' Data='0900'/>That one. Right there.
+Talk4006: |
+  <3 Type='0' Data='0800'/>Now you're talking!
+Talk2015: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e00540072006f00750062006c006500'/>Yeesh, so dramatic.

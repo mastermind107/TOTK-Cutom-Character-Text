@@ -1,0 +1,218 @@
+Talk_0013: |
+  <3 Type='0' Data='0301'/>The village was attacked by pirates
+  recently. Isn't that awful?<0 Type='4'/><3 Type='0' Data='0701'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>Thankfully, someone chased them off,
+  so it should be safe now. And I hear
+  rebuilding efforts are underway.
+StableHostelPicture: |
+  So cute! I want to pet it!
+Talk_0001: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Yes?<5 Type='0'/> Need something, ma'am?<0 Type='4'/>I'm in the middle of tending to the horses,
+  but I can multitask, <5 Type='0'/>hehe!<0 Type='4'/><3 Type='0' Data='0801'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>We have lots of happy horses roaming
+  free around Highland Stable, so if you
+  need one, you're in the right place.<0 Type='4'/><3 Type='0' Data='0701'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>Then you can ride it north or south or
+  wherever you feel like going!<0 Type='4'/>I know some <0 Type='3' Data='0000'/>scenic spots <0 Type='3' Data='ffff'/>for you and
+  your horse to visit, if you're interested!
+Talk_0014: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>I've got plenty more scenic spots
+  to recommend! <5 Type='0'/>Just say the word!
+GoldHorse: |
+  How enchanting!
+LargeHorse: |
+  Will that fit in the stable?
+Talk_0002: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Yes?<5 Type='0'/> Need something, ma'am?<0 Type='4'/>I'm in the middle of tending to the horses,
+  but I can multitask, <5 Type='0'/>hehe!<0 Type='4'/><3 Type='0' Data='0101'/>I'm happy to suggest some <0 Type='3' Data='0000'/>scenic
+  spots <0 Type='3' Data='ffff'/>for you and your horse to visit,
+  if you're interested!
+Talk_0003: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Yes?<5 Type='0'/> Was there something else you
+  needed, ma'am?<0 Type='4'/><3 Type='0' Data='0101'/>Have I mentioned my suggestions for
+  scenic spots to see with your horse?
+Near_0001: |
+  ♪Taking care of horses!♪
+Talk_0004: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Yes?<5 Type='0'/> Need something at this late
+  hour, ma'am?<0 Type='4'/>I can tell you about the area if that's
+  what you're after.<0 Type='4'/><3 Type='0' Data='0101'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>We have lots of happy horses roaming
+  free around Highland Stable, so if you
+  need one, you're in the right place.<0 Type='4'/>Then you can take it north or south or
+  wherever you feel like going!<0 Type='4'/><3 Type='0' Data='0701'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>I can recommend some <0 Type='3' Data='0000'/>scenic spots<0 Type='3' Data='ffff'/>
+  to visit, if you'd like!
+Near_0002: |
+  Rainy today.
+Talk_0005: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Yes?<5 Type='0'/> Need something, ma'am?<0 Type='4'/>I'm in the middle of tending to the horses,
+  but I can multitask, <5 Type='0'/>hehe!<0 Type='4'/><3 Type='0' Data='0801'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>We have lots of happy horses roaming
+  free around Highland Stable, so if you
+  need one, you're in the right place.<0 Type='4'/><3 Type='0' Data='0701'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>Then you can ride it north or south or
+  wherever you feel like going!<0 Type='4'/>I know some <0 Type='3' Data='0000'/>scenic spots <0 Type='3' Data='ffff'/>for you and
+  your horse to visit, if you're interested!
+Talk_0060: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>And that<5 Type='0'/> concludes my list of scenic
+  spots! I hope you enjoyed it!<0 Type='4'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>If you want me to repeat all that, just ask.
+  I'm happy to run through it again!
+Talk_0006: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Yes?<5 Type='0'/> I'm not used to being asked for
+  help this late.<0 Type='4'/>Is there something you want to know
+  about the stable?<0 Type='4'/><3 Type='0' Data='0101'/>Or perhaps you'd like to hear about <0 Type='3' Data='0000'/>scenic
+  spots <0 Type='3' Data='ffff'/>to visit with your horse!
+Talk_0007: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Yes?<5 Type='0'/> Need something, ma'am?<0 Type='4'/>I'm on my way to tend to the horses,
+  but I can tend to you first, <5 Type='0'/>hehe!<0 Type='4'/><3 Type='0' Data='0101'/>I'm happy to suggest some <0 Type='3' Data='0000'/>scenic
+  spots <0 Type='3' Data='ffff'/>for you and your horse to visit,
+  if you're interested!
+Talk_0111: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Ah!<5 Type='1'/> You're interested in the <0 Type='3' Data='0000'/>Lake of the
+  Horse God<0 Type='3' Data='ffff'/>?
+  
+  That's where the customers I met the
+  other day were headed!
+  
+  <3 Type='0' Data='0500'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>The <0 Type='3' Data='0000'/>god of horses <0 Type='3' Data='ffff'/>was said to live by
+  the lake, but I haven't heard of anyone
+  seeing him lately.
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>Still, those two were hoping to find him—<5 Type='0'/>
+  and that <0 Type='3' Data='0000'/>new breed of horse <0 Type='3' Data='ffff'/>they call the
+  <0 Type='3' Data='0000'/>giant white stallion<0 Type='3' Data='ffff'/>.
+Talk_0008: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Yes?<5 Type='0'/> Need something, ma'am?<0 Type='4'/>I can tell you about the area if that's
+  what you're after.<0 Type='4'/><3 Type='0' Data='0101'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>We have lots of happy horses roaming
+  free around Highland Stable, so if you
+  need one, you're in the right place.<0 Type='4'/>Then you can take it north or south or
+  wherever you feel like going!<0 Type='4'/><3 Type='0' Data='0701'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>I can recommend some <0 Type='3' Data='0000'/>scenic spots<0 Type='3' Data='ffff'/>
+  to visit, if you'd like!
+Talk_0050: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>You got it! <5 Type='0'/>Come find me whenever you
+  want a recommendation or three.<0 Type='4'/><3 Type='0' Data='0101'/>If you don't check out my scenic spots,
+  I'll set the horses on you! <5 Type='0'/>Kidding!
+Talk_0112: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>The <0 Type='3' Data='0000'/>Lake of the Horse God<0 Type='3' Data='ffff'/> is south
+  of here on the compass.
+  
+  But to get there, you'll want to tack <0 Type='3' Data='0000'/>west<0 Type='3' Data='ffff'/>
+  around the mountains and valleys.
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Those two customers, and now you...<5 Type='1'/>
+  That place is popular! Maybe I should
+  add it to my list of scenic spots!
+Talk_0009: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Yes?<5 Type='0'/> How can I help you?<0 Type='4'/>Is there something you want to know
+  about the stable?<0 Type='4'/><3 Type='0' Data='0101'/>Or perhaps you'd like to hear about
+  <0 Type='3' Data='0000'/>scenic spots <0 Type='3' Data='ffff'/>to visit with your horse!
+Talk_0113: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>If you want to hear more of my
+  recommendations, please come talk
+  to me anytime!
+Talk_0100: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='0c005300610064005f0030003000'/>Rainy today.<0 Type='4'/>I might add more carrots to the feed so
+  the horses don't catch colds.<0 Type='4'/><3 Type='0' Data='0701'/>Anyway...
+0001: |
+  Scenic spots?
+Talk_0114: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Wait, whoa...<5 Type='1'/> Your horse! Is that the
+  <0 Type='3' Data='0000'/>giant white stallion<0 Type='3' Data='ffff'/>? <5 Type='1'/>It's terrifyingly
+  huge, but also undeniably elegant!
+  <3 Type='0' Data='0801'/>I can't wait to tell everyone I saw the
+  fabled steed in person!
+0002: |
+  Lay 'em on me!
+Talk_0040: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0048006100700070007900'/>All right!<5 Type='0'/> Ready? I saved my favorite
+  scenic spot for last!<0 Type='4'/>Though it's kind of big to be called a
+  "spot"...<5 Type='1'/> It's the southern coastline!<0 Type='4'/><3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Picture this—<5 Type='0'/>you and your horse riding
+  from Martha's Landing to Komo Shoreline
+  and then Puffer Beach.
+  You hear the waves lapping against
+  the beach...<0 Type='4'/>feel the cool sea breeze cutting through
+  your clothes...<0 Type='4'/>while your horse's hooves pound faster
+  and faster against the ground!<0 Type='4'/><3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068004c00'/>Ahhh!<5 Type='0'/> There's nothing better!<0 Type='4'/><3 Type='0' Data='0701'/>On a horse, you'll be able to outrun any
+  monsters that spot you too.<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Except...<5 Type='0'/>last time I rode to Puffer Beach,
+  there was a swarm of flying monsters
+  waiting for me.
+  They came screeching out of a cave in
+  the ceiling of this rocky area. Really
+  caught me by surprise!
+  I'm not a flying-thing-ologist, but I guess
+  they were nesting there?<0 Type='4'/><3 Type='0' Data='0701'/>Anyway, those things can move as fast
+  as horses, so watch out for them.
+Talk_0102: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>I had a couple customers recently who
+  weren't interested in any of my
+  recommendations. Can you believe that?
+  They said they were headed south toward
+  the <0 Type='3' Data='0000'/>Lake of the Horse God <0 Type='3' Data='ffff'/>and didn't
+  have time for detours.
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>I believe they wanted to find the <0 Type='3' Data='0000'/>giant
+  white stallion <0 Type='3' Data='ffff'/>or the <0 Type='3' Data='0000'/>god of horses<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Anyway... <5 Type='1'/>I appreciate you taking an
+  interest in my scenic spots!<0 Type='4'/>Come talk to me again anytime!
+0003: |
+  Goodbye.
+0004: |
+  Lake of the Horse God?
+Talk_0030: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/>OK! <5 Type='0'/>My third scenic spot is Lake Hylia in
+  the northwest!<0 Type='4'/>Your horse shouldn't go IN the lake, of
+  course. But you two can take a thrilling
+  ride across the <0 Type='3' Data='0000'/>Bridge of Hylia<0 Type='3' Data='ffff'/>!<0 Type='4'/><3 Type='0' Data='0701'/>One problem though...<0 Type='4'/><3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003000'/>I heard an unsettling rumor.<5 Type='0'/> Sounds like
+  there's a big monster camping out on
+  the bridge.<0 Type='4'/>If you're as scared of monsters as I am,
+  you might want to keep your distance.
+Talk_0031: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/>OK! <5 Type='0'/>My third scenic spot is Lake Hylia in
+  the northwest!<0 Type='4'/>Your horse shouldn't go IN the lake, of
+  course. But you two can take a thrilling
+  ride across the <0 Type='3' Data='0000'/>Bridge of Hylia<0 Type='3' Data='ffff'/>!<0 Type='4'/><3 Type='0' Data='0701'/>They say a monster was living on the
+  bridge for a time...<0 Type='4'/>But some brave monster slayer sent the
+  beast to an early grave!<0 Type='4'/><3 Type='0' Data='0801'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Who that person is, or where they're from,
+  I don't know...<5 Type='0'/>but if I could, I'd give them
+  a hearty thank-you!
+Talk_0020: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0048006100700070007900'/>All right!<5 Type='0'/> Here's a location that's been a
+  mystery long as anyone can remember.
+  A good spot for true adventure!
+  <3 Type='0' Data='0701'/>To reach it, first ride north until you enter
+  a thickly wooded forest.<0 Type='4'/>Then travel east until you cross Floria
+  River—and there, go immediately north
+  into a rain forest.
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>You will find yourself what folks have
+  long called...<5 Type='0'/>the <0 Type='3' Data='0000'/>Zonai Ruins<0 Type='3' Data='ffff'/>. Very old
+  ruins—VERY old!<0 Type='4'/>I can't imagine a better place for steeping
+  yourself in nature's beauty and ancient
+  history at the same time.
+BoneHorse: |
+  Is that thing a horse?
+Talk_0021: |
+  <3 Type='0' Data='0701'/>In the air above the Zonai Ruins is a
+  jet-black thundercloud that's been
+  there since the Upheaval.
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>You can see it from here, in fact.<5 Type='0'/> And... <5 Type='1'/>
+  Am I seeing things, or is there something
+  inside the cloud?
+  That's a great scenic spot to visit as well.
+  Or it would be.<0 Type='4'/><3 Type='0' Data='0301'/>But there's no horse that can get you up
+  there. The best you can do is gaze at it
+  from below.
+Talk_0201: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>All right, then!<5 Type='0'/> Have fun out there!
+Talk_0010: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/>Great!<5 Type='0'/> Let's get scenic!<0 Type='4'/><3 Type='0' Data='0701'/>My first suggestion has to be the
+  stable nearby.<0 Type='4'/>It's called <0 Type='3' Data='0000'/>Lakeside Stable<0 Type='3' Data='ffff'/>. You'll find it if
+  you take the road toward the east, at the
+  edge of Lake Floria.
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0a0048006100700070007900'/>From there, my next suggestion's nearby.
+  Go farther east, turn south at the ocean,
+  and you'll reach a resort town.
+  <0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/>, it's called. The perfect
+  place for weary travelers looking to relax!
+WakkaCharm: |
+  ♪Pretty ring garland!♪
+Talk_0011: |
+  <3 Type='0' Data='0701'/>Wait... What am I thinking?<0 Type='4'/><3 Type='0' Data='0c01'/><4 Type='0' Data='0a005400680069006e006b00'/>We got word the other day that pirates
+  attacked Lurelin Village.<0 Type='4'/>Since then, I haven't heard a peep about
+  the town's fate.<0 Type='4'/><3 Type='0' Data='0301'/>So, what I said about Lurelin Village being
+  a good place to relax? Scratch that.
+Talk_0201_01: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>And that<5 Type='0'/> concludes my guide to all
+  the scenic spots!
+  
+  I hope you enjoyed it!

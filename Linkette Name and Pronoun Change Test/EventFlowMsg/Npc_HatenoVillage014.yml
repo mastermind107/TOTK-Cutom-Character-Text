@@ -1,0 +1,168 @@
+Near_3001: |
+  Finally...just the two of us.
+talk15: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Then have a pleasant rest until night.
+talk16: |
+  <3 Type='0' Data='0700'/>Good morning. Have a wonderful day!
+talk17: |
+  <3 Type='0' Data='0100'/>Did you sleep well? Enjoy your day, then.
+talk18: |
+  <3 Type='0' Data='0700'/>Did you sleep well? It's still dark outside,
+  so mind your step.
+Talk_4000: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1200530068006900740061007500630068006900'/><0 Type='3' Data='0200'/><FontSize Value='80'/>I had no idea Worten could be so stubborn.
+  He would always humor me before we got
+  married, no matter what I asked.<0 Type='4'/>Would it be so hard for him to wear a simple Cece-
+  brand hat? <5 Type='1'/>I don't understand why he's this dead
+  set against it.<5 Type='1'/><FontSize Value='100'/><0 Type='3' Data='ffff'/><0 Type='4'/><3 Type='0' Data='0500'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Oh...<5 Type='1'/> Can I help you?<5 Type='1'/><0 Type='4'/><0 Type='3' Data='0200'/><FontSize Value='80'/><3 Type='0' Data='0400'/>Oops. <5 Type='1'/>I really can't be dwelling on that right now.<5 Type='0'/>
+  Not while I'm on the clock.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+talk19: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068004c00'/>How was the downy-soft bed? <5 Type='0'/><0 Type='4'/>Did you get a deeper sleep than usual?
+  Well, at any rate, take care!
+Talk_4001: |
+  <0 Type='3' Data='0200'/><FontSize Value='80'/><3 Type='0' Data='0c01'/>Maybe the next time Worten is leaning carelessly
+  against the terrace, I'll catch him off guard and jam
+  a hat on his head.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+talk20: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068004c00'/>How was the downy-soft bed? <5 Type='0'/><0 Type='4'/>Did you get a deeper sleep than usual?
+  Well, at any rate, safe travels!
+talk21: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068004c00'/>How was the downy-soft bed? <5 Type='0'/><0 Type='4'/>Did you get a deeper sleep than usual?
+  It's still dark outside, so mind your step.
+talk22: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Yes! They're much more comfortable to
+  sleep on than our standard beds.<0 Type='4'/>You'll wake up feeling nice and refreshed.
+  Everyone who sleeps on one talks about
+  how they feel brimming with energy.
+Talk_1001: |
+  <3 Type='0' Data='0c00'/><0 Type='3' Data='0200'/><FontSize Value='80'/>How do I keep letting this guy distract me?<FontSize Value='100'/><0 Type='4'/><FontSize Value='80'/>Can't he see how desperate I am to hear what those
+  three are saying about the treasure? Is a little
+  privacy while I eavesdrop so much to ask?<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_1002: |
+  <0 Type='3' Data='0200'/><FontSize Value='80'/><3 Type='0' Data='0c00'/>Can't he see how desperate I am to hear what those
+  three are saying about the treasure? Is a little
+  privacy while I eavesdrop so much to ask?<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+SagonoHat: |
+  I was gonna get that hat.
+Talk_1003: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Pardon me. If you're here to reserve a
+  room, you should ask at the counter.<0 Type='4'/>I just got off my shift, so I'm on break
+  while my husband takes his turn.
+NakedPlayer: |
+  Aren't you cold?
+Talk_1004: |
+  <3 Type='0' Data='0c00'/><0 Type='3' Data='0200'/><FontSize Value='80'/>Maybe tonight I'll finally figure out how to get my
+  husband to wear Cece-brand clothes. <5 Type='0'/>Can't he
+  understand how important they are to me?<0 Type='4'/>I think I'll ask one of the three Cece fans who stay
+  here often if they have any advice.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_1005: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Um, if you need to reserve a room, you
+  should ask at the front desk.<0 Type='4'/>I just got off my shift, you see. I'm on
+  break while my husband takes his turn.
+Talk_1006: |
+  <3 Type='0' Data='0c00'/><0 Type='3' Data='0200'/><FontSize Value='80'/>How do I keep getting distracted from the matter
+  at hand?<FontSize Value='100'/><0 Type='4'/><FontSize Value='80'/>There must be some way to convince my husband
+  to wear Cece-brand clothes. <5 Type='0'/>Maybe today's the
+  day I'll figure it out.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Near_2000: |
+  "Miski"? "Trisko"? Ugh...
+0000: |
+  Regular bed, please.
+Talk_00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Welcome to <0 Type='3' Data='0000'/>Ton Pu Inn<0 Type='3' Data='ffff'/>! Will you be
+  staying with us today?
+Near_2001: |
+  Are they not here yet?
+0001: |
+  Yeah...a soft bed!
+0002: |
+  Never mind.
+Talk_5000: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>I'm sorry I tried to force you to wear
+  Cece-brand clothes without giving you
+  a say in it.<0 Type='4'/>After I saw how our candidates for mayor
+  carried on, I did some hard thinking.
+Talk_3000: |
+  <3 Type='0' Data='0800'/>Are you here for a room?<0 Type='4'/>I'd be happy to attend to you at the
+  counter. I'll only be a moment.<0 Type='4'/><3 Type='0' Data='0500'/><FontSize Value='80'/><0 Type='3' Data='0200'/>Hmph. I couldn't quite hear what they were saying
+  about the treasure today either. If only those three
+  weren't so hush-hush about it!<0 Type='3' Data='ffff'/><FontSize Value='100'/>
+0003: |
+  Morning.
+Talk_03: |
+  <0 Type='3' Data='0200'/><FontSize Value='80'/><3 Type='0' Data='0201'/>It's always the quiet ones...<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_5001: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Aw, I'd love you no matter how you dress.<0 Type='4'/>Though this might be the time to talk
+  about our budget, and where those outfits
+  fit into it.
+Talk_3001: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>If you'd like to reserve a room, I'd be
+  happy to attend to you at the counter.
+  I'll only be a moment.<0 Type='4'/><3 Type='0' Data='0500'/><0 Type='3' Data='0200'/><FontSize Value='80'/>It happened again!<0 Type='4'/>If I get interrupted one more time before I can hear
+  what they're saying about that treasure, I'm going to
+  forget everything I know about customer service!<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+0004: |
+  Noon.
+Talk_04: |
+  <0 Type='3' Data='0200'/><FontSize Value='80'/><3 Type='0' Data='0201'/>He's clearly just acting out for attention...<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_5002: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='20005100750065007300740069006f006e0041006e006700720079005f0030003100'/>Huh? I thought we were talking about
+  your fashion sense, not mine. <5 Type='1'/>Hang on...
+0005: |
+  Night.
+Talk_05: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Um...ma'am? <5 Type='0'/>Do you need something?<0 Type='4'/>I'd really prefer to help you from across
+  the counter, <5 Type='0'/>if that's all right.
+Talk_2000: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/>I can almost make out what they're saying...<0 Type='4'/>Misku... <5 Type='1'/>Or is it Nisko? <5 Type='0'/>It's still too muffled.<0 Type='4'/>Whatever it is, they're definitely talking about
+  treasure. And given the source...<0 Type='4'/><3 Type='0' Data='0c01'/>The prize must be some outrageously stylish
+  clothes. <5 Type='1'/>I have to know more!<FontSize Value='100'/>
+Talk_5003: |
+  <3 Type='0' Data='0500'/>Yes? <5 Type='1'/>Can I help you?<5 Type='1'/><0 Type='4'/><0 Type='3' Data='0200'/><FontSize Value='80'/><3 Type='0' Data='0400'/>Oops. <5 Type='1'/>I really can't be having this conversation
+  right now. <5 Type='0'/>Not while I'm on the clock.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+0006: |
+  Never mind.
+Talk_06: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Ma'am, <5 Type='0'/>this kind of behavior is uncalled-for.
+  You're going to upset our other guests.
+Talk_2001: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/>Lisko? <5 Type='1'/>No. <5 Type='0'/>Bisko, maybe? Hmm...I still can't quite
+  make it out.<0 Type='4'/>But the treasure they're talking about must be some
+  outrageously stylish clothes.<0 Type='4'/>I have to know more!<FontSize Value='100'/>
+talk08: |
+  <3 Type='0' Data='0100'/>A regular bed is <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/>.<5 Type='1'/> Or, if you're
+  looking for a more relaxing and restorative
+  mind-and-body experience...<0 Type='4'/>You can have one of our extra-soft downy
+  beds for <0 Type='3' Data='0000'/>30 rupees<0 Type='3' Data='ffff'/>.
+Talk_07: |
+  <3 Type='0' Data='0700'/>Good morning! We're having nice weather
+  again today.
+talk09: |
+  <3 Type='0' Data='0800'/>Take care, and visit us again soon.
+Talk_08: |
+  <3 Type='0' Data='0700'/>Hello there! We're having nice weather
+  again today.
+0009: |
+  You have...soft beds?
+talk10: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Ma'am. <5 Type='0'/>You're not carrying enough money
+  for that. I'm sorry, but no.
+Talk_09: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>Good evening! You must be ready to relax
+  for the night after a long journey.
+talk11: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Very well, one regular bed. And when
+  would you like to be woken up?
+Talk_10: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>It must be good to get out from the rain.
+talk12: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Very well, one downy-soft bed. And when
+  would you like to be woken up?
+Talk_11: |
+  <3 Type='0' Data='0500'/><FontSize Value='80'/><0 Type='3' Data='0200'/>This guy just doesn't give up.<0 Type='3' Data='ffff'/><FontSize Value='100'/>
+talk13: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Then have a pleasant rest until morning.
+Near_3000: |
+  Why can't he understand?
+talk14: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Then have a pleasant rest until noon.

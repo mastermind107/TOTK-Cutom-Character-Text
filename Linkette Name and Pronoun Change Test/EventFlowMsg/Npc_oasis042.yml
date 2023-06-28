@@ -1,0 +1,136 @@
+talk15: |
+  <3 Type='0' Data='0700'/>The Gibdos may be preparing to attack as
+  we speak.
+  
+  The <0 Type='3' Data='0000'/>new unit<0 Type='3' Data='ffff'/> needs to be ready to meet
+  them in battle. Otherwise, it'll be like the
+  <0 Type='3' Data='0000'/>first encounter<0 Type='3' Data='ffff'/> all over again...
+1002: |
+  What's the new unit?
+talk28: |
+  <3 Type='0' Data='0900'/>Hey! Newcomer!
+  
+  
+  If you need something, talk to me!
+  
+  
+  I don't want you getting in the way of the
+  sword-and-shield unit, OK?
+1003: |
+  Goodbye.
+talk16: |
+  <3 Type='0' Data='0900'/>I hear there's some kind of strange event
+  going on around <0 Type='3' Data='0000'/>Kara Kara Bazaar<0 Type='3' Data='ffff'/>.
+  
+  Tch... We need to get the new sword-and-
+  shield unit trained ready for action.
+talk17: |
+  <3 Type='0' Data='0800'/>I'll have to treat everyone in the new unit
+  to a drink at the canteen. They've earned
+  it, that's for sure.
+  <3 Type='0' Data='0c01'/>Wait... <5 Type='1'/>What am I saying? We're not done.
+  
+  
+  <3 Type='0' Data='0701'/>While we've successfully defended the
+  town, we aren't out of danger yet.
+  
+  Make sure you don't lose focus either!
+talk18: |
+  <3 Type='0' Data='0800'/>But after learning an entirely new way to
+  fight, all the members of our new sword-
+  and-shield unit deserve a little break.
+  I'll invite them all to meet at the canteen
+  soon! It'll be my treat!
+TerrorArrow: |
+  C-cut it out!
+Near00: |
+  Show them our real power!
+ThunderHelmet: |
+  That helm...
+TerrorFire: |
+  S-stop it!
+talk20: |
+  <3 Type='0' Data='0700'/>Yeah. The first time we fought the
+  Gibdos, they had us on our heels the
+  whole time...
+  Numbers and strength were on their side.
+  The best we could do was an organized
+  retreat to protect the civilians...
+  Most of the guards that held the Gibdos
+  off are still recovering from their injuries.
+  
+  Hopefully this <0 Type='3' Data='0000'/>new unit <0 Type='3' Data='ffff'/>can help us
+  avenge our comrades and return to the
+  surface. But first they must finish training.
+talk21: |
+  <3 Type='0' Data='0700'/>Well, the Gibdos did a serious number on
+  us before.
+  
+  It was so bad that some of the guards
+  who fought in the <0 Type='3' Data='0000'/>first encounter<0 Type='3' Data='ffff'/> are
+  still recovering from their wounds.
+  I believe that partly has to do with how
+  hard it is to protect yourself while using a
+  spear. Both hands are full, you see.
+  So I've established a new unit that will
+  use a sword and <0 Type='3' Data='0000'/>shield<0 Type='3' Data='ffff'/> instead. They can
+  better guard themselves that way.
+talk22: |
+  <3 Type='0' Data='0c00'/>In that first encounter... Well, if <0 Type='3' Data='0000'/>Lady Riju<0 Type='3' Data='ffff'/>
+  hadn't been there with her <0 Type='3' Data='0000'/>control of
+  lightning<0 Type='3' Data='ffff'/>, we might have been wiped out.
+  All the more reason to get the new unit
+  ready. We have to keep <0 Type='3' Data='0000'/>Lady Riju<0 Type='3' Data='ffff'/> safe.
+talk10: |
+  <3 Type='0' Data='0700'/>If you've got something to say, please
+  make it quick.
+  
+  After our humbling <0 Type='3' Data='0000'/>first encounter <0 Type='3' Data='ffff'/>with
+  the Gibdos, I realized that we needed to
+  establish a <0 Type='3' Data='0000'/>new unit<0 Type='3' Data='ffff'/> to combat them.
+  The new unit is in the middle of training.
+  They need to get into fighting shape fast
+  since the enemy could strike at any time...
+TerrorBomb: |
+  Ack! What?!
+TerrorExplosion: |
+  Nwaaah!
+talk11: |
+  <3 Type='0' Data='0700'/>It's fine if you're going to fight alongside
+  us. Just try not to get in the way.
+  
+  The best thing to do is make sure all our
+  defenses are ready for what's coming.
+talk25: |
+  <3 Type='0' Data='0c00'/>I'd wanted to attach <0 Type='3' Data='0000'/>electricity-emitting
+  material <0 Type='3' Data='ffff'/>to our weapons, kind of like Lady
+  Riju's ability...
+  But they're rare, valuable items that have
+  to be taken from <0 Type='3' Data='0000'/>Electric Lizalfos<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0c005300610064005f0030003000'/>So instead, we'll try using <0 Type='3' Data='0000'/>materials that
+  generate fire<0 Type='3' Data='ffff'/>. Maybe those will work?
+  Here's hoping...
+talk12: |
+  <3 Type='0' Data='0900'/>Haha! It looks like the flames are pretty
+  effective! We'll burn up these monsters!
+talk26: |
+  We did it!
+talk13: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>That was a brilliant battle! <5 Type='0'/>Everyone did
+  their part to keep the town safe!
+  
+  I'm especially proud of our new sword-
+  and-shield unit. The idea, and the hard
+  work of those guards, paid off...
+TerrorSword: |
+  Calm down!
+1001: |
+  First encounter?
+talk27: |
+  Time for that drink!
+talk14: |
+  <3 Type='0' Data='0700'/>Sure, we've saved the town, driven off
+  the Gibdos, and the <0 Type='3' Data='0000'/>sand shroud<0 Type='3' Data='ffff'/> has
+  passed... But we cannot relax!
+  Or at least, we cannot completely relax...

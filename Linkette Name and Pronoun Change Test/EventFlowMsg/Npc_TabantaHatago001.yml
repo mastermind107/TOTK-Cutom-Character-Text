@@ -1,0 +1,236 @@
+Talk4001: |
+  <4 Type='0' Data='0a0053006c00650065007000'/>Zzz... <5 Type='0'/>Fire and music to warm the soul...
+BoneHorse: |
+  What a strange mount.
+StableHostelPicture: |
+  Wow. Now that's a picture.
+Talk1002: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068004c00'/>I've been out here a long time, and I'm
+  happy to point you in the right direction,
+  if you're so inclined.
+  The places of note around here are to the
+  west, the east, and the north... So, where
+  are you headed, traveler?
+Talk1003: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1000540069007200650064005f0030003100'/>Hm... Is there anything else you'd like
+  to ask about?
+WakkaCharm: |
+  Those flowers are lovely...
+Talk1004: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>West, huh? Well, that's the direction of
+  <0 Type='3' Data='0000'/>Rito Village<0 Type='3' Data='ffff'/>, for one thing.
+  
+  <3 Type='0' Data='0101'/>Oh, and that reminds me! The <0 Type='3' Data='0000'/>Lucky
+  Clover Gazette<0 Type='3' Data='ffff'/> was just established right
+  near there.
+  I hear their reporters are dogged in their
+  pursuit of the news. They travel all across
+  the land to find the biggest scoops!
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>If it's information you're after, you might
+  want to give them a visit.
+Talk1005: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>If you go north, you'll head straight into
+  a wide-open snowfield.
+  
+  <3 Type='0' Data='0501'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Get this—folks say there's a <0 Type='3' Data='0000'/>giant picture<0 Type='3' Data='ffff'/>
+  in the snow.<5 Type='0'/> Strange, right?
+  
+  It's certainly an odd tale the Rito have
+  spun up, but there you have it.
+  
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>It's a pity we'll never know the truth of it.
+  A <0 Type='3' Data='0000'/>big, flying monster<0 Type='3' Data='ffff'/> showed up and is
+  winging its way around the snowfield.
+  <3 Type='0' Data='0701'/>So watch yourself if you head that way!
+0021: |
+  Great Fairy?
+Talk1006: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>The east, you say? Well...
+  
+  
+  If you look southeast, you'll see an <0 Type='3' Data='0000'/>old
+  ruin <0 Type='3' Data='ffff'/>in the bottom of the valley. I don't
+  know who built it and when,<5 Type='0'/> but it's big.
+  <3 Type='0' Data='0501'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>I bet something like that was constructed
+  for some kind of special purpose.
+  
+  <3 Type='0' Data='0001'/>You should take a look! Just be careful
+  getting there. A fall down that steep valley
+  won't do your bones any favors.
+0022: |
+  Don't worry about it.
+Talk2021: |
+  <3 Type='0' Data='0301'/>Oh.<5 Type='0'/> It looks like you're carrying plenty
+  already.
+  
+  If you don't mind making room, I can give
+  you some <0 Type='3' Data='0000'/>medicine<0 Type='3' Data='ffff'/> for your journey.
+Talk3004_01: |
+  <3 Type='0' Data='0501'/>Strange, I thought there used to be more
+  musicians in the group. <5 Type='0'/>Ah, well. I'm just
+  glad we have some music again.
+LargeHorse: |
+  That's a splendid horse.
+Talk1007: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>If you find yourself lost out on the road,
+  feel free to stop in.
+  
+  I'm always happy to stick my nose into
+  someone else's business if it means
+  I can help.
+Talk2022: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Let me know when you've made room,
+  and I can give you some useful <0 Type='3' Data='0000'/>medicine<0 Type='3' Data='ffff'/>.
+NakedPlayer: |
+  What a tough kid...
+Talk2023: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Made some room, have you? Then please,
+  take this.
+Talk1010: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>West, eh? Well, that's the direction of
+  <0 Type='3' Data='0000'/>Rito Village<0 Type='3' Data='ffff'/>, for one thing.
+  
+  <3 Type='0' Data='0101'/>Oh, while I'm on the topic, might I ask if
+  you've visited the <0 Type='3' Data='0000'/>Lucky Clover Gazette<0 Type='3' Data='ffff'/>?
+  It was just established right near there.
+  I hear their reporters are dogged in their
+  pursuit of the news. They travel all across
+  the land to find the biggest scoops!
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>If it's information you're after, you might
+  want to give them a visit.
+GoldHorse: |
+  It's clearly fond of you.
+Talk1011: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>If you ever get lost, traveler, you're
+  always welcome to come in and rest
+  your weary feet.
+Talk3001: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>What's this? A traveler? We don't get
+  many of you out here.
+0001: |
+  West of here.
+Talk3002: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>What's this? A traveler? We don't get
+  many of you out here. And so early too!
+0002: |
+  North of here.
+Talk2001: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>We don't get too many travelers out here.
+  Thanks for coming out.
+  
+  <3 Type='0' Data='0001'/>Now, I don't want you to be disappointed,
+  so you should know that the <0 Type='3' Data='0000'/>musical
+  troupe<0 Type='3' Data='ffff'/> isn't here right now.
+Talk3003: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>What's this? A traveler? We don't get
+  many of you out here. Especially so late!
+0003: |
+  East of here.
+Talk2002: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Yes, ma'am.<5 Type='1'/> They're a fine group of
+  performers.<0 Type='4'/>They're one of the few things that would
+  bring folks to the stable, in fact.
+Talk2031: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0600530061006400'/>How are we going to entertain our visitors
+  without the <0 Type='3' Data='0000'/>troupe's music<0 Type='3' Data='ffff'/>? I hope they
+  come back from <0 Type='3' Data='0000'/>Woodland Stable<0 Type='3' Data='ffff'/> soon.
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>But enough of that. Won't you warm up by
+  our fire?
+Talk3004: |
+  <3 Type='0' Data='0101'/>Please, warm yourself by the fire and
+  enjoy some music.
+0004: |
+  So long!
+Talk2003: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Last I saw them, they were heading
+  northeast to <0 Type='3' Data='0000'/>Woodland Stable <0 Type='3' Data='ffff'/>in Eldin.
+  
+  I miss the days when I could warm chilly
+  visitors with a fire and a good show...
+  
+  But without that troupe,<5 Type='0'/> even the <0 Type='3' Data='0000'/>Great
+  Fairy<0 Type='3' Data='ffff'/> that blesses travelers has hidden
+  herself away.
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>What if we don't have enough to offer?
+  What a sorry end to this stable that
+  would be.
+Talk2032: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Ah, you've come back! Welcome!
+  
+  
+  <3 Type='0' Data='0a01'/>I'm sorry to say the <0 Type='3' Data='0000'/>musical troupe<0 Type='3' Data='ffff'/>
+  hasn't returned, so the <0 Type='3' Data='0000'/>Great Fairy<0 Type='3' Data='ffff'/>
+  is still hidden away...
+  I hope they come back from <0 Type='3' Data='0000'/>Woodland
+  Stable<0 Type='3' Data='ffff'/> soon. Surely Eldin can't be
+  that interesting.
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>We may not have all our usual amenities,
+  but I can at least offer you a warm fire.
+Talk3005: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>By the way, do you know where you're
+  going? It can be disheartening to travel
+  an unfamiliar path.
+  I've been out here a long time, and I'm
+  happy to point you in the right direction,
+  if you're so inclined.
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>The places of note around here are to the
+  west, the east, and the north... So, where
+  are you headed, traveler?
+Talk2004: |
+  <4 Type='0' Data='10005400680069006e006b005f0030003000'/>It might be hard to see in the snow...
+Talk3006: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>You made it, traveler! Welcome!
+Talk2005: |
+  <4 Type='0' Data='10005400680069006e006b005f0030003000'/>It might be hard to see in the dark...
+Talk3007: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>You made it—and so early! Welcome.
+Talk2006: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>There's a <0 Type='3' Data='0000'/>Great Fairy<0 Type='3' Data='ffff'/> over there in a
+  flower bud halfway up that mountain.
+  
+  But just a few days after <0 Type='3' Data='0000'/>the Upheaval<0 Type='3' Data='ffff'/>,<0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  she went into that bud and hasn't
+  come out.
+Talk3008: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Greetings, traveler. You're welcome no
+  matter how late it is.
+Talk2007: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>If she could only hear the musical troupe
+  play again, I'm sure she'd show herself...
+  
+  Ah,<5 Type='0'/> but none of this is your problem.
+  Please, take this for hearing me out.
+Talk2008: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>Since you came all the way out,<5 Type='0'/> please
+  take this.
+Talk2009: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>And don't you think of leaving until you're
+  prepared! <5 Type='1'/>The fire's here to warm you up.
+Talk3011: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>I'm sorry the musical troupe's not here.
+  They went to play at another stable.
+  
+  <0 Type='3' Data='0000'/>Dueling Peaks <0 Type='3' Data='ffff'/>to the southeast, they said.<5 Type='1'/>
+  Or was it <0 Type='3' Data='0000'/>Outskirt Stable <0 Type='3' Data='ffff'/>to the south?<5 Type='1'/> 
+  Hm, I can't recall...
+  <4 Type='0' Data='0c005300610064005f0030003000'/>Anyway, sorry you missed them.
+  Hopefully the comfort of that warm fire
+  can help make up for it.
+Near01: |
+  Anybody need a guide?
+0011: |
+  Musical troupe?
+Talk3012: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>I'm sorry the musical troupe's not here.
+  They went to play at another stable.
+  
+  <0 Type='3' Data='0000'/>Dueling Peaks <0 Type='3' Data='ffff'/>to the southeast, they said.<5 Type='1'/>
+  Or was it <0 Type='3' Data='0000'/>Outskirt Stable <0 Type='3' Data='ffff'/>to the south?<5 Type='1'/> 
+  Hm, I can't recall...
+  I know this area like the back of my hand,
+  but I'll admit, I'm not too familiar with
+  other parts of Hyrule.
+Near02: |
+  I miss the music...
+0012: |
+  Where did they go?

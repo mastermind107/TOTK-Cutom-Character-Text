@@ -1,0 +1,309 @@
+Talk_0015: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/>I hope I can find someone to pawn off this <0 Type='3' Data='0000'/>weird
+  rock<0 Type='3' Data='ffff'/> on soon.<FontSize Value='100'/>
+Near_0001: |
+  All's well.
+0010: |
+  I'll pass.
+Talk_0017: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Huh?<5 Type='1'/> Where's the railcar?<5 Type='1'/>
+  Just a moment...
+Near_0002: |
+  Wh-what's that light?!
+0011: |
+  Hm. Can you go lower?
+Talk_0018: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Hey! What are you doing?
+0012: |
+  I'll buy the rock.
+Talk_0032: |
+  <0 Type='3' Data='0200'/><FontSize Value='80'/><3 Type='0' Data='0101'/>Heh heh! Now that Hudson's back at the site,
+  there's no one to stop me from collecting that fee.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_0033: |
+  <3 Type='0' Data='0701'/>It gets slippery in the rain, so please
+  watch your step.
+Talk_0034: |
+  <3 Type='0' Data='0701'/>It's thundering, so please remove all
+  metal before boarding.
+Talk_0035: |
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>*sigh* <5 Type='0'/>I thought it might be valuable when I picked
+  it up, <5 Type='1'/>but this <0 Type='3' Data='0000'/>weird rock<0 Type='3' Data='ffff'/> is giving me the creeps.
+  
+  I've gotta hurry and find some sucker to—<5 Type='1'/> Hm?<FontSize Value='100'/>
+Talk_9001: |
+  <FontSize Value='125'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Aaah! <5 Type='1'/>Stop that!<FontSize Value='100'/>
+Talk_0036: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0e00480075006d006d0069006e006700'/>The <0 Type='3' Data='0000'/>railcar<0 Type='3' Data='ffff'/> connects the town and the
+  construction site, and anyone can use it
+  for free. Son and done!
+Talk_9002: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>This rock belongs to me. I'm not going to
+  give it away for free.
+  
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/>But if you really want it, I would consider selling it
+  to you...<FontSize Value='100'/>
+Talk_0002: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Heading to the <0 Type='3' Data='0000'/>construction site<0 Type='3' Data='ffff'/>, eh?<0 Type='4'/>There's a small fee to use the <0 Type='3' Data='0000'/>railcar<0 Type='3' Data='ffff'/>.
+  I'll collect that for you.
+Talk_0037: |
+  <3 Type='0' Data='0701'/>Please watch your step while boarding.
+Talk_9003: |
+  <FontSize Value='125'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Aaah! <5 Type='1'/>I said stop that!<FontSize Value='100'/>
+Talk_0003: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Cut the jokes. You don't have <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/>!
+  
+  
+  If you can't afford a teeny fee like that,
+  then there's no way I'm letting you use
+  the <0 Type='3' Data='0000'/>railcar<0 Type='3' Data='ffff'/>.
+  Go find some other way to get to the
+  construction site.
+Talk_0038: |
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>I thought it might be valuable when I picked it up,
+  but then it started glowing. Ugh. Creepy.
+  
+  This is a seriously <0 Type='3' Data='0000'/>weird rock<0 Type='3' Data='ffff'/>. I gotta hurry and find
+  some sucker to—<5 Type='1'/> Hm?<FontSize Value='100'/>
+Talk_9004: |
+  <3 Type='0' Data='0701'/>If you want this rock that badly, I would
+  consider selling it to you...
+Talk_0050: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Wha—
+  
+  
+  <0 Type='3' Data='0200'/><FontSize Value='80'/>He's actually gonna buy this weird rock I found?
+  It's my lucky day!<5 Type='1'/><FontSize Value='100'/>
+  
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/><0 Type='3' Data='ffff'/>Th-that's great! You have a good eye, ma'am!
+  
+  
+  This is definitely a very valuable rock, so
+  you've made a wise purchase!
+  
+  And now, this rock belongs to you.
+  No refunds.
+Talk_0039: |
+  <FontSize Value='125'/><3 Type='0' Data='0901'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>Hey! <5 Type='1'/>What are you doing?!<FontSize Value='100'/>
+Talk_9005: |
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/>Oops!<5 Type='1'/> It's fizzling out!<FontSize Value='100'/>
+Talk_0005: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Very good. <5 Type='0'/>You're all set. <0 Type='3' Data='0200'/><FontSize Value='80'/>Yes! <5 Type='0'/>Profit, profit.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_0051: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Th-thank you. OK, <0 Type='3' Data='0000'/>50 rupees<0 Type='3' Data='ffff'/>, then, and
+  it's all yours.
+Talk_9006: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0c005300610064005f0030003100'/>Can you come back here for a minute?
+  I've got to swap it out for a new one.
+Talk_0006: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Whoa there.<5 Type='0'/> Want to use the <0 Type='3' Data='0000'/>railcar<0 Type='3' Data='ffff'/>?
+0000: |
+  Goodbye.
+Talk_0052: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Wha—
+  
+  
+  <0 Type='3' Data='0200'/><FontSize Value='80'/>He's actually gonna buy this weird rock I found?
+  It's my lucky day!<5 Type='1'/><FontSize Value='100'/>
+  
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/><0 Type='3' Data='ffff'/>Th-that's great! You have a good eye, ma'am!
+  
+  
+  This is definitely a very valuable rock, so
+  you've made a wise purchase!
+  
+  And now, this rock belongs to y—
+  Hey, wait a second.
+  
+  <3 Type='0' Data='0701'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>You don't have enough rupees!
+  
+  
+  <0 Type='3' Data='0200'/><FontSize Value='80'/>Ugh, don't get my hopes up like that!<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_9007: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/><4 Type='0' Data='0c005300610064005f0030003000'/>Ugh. Those Zonai devices are useful and all, but I
+  wish they didn't disappear after too much use.<5 Type='2'/><FontSize Value='100'/>
+Talk_0007: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>It's <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/>, no exceptions.<5 Type='0'/> But you
+  only need to pay it once!
+  
+  One fee, unlimited rides? That's a
+  bargain. How about it?
+0001: |
+  Fine. Here's 20 rupees.
+Talk_0053: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>C-<5 Type='0'/>can you see that? Th-the light coming
+  from this <0 Type='3' Data='0000'/>weird rock<0 Type='3' Data='ffff'/>?
+  
+  <FontSize Value='80'/><3 Type='0' Data='0501'/>I don't care if it's valuable. It's way too creepy.
+  I gotta hurry up and find some sucker to buy it.<FontSize Value='100'/>
+Talk_9008: |
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/>Hey!<5 Type='1'/> Where are you taking that?!<FontSize Value='100'/>
+Talk_0008: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0a005400680069006e006b00'/>Sorry, but you can't take the <0 Type='3' Data='0000'/>railcar<0 Type='3' Data='ffff'/> until
+  you pay the fee.
+  
+  If you want to use it, talk to me first.
+Talk_0054: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Ah! You mean that weird rock did
+  something useful?
+  
+  <3 Type='0' Data='0701'/>Honestly, I had no idea what you were
+  planning to do with that thing.
+  
+  But that's good to hear. I'm glad you
+  found a use for it.
+  
+  <3 Type='0' Data='0c01'/><0 Type='3' Data='0200'/><FontSize Value='80'/>I should have sold it for a higher price. Ah well.
+  Any profit is good profit.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_9009: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0600530061006400'/>I can't have people making off with the
+  railcar. Bring that back where it belongs,
+  if you don't mind.
+Talk_0009: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>I charge a fee to use the railcar,
+  but you only need to pay it once.
+  It's <0 Type='3' Data='0000'/><5 Type='0'/>20 rupees<0 Type='3' Data='ffff'/>. What do you say?
+Talk_0020: |
+  <3 Type='0' Data='0401'/>Hudson made this railcar! There's only
+  one like it in the whole world!
+  
+  <0 Type='3' Data='0200'/><FontSize Value='80'/>Oh man, oh man! If I don't fix this quick, I'm gonna
+  get it!<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_0055: |
+  <FontSize Value='80'/><3 Type='0' Data='0001'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>So 50 rupees for a <0 Type='3' Data='0000'/>weird rock <0 Type='3' Data='ffff'/>I picked up, huh...
+  Well, that's not so bad. <5 Type='1'/>Hm?<FontSize Value='100'/>
+0004: |
+  The railcar?
+Talk_0021: |
+  <3 Type='0' Data='0001'/>Sorry to keep you waiting.
+Talk_0022: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>I managed to get it working again, but it
+  wasn't easy! So be careful. Got it?
+Talk_0057: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>It's the <0 Type='3' Data='0000'/>railcar<0 Type='3' Data='ffff'/> usage fee that I
+  collected earlier.<0 Type='4'/>I guess you can call it a change of heart
+  or whatever. I was there when Mattison
+  said her goodbyes.
+  As a father, seeing her leave hit me right
+  in the parental feelings.
+  
+  I started thinking it's about time I
+  did honest work. For my daughter
+  Hunnie's sake.
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>It has nothing to do with Hudson finding
+  out I was charging a fee and getting mad.
+  No, nothing like that!
+Talk_0023: |
+  <FontSize Value='80'/><3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>I could tell Hudson my name is Hagie a thousand
+  times and he'd still call me Hagieson.<FontSize Value='100'/>
+0006: |
+  What's that rock?
+Talk_0058: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Ah, ma'am!<5 Type='0'/> Good timing!
+  
+  
+  Here's this back...
+Talk_0024: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/>Hudson looked really down when he went back to
+  the construction site. I wonder if he's OK. Hm?<FontSize Value='100'/>
+Talk_0059: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Need something at the construction site?<0 Type='4'/>There's no fee to use the <0 Type='3' Data='0000'/>railcar<0 Type='3' Data='ffff'/>, so folks
+  of all ages can use it freely.
+0007: |
+  I'll take it!
+Talk_0025: |
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>This...<5 Type='0'/>goes here? And that bit...<5 Type='0'/>here...maybe?
+  
+  
+  This stupid thing would be easier to fix if it didn't
+  use those fancy <0 Type='3' Data='0000'/>Zonai devices<0 Type='3' Data='ffff'/>.<FontSize Value='100'/>
+0008: |
+  Not for that price!
+0009: |
+  <3 Type='0' Data='0700'/>So about that shrine...
+Talk_0027: |
+  <0 Type='3' Data='0200'/><FontSize Value='80'/><3 Type='0' Data='0c01'/>Hopefully Hudson will go back to the construction
+  site soon. It's riskier to charge that fee when
+  he's around.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_0028: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>It's President Hudson's pride and joy—<5 Type='0'/>an
+  amazing contraption connecting Tarrey
+  Town and the <0 Type='3' Data='0000'/>construction site<0 Type='3' Data='ffff'/>.<0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  There's been a lot of strange happenings
+  lately. Things falling down from the sky
+  right onto the construction site.
+  Hudson has turned into quite
+  the inventor.
+  
+  Best I can tell, he takes what falls out of
+  the sky and experiments until he makes
+  something new.<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>The railcar is a perfect example. It's so
+  simple to control that anyone can do it—
+  just <0 Type='3' Data='0000'/>give it a whack<0 Type='3' Data='ffff'/>.
+Talk_0029: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>If you want to visit the <0 Type='3' Data='0000'/>construction site<0 Type='3' Data='ffff'/>,
+  feel free to use the <0 Type='3' Data='0000'/>railcar <0 Type='3' Data='ffff'/>over there.
+Talk_0040: |
+  <3 Type='0' Data='0701'/>Ah, you again.
+Talk_0041: |
+  <3 Type='0' Data='0000'/>In that case, how about <0 Type='3' Data='0000'/>80 rupees<0 Type='3' Data='ffff'/>?
+  That's a one-time-only deal, just for you.
+Talk_0042: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Shrine?<5 Type='0'/> Huh, what are you talking about?
+Talk_0043: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Oh! <5 Type='0'/>Are you interested in this rock?
+  I found it buried at the construction site.
+  
+  It's a rare rock, so I stole—<5 Type='0'/> I mean, I took
+  it as a memento...
+  
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>But if you're interested, I would consider
+  selling it. For you, a special introductory
+  offer of <0 Type='3' Data='0000'/>100 rupees<0 Type='3' Data='ffff'/>! What do you say?
+Talk_0044: |
+  <3 Type='0' Data='0201'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Are you trying to sell random junk for
+  outrageous prices again?
+  
+  Look at that thing—it's basically just a
+  really big piece of flint.<0 Type='4'/>I'd call 60—<5 Type='1'/> No, <0 Type='3' Data='0000'/>50 rupees <0 Type='3' Data='ffff'/>a
+  more-than-fair price!
+Talk_9010: |
+  <3 Type='0' Data='0701'/>Hmph. <5 Type='1'/>Hudson built this railcar himself,
+  you know. The whole system would fall
+  apart without it, so leave it be!
+Talk_0045: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>B-but...I already set an absolutely
+  fair price...
+  
+  And he might have...<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>OK, no need for the stern-wife look.
+Talk_0011: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>The controls are simple. Just <0 Type='3' Data='0000'/>give it a
+  whack<0 Type='3' Data='ffff'/> to either start or stop it.<0 Type='4'/>You're free to use it as you please now.
+Talk_0046: |
+  <3 Type='0' Data='0a01'/>*sigh* Well? What do you say? It's a real
+  deal at just...<5 Type='2'/>just <0 Type='3' Data='0000'/>50 rupees<0 Type='3' Data='ffff'/>...
+Talk_0012: |
+  <4 Type='0' Data='0e0043006800610074005f0030003100'/>There's a fee for that. You're free to use it
+  once you pay up.
+Talk_0047: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Oh...
+Talk_0013: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Hey now! <5 Type='0'/>Don't be so hasty.
+Talk_0048: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Of course he isn't going to buy after you
+  insulted him with such a high price!
+  
+  Hudson made this town so that everyone
+  could live here in peace.
+  
+  If you do anything to harm that beautiful
+  vision, you won't get away with it!
+Talk_0014: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/>Maybe he'll buy this <0 Type='3' Data='0000'/>weird rock<0 Type='3' Data='ffff'/> while he's at it.<FontSize Value='100'/>
+Talk_0060: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>I'll place it in the back for whenever
+  you're ready to take it to its new home.
+Talk_0049: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003100'/>You're right, you're right. <5 Type='1'/>I'm sorry.

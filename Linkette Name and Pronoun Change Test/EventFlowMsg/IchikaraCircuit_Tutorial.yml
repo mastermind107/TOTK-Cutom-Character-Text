@@ -1,0 +1,541 @@
+Talk_0064: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Hey, hey, hey!
+  
+  
+  Tali is a special vai—the best of the best.
+  A regular vai can't just walk up to her and
+  start chatting!
+Talk_0065: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>HEY! What did I tell you?!
+  
+  
+  Don't try to act innocent! You know you're
+  not supposed to chitchat with her.
+  
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>Ugh, this right here is everything that's
+  wrong with young vai.
+Talk_0066: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>What's this?! Tali wouldn't give you the
+  time of day, so you thought you'd just
+  start blabbin' at me?
+  Well, you listen here. We trekked aaall the
+  way here from the Gerudo region, which is
+  far to the southwest, for your information.
+  And we did this aaall because someone
+  said we could drive a vehicle the likes of
+  which no one has ever seen. What a joke!
+  <3 Type='0' Data='0901'/>Anyway, you might say I'm real
+  disappointed. And you can definitely
+  say I'm in a real bad mood.
+  So, since there's no control thingy around
+  here, how about you make yourself useful,
+  and go <0 Type='3' Data='0000'/>somewhere else<0 Type='3' Data='ffff'/> and find one!
+  <3 Type='0' Data='0901'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Oh, and another thing... I'm sick and
+  tired of all the Zo-this and Zo-that.
+  So no Zo-ANYTHING out of you, got it?
+Talk_0005: |
+  <FontSize Value='125'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>Whaaat?!<FontSize Value='100'/>
+Talk_0067: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Try it on that vehicle prototype there so
+  we can see how it works.
+Talk_0006: |
+  <FontSize Value='80'/><3 Type='0' Data='0701'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003100'/>Quickly. I must see.<FontSize Value='100'/>
+Talk_0069: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Ah, but how does it work?
+Talk_0008: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Let's see... <5 Type='0'/>Hmm, I think...I flip the
+  switches here and here, and...<5 Type='1'/> Yes!
+Talk_0050: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Hmm. You found nothing among these
+  <0 Type='3' Data='0000'/>Zonai devices <0 Type='3' Data='ffff'/>capable of controlling
+  your vehicles?
+Talk_0009: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Ta-da! <5 Type='1'/>It's a test-drive course, you see!<5 Type='0'/>
+  
+  
+  Those pillars of light...they <0 Type='3' Data='0000'/>disappear<0 Type='3' Data='ffff'/>
+  when you <0 Type='3' Data='0000'/>touch<0 Type='3' Data='ffff'/> them. So here's what
+  I'd like you to do...
+  Touch <0 Type='3' Data='0000'/>all the lights<0 Type='3' Data='ffff'/> and return to where
+  you started within the time limit. Do that,
+  and we'll call the test drive a success.
+  <3 Type='0' Data='0001'/>Until now, we've never been able to
+  steer the thing properly. But if this
+  device works...
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>we'll have built another new vehicle—
+  and one that's completely different from
+  the balloon!
+  <3 Type='0' Data='0401'/>Oh, I almost forgot... During the test
+  drive, <0 Type='3' Data='0000'/>don't let go of the steering device<0 Type='3' Data='ffff'/>
+  or <0 Type='3' Data='0000'/>go too far off course<0 Type='3' Data='ffff'/>.<5 Type='0'/><0 Type='4'/><3 Type='0' Data='0701'/>We won't be able to retrieve the driving
+  data if you do that.
+Near_0001: |
+  It's like I told you...
+Talk_0051: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Hey, I told you! <5 Type='0'/>A lowly vai's got no
+  business blabbin' at me!
+  
+  Ugh! We hauled ourselves all the way here
+  for some never-before-seen vehicle, and
+  it turns out to be a useless hunk o' junk!
+  But since no one can find a control thingy
+  for it around here, how about you make
+  yourself useful and look <0 Type='3' Data='0000'/>somewhere else<0 Type='3' Data='ffff'/>?
+  <3 Type='0' Data='0901'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Bah! Wasting all your time yip-yapping...
+  You'd never make it in the desert.
+Near_0002: |
+  You tricked us!
+Talk_0052: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>...<5 Type='1'/>
+Talk_0053: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>That's the Zonai device you showed me
+  before, right?
+  
+  I'm afraid it won't do us much good
+  as it is.
+  
+  I wish we could put it to use...
+Near_0003: |
+  The clock is ticking!
+Near_0004: |
+  There must be some way...
+Talk_0054: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>I've been waiting for you.
+Talk_0055: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>You had such an impressive machine to
+  work with. Ugh...<5 Type='1'/>what a shame.
+Near_0005: |
+  One more try!
+Near_0006: |
+  Could this be it?
+Talk_0056: |
+  <3 Type='0' Data='0701'/><5 Type='0'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Victory comes to those who refuse
+  to give up.
+Talk_0057: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>It is not wise to drive the course during
+  a lightning storm.<5 Type='0'/> A smart strategy would
+  be to wait for the weather to improve.
+Talk_0058: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003100'/>All right, stop there! Unfortunately,
+  time's up.
+Talk_0059: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I don't get it... That weird thing is gonna
+  make that huge contraption move?
+  
+  <3 Type='0' Data='0901'/>Say all the fancy words and silly jargon
+  you like, but I'll believe it when I see it
+  with my own two eyes!
+Talk_0040: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>This is no time for goofing off! Drive it like
+  you mean it!
+Talk_0041: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>You can see the lights clearly at night,
+  but...<5 Type='0'/>be wary of unforeseen obstacles.
+Talk_0042: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>The conditions aren't bad...<5 Type='0'/>how you fare
+  will simply depend on your skills.
+Talk_0043: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>The vehicle prototype is ready to go. All
+  we need to do now is attach some kind of
+  mechanism to steer it.
+  Unfortunately, none of the Zonai devices
+  <0 Type='3' Data='0000'/>found in Tarrey Town <0 Type='3' Data='ffff'/>right now do
+  the trick.
+Talk_0046: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh...<5 Type='0'/>um...<5 Type='1'/> You're not with Hudson
+  Construction...<5 Type='1'/>are you?
+Talk_0047: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Hey, hey, hey! I'm standing right here.
+  Don't cut me out of this little chitchat.
+  
+  Didn't you say those Zo-thingamabobs
+  are from the age of legends?
+  
+  <3 Type='0' Data='0c01'/>You trying to tell me something THAT old
+  and run-down is still useful? Please.
+Talk_0048: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>We did come all the way here. It couldn't
+  hurt to put our heads together.
+  
+  Besides, it's important for a racer to
+  know her ride as well as she knows
+  her own hands.
+  Wasn't it you who taught me
+  that, Shabonne?
+Talk_0049: |
+  <3 Type='0' Data='0201'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Hmph!<5 Type='1'/> Fine. If Tali wants to help, then
+  help is what we'll do.
+Talk_0090: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='180057006f0072006b00480065006100760079005f0030003100'/>I <5 Type='0'/>said, <5 Type='1'/>that's <5 Type='0'/>a <5 Type='0'/>prototype! <5 Type='1'/>You <5 Type='0'/>can't <5 Type='0'/>
+  take<5 Type='0'/> it!
+  
+  Thank <5 Type='0'/>you <5 Type='0'/>very <5 Type='0'/>much!
+Talk_0030: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Thank goodness!<5 Type='1'/> I'm so glad you came
+  back. I don't know what we'd have done
+  if you didn't.
+  <3 Type='0' Data='0801'/>Well, everything has been prepped
+  and made ready so we could start the
+  moment you arrived.
+Talk_0091: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='180057006f0072006b00480065006100760079005f0030003100'/><FontSize Value='125'/>Hey now!<0 Type='4'/><FontSize Value='100'/>That vehicle is a prototype. Please, do not
+  touch...<FontSize Value='125'/><FontSize Value='100'/><5 Type='1'/> Hold on...
+Talk_0092: |
+  <3 Type='0' Data='0000'/>Oh, also, you're welcome to have this...
+Talk_0093: |
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Head straight down that road. You can't
+  miss it.
+Talk_0032: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Eh, if you would, please attach that
+  <0 Type='3' Data='0000'/>Zonai device <0 Type='3' Data='ffff'/>of yours to the vehicle
+  prototype.
+Talk_0033: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>What's this?! You thought a lowly vai
+  could just chitchat with the likes of me?
+  
+  Well, listen up. We trekked aaall the way
+  here from the Gerudo region, which is far
+  off to the southwest, for your information.
+  And we did this aaall because someone
+  said we could drive a vehicle the likes of
+  which no one had ever seen. What a joke!
+  <3 Type='0' Data='0901'/>Anyway, you might say I'm real
+  disappointed. And you can definitely
+  say I'm in a real bad mood.
+  So, since there's no control thingy around
+  here, how about you make yourself useful,
+  and go <0 Type='3' Data='0000'/>somewhere else<0 Type='3' Data='ffff'/> and find one!
+  <3 Type='0' Data='0901'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Oh, and another thing... I'm sick and
+  tired of all the Zo-this and Zo-that.
+  So no Zo-ANYTHING out of you, got it?
+Talk_0094: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>You must be exhausted from driving such
+  a strange machine. Go get some rest in a
+  comfy bed.
+  While you do that, I'll get to work on
+  <0 Type='3' Data='0000'/>the next phase<0 Type='3' Data='ffff'/> of our project. I hope
+  you're as excited about it as I am!
+Talk_0095: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>You've got it all wrong. It's like
+  I said before...
+  
+  I'm working with Hudson Construction
+  to make vehicles out of the Zonai devices
+  and other debris that fell from the sky.
+  And yes, it's true. <5 Type='0'/>We haven't figured out
+  how to control these vehicles...<5 Type='0'/>
+  
+  But that's why we asked you here. We're
+  hoping professional racers like the two of
+  you can offer some guidance.<5 Type='0'/>
+Talk_0096: |
+  <FontSize Value='80'/><0 Type='3' Data='0200'/><3 Type='0' Data='0c01'/>I guess if he's here...<5 Type='1'/>he must be involved somehow.<5 Type='1'/><0 Type='3' Data='ffff'/><FontSize Value='100'/>
+  
+  
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>The name's Fernison. I'm working with
+  Hudson on a Zonai-device research
+  project. It's a pleasure to meet you.
+  In fact, right now we're prototyping
+  new vehicles.
+  
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>Unfortunately, we've run into a bit of a
+  problem. We haven't found a <0 Type='3' Data='0000'/>Zonai device<0 Type='3' Data='ffff'/>
+  capable of controlling the vehicles.
+  We tried all of the devices in Tarrey Town,
+  but none of them worked.
+  
+  We even brought in a couple of top-notch
+  Gerudo racers to get their advice...<5 Type='1'/>but I'm
+  afraid that made things worse.
+Talk_0035: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>OH! <5 Type='1'/>What...is this?!<5 Type='1'/> I've never seen a
+  Zonai device like this before!<5 Type='1'/>
+  
+  <3 Type='0' Data='0c01'/>But I don't think I can do anything with
+  it...not like this anyway.
+  
+  I wish there was a way we could use it...
+Talk_0097: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>OH! <5 Type='1'/>What...is this?!<5 Type='1'/> I've never seen a
+  Zonai device like this before!<5 Type='1'/>
+Talk_0036: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Ah! If we're going to do this, let's do
+  it right.
+  
+  Hold on a minute while I get everything
+  ready for a test drive.
+Talk_0098: |
+  <0 Type='3' Data='0200'/><3 Type='0' Data='0301'/><0 Type='3' Data='ffff'/>Ah, sorry for shouting.<5 Type='0'/><0 Type='4'/><3 Type='0' Data='0701'/>The name's Fernison. I'm working with
+  Hudson on a Zonai-device research
+  project. It's a pleasure to meet you.
+  <3 Type='0' Data='0401'/>But more importantly, this Zonai device
+  of yours...<5 Type='0'/><0 Type='4'/><3 Type='0' Data='0b01'/>It looks like it could...<5 Type='0'/>be used for
+  steering things, don't you think?!
+  
+  <3 Type='0' Data='0801'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>But if you don't mind,<5 Type='0'/> how does this
+  thing work?
+Talk_0037: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='0c004c0061007500670068005300'/>Finally! Things are getting interesting
+  around here. You better believe I'll be
+  keeping a close eye on your technique.
+Talk_0099: |
+  <0 Type='3' Data='0200'/><3 Type='0' Data='0301'/><0 Type='3' Data='ffff'/>Ah, so sorry for shouting.<5 Type='0'/><0 Type='4'/><3 Type='0' Data='0101'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Are you new to Hudson Construction?<5 Type='0'/><0 Type='4'/>My name is Fernison. I'm collaborating
+  with Hudson on a Zonai-device research
+  project. It's a pleasure to meet you.
+  <3 Type='0' Data='0401'/>But more importantly, this Zonai device
+  of yours...<5 Type='0'/><0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>It seems like it could...<5 Type='0'/>be used for
+  steering things, doesn't it?!
+Talk_0038: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003000'/>And here I thought you were a vai with
+  some real skills. So much for that.
+  
+  <3 Type='0' Data='0a01'/>You had such an impressive machine to
+  work with too. What a waste.
+Talk_0080: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Hehe! You're now an official member of
+  our team!
+Talk_0039: |
+  <3 Type='0' Data='0701'/><5 Type='0'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>You are capable of doing better. I am
+  sure of it.<5 Type='0'/>
+0010: |
+  Goodbye.
+Talk_0020: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>I don't believe it! I never thought
+  something so big could be steered
+  so easily!
+Talk_0021: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>As long as we get to do some racing, you
+  won't hear any complaints from us.
+Talk_0082: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>The <0 Type='3' Data='0000'/>Tarrey Town Race<0 Type='3' Data='ffff'/>... Hmm, yes, I am
+  looking forward to it.
+Talk_0083: |
+  <3 Type='0' Data='0701'/>Just a moment. Let me activate
+  the switches...
+Talk_0022: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>See! The vehicle is up and running!
+  So don't accuse me of trying to trick
+  you anymore!
+  My goal has always been to start work
+  on the <0 Type='3' Data='0000'/>Tarrey Town Race project<0 Type='3' Data='ffff'/>, and
+  finally I can do just that.
+  Now, it's time for me to start preparing
+  a test course.
+Talk_0100: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Close, close...<0 Type='4'/><3 Type='0' Data='0801'/>Don't forget to come back to the
+  <0 Type='3' Data='0000'/>starting point <0 Type='3' Data='ffff'/>to finish the test.
+Talk_0084: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>First this switch here, and then this one,
+  too, and...<5 Type='1'/> There!
+Talk_0101: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>It's a sleepover ticket for a stable.
+  The closest one to here is probably
+  South Akkala Stable.
+Talk_0023: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0c005300610064005f0030003000'/>Looks like you've gone too far off
+  course. Rules are rules, so stop and
+  come back, please.
+Talk_0024: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Then let's get started! Go ahead and
+  board the vehicle.
+Talk_0085: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>I'm so glad you're willing to try again!<5 Type='1'/>
+  I don't know what we'd do without you.
+  
+  <3 Type='0' Data='0801'/>Everything is prepped and ready to go.
+  Ready to take the prototype for a spin?
+Talk_0102: |
+  You're not allowed to take that! That's
+  a valuable part of our prototype!
+Talk_0103: |
+  Yes, yes, now I see how it could be used
+  to steer something.
+  
+  Could you come here for a minute?
+  I have a favor to ask.
+Talk_0025: |
+  <FontSize Value='125'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Really?!<FontSize Value='100'/>
+Talk_0086: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Are you ready? Well then, let's go! Show
+  us what that <0 Type='3' Data='0000'/>Zonai device <0 Type='3' Data='ffff'/>can do!
+Talk_0026: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Everything is ready! Now, if you don't
+  mind, I'd like you to give it a try.
+Talk_0087: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/><FontSize Value='125'/>Hey, stop that!<5 Type='0'/><FontSize Value='100'/>
+Talk_0104: |
+  That vehicle is a prototype! So please,
+  no touching!
+Talk_0027: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003000'/>Now let me quickly remind you of
+  the rules!
+  
+  It's simple really. Just touch <0 Type='3' Data='0000'/>all of the
+  lights<0 Type='3' Data='ffff'/> and return to the starting point
+  within the time limit.
+  <3 Type='0' Data='0401'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh, and <0 Type='3' Data='0000'/>don't let go of the steering device<0 Type='3' Data='ffff'/>
+  or <0 Type='3' Data='0000'/>go too far off the course<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0701'/>We can't get the driving data we need
+  if you do that.
+Talk_0088: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>That's <5 Type='0'/>a <5 Type='0'/>prototype! <5 Type='1'/>Please <5 Type='0'/>don't<5 Type='0'/> touch <5 Type='0'/>it!<5 Type='1'/>
+  
+  
+  Thank <5 Type='0'/>you <5 Type='0'/>very<5 Type='0'/> much!
+Talk_0106: |
+  In fact, I got everything prepped and
+  ready to go so we could start the
+  moment you returned.
+  So, if you don't mind, I'd like to have
+  you take the vehicle prototype for a
+  test drive.
+Talk_0028: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='0c005300610064005f0030003000'/>Uh-oh... <5 Type='1'/>Looks like you've let go of the
+  steering device. Rules are rules, so stop
+  and come back, please.
+Talk_0089: |
+  <FontSize Value='125'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>Whoa, whoa! Hold it right there!<5 Type='0'/><FontSize Value='100'/>
+0019: |
+  There's a water rally...
+Talk_0070: |
+  <3 Type='0' Data='0801'/>Incredible! Just...just look at it!
+  It's perfect!
+  
+  I have no doubt that Zonai device was
+  made for steering!
+Talk_0029: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Hmm, as things stand, I cannot say you
+  passed.
+  
+  But I do feel confident that Zonai device
+  will work.
+Talk_0010: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003100'/>Sadly, no. None of the <0 Type='3' Data='0000'/>devices <0 Type='3' Data='ffff'/>we've
+  found here in <0 Type='3' Data='0000'/>Tarrey Town<0 Type='3' Data='ffff'/> work.
+Talk_0071: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>You see those pillars of light?<5 Type='0'/> They
+  disappear when you touch them.
+  
+  All you have to do is touch <0 Type='3' Data='0000'/>all of the lights<0 Type='3' Data='ffff'/>
+  and return to the starting point within the
+  time limit.
+  <3 Type='0' Data='0401'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh...and be sure you <0 Type='3' Data='0000'/>don't let go of the
+  steering device<0 Type='3' Data='ffff'/> or <0 Type='3' Data='0000'/>go too far off course<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0701'/>We won't be able to get the data we need
+  if you do that.
+0001: |
+  I'm sorry I can't help.
+Talk_0011: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>I wonder if different <0 Type='3' Data='0000'/>Zonai devices<0 Type='3' Data='ffff'/>—
+  ones we've never seen—have fallen in
+  other regions?
+Talk_0072: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Of course, of course!
+Talk_0073: |
+  <FontSize Value='125'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>What?!<FontSize Value='100'/>
+Talk_0012: |
+  <3 Type='0' Data='0701'/><5 Type='0'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Hurry...
+0002: |
+  I want to take a break.
+Talk_0074: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Ah, <5 Type='0'/>no...<5 Type='1'/> I'm sorry...I just didn't think
+  you'd say "maybe later" after all that.
+  
+  <3 Type='0' Data='0301'/>We don't know how this Zonai device of
+  yours works. So...I really hope you come
+  back and try the course sometime...soon.
+0003: |
+  I'll keep going.
+Talk_0014: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Please, could you show us what, exactly,
+  this device is capable of?
+0004: |
+  I'll do it!
+Talk_0075: |
+  <FontSize Value='125'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Hey!<FontSize Value='100'/>
+0005: |
+  Maybe later.
+Talk_0076: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Hooo! Technique like that is enough to
+  get anyone fired up!
+Talk_0015: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Don't tell me...
+0006: |
+  Try this steering stick.
+Talk_0077: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>No one who loves racing could watch that
+  and not feel excited.
+Talk_0016: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>That's too bad...but if that's what you
+  want, I'll shut everything down.
+Talk_0017: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Hey! Fernison! <5 Type='1'/>We're not done talkin' yet!<5 Type='1'/>
+  
+  
+  We left the desert and trekked all the way
+  here because you said there was a vehicle
+  the likes of which no one's seen before.
+  Then we get here and it's nothin' but a
+  <0 Type='3' Data='0000'/>piece of junk that no one can control<0 Type='3' Data='ffff'/>?!
+  
+  <3 Type='0' Data='0901'/>So I gotta ask, what kind of fools do you
+  take us for?!
+Talk_0078: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>We can finally move on to the next
+  phase! See, this is just the beginning
+  of my experiments.
+  I must figure out this Zonai device's
+  full capabilities.
+  
+  And...<5 Type='1'/>ah...<5 Type='1'/>I'm counting on you to help
+  me out.
+  
+  Here. Please consider this a
+  down payment.
+0008: |
+  Can you explain again?
+Talk_0079: |
+  <3 Type='0' Data='0801'/>Don't ya think, Tali?
+Talk_0018: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Just touch <0 Type='3' Data='0000'/>all of the lights<0 Type='3' Data='ffff'/> and return to
+  the starting point within the time limit.
+  
+  <3 Type='0' Data='0001'/>But remember... <5 Type='1'/>You'll have to start over
+  if you <0 Type='3' Data='0000'/>let go of the device <0 Type='3' Data='ffff'/>or<0 Type='3' Data='0000'/> get too far
+  off course<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0201'/>With that machine there, I'm sure you'll
+  do just fine. Don't get discouraged. You
+  can do it!
+0009: |
+  I want to talk to you...
+Talk_0060: |
+  <3 Type='0' Data='0701'/><FontSize Value='80'/><5 Type='0'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>No more delays. <5 Type='1'/>I must see how it works.<FontSize Value='100'/>
+Talk_0019: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>The rain interferes with visibility.<5 Type='0'/> It seems
+  a wise strategy to wait for better weather.
+Talk_0061: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Aha, so that's how you set it up!
+Talk_0001: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>Zo-whatsit?! What are you even
+  talking about?
+  
+  We're racers, not scholars, OK?
+  
+  
+  <3 Type='0' Data='0901'/>Don't try to confuse us with your
+  fancy words.
+Talk_0062: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh...<5 Type='0'/>um... <5 Type='1'/>Good evening.<5 Type='1'/> You're not with
+  Hudson Construction...<5 Type='1'/>are you?
+Talk_0002: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Fernison!<5 Type='1'/> This isn't what we agreed to!
+  
+  
+  We left the desert and trekked all the way
+  here because you said we'd get to drive a
+  vehicle like no one's ever seen before.
+  And now that we're here, the only vehicle
+  you've got is some <0 Type='3' Data='0000'/>piece o' junk that
+  no one can control<0 Type='3' Data='ffff'/>?!
+  <3 Type='0' Data='0901'/>What kinda fools do you take us for?!
+Talk_0063: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh...<5 Type='0'/>um...<5 Type='1'/> Good afternoon.<5 Type='1'/> You're not
+  with Hudson Construction...<5 Type='1'/>are you?

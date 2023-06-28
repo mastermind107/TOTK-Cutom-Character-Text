@@ -1,0 +1,371 @@
+near0002: |
+  Need a bow or arrows?
+otsuge000: |
+  <3 Type='0' Data='0700'/>"Sand boots for desert sands and
+  snow boots for...serious snowfall."<5 Type='1'/>
+  I've spared you the painful seal pun.
+near0003: |
+  What do they mean?
+otsuge001: |
+  <3 Type='0' Data='0700'/>"If you seek the desert voe armor, you
+  must rise from the underground and find
+  the sealcret!" <5 Type='1'/>...Secret. She meant secret.
+otsuge999: |
+  <3 Type='0' Data='0c00'/>Just what do these numbers mean?
+  I've been her attendant for a long time,
+  but even I am stumped by them...
+  <3 Type='0' Data='0801'/>I can only assume that the brilliance
+  of those readings is simply beyond
+  our understanding...
+talk0010: |
+  <FontSize Value='80'/><0 Type='3' Data='0200'/><3 Type='0' Data='0c01'/><4 Type='0' Data='0600530061006400'/>Ugh, I can't stop myself from worrying about
+  the chief.
+  
+  <3 Type='0' Data='0c01'/>I wish this vai would go and check on her for me.
+  
+  
+  At least then I'd be able to rest a little easier...<0 Type='3' Data='ffff'/><FontSize Value='100'/>
+near0004: |
+  Is Kara Kara Bazaar OK?
+talk19: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>We really appreciate you standing with us!
+  If your bows all break or you run out of
+  arrows, I can replace them!
+otsuge002: |
+  <3 Type='0' Data='0700'/>"If you're finding the night extremely
+  cold, try wearing Rito armor. Enjoy the
+  seal-lestial...celestial bodies in the sky!"
+1001: |
+  Northern ruins?
+talk0011: |
+  <FontSize Value='80'/><0 Type='3' Data='0200'/><3 Type='0' Data='0c00'/>Ugh, I can't stop myself from worrying about
+  the chief.
+  
+  <3 Type='0' Data='0c01'/>I wish this vai would go and check on Kara Kara
+  Bazaar.<5 Type='1'/> Then I'd at least be able to rest easier...<0 Type='3' Data='ffff'/><FontSize Value='100'/>
+near0005: |
+  Hmm. Barricade building...
+otsuge003: |
+  <3 Type='0' Data='0700'/>"A heroine statue sleeps beyond the
+  <0 Type='3' Data='0000'/>Risoka Snowsealed<0 Type='3' Data='ffff'/>...<5 Type='1'/><0 Type='3' Data='0000'/>Risoka SnowFIELD<0 Type='3' Data='ffff'/>."
+otsuge200: |
+  <3 Type='0' Data='0700'/>"Sealcret numbers: -3834, -2875, 0043."<5 Type='1'/>
+1002: |
+  Patricia?
+talk0012: |
+  <3 Type='0' Data='0700'/>Kara Kara Bazaar is the oasis near the
+  path into the desert.
+  
+  On any normal day, you'd be able to
+  follow the road northeast straight out
+  of town and arrive there, but...
+  <3 Type='0' Data='0c00'/><FontSize Value='80'/>With this <0 Type='3' Data='0000'/>sand shroud<0 Type='3' Data='ffff'/>... I think the only ones who
+  could make it there right now would be the chief
+  or <0 Type='3' Data='0000'/>Patricia<0 Type='3' Data='ffff'/>.
+  Hmm...<5 Type='1'/> No, I think as long as I can see the <0 Type='3' Data='0000'/>light of
+  the lighthouse<0 Type='3' Data='ffff'/>, I'd be able to make it too.<FontSize Value='100'/>
+otsuge004: |
+  <3 Type='0' Data='0700'/>"Do not fear the sealkholes..." <5 Type='1'/>No, hold
+  on... <5 Type='1'/>"Do not fear the sinkholes! Vast
+  areas wait beneath them!"
+otsuge201: |
+  <3 Type='0' Data='0700'/>"A number sealquence." <5 Type='1'/>Sequence.<5 Type='1'/> A
+  number sequence. "-3826, -2885, 0043."<5 Type='1'/>
+1003: |
+  I'll leave you be...
+otsuge005: |
+  <3 Type='0' Data='0700'/>"Dragons aren't content with...<5 Type='1'/>sealface"?<5 Type='1'/>
+  Oh. Surface. "Dragons aren't content with
+  surface and sky alone!"
+1004: |
+  Kara Kara Bazaar?
+otsuge006: |
+  <3 Type='0' Data='0700'/>"Splash-fruit prophecies seal...<5 Type='1'/>shall...<5 Type='1'/>
+  guide you to places worthy of your time!"
+otsuge400: |
+  <3 Type='0' Data='0700'/>"A number sealquence." <5 Type='1'/>Sequence.<5 Type='1'/> A
+  number sequence. "-0249, 1041, -2438."<5 Type='1'/>
+talk0000: |
+  <3 Type='0' Data='0700'/>The chief went to train in the
+  northern ruins.
+  
+  She rode out there with her beloved
+  sand seal, <0 Type='3' Data='0000'/>Patricia<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0c00'/>I'm worried though. <5 Type='0'/>There have been a
+  lot of these strange monsters popping up
+  in the world lately.
+  But as worried as I am, this frustrating
+  <0 Type='3' Data='0000'/>sand shroud <0 Type='3' Data='ffff'/>makes it impossible to
+  navigate the desert.
+  The chief has an amazing sense of
+  direction, but I'm not so lucky.
+  
+  <3 Type='0' Data='0701'/>So instead of traveling aboveground,
+  I was thinking of using this secret passage
+  to get to the <0 Type='3' Data='0000'/>northern ruins<0 Type='3' Data='ffff'/>.
+talk0015: |
+  <3 Type='0' Data='0700'/>She's off with the chief right now.
+  I'd suggest checking <0 Type='3' Data='0000'/>Kara Kara Bazaar<0 Type='3' Data='ffff'/>.
+  
+  If you want to speak with <0 Type='3' Data='0000'/>Patricia<0 Type='3' Data='ffff'/>, you'll
+  probably have to wait until things have
+  settled down and the chief isn't so busy.
+otsuge401: |
+  <3 Type='0' Data='0000'/>That was the reading Patricia gave.
+1006: |
+  Goodbye.
+talk0001: |
+  <3 Type='0' Data='0700'/>This is the chief's beloved sand
+  seal, <0 Type='3' Data='0000'/>Patricia<0 Type='3' Data='ffff'/>!
+  
+  She is no ordinary sand seal though.
+  Patricia is actually something of
+  an oracle!
+  Please, offer her some fruit.<5 Type='0'/> In return,
+  she'll share a reading with you!
+  
+  <3 Type='0' Data='0c00'/>Though if you give her <0 Type='3' Data='0000'/>splash fruit<0 Type='3' Data='ffff'/>,
+  you'll almost certainly get a strange,
+  number-filled reading.
+  <3 Type='0' Data='0701'/>I can only assume that the brilliance
+  of those readings is simply beyond
+  our understanding...
+otsuge205: |
+  <3 Type='0' Data='0700'/>"Sealcret numbers: -3768, -2927, 0043."<5 Type='1'/>
+talk0017: |
+  <3 Type='0' Data='0700'/>She's off with the chief right now. They
+  headed out to the <0 Type='3' Data='0000'/>northern ruins<0 Type='3' Data='ffff'/>.
+  
+  If you want to speak with <0 Type='3' Data='0000'/>Patricia<0 Type='3' Data='ffff'/>, you'll
+  probably have to wait until things have
+  settled down and the chief isn't so busy.
+talk0002: |
+  <3 Type='0' Data='0700'/>Please, offer <0 Type='3' Data='0000'/>Patricia<0 Type='3' Data='ffff'/> some <0 Type='3' Data='0000'/>fruit<0 Type='3' Data='ffff'/>.<5 Type='0'/> In return,
+  she'll share a reading with you!
+  
+  <3 Type='0' Data='0c00'/>Though if you give her <0 Type='3' Data='0000'/>splash fruit<0 Type='3' Data='ffff'/>,
+  you'll almost certainly get a strange,
+  number-filled reading.
+  <3 Type='0' Data='0701'/>I can only assume that the brilliance
+  of those readings is simply beyond
+  our understanding...
+1007: |
+  Let me hear a reading.
+otsuge206: |
+  <3 Type='0' Data='0700'/>"A number sealquence." <5 Type='1'/>Sequence.<5 Type='1'/> A
+  number sequence. "-2480, -1794, 0137."<5 Type='1'/>
+talk0018: |
+  <3 Type='0' Data='0700'/>The reading that Patricia previously
+  shared with you was...
+talk0004: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/>I hope the chief is OK... Maybe I should go after
+  her? But I'm just the attendant to <0 Type='3' Data='0000'/>Patricia<0 Type='3' Data='ffff'/>.
+  
+  I would be acting against her wishes too...
+  
+  
+  If I were to go, though, I could just go through here.
+  It comes out at the <0 Type='3' Data='0000'/>northern ruins<0 Type='3' Data='ffff'/>, and that's where
+  the chief was headed...<FontSize Value='100'/>
+talk0019: |
+  <3 Type='0' Data='0700'/>OK! Come back again!
+talk0005: |
+  <3 Type='0' Data='0700'/>Patricia is the chief's beloved sand seal.
+  
+  
+  You've heard of sand seals, right?
+  They're desert creatures that can navigate
+  the dunes with amazing ease!
+  And Patricia is a very special one. She
+  seemingly has the <0 Type='3' Data='0000'/>power of an oracle<0 Type='3' Data='ffff'/>!
+  
+  <3 Type='0' Data='0c00'/>Or, she did. Ever since the Upheaval,
+  she's mostly just been sharing these
+  <0 Type='3' Data='0000'/>strange numbers<0 Type='3' Data='ffff'/>...
+  I've been her attendant for years now,
+  but even I can't make sense of this turn
+  of events.
+NakedPlayer: |
+  Where are your clothes?
+ThunderHelmet: |
+  I've seen that helm before.
+talk0007: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/>The chief received a report earlier that
+  <0 Type='3' Data='0000'/>Kara Kara Bazaar<0 Type='3' Data='ffff'/>'s in trouble, and it caused the
+  color to drain out of her face...
+  I hope the chief and <0 Type='3' Data='0000'/>Patricia<0 Type='3' Data='ffff'/> are both OK...<FontSize Value='100'/>
+talk0008: |
+  <3 Type='0' Data='0700'/>Ah, my apologies...
+talk0009: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/>Those strange monsters are still lurking out there...<5 Type='1'/>
+  Tsk,<5 Type='1'/> I should've insisted on coming with her,
+  dangerous or not.<FontSize Value='100'/>
+AssassinClothes: |
+  Yiga?!
+0010: |
+  Let's talk barricades.
+0011: |
+  These materials...
+0012: |
+  I'm OK for now.
+talk40: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0c004e006f007400690063006500'/>Hmm. Looks like you've run out of arrows.
+  <5 Type='0'/>Here, these should help!
+otsuge100: |
+  <3 Type='0' Data='0700'/>"A number sealquence." <5 Type='1'/>Sequence.<5 Type='1'/> A
+  number sequence. "-3888, -2972, 0033."<5 Type='1'/>
+talk41: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Ah. Yes, I gathered up some weapons and
+  the materials to improve them. There's
+  also some food...<5 Type='0'/>oh, and some rupees.
+  Some of the troops found these strange
+  capsules while patrolling, so those are
+  here too.
+  And of course,<5 Type='0'/> if things get really dire...<0 Type='4'/>Like, <5 Type='0'/>say, <5 Type='0'/>if your bows all break or you run
+  out of arrows <0 Type='3' Data='0000'/>in the middle of the battle<0 Type='3' Data='ffff'/>,
+  I can help you there too.
+otsuge101: |
+  <3 Type='0' Data='0700'/>"Sealcret numbers: -3781, -2900, 0047."<5 Type='1'/>
+talk42: |
+  <3 Type='0' Data='0700'/>Understood. <5 Type='0'/>If you need something,
+  please come see me.
+otsuge102: |
+  <3 Type='0' Data='0700'/>"A number sealquence." <5 Type='1'/>Sequence.<5 Type='1'/> A
+  number sequence. "-3813, -2872, 0043."<5 Type='1'/>
+talk43: |
+  <3 Type='0' Data='0701'/>Is there anything else I can help you with?
+otsuge103: |
+  <3 Type='0' Data='0700'/>"A number sealquence." <5 Type='1'/>Sequence.<5 Type='1'/> A
+  number sequence. "-3904, -2916, 0030."<5 Type='1'/>
+talk44: |
+  <3 Type='0' Data='0700'/>There are three gates... <5 Type='0'/>From the palace,
+  the north gate is ahead, the west gate is
+  left, and the east gate is right.
+  I've got an idea for a barricade... I'll use
+  iron barrels and wood to block the path.
+  
+  Which gate should I set it up at?
+otsuge104: |
+  <3 Type='0' Data='0700'/>"Sealcret numbers: -3911, -2929, 0037."<5 Type='1'/>
+talk30: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>OK, the barricade has been set up at the
+  <0 Type='3' Data='0000'/>east gate<0 Type='3' Data='ffff'/>.<5 Type='0'/> That should slow down any
+  enemies that attack that position.
+talk45: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Understood. I'll leave things as they are
+  for now.
+  
+  Is there anything else I can help with?
+otsuge105: |
+  <3 Type='0' Data='0700'/>"A number sealquence." <5 Type='1'/>Sequence.<5 Type='1'/> A
+  number sequence. "-3274, -2586, 0023."<5 Type='1'/>
+talk31: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>OK, the barricade has been set up at the
+  <0 Type='3' Data='0000'/>west gate<0 Type='3' Data='ffff'/>.<5 Type='0'/> That should slow down any
+  enemies that attack that position.
+talk46: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0c004e006f007400690063006500'/>That's the same gate where the spear
+  troops with electric weapons are, isn't it?
+  
+  <3 Type='0' Data='0800'/>I'd expect some synergy between those
+  electric attacks and the iron barrels of
+  the barricade!
+otsuge106: |
+  <3 Type='0' Data='0700'/>"Sealcret numbers: -3800, -2969, 0058."<5 Type='1'/>
+talk47: |
+  <3 Type='0' Data='0700'/>I'm happy to help you with materials or by
+  setting up a barricade. Just let me know.
+talk32: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>OK, the barricade has been taken down.<5 Type='0'/>
+  Come find me if you want it put up at one
+  of the gates.
+0005: |
+  The north gate!
+talk33: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Good luck in the battle!
+talk48: |
+  <3 Type='0' Data='0900'/>Did you think you could sneak in without
+  being noticed? You Yiga coward...
+  
+  Leave at once or I'll have you begging
+  for mercy.
+0006: |
+  The east gate!
+talk34: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0c004e006f007400690063006500'/>It looks like you're lacking a bow of any
+  kind. <5 Type='0'/>Here, use this!
+0007: |
+  The west gate!
+talk35: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0c004e006f007400690063006500'/>And it looks like you've run out of arrows.
+  <5 Type='0'/>Here, these should help!
+talk20: |
+  <3 Type='0' Data='0800'/>You handled yourself well in the battle.
+  It was quite a sight to see!
+  
+  You've absolutely earned your share of
+  the spoils. Help yourself!
+otsuge230: |
+  <3 Type='0' Data='0700'/>"A number sealquence." <5 Type='1'/>Sequence.<5 Type='1'/> A
+  number sequence. -3753, -2277, 0033."<5 Type='1'/>
+0008: |
+  Let's take it down...
+otsuge231: |
+  <3 Type='0' Data='0700'/>"Sealcret numbers: -3643, -3631, 0017."<5 Type='1'/>
+0009: |
+  Never mind.
+otsuge900: |
+  <3 Type='0' Data='0b00'/>Patricia, as always, offers guiding words
+  of wisdom! 
+otsuge232: |
+  <3 Type='0' Data='0700'/>"A number sealquence." <5 Type='1'/>Sequence.<5 Type='1'/> A
+  number sequence. "-3687, -1364, 0331."<5 Type='1'/>
+talk38: |
+  <3 Type='0' Data='0700'/>I've been gathering materials that I think
+  might be useful in battle. Feel free to take
+  anything you need from here!
+  Also, I'm confident that I can build a
+  barricade at any of the gates.
+  
+  Would that help you?
+otsuge233: |
+  <3 Type='0' Data='0700'/>"A spe-seal set of numbers:
+  -1661, -2013, -0015."<5 Type='1'/> Ugh.<5 Type='1'/>
+talk39: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>If your bows all break or you run out of
+  arrows, I can replace them!
+otsuge234: |
+  <3 Type='0' Data='0700'/>"A spe-seal set of numbers:
+  -1899, -2342, -0002."<5 Type='1'/> Ugh.<5 Type='1'/>
+otsuge220: |
+  <3 Type='0' Data='0700'/>"Sealcret numbers: -3226, -2518, 0023."<5 Type='1'/>
+otsuge235: |
+  <3 Type='0' Data='0700'/>"Sealcret numbers: -1009, -3581, 0219."<5 Type='1'/>
+talk26: |
+  <3 Type='0' Data='0700'/>I built the barricade at the <0 Type='3' Data='0000'/>north gate<0 Type='3' Data='ffff'/>, but
+  I can move it if you want it somewhere
+  else. Should I move it to another gate?
+otsuge236: |
+  <3 Type='0' Data='0700'/>"A number sealquence." <5 Type='1'/>Sequence.<5 Type='1'/> A
+  number sequence. "-1380, -3366, 0469."<5 Type='1'/>
+talk27: |
+  <3 Type='0' Data='0700'/>I built the barricade at the <0 Type='3' Data='0000'/>west gate<0 Type='3' Data='ffff'/>, but
+  I can move it if you want it somewhere
+  else. Should I move it to another gate?
+otsuge237: |
+  <3 Type='0' Data='0700'/>"Sealcret numbers: -2727, -2339, 0062."<5 Type='1'/>
+talk28: |
+  <3 Type='0' Data='0700'/>I built the barricade at the <0 Type='3' Data='0000'/>east gate<0 Type='3' Data='ffff'/>, but
+  I can move it if you want it somewhere
+  else. Should I move it to another gate?
+talk13: |
+  <3 Type='0' Data='0c00'/>Gibdo parts are often used to improve
+  weapons. The only real downside to them
+  is their own brittle nature...
+talk29: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>OK, the barricade has been set up at the
+  <0 Type='3' Data='0000'/>north gate<0 Type='3' Data='ffff'/>.<5 Type='0'/> That should slow down any
+  enemies that attack that position.
+near0000: |
+  Should I go?

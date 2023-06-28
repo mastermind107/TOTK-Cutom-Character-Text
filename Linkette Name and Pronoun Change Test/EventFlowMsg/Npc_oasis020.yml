@@ -1,0 +1,254 @@
+0014: |
+  Nope!
+near0000: |
+  I wonder if she's OK...
+near0001: |
+  <4 Type='0' Data='180043007500730074006f006d00560061007300610061007100'/>Vasaaq!
+0015: |
+  How do I catch one?
+talk0013: |
+  <3 Type='0' Data='0800'/>Other than that, you'd be all set!
+  You can surf the desert dunes to your
+  heart's content!
+0016: |
+  Sand seals?
+talk0014: |
+  <3 Type='0' Data='0700'/>Sand seals are especially sensitive to the
+  sounds around them.
+  
+  The trick is to approach very,
+  very slowly...
+0017: |
+  Wild sand seals?
+talk0015: |
+  <3 Type='0' Data='0700'/>It's a bit of a pain in the neck though,
+  so most everyone in town prefers to rent
+  one instead.
+0018: |
+  Goodbye.
+talk0016: |
+  <3 Type='0' Data='0400'/>If you go for a casual stroll in the desert
+  at this time of night, you'll freeze in
+  no time!
+SunaTalk00: |
+  <3 Type='0' Data='0700'/>A sand seal or a sleigh seal—<5 Type='0'/>what are
+  you thinking?
+SunaTalk01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Oh...you should probably equip a shield.
+  You'll need one if you want to go sand-
+  seal surfing.
+  I can sell you one though! It'd bring the
+  total to <0 Type='3' Data='0000'/>50 rupees<0 Type='3' Data='ffff'/><5 Type='0'/>, but you really need it
+  to surf. What do you say?
+SunaTalk02: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0c004e006f007400690063006500'/>You know, if you're a little strapped for
+  rupees, you could always go visit one of
+  the shops and sell a thing or two.
+  <3 Type='0' Data='0701'/>I'm sure you're carrying all sorts of things
+  that folks would be interested in buying—<5 Type='1'/>
+  see if you can raise the rupees you need!
+talk0019: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>What? But if you didn't rent one...
+  
+  
+  <FontSize Value='80'/><0 Type='3' Data='0200'/>No, he couldn't have found a wild one. The
+  sand shroud has made it almost impossible
+  to track them down...
+  Does that mean he walked?<5 Type='1'/> Ha, that's even harder
+  to believe than him finding a wild sand seal!<0 Type='3' Data='ffff'/>
+  
+  <3 Type='0' Data='0701'/><FontSize Value='100'/>Oh, you Hylians! Are all of you such
+  pranksters?<FontSize Value='80'/><FontSize Value='100'/>
+SunaTalk03: |
+  <3 Type='0' Data='0800'/>All right then, I hope you and your little
+  sand seal have an amazing trip!
+  
+  You'll depart through the east gate!
+talk0020: |
+  <3 Type='0' Data='0400'/>Oh, you're the vai from before, right?
+  For some reason I thought you'd left
+  town. Did you come back?
+  I can't believe you're just traveling around
+  in this sand shroud without a worry...
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh! <5 Type='1'/>Did you rent a sand seal to
+  get around?
+SunaTalk05: |
+  <3 Type='0' Data='0700'/>Before I forget, if you try riding using a
+  shield that has stuff attached to it, you're
+  probably going to eat sand. Trust me.
+talk0022: |
+  <3 Type='0' Data='0800'/>Then you visited the shop my mom runs at
+  the entrance to the desert!
+  
+  Sarqso for everything!
+talk0023: |
+  You obviously must have rented one from
+  the shop near the <0 Type='3' Data='0000'/>entrance to the desert<0 Type='3' Data='ffff'/>!
+  It's the only answer that makes sense.
+  <3 Type='0' Data='0800'/>Sarqso for your business!
+SunaTalk07: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0c004e006f007400690063006500'/>Oh! It looks like you've already got plenty
+  of shields in your pouch.
+  
+  <3 Type='0' Data='0800'/>You don't need to bother getting one from
+  me then! Just equip one of the ones you
+  have, and then talk to me!
+talk0024: |
+  You obviously must have rented one from
+  the shop near the <0 Type='3' Data='0000'/>entrance to the desert<0 Type='3' Data='ffff'/>!
+  It's the only answer that makes sense.
+  <3 Type='0' Data='0800'/>My mom runs that shop! Sarqso for
+  your business!
+talk0025: |
+  <3 Type='0' Data='0700'/>Sand seals are special animals that live in
+  the Gerudo Desert.
+  
+  I'm sure you've noticed your feet getting
+  stuck in the sand when you walk across
+  the dunes, right?
+  Well, not only do these little ones call
+  the desert their home but they breeze
+  through it with ease!
+  That's only one reason that they're vital
+  to our way of life!
+  
+  <3 Type='0' Data='0700'/>And they aren't easy to catch and train
+  either! It takes a lot of work!
+  
+  Luckily, folks like me are happy to do it.
+  I'm proud of the sand seals I've trained,
+  and I'm happy to rent them to travelers!
+talk0026: |
+  <3 Type='0' Data='0700'/>Yup! <5 Type='0'/>You'll often see them if you're out
+  wandering in the desert.
+  
+  But they're extremely wary creatures.<5 Type='0'/>
+  If they notice you, they'll flee faster than
+  you can say "vasaaq"!
+  Of course, I've mastered the art of
+  stealth. <5 Type='0'/>I can easily sneak up on them
+  very, very slowly...
+talk0027: |
+  <3 Type='0' Data='0700'/>Even if you manage to get hold of a wild
+  sand seal...
+  
+  the moment you let those reins drop, that
+  sand seal is done with you and heading
+  for the dunes!
+  Most folks don't want to go through all
+  the trouble, so they just rent one instead.
+0000: |
+  A sand seal, please.
+talk0028: |
+  <3 Type='0' Data='0a00'/>I hope the <0 Type='3' Data='0000'/>sand shroud<0 Type='3' Data='ffff'/> clears up soon.
+  I can't make a living if I can't rent out
+  sand seals...
+0001: |
+  A sleigh seal, please.
+talk0000: |
+  <3 Type='0' Data='0400'/>I guess it is true. I'd heard the guards
+  talking about it, but I still didn't believe a
+  newcomer was actually here.
+  I'm impressed. You made it all the way
+  here, through the sand shroud...
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh! <5 Type='1'/>Did you rent a sand seal to get here?
+talk0029: |
+  <3 Type='0' Data='0400'/>Oh, I'm sorry...
+talk0001: |
+  My mom and I are in the business of
+  training sand seals and renting them out
+  to folks!
+talk0030: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Are you sure you'll be OK without
+  a sand seal?
+0003: |
+  Never mind.
+Talk_1013: |
+  <3 Type='0' Data='0800'/>The sand seals we rent out are strong,
+  loyal, and most important of all...<5 Type='1'/>CUTE!
+  
+  If you're planning on going out into the
+  desert, please rent one to take with you!<5 Type='1'/>
+  You won't regret it!
+Talk_1014: |
+  <3 Type='0' Data='0801'/>Don't they just look so happy now that
+  they're back up on the surface?
+  
+  After being down in the shelter for so
+  long, is it any wonder that they're full of
+  energy and ready to go?
+  They're more excited than ever to go skirt
+  across the dunes!
+talk0004: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>The <0 Type='3' Data='0000'/>sand seals <0 Type='3' Data='ffff'/>can sense the unease in
+  the air, so I'm trying to give them
+  constant attention and care.
+  I'm not too worried about the ones
+  here—they're plenty safe.
+  
+  <3 Type='0' Data='0c01'/>It's the <0 Type='3' Data='0000'/>wild sand seals<0 Type='3' Data='ffff'/> out in the desert
+  I'm worried about. I hope they're OK in
+  the sand shroud...
+Talk_1015: |
+  <3 Type='0' Data='0801'/>Renting a sand seal costs <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/>.
+  Or, if you're interested in a sleigh seal—
+  a sand seal with a sleigh—it's <0 Type='3' Data='0000'/>50 rupees<0 Type='3' Data='ffff'/>!
+0006: |
+  I'll take a shield.
+talk0005: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>All you have to do is guide the <0 Type='3' Data='0000'/>sand seal<0 Type='3' Data='ffff'/>
+  in the direction you want to go. It's easy!
+  
+  Oh, and you'll need a <0 Type='3' Data='0000'/>shield<0 Type='3' Data='ffff'/> when you
+  surf, so don't forget to equip one.
+0007: |
+  I don't want a shield.
+talk0006: |
+  <3 Type='0' Data='0801'/>This is my sand-seal rental shop. You can
+  rent a sand seal from me here!
+  
+  Sand seals can breeze through the desert
+  with ease and are an essential way to
+  get around!
+  And all my trained ones have been
+  cooped up in the shelter for a while, so
+  they're full of energy and ready to go!
+talk0007: |
+  The sand shroud has made it far too
+  dangerous to go aboveground right
+  now, so my shop is temporarily closed...
+  <3 Type='0' Data='0801'/>But if you've got questions about sand
+  seals, I'd be happy to answer them!
+talk0008: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/><4 Type='0' Data='1200570061006b006500750070005f0030003100'/>That customer seemed to be having a really rough
+  time. I wish there was some way I could help...
+  
+  But if she doesn't even know where she wants to go,
+  there isn't much I can do.<FontSize Value='100'/>
+0010: |
+  I'll rent one.
+talk0009: |
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/><4 Type='0' Data='1200570061006b006500750070005f0030003100'/>Last I saw, she was still near the <0 Type='3' Data='0000'/>east gate<0 Type='3' Data='ffff'/>. That
+  means she probably hasn't been able to find a map...<FontSize Value='100'/>
+0011: |
+  How does this work?
+Talk_11: |
+  <3 Type='0' Data='0701'/>If you're not sure what to do, why not
+  just rent one and see how it goes?
+talk0010: |
+  <3 Type='0' Data='0800'/>Sarqso!
+  
+  
+  In that case, you must have stopped at
+  the shop my mom runs near the entrance
+  to the desert!
+0012: |
+  I won't rent one.
+0013: |
+  I did!
+talk0011: |
+  <3 Type='0' Data='0400'/>If you go for a casual stroll in the desert
+  at this time of day, you'll overheat in
+  no time!

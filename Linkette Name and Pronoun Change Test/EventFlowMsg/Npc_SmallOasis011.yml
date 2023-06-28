@@ -24,9 +24,9 @@ talk0003: |
   It's the biggest town in the region!
   
   That said, the laws of the Gerudo forbid
-  voe—men—from entering the town.
+  outsiders—from entering the town.
   
-  <3 Type='0' Data='0501'/><4 Type='0' Data='0a005400680069006e006b00'/>Though, voe or not...
+  <3 Type='0' Data='0501'/><4 Type='0' Data='0a005400680069006e006b00'/>Though, foreign or not...
   
   
   under this terrible <0 Type='3' Data='0000'/>sand shroud<0 Type='3' Data='ffff'/>, it would
@@ -46,7 +46,7 @@ talk0004: |
   by guarding the entrance here.
   <4 Type='0' Data='12004c00610075006700680053005f0030003000'/>It's clear their plan is to gain access to
   Gerudo Town by getting into our
-  good graces...<0 Type='4'/>But our law about voe is absolute. We
+  good graces...<0 Type='4'/>But our law about outsiders is absolute. We
   couldn't let them in if we wanted to.
 talk0010: |
   <3 Type='0' Data='0700'/>Even with the sand shroud cleared up,

@@ -1,0 +1,199 @@
+Talk_21: |
+  <3 Type='0' Data='0900'/>Ah! <5 Type='0'/>Hold it right there! <5 Type='0'/>You can't cut
+  in line. We were here first!
+Talk_0015: |
+  <3 Type='0' Data='0a00'/><FontSize Value='80'/>How long is her big exhibition going to last?<0 Type='4'/><FontSize Value='100'/>We had to make space to exhibit my
+  sister's new piece, so all of our other
+  wares got shelved.<0 Type='4'/>This is no way to do business...
+Near_0001: |
+  Welcome! Welcome!
+Talk_0016: |
+  <3 Type='0' Data='0700'/>Gooood morning!
+Talk_0017: |
+  <3 Type='0' Data='0700'/>Hullo!
+Talk_0018: |
+  <3 Type='0' Data='0700'/>Good evening!
+Talk_0019: |
+  <3 Type='0' Data='0800'/>You were helping Clavia on the side too,
+  weren't you?<0 Type='4'/>No, no, that's a good thing. It's because
+  of your work that our mayoral election
+  ended on a high note.<0 Type='4'/><0 Type='3' Data='0000'/>Cece<0 Type='3' Data='ffff'/> has been wanting to talk to you,
+  so don't leave without saying hello.<0 Type='4'/>I think she has <0 Type='3' Data='0000'/>something very special<0 Type='3' Data='ffff'/>
+  for you!
+TerrorIce: |
+  Aaah!
+Com_Talk_13: |
+  Selling that? How many?
+Com_Talk_14: |
+  Hmm... It'll be...<0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+Talk_0002: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Having a good night? Fashion never
+  sleeps, and here at <0 Type='3' Data='0000'/>Ventest Clothing<0 Type='3' Data='ffff'/>,
+  neither do we!
+Com_Talk_15: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0a005400680069006e006b00'/>Oh, I know no one likes to hear this,
+  but I can't buy that from you.
+Talk_0003: |
+  <3 Type='0' Data='0700'/>Come again soon!
+Com_Talk_16: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='0a0041006e00670072007900'/>You want to sell me...the clothes you're
+  wearing? <5 Type='0'/>Have you considered taking
+  them off first? Please consider that.
+Talk_10: |
+  <3 Type='0' Data='0700'/>Oh my! I'm sorry to keep you waiting.<5 Type='0'/><0 Type='4'/>Are you also a tourist who's come to see
+  my sister's...<5 Type='0'/>I mean, the new line of
+  Cece products?<0 Type='4'/><3 Type='0' Data='0700'/>As long as it's just you, you're free to go
+  into the shop! <0 Type='3' Data='0000'/>Cece<0 Type='3' Data='ffff'/> herself is in there
+  right now, in fact.<0 Type='4'/>Nothing you'll see is for sale. It's only an
+  exhibition right now. Sorry to disappoint!
+Talk_11: |
+  <3 Type='0' Data='0b00'/>Sure, I know that. <5 Type='0'/>It was...<5 Type='0'/>just a joke?
+Talk_0005: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>We're a <0 Type='3' Data='0000'/>clothing shop<0 Type='3' Data='ffff'/><5 Type='0'/> with lots of apparel
+  to choose from!<0 Type='4'/>Normal wear to adventure wear, you'll
+  find it where? Right here!
+Talk_12: |
+  <3 Type='0' Data='0700'/>Yeah. It's not like this is the only clothing
+  place in the village. What do you say we
+  kill some time at the <0 Type='3' Data='0000'/>dye shop<0 Type='3' Data='ffff'/>?
+Talk_0006: |
+  <3 Type='0' Data='0700'/>Sure, I'll buy! <5 Type='0'/>What would you like to sell?
+Talk_13: |
+  <3 Type='0' Data='0a00'/>Yeah. Everything I heard said this was
+  some of Cece's <0 Type='3' Data='0000'/>best work<0 Type='3' Data='ffff'/>.
+Talk_0007: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a0048006100700070007900'/>Oh...we appear to be sold out. So sorry!
+  Look forward to our next restock!
+0001: |
+  I'm here to sell.
+Talk_14: |
+  <3 Type='0' Data='0700'/>By all means, head on in before somebody
+  else shows up!<0 Type='4'/>Between you and me, <0 Type='3' Data='0000'/>Cece<0 Type='3' Data='ffff'/> herself is here
+  right now!<0 Type='4'/>That said, we're only displaying the new
+  Cece line right now, not selling it. Sorry
+  to disappoint!
+Talk_0008: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a0048006100700070007900'/>I think it really suits you!
+0002: |
+  Goodbye.
+SagonoHat: |
+  It looks good on you.
+Talk_15: |
+  <FontSize Value='80'/><3 Type='0' Data='0a00'/>Thank goodness they gave up... <5 Type='1'/>Hm?<FontSize Value='100'/>
+Talk_0020: |
+  <3 Type='0' Data='0800'/>I can finally do business again! Ventest
+  Clothing is back!<0 Type='4'/>Feel free to browse. We appreciate all
+  your support!
+Talk_0009: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a0048006100700070007900'/>Wear it in good health!
+Com_Talk_33: |
+  That'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. Sound good?
+Talk_16: |
+  <3 Type='0' Data='0800'/>Ooh! Or we could check out the <0 Type='3' Data='0000'/>pasture<0 Type='3' Data='ffff'/>!
+Talk_0021: |
+  <3 Type='0' Data='0800'/><0 Type='3' Data='0000'/>Cece<0 Type='3' Data='ffff'/> has been waiting for you!<0 Type='4'/>I think she wants to give you <0 Type='3' Data='0000'/>something
+  really good<0 Type='3' Data='ffff'/>. Lucky you!
+Com_Talk_05b: |
+  <3 Type='0' Data='0000'/>Take your time. We're in no hurry.
+Talk_17: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Speaking of which, I've heard that a little
+  ways up the road from the pasture is a
+  <0 Type='3' Data='0000'/>laboratory <0 Type='3' Data='ffff'/>specializing in ancient stuff.
+Talk_0022: |
+  <3 Type='0' Data='0800'/>Just like I pictured! The difference is
+  night and day, isn't it?<0 Type='4'/>Not many people could pull off that hat
+  with such verve.
+Com_Talk_00: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>What would you like to sell me?
+Com_Talk_05c: |
+  <3 Type='0' Data='0000'/>Do you have any goods you don't need?
+Com_Talk_35: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><0 Type='3' Data='ffff'/>For all of them...<5 Type='1'/>I can pay you
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+Talk_18: |
+  <3 Type='0' Data='0800'/>Since we got all dolled up, we may as well
+  hit the town and see it all!
+Talk_0023: |
+  <3 Type='0' Data='0800'/>I see you've taken a liking to the hat!<0 Type='4'/>It's a custom article—the only one of its
+  kind. I've no doubt that it's turning heads
+  among the stylish set all over Hyrule!
+Com_Talk_01: |
+  For that...I can give you <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+  Is that OK?
+Com_Talk_05d: |
+  <3 Type='0' Data='0000'/>I'd hate to buy something off you if you
+  still have a use for it!
+Talk_0024: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>I'm relieved to hear that my sister isn't
+  up to anything sinister.<0 Type='4'/>Thanks very much for looking into it!<0 Type='4'/><3 Type='0' Data='0a00'/>It's too bad Reede and my sister refuse
+  to be honest with each other.<0 Type='4'/>If they just talked it out, I think they'd
+  see how much they have in common.
+Com_Talk_02: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Thank you! Is there anything else you'd
+  like to sell?
+Com_Talk_02b: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>We appreciate your business! What else
+  can we do for you today?
+Com_Talk_04: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a005400680069006e006b00'/>Oh, that's a shame.
+Com_Talk_50: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><0 Type='3' Data='ffff'/>That'll be...<5 Type='1'/><0 Type='3' Data='0000'/><2 Type='16' Data='2800530068006f0070005f00530065006c006500630074004900740065006d0050007200690063006500ffff0001'/> rupees<0 Type='3' Data='ffff'/>.
+Com_Talk_02c: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Thank you very much! Please come again!
+Com_Talk_05: |
+  <3 Type='0' Data='0000'/>I'll buy almost anything.
+NakedPlayer: |
+  Is no-style the new style?
+Com_Talk_02d: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Understood! Would you like to sell
+  anything else?
+5500: |
+  Yes.
+Com_Talk_53: |
+  <3 Type='0' Data='0700'/>Understood! Don't forget to take a look
+  at the rest of our line!
+5501: |
+  No.
+Com_Talk_54: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='0a0041006e00670072007900'/>Ma'am, you don't have quite enough for
+  this purchase.
+Com_Talk_55: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0a005400680069006e006b00'/>Ma'am, your bag is full. Let's table this
+  transaction until you've reorganized
+  your things!
+5503: |
+  Never mind.
+Talk_04: |
+  <3 Type='0' Data='0b00'/>What do you mean? <5 Type='0'/>We took the trouble
+  to come here, and now you're saying we
+  can't get in?!<0 Type='4'/>But I wanted to see <0 Type='3' Data='0000'/>Cece<0 Type='3' Data='ffff'/>'s new stuff!
+  It's not every day a mega-famous fashion
+  designer debuts new material.
+Talk_05: |
+  <3 Type='0' Data='0700'/>I'm so, so sorry, <5 Type='0'/>but we only have one
+  entry ticket remaining.
+Talk_0010: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Anyway, did you need something?
+Talk_06: |
+  <3 Type='0' Data='0c00'/>One ticket? <5 Type='0'/>So you're saying...ONE
+  person could go in.
+Talk_0011: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Welcome! Welcome!
+Talk_07: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Hey, come on now. <5 Type='1'/>We can't let just one
+  of us get a head start!
+Talk_0012: |
+  <3 Type='0' Data='0000'/>People who lack clothes just love it here
+  at <0 Type='3' Data='0000'/>Ventest Clothing<0 Type='3' Data='ffff'/>!
+5508: |
+  I'll sell them all.
+Talk_20: |
+  <3 Type='0' Data='0700'/>As I've said multiple times now, <5 Type='0'/>I can't
+  admit three customers at present.
+Talk_09: |
+  <3 Type='0' Data='0700'/>Oh well. Maybe if we come back later,
+  they'll have room for all of us.
+Talk_0014: |
+  <3 Type='0' Data='0701'/>Well, you solved the mystery of what my
+  sister has been doing in secret.<0 Type='4'/><3 Type='0' Data='0a01'/>But while she's been busy with that,
+  our shop is deep in the red.

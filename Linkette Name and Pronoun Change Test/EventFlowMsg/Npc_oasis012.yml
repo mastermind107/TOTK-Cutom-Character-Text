@@ -1,0 +1,340 @@
+talk0010: |
+  <3 Type='0' Data='0a00'/>I wish I could offer you a reward as well,
+  but the tools I need are in my shop on
+  the surface.
+  <3 Type='0' Data='0000'/>Sorry, but could I ask you to come by
+  once things in town have settled down?<0 Type='4'/><3 Type='0' Data='0800'/>I think your reward is going to turn out
+  fantastic though. It'll be worth the visit!
+talk1018: |
+  <3 Type='0' Data='0700'/>You're looking to sell something? <5 Type='0'/>OK!
+  Have you got anything especially
+  beautiful to show me?
+1001: |
+  The owner?
+5503: |
+  Never mind.
+talk0011: |
+  <3 Type='0' Data='0c00'/>Where did the owner— <5 Type='1'/>Hm?
+1002: |
+  Buy from me!
+talk0012: |
+  <3 Type='0' Data='0b00'/>Oh.<5 Type='0'/> You're the chief's guest.
+1003: |
+  Goodbye.
+talk0013: |
+  <3 Type='0' Data='0700'/>Anyway, did you need something?<0 Type='4'/>The owner may not be here, but I'll
+  do what I can.
+talk0030: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>I still can't believe you took on such a
+  huge monster and won.<0 Type='4'/>Hylian vai are pretty impressive!
+talk0014: |
+  <3 Type='0' Data='0800'/>I've been waiting for you.<5 Type='0'/> You made some
+  room in your pouch, right?
+  
+  This is a token of my appreciation!
+talk0015: |
+  <3 Type='0' Data='0700'/>Well? Did you make room in your pouch?
+  Doesn't look like you've gotten to it yet.<0 Type='4'/>I'd really like to give you a <0 Type='3' Data='0000'/>diamond<0 Type='3' Data='ffff'/> to
+  thank you, so could you come see me
+  once you've cleaned up your pouch?
+Com_Talk_00: |
+  <3 Type='0' Data='0700'/>Any self-respecting vai would have her
+  pouch well organized.<5 Type='0'/> The owner used
+  to say that all the time.
+5508: |
+  I'll sell them all.
+talk0016: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>I had no idea you were in such—<5 Type='1'/> Hm?
+Com_Talk_01: |
+  Is that what you want to sell? That'll be...
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>, OK?
+talk0017: |
+  <3 Type='0' Data='0700'/>Oh yeah, have you spoken to the owner?
+  
+  
+  She was so excited about the reward she
+  has in store for you!
+Com_Talk_02: |
+  <3 Type='0' Data='0800'/>Sarq! You've still got more, right?
+talk0018: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>If it isn't the vai who saved the owner!<0 Type='4'/>I want to repay you, so could you please
+  come over here for a second?
+talk0019: |
+  <3 Type='0' Data='0c00'/>If this shop's <0 Type='3' Data='0000'/>owner <0 Type='3' Data='ffff'/>were here, she
+  probably could have made you all sorts
+  of things.
+  But she went out to look for potential
+  adornments and hasn't come back since.<0 Type='4'/><3 Type='0' Data='0c01'/>She was in such high spirits, too, gushing
+  about all the treasures she'd find around
+  the <0 Type='3' Data='0000'/>Toruma Dunes<0 Type='3' Data='ffff'/>.
+  That's a dangerous place though.
+  <0 Type='3' Data='0000'/>Molduga <0 Type='3' Data='ffff'/>territory.<5 Type='0'/> I hope she didn't
+  run into trouble...
+Com_Talk_04: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a005400680069006e006b00'/>If you waste too much time trying to make
+  up your mind, good opportunities—and
+  vai—will pass you by!
+Com_Talk_05: |
+  <3 Type='0' Data='0000'/>Sell as much as you like.<5 Type='0'/> Boldness is an
+  attractive trait!
+Shichihou: |
+  One day I'll be an artisan...
+Com_Talk_05b: |
+  <3 Type='0' Data='0000'/>What about the rest?
+talk1001: |
+  <3 Type='0' Data='0700'/>Let me know if any of the <0 Type='3' Data='0000'/>accessories<0 Type='3' Data='ffff'/>
+  catch your eye!
+  
+  I'm ready and eager to make adjustments
+  to them for you! The fit is so important,
+  after all.
+Com_Talk_05c: |
+  <3 Type='0' Data='0000'/>If you sell me a lot of stuff, I feel like
+  it could spark life into my creations.
+  In that way, we both win!
+talk1002: |
+  <3 Type='0' Data='0701'/>Unfortunately, the sand shroud has made
+  it tough to get supplies.<5 Type='1'/> The stock is
+  of the highest quality, just a bit limited.
+Com_Talk_05d: |
+  <3 Type='0' Data='0000'/>Things from the outside world are just
+  so interesting!
+talk1003: |
+  <3 Type='0' Data='0700'/>Just speak up if you're interested in any
+  of the <0 Type='3' Data='0000'/>accessories<0 Type='3' Data='ffff'/>.
+  
+  Unfortunately, my stock is a little limited
+  right now thanks to the <0 Type='3' Data='0000'/>sand shroud<0 Type='3' Data='ffff'/>. But
+  everything here is of the highest quality!
+  I'm ready and eager to make adjustments
+  to them for you too. The fit is important,
+  after all.
+talk1004: |
+  <3 Type='0' Data='0800'/>You know, I never would have thought I'd
+  talk to a stranger for so long. It's kind of neat!
+  
+  Since I'm always in the workshop making
+  <0 Type='3' Data='0000'/>accessories<0 Type='3' Data='ffff'/>, the <0 Type='3' Data='0000'/>owner<0 Type='3' Data='ffff'/> is usually the one
+  who gets to talk to customers.
+near1000: |
+  Hylian vai accessories, huh?
+talk1022: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068005300'/>Sarq!
+  
+  
+  I personally guarantee that this accessory
+  will fit you perfectly!
+talk1005: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='08004500610073006500'/><0 Type='3' Data='0200'/><FontSize Value='80'/>That said, I really wish this stranger would stop standing
+  on my precious wares...<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+near1001: |
+  I should make some more.
+talk0000: |
+  <0 Type='3' Data='0200'/><FontSize Value='80'/><3 Type='0' Data='0701'/>Hmmm, so this is the new Hylian vai. <5 Type='1'/>Her ears look to be
+  about...<5 Type='1'/> And the circumference of her head and
+  neck...<5 Type='1'/> Interesting.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+  <3 Type='0' Data='0400'/>Oh! I'm sorry! You're the first new Hylian vai I've
+  seen in a while—<5 Type='0'/>I got a little carried away
+  figuring out your measurements!
+  <3 Type='0' Data='0700'/>Why was I doing that? <5 Type='0'/>Because I make
+  <0 Type='3' Data='0000'/>accessories<0 Type='3' Data='ffff'/>, and the key to any good
+  accessory is the perfect fit!
+  My name's Cara. I haven't had a lot of
+  opportunities to make accessories for
+  a Hylian vai...
+  So if you give me the chance, I'll put
+  everything I've got into making some
+  really great ones for you!
+talk1008: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Different gems offer different kinds of
+  protection. When you wear one, it
+  bestows that protection on you.
+  For example, a <0 Type='3' Data='0000'/>ruby<0 Type='3' Data='ffff'/> has the power to
+  make a bitter chill bite less. <5 Type='0'/>Or you could
+  avoid the oppressive heat with a <0 Type='3' Data='0000'/>sapphire<0 Type='3' Data='ffff'/>!
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Customers used to have to supply the
+  materials for an accessory. Made-to-
+  order, if a bit of extra work...
+  But that's not the case anymore thanks
+  to the gems we've been getting from
+  <0 Type='3' Data='0000'/>Eldin <0 Type='3' Data='ffff'/>up in <0 Type='3' Data='0000'/>northeast<0 Type='3' Data='ffff'/> Hyrule.
+  We just make the accessories in advance
+  and save the customer the legwork.
+  
+  There is a slight difference in the price
+  though, but that's to be expected.
+talk1009: |
+  <3 Type='0' Data='0700'/>I'm so happy my <0 Type='3' Data='0000'/>accessories<0 Type='3' Data='ffff'/> appealed
+  to you!
+  
+  I know the quality is reflected in the price,
+  so I offer you a truly heartfelt "sarq!" for
+  buying so many pieces!
+talk0002: |
+  <FontSize Value='80'/><0 Type='3' Data='0200'/><3 Type='0' Data='0701'/><0 Type='3' Data='ffff'/><FontSize Value='100'/><0 Type='3' Data='0200'/><FontSize Value='80'/>Hmmm, so this is the Hylian vai. <5 Type='1'/>Her ears look to be
+  about...<5 Type='1'/> And the circumference of her head and
+  neck...<5 Type='1'/> Interesting.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+  <3 Type='0' Data='0400'/>Oh! I'm sorry! You're the first new Hylian vai I've
+  seen in a while—<5 Type='0'/>I got a little carried away
+  figuring out your measurements!
+  Why was I doing that? <5 Type='0'/>Well, this is the
+  <0 Type='3' Data='0000'/>jewelry<0 Type='3' Data='ffff'/> shop, I make <0 Type='3' Data='0000'/>accessories<0 Type='3' Data='ffff'/>, and the
+  key to any good accessory is a perfect fit!
+  My name's Cara. I haven't had a lot of
+  opportunities to make accessories for
+  a Hylian vai...
+  So if you give me the chance, I'll put
+  everything I've got into making some
+  really great ones for you!
+ThunderHelmet: |
+  Hm? That helm...
+talk0020: |
+  <3 Type='0' Data='0800'/>I'd like to reward you as well!<0 Type='4'/>But my reward is a little involved, so do
+  you mind coming to talk to me when you
+  have some time?
+talk0003: |
+  <3 Type='0' Data='0c00'/>If the shop <0 Type='3' Data='0000'/>owner<0 Type='3' Data='ffff'/> was here, she'd be able
+  to make more pieces, I bet.
+  
+  She went out a while ago. I hope she
+  hasn't gotten lost somewhere...
+talk1028: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>I never get the chance to talk to newcomers, so
+  ask me questions whenever you want.
+talk0021: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>I want to repay you for saving the owner.<5 Type='0'/>
+  Could you come over here?
+talk0022: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>I want to repay you for saving the owner.<5 Type='0'/>
+  Could you make some room in your pouch
+  and come over here?
+GreetingBefore03: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='180043007500730074006f006d00560061007300610061007100'/>Vasaaq!<5 Type='0'/> You've clearly got excellent taste
+  to be picking that out!
+talk0023: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Now that the <0 Type='3' Data='0000'/>owner<0 Type='3' Data='ffff'/>'s back, we can all
+  breathe a sigh of relief.<5 Type='0'/><0 Type='4'/>After all, she's not just a <0 Type='3' Data='0000'/>highly esteemed
+  artisan<0 Type='3' Data='ffff'/>, she also supplies the chief with
+  her weaponry.
+talk0006: |
+  <0 Type='3' Data='0200'/><FontSize Value='80'/><3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Hmmm, so this is the new vai. <5 Type='1'/>Her ears look to be
+  about...<5 Type='1'/> And the circumference of her head and
+  neck...<5 Type='1'/> Interesting.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+  <3 Type='0' Data='0400'/>Oh! I'm sorry!
+  
+  
+  <3 Type='0' Data='0700'/>It's not exactly normal to see a new vai
+  recently here, so I was taking the
+  chance to memorize as much as I could.
+talk0007: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Phew!<5 Type='0'/> I'm glad that Isha, the <0 Type='3' Data='0000'/>owner<0 Type='3' Data='ffff'/> of the
+  shop, has finally come back.
+  
+  The whole shop had this underlying
+  stress just...<5 Type='0'/>floating around it while
+  she was gone.
+  You have to understand—Isha is a well-
+  regarded artisan, and she's even been
+  armorer to Lady Riju!
+talk0008: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Well, look who it is!<0 Type='4'/>The owner tells me you rescued her from
+  a Molduga!<0 Type='4'/><3 Type='0' Data='0801'/>Sarqso, truly!<5 Type='0'/> Here's a little something
+  to reward your bravery.
+Com_Talk_02b: |
+  <3 Type='0' Data='0800'/>Wow, interesting! Sarq!
+near0000: |
+  Where could she be?
+talk0026: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>I want to thank you too.<5 Type='0'/> Allow me to say
+  sarqso again for saving my life.
+talk0009: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='10004700720065006500740069006e006700'/>What?<5 Type='0'/> This <0 Type='3' Data='0000'/>diamond<0 Type='3' Data='ffff'/> won't fit in
+  your pouch...
+  
+  <3 Type='0' Data='0701'/>I won't be able to relax until I've given
+  you a proper reward.<5 Type='0'/> Can you come back
+  once you've made some room?
+Com_Talk_02c: |
+  <3 Type='0' Data='0800'/>Sarq!
+near0001: |
+  It was awful!
+talk0027: |
+  <3 Type='0' Data='0700'/>The <0 Type='3' Data='0000'/>owner <0 Type='3' Data='ffff'/>of this jewelry shop is a vai
+  named <0 Type='3' Data='0000'/>Isha<0 Type='3' Data='ffff'/>.<0 Type='4'/>I only make <0 Type='3' Data='0000'/>accessories<0 Type='3' Data='ffff'/>, but the owner's
+  a <0 Type='3' Data='0000'/>well-regarded artisan<0 Type='3' Data='ffff'/> and has even
+  served as armorer to Lady Riju.
+  <3 Type='0' Data='0c00'/>If <0 Type='3' Data='0000'/>Isha <0 Type='3' Data='ffff'/>were here, she probably could
+  have made you all sorts of things.
+  
+  Last I saw her, she was telling me all
+  about how she planned to scour the
+  <0 Type='3' Data='0000'/>Toruma Dunes <0 Type='3' Data='ffff'/>for adornments.
+  She left in high-enough spirits, but she
+  still hasn't come back.<0 Type='4'/><3 Type='0' Data='0a00'/>And the dunes are <0 Type='3' Data='0000'/>Molduga<0 Type='3' Data='ffff'/> territory, so
+  I can't even go look for her...
+Com_Talk_02d: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>This is pretty great...<5 Type='0'/> I feel like this could
+  really inspire my creations.
+near0002: |
+  I'm so glad you're safe...
+talk0028: |
+  <0 Type='3' Data='0200'/><FontSize Value='80'/><3 Type='0' Data='0c00'/>Hmm...<5 Type='0'/> So Hylian vai like to ask the same sorts of
+  questions. That's good to know...<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+  
+  <3 Type='0' Data='0400'/>Oh, sorry. <5 Type='1'/>You were asking about
+  the owner?
+Com_Talk_13: |
+  And how many do you want to sell?
+GreetingAfter03: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='180043007500730074006f006d00560061007300610061007100'/>Vasaaq! <5 Type='0'/>I'm excited to see what styles
+  you!
+talk0029: |
+  <0 Type='3' Data='0200'/><FontSize Value='80'/><3 Type='0' Data='0c00'/>Hmm...<5 Type='0'/> So Hylian vai like to ask the same sorts of
+  questions.<5 Type='1'/> That's good to know...<5 Type='1'/><FontSize Value='100'/><0 Type='3' Data='ffff'/>
+  
+  <3 Type='0' Data='0400'/>Oh, sorry.<5 Type='1'/> You were asking about
+  accessories, yes?
+Com_Talk_14: |
+  Hmm...<2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>... Does <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>
+  sound OK?
+Com_Talk_15: |
+  <3 Type='0' Data='0c00'/>Hmm... My intuition tells me that you
+  should hang on to it.<5 Type='0'/>
+talk1010: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Come back soon! We're the only place in
+  the whole world that makes accessories!
+Com_Talk_16: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Wait, you're gonna undress here?
+  Do I need to call the guards?
+Com_Talk_33: |
+  Just one? All right!<5 Type='0'/> That'll be
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>, OK?
+Com_Talk_50: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><0 Type='3' Data='ffff'/>All right, that'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+  Is that OK?
+talk1012: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068005300'/>Sarq!
+  
+  
+  I'm pretty proud of the quality on that.<5 Type='0'/>
+  Make sure you put it to good use.
+Com_Talk_35: |
+  Oh, all of them? In that case, does
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/> sound good to you?
+Com_Talk_53: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a005400680069006e006b00'/>Awww.<5 Type='0'/> You changed your mind?<5 Type='0'/> It might
+  be sold out by the time you come back...
+Com_Talk_55: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a005400680069006e006b00'/>Looks like you can't carry anything else.
+  Could you maybe sell something or throw 
+  something away, and then come back?
+5500: |
+  Sure.
+5501: |
+  No.
+1000: |
+  Accessories?
+talk1017: |
+  <3 Type='0' Data='0700'/>Oh, that's an idea! Since the sand shroud
+  is still going strong, I can't really venture
+  out. Have you got anything unusual?

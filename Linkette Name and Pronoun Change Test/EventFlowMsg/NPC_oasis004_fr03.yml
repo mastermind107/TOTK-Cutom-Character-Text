@@ -1,0 +1,120 @@
+Talk0211: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Not only are mighty and tough foods
+  delicious but they also make it easier to
+  fight monsters. Two birds, one stone.
+  <3 Type='0' Data='0701'/>You won't find too many of the relevant
+  ingredients around here...<0 Type='4'/>But if you find any mighty bananas or
+  ironshrooms or anything like that in your
+  travels, try cooking with them!
+Near32: |
+  What to make today?
+Near33: |
+  What to make tomorrow...
+Talk0001: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1400480075006d006d0069006e0067005f0030003000'/>♪Spicy, spicy...♪
+Near21: |
+  Let's cook something new.
+Talk0002: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Oh, did you want to use this pot?<5 Type='0'/>
+  I'm done using it, so have at it!
+Talk0201: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Oh, hey! Good morning!<5 Type='0'/> Want to make
+  some breakfast?
+Talk0331: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a0048006100700070007900'/>What should I make tomorrow?<5 Type='0'/> Maybe I'll
+  dream up a new recipe as I fall asleep.
+Talk0003: |
+  This blizzard, am I right?<5 Type='0'/> I was making
+  <0 Type='3' Data='0000'/>spicy food<0 Type='3' Data='ffff'/> with <0 Type='3' Data='0000'/>spicy peppers<0 Type='3' Data='ffff'/> so I can
+  keep warm outside.
+Talk0202: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Lately I've been into mighty food—which
+  fills you with strength—and tough food,
+  which makes your body more durable.
+  This world's still pretty dangerous, right?<0 Type='4'/><3 Type='0' Data='0801'/>Not only are mighty and tough foods
+  delicious, they make it easier to fight
+  monsters. Two birds with one stone.
+Talk0401: |
+  <3 Type='0' Data='0c00'/>The girls in front of the pot...<0 Type='4'/>It sounds like the monsters have been
+  causing problems for them.<0 Type='4'/><3 Type='0' Data='0000'/>Please, ma'am...could you help them out?
+Talk0004: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>All you have to do is throw meat or
+  fish—or even mushrooms—into a pot
+  with <0 Type='3' Data='0000'/>spicy peppers<0 Type='3' Data='ffff'/>!<5 Type='0'/> Simple, right?
+Talk0402: |
+  <3 Type='0' Data='0b01'/>...<4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>No!<5 Type='0'/> No, I can't do it. All my confidence
+  is rooted in cooking delicious meals.
+  
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0c005300610064005f0030003000'/>I do want to use the pot, but I feel
+  awkward approaching them. I'll just
+  keep watching quietly from here...
+Talk0005: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Right? Riiight?<0 Type='4'/>There are some <0 Type='3' Data='0000'/>spicy peppers<0 Type='3' Data='ffff'/> growing
+  by the well out back if you want to give
+  it a try!
+Talk0321: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a0048006100700070007900'/>What should I make today? <5 Type='0'/>Hmm... Maybe
+  I should go look for ingredients too.
+Talk0403: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>The girls in front of the pot...<0 Type='4'/>It sounds like the monsters have been
+  causing problems for them.<0 Type='4'/>I'd like to help them out, <5 Type='0'/>but I really only
+  know how to handle cooking ingredients.
+Talk0404: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>The girls that were here before...<5 Type='1'/> I'm so
+  glad their problem has been solved!
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>And, even better, I can now use the
+  cooking pot! <5 Type='1'/>What should I make?
+Near01: |
+  ♪Spicy!♪
+Talk0003_01: |
+  You know how we had that wild blizzard
+  going on?<0 Type='4'/>I've been making <0 Type='3' Data='0000'/>spicy food<0 Type='3' Data='ffff'/> with <0 Type='3' Data='0000'/>spicy
+  peppers <0 Type='3' Data='ffff'/>so I can stay warm even if it
+  kicks back up again.
+Talk0311: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='0a0053006c00650065007000'/>Those ingredients won't work together.
+  Their effects have to match...
+0001: |
+  What are you doing?
+Talk0100: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Oh, it's you! <5 Type='0'/>Welcome back!<5 Type='0'/> The pot's all
+  yours if you want it.
+0002: |
+  You're having fun.
+Talk0101: |
+  <3 Type='0' Data='0700'/>It may be freezing outside, but eat some
+  <0 Type='3' Data='0000'/>spicy food <0 Type='3' Data='ffff'/>made with <0 Type='3' Data='0000'/>spicy peppers <0 Type='3' Data='ffff'/>and
+  you'll be feeling warm and toasty.
+0003: |
+  Sounds delicious!
+0004: |
+  I have to try that!
+Talk0101_01: |
+  <3 Type='0' Data='0700'/>Eating <0 Type='3' Data='0000'/>spicy food<0 Type='3' Data='ffff'/> made with <0 Type='3' Data='0000'/>spicy
+  peppers <0 Type='3' Data='ffff'/>can keep you warm against
+  the cold.
+Talk0103: |
+  You should give it a try! There are some
+  <0 Type='3' Data='0000'/>spicy peppers<0 Type='3' Data='ffff'/> growing near the well
+  out back.
+  <3 Type='0' Data='0c00'/>But be careful. <5 Type='0'/>Depending on what you
+  cook the peppers with, sometimes the
+  food won't come out spicy.
+  But that's the joy of cooking. It's fun to
+  try different combinations, even if they
+  don't always come out right.
+  <3 Type='0' Data='0800'/>You should try every ingredient you get
+  your hands on, and learn lots of recipes!
+Near41: |
+  I wonder if they're OK...
+NakedPlayer: |
+  Has to be cold...
+Talk0201_01: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Oh, hey! Good to see you!<5 Type='0'/> If you're here
+  to use the pot, it's open!
+Talk0201_02: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Oh, hey! Good evening!<5 Type='0'/> Want to make
+  some dinner?
+Near31: |
+  It won't work...

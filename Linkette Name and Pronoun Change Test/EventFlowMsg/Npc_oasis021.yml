@@ -1,0 +1,65 @@
+talk0017: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>I was anxious to talk to you when I was
+  alone before, but I've gotten over it.<0 Type='4'/>I'm going to practice my signature recipe
+  until it's so delicious, the Hylians can't resist!<0 Type='4'/><3 Type='0' Data='0c01'/><FontSize Value='80'/>That reminds me, I wonder if the <0 Type='3' Data='0000'/>cookbook<0 Type='3' Data='ffff'/> from
+  the <0 Type='3' Data='0000'/>cooking class <0 Type='3' Data='ffff'/>is still there. Maybe I should
+  go and check.<FontSize Value='100'/>
+talk0001: |
+  <FontSize Value='80'/><3 Type='0' Data='0000'/><4 Type='0' Data='1000530063006100720065005f0030003000'/>Why is this stranger trying to talk to me?! There's only
+  one thing to do.<0 Type='4'/>And that's to pretend not to notice him.<0 Type='4'/>If this is going to keep happening to me, I'd better
+  hurry and get to<0 Type='3' Data='0000'/> class<0 Type='3' Data='ffff'/>.<FontSize Value='100'/>
+talk0002: |
+  <FontSize Value='80'/><3 Type='0' Data='0000'/><4 Type='0' Data='1c0055006e0063006f006e007300630069006f00750073005f0030003100'/>It's no use. I still can't look her in the eye.<0 Type='4'/>I've got to get to the<0 Type='3' Data='0000'/> class<0 Type='3' Data='ffff'/> so I can ask Ashai how to
+  talk to strangers.<FontSize Value='100'/>
+talk0003: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/>Heh, I never thought the day would come
+  when I could casually greet a stranger.<0 Type='4'/>I owe it all to you. Sarq!
+talk0010: |
+  <FontSize Value='80'/><3 Type='0' Data='0300'/><4 Type='0' Data='08004500610073006500'/>I get the feeling that this stranger is trying to have
+  a conversation with me.<0 Type='4'/>And I'm definitely not ready for that yet.<0 Type='4'/>I'll just...<5 Type='0'/>pretend not to notice her.<FontSize Value='100'/>
+talk0004: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/>Heh! I'm in a good mood, so I don't mind
+  greeting you over and over again.
+talk0011: |
+  <FontSize Value='80'/><3 Type='0' Data='0300'/><4 Type='0' Data='1c0055006e0063006f006e007300630069006f00750073005f0030003100'/>It's no use. I still can't look him in the eye.<0 Type='4'/>I'll have to ask Ashai what to do in this situation
+  tomorrow in<0 Type='3' Data='0000'/> class<0 Type='3' Data='ffff'/>.<FontSize Value='100'/>
+talk0005: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004e006f007400690063006500'/>You wouldn't happen to be looking for
+  a place to rest, would you?<5 Type='0'/><0 Type='4'/>Why don't you try Romah's inn?<5 Type='0'/><0 Type='4'/><4 Type='0' Data='0a0048006100700070007900'/>The spa plan feels incredible. You won't
+  regret springing for it.
+talk0012: |
+  <FontSize Value='80'/><3 Type='0' Data='0a00'/><4 Type='0' Data='0a0053006300610072006500'/>Why? Why do they always come to talk to me
+  when I'm alone?!<0 Type='4'/>Uuugh... <5 Type='0'/>I should've gone to the <0 Type='3' Data='0000'/>canteen<0 Type='3' Data='ffff'/>
+  with Pritana.<0 Type='4'/><4 Type='0' Data='08004500610073006500'/>I'm nowhere near ready to talk to a you yet, so...<0 Type='4'/>Time to use the tried-and-true strategy of
+  pretending not to notice her.<FontSize Value='100'/>
+talk0006: |
+  <3 Type='0' Data='0700'/>I'd love to chat with you some more, but
+  I'm pretty sleepy.<0 Type='4'/>I'll see you tomorrow, OK?<0 Type='4'/>Oh, and if you're looking for a place to
+  rest, why not check in at Romah's inn?
+near0000: |
+  Zzz... Zzz...
+talk0007: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/><4 Type='0' Data='1000530063006100720065005f0030003000'/>A v— <5 Type='0'/>A stranger! There's one RIGHT HERE!<0 Type='4'/>I can't do this. <5 Type='1'/>I have to focus on the lesson.<FontSize Value='100'/>
+talk0013: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068004c00'/>Heh, it's no big deal for us to talk now.<5 Type='1'/>
+  My fear has melted away, thanks to you.<5 Type='0'/><0 Type='4'/>Sarq!<0 Type='4'/><4 Type='0' Data='0a0048006100700070007900'/>I've been thinking about how else I can
+  boost my confidence.<0 Type='4'/>I've decided to work on perfecting my
+  signature recipe.<0 Type='4'/><3 Type='0' Data='0c01'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/><FontSize Value='80'/>That reminds me, I wonder if the <0 Type='3' Data='0000'/>cookbook<0 Type='3' Data='ffff'/> from
+  the <0 Type='3' Data='0000'/>cooking class on the surface<0 Type='3' Data='ffff'/> is still there.
+  Maybe I'll go and practice one more time.<FontSize Value='100'/>
+near_mt0000: |
+  And then...
+talk0008: |
+  <4 Type='0' Data='0a0053006c00650065007000'/>The way to a Hylian's heart...<5 Type='0'/>is through
+  the stomach...<5 Type='0'/>
+near_mt0001: |
+  Well, about that...
+talk0009: |
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/><4 Type='0' Data='1c0055006e0063006f006e007300630069006f00750073005f0030003100'/>What's with this vai? Why's she keep looking at me?<0 Type='4'/>This is ruining my concentration. How am I supposed
+  to focus on the lesson now?<FontSize Value='100'/>
+talk0016: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>I was anxious to talk to you when I was
+  alone before, but I've gotten over it.<0 Type='4'/>I'm going to practice my signature recipe
+  until it's so delicious, the Hylian's can't resist!<0 Type='4'/><3 Type='0' Data='0c01'/><FontSize Value='80'/>That reminds me, I wonder if the <0 Type='3' Data='0000'/>cookbook<0 Type='3' Data='ffff'/> from
+  the <0 Type='3' Data='0000'/>cooking class on the surface<0 Type='3' Data='ffff'/> is still there.
+  I'll have to check once the sand shroud is gone.<FontSize Value='100'/>

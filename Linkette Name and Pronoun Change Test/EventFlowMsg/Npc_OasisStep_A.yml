@@ -1,0 +1,160 @@
+talk0000: |
+  <3 Type='0' Data='0700'/>This is the jail.
+  
+  
+  Even though you have special permission
+  to be in Gerudo Town, I still won't let you
+  past this point.
+  Really, the only way into jail is to <0 Type='3' Data='0000'/>break
+  our rules<0 Type='3' Data='ffff'/>.
+  
+  foreigners are normally not allowed inside our
+  town—the one in jail broke that rule, so
+  he's locked up.
+  And, even though you have permission
+  to be here, if you break the rules...
+  
+  you'll join him in jail.
+talk0010: |
+  <4 Type='0' Data='100041006e006700720079005f0030003100'/>Thief! Seize him!
+talk0020: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>Wait a minute!
+talk0001: |
+  <3 Type='0' Data='0900'/>I already told you that's the jail cell.
+  The only way to end up in there is by
+  <0 Type='3' Data='0000'/>breaking the rules<0 Type='3' Data='ffff'/> of Gerudo Town!
+  foreigners are normally not allowed inside
+  Gerudo Town—the one in jail broke that
+  rule, so he's locked up.
+  And, even though you have permission
+  to be here, if you break the rules of
+  Gerudo Town...
+  You'll join him in jail.
+talk0011: |
+  Wait...<0 Type='4'/><3 Type='0' Data='0400'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Now that I look closely... You're the
+  vai from before!
+  
+  <3 Type='0' Data='0200'/>Do you realize you're dressed like a
+  member of a group that intends us harm?
+  
+  You'd put fear into many people here if
+  you went around dressed like that, even
+  though we know you aren't one of them.
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>So if you want out of there, you'll need to
+  change your clothes first!
+talk0021: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>I will admit you are now wearing more
+  clothing, but... Do you realize that is the
+  outfit of a group that intends us harm?
+  Even though we know you aren't one of
+  them, you'd scare many people here if
+  you went around dressed like that.
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>So if you want out of there, you'll need to
+  change into something else first!
+talk0002: |
+  <3 Type='0' Data='0a00'/>Everyone has gone back into town, but
+  I'm stuck here on guard duty, keeping
+  watch on this voe.
+  Ugh, stupid voe...
+talk0012: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='14005000610069006e00660075006c005f0030003000'/>You...<5 Type='0'/>
+  
+  
+  Do you realize you're dressed like a
+  member of a group that intends us harm?
+  
+  You'd put fear into many people here if
+  you went around dressed like that!
+  
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>So if you want out of there, you'll need to
+  change your clothes first!
+talk0003: |
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Wh—<FontSize Value='80'/><5 Type='1'/><FontSize Value='125'/> How'd you get in there?!<0 Type='4'/><FontSize Value='100'/>That's obviously a jail cell, not a place
+  for visitors!
+  
+  Only <0 Type='3' Data='0000'/>prisoners<0 Type='3' Data='ffff'/> are supposed to be in
+  there—like that voe who tried to get
+  into town!
+  But you... You're the chief's guest,
+  aren't you?
+  
+  <3 Type='0' Data='0500'/><4 Type='0' Data='14005000610069006e00660075006c005f0030003000'/>The fact that you got in there, on purpose
+  or by accident, without me knowing would
+  be embarrassing, so...
+  <3 Type='0' Data='0900'/><4 Type='0' Data='180057006f0072006b00480065006100760079005f0030003000'/>Get out of there before anyone sees you!<5 Type='0'/>
+  Come on!
+talk0013: |
+  <4 Type='0' Data='100041006e006700720079005f0030003100'/>Hey, voe! <5 Type='1'/>You can't just walk around
+  like that!
+talk0004: |
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Wh— Again?!<0 Type='4'/><FontSize Value='100'/>How do you keep getting in there?
+  Some kind of secret tunnel? No, it
+  isn't possible.
+  <3 Type='0' Data='0900'/><4 Type='0' Data='180057006f0072006b00480065006100760079005f0030003000'/>Get out of there before anyone sees you!<5 Type='0'/>
+  Come on!
+talk0014: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='180057006f0072006b00480065006100760079005f0030003000'/>I know the desert is hot, but it's not
+  that hot!
+  
+  Put more clothes on!
+ThunderHelmet: |
+  That helm... I recognize it.
+talk0005: |
+  <3 Type='0' Data='0700'/>I hope you've realized that it's better to
+  behave yourself... And in any case, the
+  captain sent word to let you out.
+  But I'd better not see your rule-breaking
+  face here again!
+talk0015: |
+  ...<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>I am not going to speak with you until you
+  put more clothes on.
+talk0006: |
+  <3 Type='0' Data='0700'/>Had enough time to think about what you
+  did to end up here?<5 Type='0'/> I hope so, since the
+  captain sent word to let you out.
+  But I'd better not see your rule-breaking
+  face here again! Nobody likes a vai
+  who can't take a hint!
+talk0016: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>It might be hot out, but you can't just
+  walk around like that. Put some clothes
+  on before you come into town, OK?
+talk0007: |
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Wh— You... How'd you get...<FontSize Value='100'/><0 Type='4'/><3 Type='0' Data='0701'/>Well... OK. That's fine. The captain sent
+  word to let you out, anyway.
+  
+  Just don't do anything to get thrown back
+  in there!
+talk0017: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>You... Aren't you cold?<5 Type='0'/> I'd be freezing...
+  At any rate, could you put some clothes
+  on before coming into town?
+talk0008: |
+  <3 Type='0' Data='0900'/>You scoundrel! Breaking our laws... Maybe
+  a little time in there will do you good.
+talk0018: |
+  <3 Type='0' Data='0901'/>Listen, I know you're a special outsider, but
+  that doesn't mean you can do whatever
+  you want.
+  If you're planning on coming into town,
+  you're going to have to put some clothes
+  on first!
+near0000: |
+  <3 Type='0' Data='0900'/>Stop right there!
+talk0009: |
+  <3 Type='0' Data='0900'/>You just don't learn, do you?
+  
+  
+  I don't show mercy to anyone who breaks
+  the rules, chief's guest or not!
+  
+  Take some time to think about how rules
+  exist for a reason.
+talk0019: |
+  <3 Type='0' Data='0901'/>It doesn't matter who you are—I will not
+  let you pass looking like that!
+  
+  If you want to come into town, you're
+  going to have to put some clothes on!
+near0001: |
+  <3 Type='0' Data='0900'/>What do YOU want?!

@@ -1,0 +1,601 @@
+Talk_0070: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>The Tarrey Town Race project is an
+  important part of the effort to develop
+  new vehicles.
+  And it's almost ready. I just need to wrap
+  up some final details.
+  
+  <3 Type='0' Data='0101'/>I will need a bit of time to prepare, but it
+  shouldn't take long.
+  
+  While you wait, why not get a bit of rest
+  at a stable?
+  
+  <3 Type='0' Data='0801'/>You can put that free sleepover ticket
+  to good use.
+Talk_0071: |
+  <FontSize Value='125'/><3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Congratulations!<0 Type='4'/><FontSize Value='100'/>I can't believe you cleared the expert
+  course. <FontSize Value='125'/><FontSize Value='100'/><5 Type='0'/>I should have expected as much
+  from a vai Tali respects!
+  Here, please, I want you to have this
+  memento for beating the expert course
+  for the first time!
+Talk_0120: |
+  <3 Type='0' Data='0301'/>I apologize if I talked you into doing
+  something you weren't up for.<5 Type='0'/> Here,
+  let me return your entry fee.
+Talk_0097: |
+  <3 Type='0' Data='0301'/>Oh, uh... I had <0 Type='3' Data='0000'/>three Zonai charges <0 Type='3' Data='ffff'/>to
+  give you, but you don't seem to have
+  room to carry them. 
+Talk_0072: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='0c005300610064005f0030003000'/>Ah, I see...<5 Type='0'/> You don't have room to
+  carry it, do you?
+  
+  <3 Type='0' Data='0801'/>Well, since I went to the trouble of
+  preparing a <0 Type='3' Data='0000'/>large Zonai charge<0 Type='3' Data='ffff'/> for you,
+  you have no choice but to accept it!<0 Type='4'/>Just come back after you've made some
+  room for it among your things.
+Talk_0098: |
+  <3 Type='0' Data='0401'/>Oh, <5 Type='0'/>and I'll give you your prize later
+  as well, after you've made some room
+  in your pouch.
+Talk_0121: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Thanks for coming!<5 Type='0'/>
+  
+  
+  You know, I was just, uh, thinking how
+  useful it would be to have some, uh,
+  clothes-free driving data. Yeah, I was.<5 Type='1'/>
+  <3 Type='0' Data='0c01'/><0 Type='3' Data='0200'/><FontSize Value='80'/><5 Type='1'/>No, I wasn't...<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_0074: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>I'm looking forward to watching you take
+  on the expert course next!
+Talk_0099: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>The lights are on!
+Talk_0122: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>If you <0 Type='3' Data='0000'/>touch all the lights<0 Type='3' Data='ffff'/> and get back
+  here within the time limit, you win.
+  
+  But <0 Type='3' Data='0000'/>take your hands off<0 Type='3' Data='ffff'/> the steering stick
+  once you've grabbed it or <0 Type='3' Data='0000'/>go too far off
+  course<0 Type='3' Data='ffff'/>, and I have to disqualify you.
+  The rules are in the book on the desk if
+  you care to check it out later.
+Talk_0123: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Ready to begin?
+Talk_0075: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Fantastic. Those are the words I wanted
+  to hear. Which course do you want to try?
+Talk_0076: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Which course do you want to see? The
+  beginner course or the expert course?
+Talk_0124: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>So you know, you pay the <0 Type='3' Data='0000'/><2 Type='15' Data='320043006900720063007500690074005f0049006300680069006b006100720061005f0050006100790052007500700065006500ffff00cd'/> rupee<0 Type='3' Data='ffff'/>
+  entry fee in advance. If you're going
+  to give it a go, I can take that now.
+Talk_0077: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>So, my record stands without challenge.
+  Unfortunate.
+Talk_0100: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003000'/>So, uh...are you going somewhere?
+  If so, I'll turn off the course lights.
+Talk_0125: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='0c005300610064005f0030003000'/>Ah, I see...<5 Type='0'/> You don't have room, do you?
+  
+  
+  <3 Type='0' Data='0801'/>Well, since I went to the trouble of
+  preparing <0 Type='3' Data='0000'/>five Zonai charges<0 Type='3' Data='ffff'/> for you,
+  you have no choice but to accept them!<0 Type='4'/>Just come back after you've made some
+  room for them among your things.
+Talk_0078: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>I can't believe it! <5 Type='0'/>You actually broke
+  Tali's record!
+  
+  <3 Type='0' Data='0801'/>Here, this is my way of thanking you for
+  helping us collect so much valuable
+  race data...
+Talk_0053: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Ah, you made some room!<5 Type='0'/> Well, again...
+  
+  
+  <3 Type='0' Data='0801'/>I want to thank you for helping me gather
+  so much excellent data.<5 Type='0'/> I'm very grateful.
+  Now please, here's your reward...
+Talk_0101: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>Of course. Just give me a moment to
+  get it ready.
+Talk_0126: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='0c005300610064005f0030003000'/>Ah, I see...<5 Type='0'/> You don't have room, do you?
+  
+  
+  <3 Type='0' Data='0801'/>Well, since I went and prepared <0 Type='3' Data='0000'/>three
+  big wheel Zonai capsules <0 Type='3' Data='ffff'/>for you, you
+  have no choice but to accept them!<0 Type='4'/>Just come back after you've made some
+  room for them among your things.
+Talk_0054: |
+  <3 Type='0' Data='0c00'/>Eh...<5 Type='0'/> With the steering stick in that
+  position, it's going to be difficult to
+  get a good, solid grip.
+  <3 Type='0' Data='0701'/>You'll have to make it safe to drive or
+  I won't be able to capture the data
+  I need.
+Talk_0102: |
+  <3 Type='0' Data='0801'/>Let me know when you're done giving
+  it a thorough look.
+Talk_0127: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='0c005300610064005f0030003000'/>Ah, I see...<5 Type='0'/> You don't have room, do you?
+  
+  
+  <3 Type='0' Data='0801'/>Well, since I went and prepared <0 Type='3' Data='0000'/>three
+  fan Zonai capsules <0 Type='3' Data='ffff'/>for you, you have no
+  choice but to accept them!<0 Type='4'/>Just come back after you've made some
+  room for them among your things.
+Talk_0055: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I better see you back here when the
+  Tarrey Town Race gets up and running.
+Talk_0030: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>You're dying for a chance to beat Tali's
+  record, aren't ya? I can see it all over
+  your face.
+Talk_0103: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>In that case, I'll turn off the course lights.
+Talk_0128: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='0c005300610064005f0030003000'/>Ah, I see...<5 Type='0'/> You don't have room, do you?
+  
+  
+  <3 Type='0' Data='0801'/>Well, since I went and prepared <0 Type='3' Data='0000'/>three
+  small wheel Zonai capsules <0 Type='3' Data='ffff'/>for you, you
+  have no choice but to accept them!<0 Type='4'/>Just come back after you've made some
+  room for them among your things.
+Talk_0104: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Let's see... <5 Type='0'/>I just have to flip this switch
+  again...and that one...
+Talk_0056: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Let's see... The switch for the beginner
+  course is...<5 Type='1'/>
+Talk_0129: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='0c005300610064005f0030003000'/>Ah, I see...<5 Type='0'/> You don't have room, do you?
+  
+  
+  <3 Type='0' Data='0801'/>Well, since I went and prepared <0 Type='3' Data='0000'/>three
+  rocket Zonai capsules <0 Type='3' Data='ffff'/>for you, you have
+  no choice but to accept them!<0 Type='4'/>Just come back after you've made some
+  room for them among your things.
+Talk_0032: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Having someone like you to compete with
+  will help keep Tali sharp.
+  
+  And a piece of advice... Don't go thinking
+  you'll be able to beat her record so easily.
+Talk_0057: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Who'd have thought a Hylian vai could race like
+  that?!<5 Type='0'/> All right, I'll say it... That was some
+  brilliant driving!
+Talk_0105: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>If you go upstairs, you can see out over
+  the entire course.
+Talk_0058: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Well, well, well! How about that?<5 Type='0'/> It's not
+  often Tali has so much to say.
+  
+  <3 Type='0' Data='0801'/>Seems like her next great rivalry has
+  begun. I'm honored to witness
+  the beginning!
+Talk_0106: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>You didn't manage to best the <0 Type='3' Data='0000'/><2 Type='19' Data='460043006900720063007500690074005f0049006300680069006b006100720061005f0043006f00750072007300650041005f004200650073007400540069006d0065005f004c00ffff00cd'/>:<2 Type='19' Data='460043006900720063007500690074005f0049006300680069006b006100720061005f0043006f00750072007300650041005f004200650073007400540069006d0065005f004d00ffff00cd'/>.<2 Type='19' Data='460043006900720063007500690074005f0049006300680069006b006100720061005f0043006f00750072007300650041005f004200650073007400540069006d0065005f005300ffff00cd'/><5 Type='0'/><0 Type='3' Data='ffff'/>
+  record. But still, you did a fine job
+  completing the course.
+  <3 Type='0' Data='0801'/>More importantly, you helped me
+  collect valuable data, so I'd like to
+  give you something.
+Talk_0107: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003000'/>Now I'm going to explain the rules, just
+  to make sure they've sunk in.<0 Type='4'/>The time limit for the beginner course
+  is <0 Type='3' Data='0000'/>2 minutes<0 Type='3' Data='ffff'/> exactly.
+  
+  You want to touch <0 Type='3' Data='0000'/>all the lights<0 Type='3' Data='ffff'/> and get
+  back here within that time, OK?
+  
+  If you <0 Type='3' Data='0000'/>take your hands off<0 Type='3' Data='ffff'/> the steering
+  stick once you've grabbed it or <0 Type='3' Data='0000'/>go too
+  far off course<0 Type='3' Data='ffff'/>, you're disqualified.
+  Understand?<5 Type='0'/> Good. <5 Type='0'/>Now, on your marks...
+Talk_0010: |
+  <3 Type='0' Data='0101'/>So how about it? Want to see if you can
+  beat Tali's record?
+Talk_0108: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003100'/>Ah well.<5 Type='0'/> You weren't able to break the
+  record this time...
+  
+  <3 Type='0' Data='0801'/>But WOW, watching you weave all over
+  the course was very exciting!
+Talk_0035: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Your mastery of the steering stick was
+  impressive. Well done.
+Talk_0011: |
+  Take a look at this!
+Talk_0036: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003100'/>Let me explain the rules again.<0 Type='4'/>Tali's record is <0 Type='3' Data='0000'/>2 minutes<0 Type='3' Data='ffff'/> exactly. You
+  must touch<0 Type='3' Data='0000'/> all of the lights<0 Type='3' Data='ffff'/> and return to
+  the starting point in that time.
+  Don't <0 Type='3' Data='0000'/>take your hands off<0 Type='3' Data='ffff'/> the steering
+  stick once you've grabbed it or <0 Type='3' Data='0000'/>go too
+  far off course<0 Type='3' Data='ffff'/>.
+  Now, <5 Type='0'/>on your mark...
+Talk_0109: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>What happened? Did you have some kind
+  of vehicle trouble?
+Talk_0012: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='220043007500730074006f006d00530061007600730061006100620061005f0030003000'/>Sav'saaba. You here to check out the
+  course's lights?
+Talk_0013: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='200043007500730074006f006d005300610076006f007400740061005f0030003000'/>Sav'otta. You here to do some driving this
+  morning?
+Talk_0038: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Ah yes, the vehicle looks good!
+0010: |
+  I want to talk to you...
+Talk_0014: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e0043007500730074006f006d005300610076006100610071005f0030003000'/>Sav'aaq! Are you itching to drive?
+Talk_0039: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/><FontSize Value='125'/>Where are you taking that?!<0 Type='4'/><3 Type='0' Data='0201'/><FontSize Value='100'/>That steering stick is to be used for the
+  Tarrey Town Race. Please do not take it
+  without permission.
+0011: |
+  Bye.
+0012: |
+  There's a water rally...
+Talk_0016: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='200043007500730074006f006d005300610076006f007400740061005f0030003000'/>Sav'otta. I'm so sleepy this morning. It's
+  hard to wake up.
+Near_0001: |
+  Tarrey Town Race is a go!
+Talk_0017: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>My record is <0 Type='3' Data='0000'/>2 minutes<0 Type='3' Data='ffff'/> exactly.
+  I'm confident it won't take you long
+  to beat that.
+0013: |
+  The beginner course!
+Near_0002: |
+  Time to get things ready!
+0014: |
+  I'm game!
+0015: |
+  Of course!
+Talk_0019: |
+  <3 Type='0' Data='0201'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>I guess you can't lose if you don't try,
+  eh?<5 Type='0'/> I hadn't figured you for the sort to
+  back down.
+  <3 Type='0' Data='0a01'/>Color me disappointed.
+Near_0003: |
+  Can't wait to see you race!
+Near_0004: |
+  Try for a new record?
+0016: |
+  I'd like to see the course.
+0017: |
+  Tell me the rules.
+Near_0005: |
+  Did you make some room?
+0019: |
+  The expert course!
+Talk_0080: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>After seeing how you optimized your
+  racing line, I feel like you're ready for
+  something a bit more challenging.
+  You and I should talk. Come see me
+  later, will you?
+Talk_0081: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Is your vehicle ready?
+Talk_0130: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Come back when you've made some room
+  in your pouch.<0 Type='3' Data='0000'/><0 Type='4'/><0 Type='3' Data='ffff'/>I have a <0 Type='3' Data='0000'/>large Zonai charge <0 Type='3' Data='ffff'/>waiting
+  for you!
+Talk_0131: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Come back when you have enough room
+  to carry things.<0 Type='3' Data='0000'/><0 Type='4'/><0 Type='3' Data='ffff'/>I have <0 Type='3' Data='0000'/>three big wheel Zonai capsules<0 Type='3' Data='ffff'/>
+  waiting for you!
+Talk_0083: |
+  <3 Type='0' Data='0801'/>All right, let's get started right away!
+Talk_0132: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Come back when you have enough room
+  to carry things.<0 Type='3' Data='0000'/><0 Type='4'/><0 Type='3' Data='ffff'/>I have <0 Type='3' Data='0000'/>three fan Zonai capsules <0 Type='3' Data='ffff'/>waiting
+  for you!
+Talk_0133: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Come back when you have enough room
+  to carry things.<0 Type='3' Data='0000'/><0 Type='4'/><0 Type='3' Data='ffff'/>I have <0 Type='3' Data='0000'/>three small wheel Zonai capsules<0 Type='3' Data='ffff'/>
+  waiting for you!
+Talk_0085: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003000'/>Let me just go over the rules.<0 Type='4'/>The time to beat on the expert course
+  is <0 Type='3' Data='0000'/>3 minutes<0 Type='3' Data='ffff'/>.
+  
+  If you <0 Type='3' Data='0000'/>touch each and every light <0 Type='3' Data='ffff'/>and get
+  back here before the timer runs out,
+  you win!
+  But <0 Type='3' Data='0000'/>don't let go <0 Type='3' Data='ffff'/>of the steering stick once
+  you've grabbed it, and <0 Type='3' Data='0000'/>don't go too far off
+  course<0 Type='3' Data='ffff'/>. Now, <5 Type='0'/>on your marks...
+Talk_0061: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Come by again after you've made some
+  room to carry things. I have <0 Type='3' Data='0000'/>three Zonai
+  charges <0 Type='3' Data='ffff'/>waiting for you!
+Talk_0134: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Come back when you have enough room
+  to carry things.<0 Type='3' Data='0000'/><0 Type='4'/><0 Type='3' Data='ffff'/>I have <0 Type='3' Data='0000'/>three rocket Zonai capsules<0 Type='3' Data='ffff'/>
+  waiting for you!
+Talk_0062: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Come back when you have enough room
+  to carry things.
+  
+  I have <0 Type='3' Data='0000'/>five Zonai charges <0 Type='3' Data='ffff'/>waiting for you!
+Talk_0110: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>One thing I know for sure, the data we
+  collect here will be essential to future
+  Zonai-device development!
+  And while it won't be easy, I'm certain we
+  can make the Tarrey Town Race into
+  something truly outstanding.
+Talk_0135: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>You didn't manage to best the <0 Type='3' Data='0000'/><2 Type='19' Data='460043006900720063007500690074005f0049006300680069006b006100720061005f0043006f00750072007300650042005f004200650073007400540069006d0065005f004c00ffff00cd'/>:<2 Type='19' Data='460043006900720063007500690074005f0049006300680069006b006100720061005f0043006f00750072007300650042005f004200650073007400540069006d0065005f004d00ffff00cd'/>.<2 Type='19' Data='460043006900720063007500690074005f0049006300680069006b006100720061005f0043006f00750072007300650042005f004200650073007400540069006d0065005f005300ffff00cd'/><5 Type='0'/><0 Type='3' Data='ffff'/>
+  record. But still, you did a fine job
+  completing the course.
+  <3 Type='0' Data='0801'/>More importantly, you helped me
+  collect valuable data, so I'd like to
+  give you something.
+Talk_0087: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Please, come back and drive it
+  again sometime.
+Talk_0088: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Watching you drive was...enlightening.
+  I realized many important things. Sarqso.
+Talk_0063: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>I am so grateful you found the
+  steering stick.
+  
+  Now I can get to work on the project I'm
+  most excited about—the <0 Type='3' Data='0000'/>Tarrey Town
+  Race<0 Type='3' Data='ffff'/>. Thank you, really!
+Talk_0111: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Thanks for coming!
+  
+  
+  To tell the truth, I had a feeling you'd
+  turn up today.
+Talk_0136: |
+  <3 Type='0' Data='0800'/>That's what I like to hear!<5 Type='0'/> You want to
+  use your vehicle as is, or would you like
+  to make some adjustments?
+Talk_0112: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Thanks for coming! You know, normally
+  it'd be my break time right now.
+  
+  But I had a feeling you'd make an
+  appearance and decided to wait around!
+Talk_0137: |
+  <3 Type='0' Data='0800'/>That's what I like to hear!<5 Type='0'/> You want to
+  use that vehicle of yours as is, or would
+  you like to make some adjustments?
+Talk_0040: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>Since you'll be helping us collect data,<5 Type='0'/>
+  any Zonai device or building material you
+  find around here is yours to use.
+  <3 Type='0' Data='0801'/>Just let me know when everything
+  is ready.
+Talk_0113: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Thanks for coming! I was thinking about
+  heading to bed...
+  
+  But the weirdest thing is, I had a feeling
+  you'd come by, so I waited up!
+Talk_0065: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Then that'll be <0 Type='3' Data='0000'/><2 Type='15' Data='320043006900720063007500690074005f0049006300680069006b006100720061005f0050006100790052007500700065006500ffff00cd'/> rupees<0 Type='3' Data='ffff'/>, thank you
+  very much.
+Talk_0041: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='0a0041006e00670072007900'/><FontSize Value='125'/>I said you can't take that!<0 Type='4'/><FontSize Value='100'/>That steering stick is to be used in the
+  Tarrey Town Race! How many times must
+  I tell you?!
+Talk_0114: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Thanks for coming!
+  
+  
+  Wow, I was just wishing I had some
+  rainy-weather race data...and then
+  you showed up!
+Talk_0066: |
+  <3 Type='0' Data='0401'/>Ah no! <5 Type='0'/>It seems you don't have enough
+  rupees. <5 Type='0'/>Secure <0 Type='3' Data='0000'/><2 Type='15' Data='320043006900720063007500690074005f0049006300680069006b006100720061005f0050006100790052007500700065006500ffff00cd'/> rupees<0 Type='3' Data='ffff'/>, and then let's
+  have you challenge the course.
+Talk_0042: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Are you going to challenge Tali's record?
+Talk_0115: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>I'm happy to explain as many times as you
+  need, so ask away!
+Talk_0067: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Let's see... The switch for the expert
+  course is...<5 Type='1'/>
+Talk_0043: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Thanks for coming. <5 Type='0'/>The thing I wanted to
+  talk to you about is... Well, you see...
+  
+  <3 Type='0' Data='0a01'/>Operating expenses for this Tarrey Town
+  Race are a bit tight...
+  
+  So,<5 Type='0'/> ah...<5 Type='0'/>what I'm trying to say is...<5 Type='0'/>
+  
+  
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>We're now going to charge an entry fee
+  of <0 Type='3' Data='0000'/><2 Type='15' Data='320043006900720063007500690074005f0049006300680069006b006100720061005f0050006100790052007500700065006500ffff00cd'/> rupees<0 Type='3' Data='ffff'/> per run!<5 Type='0'/> Exciting news,
+  isn't it?! Thrilling even!<5 Type='1'/><0 Type='4'/>Yes? <5 Type='1'/>No?<5 Type='0'/> Sorry. Perhaps "exciting" is
+  the wrong word.
+  
+  <3 Type='0' Data='0a01'/>It is a difficult announcement to make.
+  And I can see that giving it a cheery spin
+  did not help.
+  <3 Type='0' Data='0401'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>But still, <5 Type='0'/>we have the <0 Type='3' Data='0000'/>expert course<0 Type='3' Data='ffff'/>,
+  which I believe is worth trying even if
+  you do have to pay a fee.
+  And of course I'll reward you if we're
+  able to get good data.
+  
+  <3 Type='0' Data='0801'/>So I'm confident the experience will be
+  well worth the <0 Type='3' Data='0000'/><2 Type='15' Data='320043006900720063007500690074005f0049006300680069006b006100720061005f0050006100790052007500700065006500ffff00cd'/> rupees<0 Type='3' Data='ffff'/>!
+Talk_0116: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>I'm sure you have prep work to do now,
+  so please pay right before you start.
+Talk_0068: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>That was some admirable driving.<5 Type='0'/>
+  Not only that, you set a new record!<5 Type='0'/>
+  Congratulations!
+  I have to thank you for helping me gather
+  such high-quality driving data. Here...
+Talk_0069: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>I'm collecting <0 Type='3' Data='0000'/><2 Type='15' Data='320043006900720063007500690074005f0049006300680069006b006100720061005f0050006100790052007500700065006500ffff00cd'/> rupees<0 Type='3' Data='ffff'/> as an entry
+  fee. What do you say—you want to give
+  it a try?
+Talk_0117: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='0c004e006f007400690063006500'/>Isn't that the course that's already lit up?
+  Maybe you forgot?
+Talk_0045: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>With a record like that... Well, I'm sure
+  you'll beat it right away.
+Talk_0020: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>What?! But I really wanted to see
+  you drive.
+Talk_0118: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>I don't want you to waste that <0 Type='3' Data='0000'/><2 Type='15' Data='320043006900720063007500690074005f0049006300680069006b006100720061005f0050006100790052007500700065006500ffff00cd'/> rupee<0 Type='3' Data='ffff'/>
+  entry fee.
+  
+  So if there's anything you don't get,
+  now's your chance to clear it up.
+Talk_0046: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>I got a good look at your driving skills
+  with these eyes of mine, vai!
+  
+  <3 Type='0' Data='0101'/>Mark my words, when the preparations for
+  the Tarrey Town Race are complete, you'll
+  be back.
+  <3 Type='0' Data='0901'/>Why, you ask?<5 Type='1'/> Bah!
+  
+  
+  <3 Type='0' Data='0801'/>You have the heart of a racer, that's why!
+  You can't resist the pull of the driver's
+  seat for long.
+Talk_0021: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>Please let me know if you need
+  anything else.
+Talk_0119: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0c004e006f007400690063006500'/>What are you going to do now?<5 Type='0'/> Feel like
+  giving it another go?
+Talk_0022: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='1e0043007500730074006f006d005300610076006100610071005f0030003000'/>Sav'aaq. I'm pleased to see you're looking
+  well today.
+Talk_0047: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Let's see... <5 Type='0'/>First I'll activate the switch for
+  the course...<5 Type='1'/>
+Talk_0048: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003000'/>There's more to it than I thought.
+  
+  
+  It's not just about the driving technique.
+  It is about how the driver makes use of 
+  the vehicle's unique capabilities.
+  <3 Type='0' Data='0101'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>As I watched you run the course from the
+  sidelines, your approach enlightened me.
+  You have my thanks. Sarqso.
+Talk_0023: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Once you've readied the vehicle you plan
+  to use in the race, go ahead and attach
+  the <0 Type='3' Data='0000'/>steering stick <0 Type='3' Data='ffff'/>we prepared.
+Talk_0024: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003100'/>Well, if you change your mind, you're
+  welcome to try for the record anytime.
+0020: |
+  What are the rules?
+0021: |
+  Actually, never mind.
+Talk_0001: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>With Tali as our test driver, we spent a lot
+  of time tinkering with the course design...
+  
+  And we arrived at this masterpiece!
+Talk_0026: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Drivers have to use the <0 Type='3' Data='0000'/>steering stick
+  we provide<0 Type='3' Data='ffff'/>. It's the only way I can collect
+  the data I need.
+  As far as the vehicle itself—anything goes!
+  Use whatever you like.
+  
+  <3 Type='0' Data='0c01'/>Now, if you're up for it, I'd love to see you
+  do some driving.
+0022: |
+  The beginner course.
+Talk_0002: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>You're the traveler from before!<5 Type='0'/> I knew
+  you couldn't stay away.
+Talk_0027: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>The steering stick is all set up,<5 Type='1'/> so we're
+  good to begin.
+0023: |
+  The expert course.
+Talk_0003: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Watching you drive the course was
+  very informative. I'm grateful.
+  
+  Sarqso.
+Talk_0028: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='220043007500730074006f006d00530061007600730061006100620061005f0030003000'/>Sav'saaba.<0 Type='4'/>What a busy day today was.
+0000: |
+  I'm not interested.
+Talk_0029: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/><FontSize Value='125'/>Wooo-hooo!<5 Type='1'/><FontSize Value='100'/>
+  
+  
+  <3 Type='0' Data='0a01'/>I apologize. I got excited, and I can't help
+  but woo and hoo when I get excited.
+Talk_0005: |
+  <3 Type='0' Data='0101'/>Yes.<4 Type='0' Data='12004c00610075006700680053005f0030003100'/> Not a bad idea.<5 Type='0'/>
+0026: |
+  Turn off the lights, please.
+0027: |
+  It's fine as is.
+Talk_0007: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>With the help of Hudson Construction, we
+  built a course for test-driving vehicles.
+  
+  These runs will help us better research
+  the steering stick's capabilities.
+  
+  <3 Type='0' Data='0801'/>So, welcome to the Tarrey Town Race!
+0028: |
+  I'll make adjustments.
+Talk_0008: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Sounds fun, doesn't it?
+  
+  
+  If I recall correctly, Tali's best time is <0 Type='3' Data='0000'/>two
+  minutes<0 Type='3' Data='ffff'/> exactly.<5 Type='0'/>
+Talk_1011: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Tali's fastest time is <0 Type='3' Data='0000'/>2 minutes<0 Type='3' Data='ffff'/> exactly.
+  So that's the time you need to beat.
+  
+  Touch <0 Type='3' Data='0000'/>all the lights<0 Type='3' Data='ffff'/> and then get back
+  here faster than that, and you win.
+  
+  But you can't <0 Type='3' Data='0000'/>take your hands off<0 Type='3' Data='ffff'/>
+  the steering stick or <0 Type='3' Data='0000'/>go too far off
+  course<0 Type='3' Data='ffff'/>, OK?
+  <3 Type='0' Data='0501'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>So how about it?<5 Type='0'/> You want to make a run
+  for Tali's record?
+Talk_0009: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>While you're at it, why not spice things
+  up with a little competition? Say...you
+  versus Tali?<5 Type='0'/>
+  <3 Type='0' Data='0801'/>She used to be called the Dame of the
+  Dunes, ya know. If you can beat her
+  best time, well then...you win!
+Talk_1012: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>You bet. I'm happy to go over it as much
+  as you need.
+Talk_0090: |
+  <3 Type='0' Data='0101'/>If you'd like, why not try it right away?

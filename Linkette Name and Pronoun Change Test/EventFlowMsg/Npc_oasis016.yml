@@ -1,0 +1,136 @@
+near0004: |
+  He got away...
+near0005: |
+  A stranger?!
+talk0000: |
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I'm on my way to Ms. Ashai's class!
+  
+  
+  She's teaching me all kinds of things so
+  I can grow into a lovely vai!
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>But...I don't think you can attend the
+  class. You are a foreigner, after all...
+talk0010: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Hey! So...<5 Type='0'/>does your arm have those neat
+  designs on it because you're a voe?
+  
+  I'm learning about voe from Ms. Ashai...
+  
+  
+  <4 Type='0' Data='1000480061007000700079005f0030003000'/>But she hasn't said anything about
+  designs on voe arms!<5 Type='0'/> That's so cool!
+  
+  I want to learn more about voe...<5 Type='0'/>
+  I just wish it was time for tomorrow
+  <0 Type='3' Data='0000'/>afternoon's class<0 Type='3' Data='ffff'/> already...
+talk0040: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0a0053006c00650065007000'/>My...orb...
+near0006: |
+  It's a stranger!
+talk0011: |
+  <4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Mama told me not to talk to strangers...<5 Type='0'/> But it
+  should be OK if I just do this!
+talk0001: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>I wonder when everyone will be ready...
+talk0041: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0a0053006c00650065007000'/>Stuffed doll...so soft and fluffy...
+talk0012: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Hey! So...<5 Type='0'/>is it true, in some faraway
+  towns, vai and voe live together?
+  
+  I'm learning about relationships from
+  Ms. Ashai...
+  
+  <4 Type='0' Data='1000480061007000700079005f0030003100'/>But I can't imagine vai and voe living
+  together! That's so strange!
+  
+  I want to keep learning about the world.<5 Type='0'/>
+  I just wish it was time for tomorrow
+  <0 Type='3' Data='0000'/>afternoon's class<0 Type='3' Data='ffff'/> already...
+talk0013: |
+  <3 Type='0' Data='0700'/>I'm on my way to Ms. Ashai's class right
+  now! There's no reason to follow me...
+  
+  <4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>I don't think you can attend the class.
+  You are a foreigner, after all...
+talk0004: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Hey! So...<5 Type='0'/>is it true, in some faraway
+  towns, vai and voe live together?
+  
+  I'm learning about relationships from
+  Ms. Ashai...
+  
+  <4 Type='0' Data='1000480061007000700079005f0030003100'/>But I can't imagine vai and voe living
+  together! That's so strange!
+  
+  I want to keep learning about the world.<5 Type='0'/>
+  I just wish it was time for the <0 Type='3' Data='0000'/>afternoon
+  class<0 Type='3' Data='ffff'/> already...
+near0009: |
+  So sleepy...
+talk0034: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c00570061006b00650075007000'/>I've got to help out at the shop in the
+  morning, and then I have the "voe and
+  You" class in the afternoon...
+  I should get to sleep soon...<5 Type='0'/> Sav'orr...
+talk0014: |
+  <3 Type='0' Data='0800'/>I have my own duties at the shop now!
+  
+  
+  The fruit we sell is delicious. You should
+  come and buy some!
+  
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/>But first...<5 Type='0'/>I'll swing by for a look at my <0 Type='3' Data='0000'/>treasure<0 Type='3' Data='ffff'/>...<FontSize Value='100'/>
+SunazarashiDoll: |
+  Aww! So cute!
+talk0005: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Hey! So...<5 Type='0'/>you're a special vistor,
+  aren't you?!
+  
+  Otherwise the soldiers would be arresting
+  you right now!
+  
+  <3 Type='0' Data='0800'/>So...<5 Type='0'/>why are you special?
+talk0015: |
+  <3 Type='0' Data='0700'/>I'm tired today. If you want to play, let's
+  wait until tomorrow.
+talk0006: |
+  <3 Type='0' Data='0900'/>Hey! Dalia! You'd better not be speaking
+  to that stranger!
+  
+  Didn't Ms. Ashai teach you the first rule
+  about strangers?
+  
+  "For young vai, speaking with a stranger will
+  only invite misfortune!"
+talk0007: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0e00480075006d006d0069006e006700'/>I'm not talking to the stranger! I'm just talking!
+  I can't even see, so it's not my fault who
+  comes walking by!
+talk0008: |
+  <3 Type='0' Data='0a00'/>Ugh...<5 Type='0'/> That doesn't make any sense...
+talk0018: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Hey! So...<5 Type='0'/>does your arm have those neat
+  designs on it because you're a foreigner?
+  
+  I'm learning about strangers from Ms. Ashai...
+  
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>But she hasn't said anything about
+  designs on forign peoples arms!<5 Type='0'/> That's so cool!
+  
+  I want to learn more about voe...<5 Type='0'/>
+  I just wish it was time for the <0 Type='3' Data='0000'/>afternoon
+  class<0 Type='3' Data='ffff'/> already...
+near0000: |
+  I'm going to be late!
+talk0009: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Listen up, voe...<5 Type='0'/> You shouldn't go poking
+  your nose into Gerudo life.
+  
+  You're free to come and go as you wish,
+  but please don't disrupt the peace of
+  our town.
+near0002: |
+  It's getting late...

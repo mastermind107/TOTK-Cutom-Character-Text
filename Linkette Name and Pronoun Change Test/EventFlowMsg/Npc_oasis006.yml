@@ -1,0 +1,249 @@
+talk0021: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1c0043007500730074006f006d0053006100760073006100610062006100'/>Sav'saaba! Did you sleep well?
+  
+  
+  Gerudo Town is lively, even at night!<5 Type='0'/>
+  Have fun out there!
+talk0022: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/>Are you more rested and revitalized?
+  Come back whenever you feel tired!
+talk0023: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1a0043007500730074006f006d005300610076006f00740074006100'/>Sav'otta! You look like the very image of
+  relaxation! If you're going to venture into
+  the desert, make sure you're prepared!
+Greeting120: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='08005300610076006f00'/>Votta...
+talk0024: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='180043007500730074006f006d00530061007600610061007100'/>Sav'aaq! You look like the very image
+  of relaxation!
+  
+  The heat of the desert is dangerous at
+  this time of day.<5 Type='0'/> Be careful if you're
+  planning to go out there!
+Greeting121: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='08005300610076006100'/>Sav'a...
+talk0025: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1c0043007500730074006f006d0053006100760073006100610062006100'/>Sav'saaba! You look like the very image
+  of relaxation!
+  
+  Gerudo Town is lively, even at night!<5 Type='0'/>
+  Have fun out there!
+Greeting122: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='08005300610076006100'/>Sav'a...
+Talk02: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='140055006e006400650072007300740061006e006400'/>Aw, you're not interested? That's too
+  bad—it's not every day that I get to host
+  a new vai, after all.
+talk0026: |
+  <3 Type='0' Data='0c00'/>Hmm... I suppose Olu could use
+  some practice.
+  
+  She's still learning, so she sometimes
+  doesn't get everything quite right. But
+  I would discount the spa plan for you!
+Greeting010: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1a0043007500730074006f006d005300610076006f00740074006100'/>Sav'otta!
+Greeting123: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='180043007500730074006f006d00560061007300610061007100'/>Vasaaq...
+talk0027: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>It's you! You're pretty amazing, you know
+  that? I heard you helped the chief and the
+  others save the town!
+  <3 Type='0' Data='0800'/>I bet the benefits of my spa plan played
+  at least a small part in that, huh?
+  
+  As usual, I'm booked solid right now. But
+  I'll always make an exception for you—the
+  spa plan is yours whenever you like!
+  <3 Type='0' Data='0800'/>It's the least I can do! Just let me know
+  when you want to relax!
+Greeting011: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='180043007500730074006f006d00530061007600610061007100'/>Sav'aaq!
+talk0028: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>It's you! You're pretty amazing, you know
+  that? I heard you helped the chief and the
+  others save the town!
+  <3 Type='0' Data='0800'/>As usual, I'm booked solid right now, but
+  I'll always make an exception for you—the
+  spa plan is yours whenever you like!
+  <3 Type='0' Data='0801'/>It's the least I can do! Just let me know
+  when you want to relax!
+Greeting012: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1c0043007500730074006f006d0053006100760073006100610062006100'/>Sav'saaba!
+Greeting013: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='180043007500730074006f006d00560061007300610061007100'/>Vasaaq!
+talk0010: |
+  <3 Type='0' Data='0001'/>Come now, don't worry yourself!
+  You deserve a rest!
+talk0012: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0a005400680069006e006b00'/>You're not familiar with the spa plan?
+  
+  
+  Ah, I suppose I shouldn't be surprised.
+  A newcomer wouldn't know much about our
+  town, after all...
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0c004c0061007500670068005300'/>Anyway, the spa plan we offer will fill you
+  with energy and a truly unique feeling of
+  resilience to great dangers.
+  And as an extra bonus, it'll feel like years
+  of worry have been washed away, leaving
+  your skin bright and smooth.
+  <3 Type='0' Data='0101'/>Show me someone who wouldn't
+  appreciate that, and I'll show you
+  someone who's wrong, haha!
+talk0013: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Intriguing, right? What do you think?
+  The standard stay is <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/>, and the
+  spa plan is <0 Type='3' Data='0000'/>50 rupees<0 Type='3' Data='ffff'/>!
+Greeting110: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='08005300610076006f00'/>Votta!
+0002: |
+  Goodbye.
+talk0014: |
+  <3 Type='0' Data='0201'/><4 Type='0' Data='0c004e006f007400690063006500'/>What's this... You don't have enough
+  money! You can't stay if you can't pay
+  for it...
+Greeting111: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='08005300610076006100'/>Sav'a!
+talk0015: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0c004e006f007400690063006500'/>Oh...just the standard stay, huh?
+  
+  
+  Passing on the chance to skip the line for
+  the spa plan?<5 Type='0'/> All right, I guess...
+0003: |
+  In the morning!
+Greeting112: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='08005300610076006100'/>Sav'a!
+talk0016: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>The spa plan it is!<5 Type='0'/> Hee-hee, I'm so excited
+  to get to work...
+0004: |
+  Around noon, please.
+Greeting000: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1a0043007500730074006f006d005300610076006f00740074006100'/>Sav'otta.
+Greeting113: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='180043007500730074006f006d00560061007300610061007100'/>Vasaaq!
+talk0017: |
+  <3 Type='0' Data='0701'/>Oh, and of course you can choose when
+  you'd like your wake-up call to be.
+  What were you thinking?
+0005: |
+  After sunset.
+Greeting001: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='180043007500730074006f006d00530061007600610061007100'/>Sav'aaq.
+0006: |
+  Actually...never mind.
+talk0018: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1400410064006d00690072006100740069006f006e00'/>Sav'orr!
+Greeting002: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1c0043007500730074006f006d0053006100760073006100610062006100'/>Sav'saaba.
+0007: |
+  Spa plan?
+talk0019: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1a0043007500730074006f006d005300610076006f00740074006100'/>Sav'otta! Did you sleep well? If you're
+  going to venture into the desert, make
+  sure you're prepared!
+Greeting003: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='180043007500730074006f006d00560061007300610061007100'/>Vasaaq.
+0008: |
+  Standard, please.
+0009: |
+  Spa plan, please!
+talk0000: |
+  <3 Type='0' Data='0700'/>You're the chief's guest, right? Since it's
+  a special occasion, would you like to try
+  my spa plan?
+  <3 Type='0' Data='0a00'/>I used to run a shop on the surface, but...
+  
+  
+  what with the sand shroud and then
+  those monsters appearing, the guards
+  told me to evacuate.
+  I had six months' worth of reservations
+  booked, but obviously those haven't been
+  happening. I'm a bit out of practice...
+  <3 Type='0' Data='0700'/>But good news for you, I guess! You can
+  rest, or you can take advantage of the spa
+  plan without having to wait!
+talk0001: |
+  <3 Type='0' Data='0000'/>The standard stay is <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/>, and the
+  spa plan is <0 Type='3' Data='0000'/>50 rupees<0 Type='3' Data='ffff'/>!
+Greeting020: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1a0043007500730074006f006d005300610076006f00740074006100'/>Sav'otta...
+talk0002: |
+  <3 Type='0' Data='0700'/>Living in an underground shelter takes
+  more of a toll on the mind and body
+  than you would think...
+  <3 Type='0' Data='0800'/>But with my spa plan, you can send both
+  on a relaxing journey!
+Greeting021: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='180043007500730074006f006d00530061007600610061007100'/>Sav'aaq...
+Greeting022: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1c0043007500730074006f006d0053006100760073006100610062006100'/>Sav'saaba...
+Greeting100: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='08005300610076006f00'/>Votta.
+talk0004: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Were you interested in a different option?
+  
+  
+  The standard stay is <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/>, and the
+  spa plan is <0 Type='3' Data='0000'/>50 rupees<0 Type='3' Data='ffff'/>!
+Greeting023: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='180043007500730074006f006d00560061007300610061007100'/>Vasaaq...
+Greeting101: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='08005300610076006100'/>Sav'a.
+talk0005: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Hey! You! Aren't you the newcomer who helped
+  the chief and the others save the town?!
+  
+  <3 Type='0' Data='0800'/>I'm glad you came! While we are an inn,
+  we also have a spa plan available.
+  
+  It's a really popular part of the inn.
+  In fact, there's always a long list
+  of reservations.
+  But you did save the town, after all, so
+  you're a bit of a special case... You can
+  skip the line whenever you want!
+  <3 Type='0' Data='0800'/>It's the least I can do! Just let me know
+  when if you want to relax!
+Greeting102: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='08005300610076006100'/>Sav'a.
+talk0006: |
+  <3 Type='0' Data='0701'/>How about it? Do you want to rest here?
+Greeting103: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='180043007500730074006f006d00560061007300610061007100'/>Vasaaq.
+talk0007: |
+  <3 Type='0' Data='0c00'/>When I was still running my shop on the
+  surface, I had a very...enthusiastic client.
+  
+  I had to shut down and move here without
+  any warning though... I hope she's doing
+  all right.
+  <3 Type='0' Data='0800'/>Well...<5 Type='0'/> Worrying isn't going to get me
+  anywhere. All I can do right now is help
+  those who are down here.
+near0000: |
+  The spa plan is available!
+talk0008: |
+  <3 Type='0' Data='0800'/>You did save the town, after all, so
+  you're a bit of a special case... You can
+  skip the line whenever you want!
+  It's the least I can do! Just let me know
+  when you want to relax!
+near0001: |
+  Time to relax?
+talk0009: |
+  <3 Type='0' Data='0800'/>I had a feeling I'd be seeing you right
+  about now!
+  
+  I bet you're feeling more worn out than
+  a sand seal after a long race, huh?
+talk0020: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='180043007500730074006f006d00530061007600610061007100'/>Sav'aaq! Did you sleep well?
+  
+  
+  The heat of the desert is dangerous at
+  this time of day.<5 Type='0'/> Be careful if you're
+  planning to go out there!

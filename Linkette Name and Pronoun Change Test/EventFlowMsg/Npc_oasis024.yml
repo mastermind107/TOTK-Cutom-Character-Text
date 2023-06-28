@@ -1,0 +1,82 @@
+Talk_AfterChallenge_00: |
+  Hmm? Do you need something else?
+  
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh!<5 Type='0'/> Are you interested in my spear? My
+  custom-modified spear?
+  
+  I'm not surprised—isn't it amazing?<5 Type='0'/> All my
+  idea too!
+Talk_PreDefense: |
+  <3 Type='0' Data='0800'/>What do you think of this? Pretty great,
+  am I right?<5 Type='0'/> It was all my idea too!
+  
+  Who else would think to attach a <0 Type='3' Data='0000'/>fire fruit<0 Type='3' Data='ffff'/>
+  to a spear?
+  
+  Oooh, I can feel my fighting spirit yearning
+  to be unleashed with this in hand!
+Talk_AfterChallenge: |
+  <3 Type='0' Data='0800'/>While new people in general are not allowed to
+  enter the town, you helped us fight off
+  the recent threat...
+  Pass through with your head held high!
+Talk_AfterChallenge_01: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>This is it—my masterpiece. No one else
+  would think of attaching a mirror to
+  a spear!
+  At first glance it may appear to only be a
+  well-adorned weapon, but think about it
+  for a moment...
+  If the sun strikes this weapon on a
+  cloudless day, the tide of battle will turn
+  in your favor!
+  How?<5 Type='0'/> From the sun's reflection blinding
+  them, of course! They'll stop right in
+  their tracks, dazzled by the light!
+  <3 Type='0' Data='0800'/>Don't worry. You have my permission to
+  copy this amazing idea!
+near1001: |
+  What could I use?
+Talk_PreDefense_00: |
+  <FontSize Value='80'/><3 Type='0' Data='0701'/><4 Type='0' Data='0a005400680069006e006b00'/><0 Type='3' Data='0000'/>Lady Riju's<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>lightning strikes<0 Type='3' Data='ffff'/> clearly damaged
+  those monsters...
+  
+  I wonder... If I <0 Type='3' Data='0000'/>attached<0 Type='3' Data='ffff'/> an <0 Type='3' Data='0000'/>Electric Lizalfos horn <0 Type='3' Data='ffff'/>to
+  this spear, would that be enough to let me fight back
+  against them myself?
+  But Electric Lizalfos horns are valuable... I wonder
+  if there's some other <0 Type='3' Data='0000'/>material<0 Type='3' Data='ffff'/> I could <0 Type='3' Data='0000'/>attach in
+  its place<0 Type='3' Data='ffff'/>.<FontSize Value='100'/>
+Talk_AfterDefense: |
+  <3 Type='0' Data='0700'/>The battle was fierce, but in the end, we
+  paid them back for our earlier failures.
+  
+  Unfortunately, the spear I made—the
+  one with a fire fruit attached to it—broke
+  during the fight.
+  No lives were lost though! A spear is a
+  small price to pay, all things considered.
+Talk_AfterChallenge_02: |
+  <3 Type='0' Data='0800'/>Hey, check this out!<5 Type='0'/> Isn't this attachment
+  something special?
+  
+  One of the younger guards made it
+  for me!
+Talk_InBattle: |
+  <3 Type='0' Data='0900'/>Prepare yourselves, monsters!<5 Type='0'/> Tremble in
+  the face of my blazing fighting spirit!
+Talk_AfterChallenge_03: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>Have you ever seen something that
+  captures a burning passion as well as
+  this does?
+  You'd think, living in a desert, I'd get sick
+  of anything that hints at heat. But you'd
+  be wrong!
+  <3 Type='0' Data='0800'/>I know, I know. <5 Type='1'/>You're a bit jealous just
+  looking at it, right?<5 Type='1'/> You can make one
+  yourself though! I won't stop you!
+ThunderHelmet: |
+  Ooo, that helm...
+Near_AfterChallenge: |
+  Come on through!

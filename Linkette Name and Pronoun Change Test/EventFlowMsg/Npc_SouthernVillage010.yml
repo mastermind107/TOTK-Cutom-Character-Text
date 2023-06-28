@@ -1,0 +1,148 @@
+Talk_1012: |
+  <3 Type='0' Data='0400'/>Oh, why am I still talking? Didn't mean to
+  keep you out in the wet.
+  
+  <3 Type='0' Data='0701'/>If you need a place to dry off, you're
+  welcome to go inside.
+  
+  The outbuilding was destroyed, but my
+  house itself is OK.
+Talk_1000: |
+  <FontSize Value='80'/><3 Type='0' Data='0a01'/><4 Type='0' Data='1000530063006100720065005f0030003100'/>I wish I could call for help, <5 Type='0'/>but then they'd find me.
+  
+  
+  Maybe I'll just whisper it as loud as I can...<5 Type='0'/>
+  Help... <5 Type='0'/>Help... <5 Type='0'/>Heeelp!<FontSize Value='100'/>
+Talk_1013: |
+  <3 Type='0' Data='0a00'/>I have to get that <0 Type='3' Data='0000'/>precious painting <0 Type='3' Data='ffff'/>from
+  out of the rubble!<0 Type='4'/>But I can't possibly lift this stuff!<5 Type='0'/>
+  I wonder if <0 Type='3' Data='0000'/>Bolson<0 Type='3' Data='ffff'/> can help...
+Talk_1001: |
+  <3 Type='0' Data='0a00'/>The main part of my house held up, but
+  the outbuilding was destroyed.<0 Type='4'/>A <0 Type='3' Data='0000'/>precious painting <0 Type='3' Data='ffff'/>was in there...
+  I hope it hasn't been damaged.
+Talk_1014: |
+  <3 Type='0' Data='0a01'/>And now it's raining? One thing
+  after another...
+Talk_1002: |
+  <3 Type='0' Data='0a00'/>Now, I've got to figure out how to get my
+  <0 Type='3' Data='0000'/>precious painting <0 Type='3' Data='ffff'/>out of the rubble.<0 Type='4'/>This debris is so heavy though. I'm not
+  strong enough to move it.<0 Type='4'/>I wonder if <0 Type='3' Data='0000'/>Bolson<0 Type='3' Data='ffff'/> can help...
+Talk_1015: |
+  <3 Type='0' Data='0a01'/>And now it's late. But why should I go
+  to sleep? Not as if my luck will be any
+  better tomorrow...
+Talk_1028: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hey, ma'am! You're back! You took a liking to
+  Lurelin Village, huh?
+Talk_1016: |
+  <3 Type='0' Data='0a01'/>And now it's morning, and I didn't
+  get a wink of sleep. When will my luck
+  turn around...
+Talk_1029: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hey, ma'am! Spending the night in
+  Lurelin Village?
+Talk_1017: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>No matter how much debris I dug through,
+  I couldn't find the <0 Type='3' Data='0000'/>precious painting<0 Type='3' Data='ffff'/>.
+  
+  Honestly, I lost hope it would ever
+  be recovered.<0 Type='4'/>But Bolson told me that thanks to you,
+  it was—<5 Type='0'/>and in perfect condition!<0 Type='4'/>Moving rubble, building houses...
+  Is there anything you can't do?<0 Type='4'/>You know, I'm set to be the head of this
+  village one day.<0 Type='4'/>And when that happens, I can only hope
+  I'm as good at solving problems as you!
+Talk_1018: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>No matter how much debris I dug through,
+  I couldn't find the <0 Type='3' Data='0000'/>precious painting<0 Type='3' Data='ffff'/>.
+  
+  Honestly, I lost hope it would ever
+  be recovered.<0 Type='4'/>But Bolson told me that thanks to you,
+  it was—<5 Type='0'/>and in perfect condition!<0 Type='4'/>Moving rubble, building houses...
+  Is there anything you can't do?<0 Type='4'/>You know, I'm set to be the head of this
+  village one day.<0 Type='4'/>I only hope I'm as good at solving
+  problems as you, our village's savior!
+Talk_1005: |
+  <3 Type='0' Data='0701'/>This was painted by <0 Type='3' Data='0000'/>Princess Zelda<0 Type='3' Data='ffff'/>.
+  It's a keepsake my family—<5 Type='0'/>no, the whole
+  village—<5 Type='0'/>will pass down for generations!
+  Her depiction of <0 Type='3' Data='0000'/>Lover's Pond <0 Type='3' Data='ffff'/>renews
+  your belief in love, doesn't it?<0 Type='4'/><FontSize Value='80'/>And yet, I'm still alone...<FontSize Value='100'/>
+Talk_1019: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08004500610073006500'/>Thank goodness...the painting...is safe...
+Talk_1007: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Welcome back! <5 Type='0'/>Rain or shine, there's
+  always lots to enjoy in Lurelin Village!
+0000: |
+  Princess Zelda?
+Talk_1030: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hey, the village savior! You're back!
+  You took a liking to Lurelin Village, huh?
+0001: |
+  Lover's Pond?
+Talk_1031: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hey, the village savior! Spending the night
+  in Lurelin Village?
+Talk_1009: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08004500610073006500'/>I wanna be...the next savior...
+0002: |
+  Goodbye.
+Talk_1020: |
+  <3 Type='0' Data='0700'/>Just looking at <0 Type='3' Data='0000'/>Princess Zelda<0 Type='3' Data='ffff'/>'s painting
+  of <0 Type='3' Data='0000'/>Lover's Pond<0 Type='3' Data='ffff'/>, you can feel the special
+  power of the place itself.
+Talk_1021: |
+  <3 Type='0' Data='0700'/>The princess was quite fond of our little
+  village. She often came here, disguising
+  herself as a simple traveler.
+  It was during one of those visits that she
+  painted the picture of <0 Type='3' Data='0000'/>Lover's Pond<0 Type='3' Data='ffff'/>.<0 Type='4'/>You know, Kiana's <0 Type='3' Data='0000'/>restaurant<0 Type='3' Data='ffff'/> and
+  Chessica's <0 Type='3' Data='0000'/>salt spa<0 Type='3' Data='ffff'/> were both inspired
+  by Princess Zelda's ideas.
+  Really, we have her to thank for our
+  reputation as Hyrule's top vacation spot.
+Talk_1022: |
+  <3 Type='0' Data='0700'/>It's a <0 Type='3' Data='0000'/>pond<0 Type='3' Data='ffff'/> on <0 Type='3' Data='0000'/>Tuft Mountain<0 Type='3' Data='ffff'/>, that big
+  mountain looming behind my house.<0 Type='4'/>There was a time when lots of folks went
+  there in hopes of finding true love.<0 Type='4'/>Then those <0 Type='3' Data='0000'/>ring garlands<0 Type='3' Data='ffff'/>, said to bring
+  people close together, started being sold
+  in a village somewhere.
+  <3 Type='0' Data='0a00'/>Now there are fewer and fewer visitors
+  to Lover's Pond.<0 Type='4'/><3 Type='0' Data='0000'/>Still, Princess Zelda made her way out to
+  <0 Type='3' Data='0000'/>Lover's Pond <0 Type='3' Data='ffff'/>whenever she was in town.<0 Type='4'/><3 Type='0' Data='0c01'/>Only in the evening though... I'm not
+  sure why.
+Talk_1010: |
+  <FontSize Value='80'/><3 Type='0' Data='0a01'/><4 Type='0' Data='1000530063006100720065005f0030003000'/>Ugh! Why did I come back for some stupid clothes?
+  
+  
+  This could make for a good story one day, I guess...<5 Type='0'/>
+  Though it won't be as funny if I die at the end.
+  
+  If I whisper for help enough times, maybe someone
+  will hear me... <5 Type='0'/>Help...<5 Type='0'/> Help... <5 Type='0'/><1 Type='1' Data='00000040'/>Help, help, help!<1 Type='1' Data='0000803f'/><FontSize Value='100'/>
+Talk_1023: |
+  <3 Type='0' Data='0700'/>They say Princess Zelda is still missing,
+  but I'm sure she'll turn up soon enough.<0 Type='4'/>Exhausted too, no doubt. I hope she
+  comes back to our village to relax.
+Talk_1011: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>You want to hear something pathetic?
+  During the whole pirate raid, I was holed
+  up in my house, hiding.
+  After the evacuation, I'd snuck back to
+  grab a change of clothes.<0 Type='4'/>But before I knew it, there were pirates
+  outside! So I had no choice but to hunker
+  down and pray they didn't find me.<0 Type='4'/><3 Type='0' Data='0000'/>If not for you, they probably would've
+  demolished my house with me in it.
+  
+  You saved my life, and you helped me
+  come to an important realization...
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>An outfit isn't worth risking your life
+  for—<5 Type='0'/>no matter how good it makes your
+  legs look!
+Talk_1024: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Want to see <0 Type='3' Data='0000'/>Princess Zelda<0 Type='3' Data='ffff'/>'s painting of
+  <0 Type='3' Data='0000'/>Lover's Pond<0 Type='3' Data='ffff'/>? You can check it out in
+  my house!
+  It's a keepsake my family—<5 Type='0'/>no, the whole
+  village—<5 Type='0'/>will pass down for generations!

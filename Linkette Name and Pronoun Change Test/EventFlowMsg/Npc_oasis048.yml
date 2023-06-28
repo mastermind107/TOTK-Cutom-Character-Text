@@ -1,0 +1,104 @@
+talk0009: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='1200570061006b006500750070005f0030003000'/>*yawn* <5 Type='0'/>I'm too sleepy to play now.
+  Is tomorrow OK?<0 Type='4'/><3 Type='0' Data='0101'/>I'm all right sleeping by myself, 'cause I
+  can find Mommy on the <0 Type='3' Data='0000'/>secret map<0 Type='3' Data='ffff'/>!
+near0010: |
+  They're still not here?
+near0011: |
+  And then! And then!
+near0012: |
+  Secret, secret!
+near0000: |
+  Exploring for secrets!
+near0013: |
+  Mommy...
+near0001: |
+  Just a li'l more exploring...
+near0014: |
+  So sleepy...
+near0002: |
+  I wonder if Mommy is here.
+near0003: |
+  Mommy's voice...
+talk0032: |
+  <3 Type='0' Data='0101'/>You're a foreign person, just like Daddy!<5 Type='0'/><0 Type='4'/><3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Hey, guess what? <5 Type='0'/>I'm going to look at the
+  <0 Type='3' Data='0000'/>secret map<0 Type='3' Data='ffff'/>!<0 Type='4'/>Gotta go! <5 Type='0'/>I'll see you later! <5 Type='0'/>Sav'orq!
+near0004: |
+  Secret map...
+near0005: |
+  Sunny sun!
+talk0020: |
+  <3 Type='0' Data='0101'/>You're a foreign person, just like Daddy!<0 Type='4'/><3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Hey, guess what? <5 Type='0'/>I'm gonna show
+  Mattison the <0 Type='3' Data='0000'/>secret map<0 Type='3' Data='ffff'/>!<0 Type='4'/>Gotta go! <5 Type='0'/>I'll see you later!
+talk0034: |
+  <4 Type='0' Data='0e0057006f0072006b005f0030003100'/>Ngh...there we go!
+near0006: |
+  Bright, bright yellow!
+talk0021: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Do you wanna see the <0 Type='3' Data='0000'/>secret map<0 Type='3' Data='ffff'/>, too,
+  strange person?<0 Type='4'/><3 Type='0' Data='0801'/>I don't mind, but it's a <0 Type='3' Data='0000'/>secret map<0 Type='3' Data='ffff'/>, so
+  don't tell anybody I showed you.
+near0007: |
+  This way!
+talk0022: |
+  <3 Type='0' Data='0101'/>Do you wanna see the <0 Type='3' Data='0000'/>secret map<0 Type='3' Data='ffff'/>, too,
+  strange person?<0 Type='4'/><3 Type='0' Data='0801'/>It shows the <0 Type='3' Data='0000'/>store<0 Type='3' Data='ffff'/> where Mommy works!
+talk0035: |
+  <3 Type='0' Data='0801'/>Let's see. There's the <0 Type='3' Data='0000'/>fruit store<0 Type='3' Data='ffff'/>. And
+  there's the <0 Type='3' Data='0000'/>jewel store<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0c01'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Umm? <5 Type='1'/>What was this <0 Type='3' Data='0000'/>moon part<0 Type='3' Data='ffff'/> again?
+talk0010: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0a0053006c00650065007000'/>Mommy works...<0 Type='3' Data='0000'/>secret<0 Type='3' Data='ffff'/>...<0 Type='3' Data='0000'/>map<0 Type='3' Data='ffff'/>...
+near0008: |
+  It's neat, huh?
+talk0023: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Mommy's job is a <0 Type='3' Data='0000'/>secret<0 Type='3' Data='ffff'/>. That's why this
+  is a <0 Type='3' Data='0000'/>secret map<0 Type='3' Data='ffff'/>!
+talk0037: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Aah! You're the vai I saw when
+  I was exploring!
+near0009: |
+  Gotta hurry!
+talk0024: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>You're a strange person, just like Daddy!<0 Type='4'/><3 Type='0' Data='0801'/>I'm done looking at the <0 Type='3' Data='0000'/>secret map <0 Type='3' Data='ffff'/>now.<0 Type='4'/>But I gotta go. Kids Klub is about to start!
+talk0025: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Oh, I gotta go! Kids Klub is about to start!<0 Type='4'/><3 Type='0' Data='0701'/>I spent too long looking at the <0 Type='3' Data='0000'/>secret map<0 Type='3' Data='ffff'/>
+  and now I'm gonna be late.
+talk0012: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0c00570061006b00650075007000'/>I gotta sleep soon.<0 Type='4'/>I feel like I can hear <0 Type='3' Data='0000'/>Mommy's voice <0 Type='3' Data='ffff'/>when
+  I'm here. It makes me sleepy...
+talk0000: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>Eek!
+talk0013: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0c00570061006b00650075007000'/>I feel like I can hear <0 Type='3' Data='0000'/>Mommy's voice <0 Type='3' Data='ffff'/>when
+  I'm here. It puts me right to sleep.
+talk0027: |
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/><4 Type='0' Data='1200570061006b006500750070005f0030003000'/>I hope the others come soon.<0 Type='4'/>I feel like I can hear <0 Type='3' Data='0000'/>Mommy's voice <0 Type='3' Data='ffff'/>from here.
+  It makes me sleepy...<FontSize Value='100'/>
+talk0014: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0a0053006c00650065007000'/>Mommy's work...<0 Type='3' Data='0000'/>secret<0 Type='3' Data='ffff'/>...<0 Type='3' Data='0000'/>map<0 Type='3' Data='ffff'/>... Gonna
+  go look...
+SunazarashiDoll: |
+  Li'l sand seal!
+talk0002: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Whoa!
+talk0003: |
+  One... <5 Type='0'/>Two...<0 Type='4'/><4 Type='0' Data='0e0057006f0072006b005f0030003000'/>Hup!
+talk0016: |
+  <3 Type='0' Data='0101'/>You're a strange person, just like Daddy!<0 Type='4'/><3 Type='0' Data='0801'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Hey, guess what? <5 Type='0'/>I'm gonna get to see
+  Mattison's balloon!<0 Type='4'/>Gotta go! <5 Type='0'/>See you later! Sav'orq!
+talk0004: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Aaah! You're a strange, just like Daddy!
+talk0017: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>The new person is following me?<0 Type='4'/><3 Type='0' Data='0c01'/>Do you wanna see Mattison's balloon,
+  too, new person?<0 Type='4'/><3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>It's this way!
+talk0005: |
+  <3 Type='0' Data='0b01'/>A stranger?!<0 Type='4'/><3 Type='0' Data='0401'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>I don't wanna get caught talking to people
+  I'm not supposed to!<0 Type='4'/>I-I gotta get back to the <0 Type='3' Data='0000'/>shelter<0 Type='3' Data='ffff'/>, <5 Type='0'/>quick!
+talk0018: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>It flies in a floaty way! Isn't that neat?
+talk0006: |
+  <3 Type='0' Data='0b01'/>A stranger?! <5 Type='0'/>Again?!<0 Type='4'/><3 Type='0' Data='0401'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Mommy would be so mad if she saw me
+  talking to you!<0 Type='4'/>I give up exploring. I gotta get back to the
+  <0 Type='3' Data='0000'/>shelter <0 Type='3' Data='ffff'/>already!
+talk0019: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>It's yellow like the sun. So cute!

@@ -1,0 +1,102 @@
+talk0000: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1a0043007500730074006f006d005300610076006f00740074006100'/>Sav'otta...
+Talk_PreChallenge03: |
+  <3 Type='0' Data='0c00'/><FontSize Value='125'/><FontSize Value='100'/>I am not in the habit of allowing strangers to
+  pass by me, but you are a special case.<FontSize Value='125'/>
+  
+  <3 Type='0' Data='0901'/>You may pass!<FontSize Value='100'/>
+talk0001: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='180043007500730074006f006d00530061007600610061007100'/>Sav'aaq...
+Talk_PreChallenge04: |
+  <3 Type='0' Data='0900'/>The chief has already left for <0 Type='3' Data='0000'/>Kara Kara
+  Bazaar<0 Type='3' Data='ffff'/>! Aren't you supposed to join her
+  and back her up, vai?!
+talk0002: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1c0043007500730074006f006d0053006100760073006100610062006100'/>Sav'saaba...
+Talk_InKarakara: |
+  <3 Type='0' Data='0900'/><FontSize Value='125'/>What!<5 Type='1'/>
+  
+  
+  Are you?!<5 Type='1'/>
+  
+  
+  DOING HERE?!<5 Type='1'/><FontSize Value='100'/>
+  
+  
+  The chief has already left for <0 Type='3' Data='0000'/>Kara Kara
+  Bazaar<0 Type='3' Data='ffff'/>! Aren't you supposed to join her
+  and back her up, vai?!<FontSize Value='125'/><FontSize Value='100'/>
+Talk_PreChallenge05: |
+  <3 Type='0' Data='0900'/>You'll be backing us up, won't you?<5 Type='1'/><0 Type='4'/><FontSize Value='125'/>Won't you?!<FontSize Value='100'/><5 Type='1'/>
+Talk_PreDefense: |
+  <3 Type='0' Data='0c00'/>Those blasted things look like poisonous
+  mushrooms... And just like poisonous
+  mushrooms, they must be eliminated!
+  <FontSize Value='125'/><3 Type='0' Data='0900'/>I'll crush...<5 Type='0'/>every last one!<5 Type='1'/>
+  
+  
+  To dust!<5 Type='1'/>
+  
+  
+  <FontSize Value='100'/>And you'll be backing us up, won't you?<FontSize Value='125'/><FontSize Value='100'/>
+Talk_AfterChallenge: |
+  <3 Type='0' Data='0900'/><FontSize Value='125'/>Blond!<5 Type='1'/>
+  
+  
+  No abs!<5 Type='1'/>
+  
+  
+  Not a known vai!<FontSize Value='100'/><5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0c01'/>Normally we don't let strangers pass through
+  here, but in your case...<5 Type='1'/>
+  
+  <3 Type='0' Data='0800'/>You may pass!
+Talk_AfterChallenge_00: |
+  <FontSize Value='125'/><FontSize Value='100'/><3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>What's the matter? You can pass through!<FontSize Value='125'/>
+  
+  
+  <FontSize Value='100'/><3 Type='0' Data='0801'/>Despite being a stranger, you helped us when
+  help was needed. The Gerudo owe you
+  for what you did!<FontSize Value='125'/><FontSize Value='100'/>
+ThunderHelmet: |
+  That helm...
+Talk_InBattle: |
+  <FontSize Value='125'/><3 Type='0' Data='0900'/>My spear is waiting!<FontSize Value='100'/>
+Talk_AfterDefense_00: |
+  <FontSize Value='125'/><FontSize Value='100'/><3 Type='0' Data='0800'/>Normally strangers are forbidden from entering
+  this place, but you...
+  
+  You have special permission from
+  the chief!<FontSize Value='125'/>
+  
+  <3 Type='0' Data='0800'/>You may pass!<FontSize Value='100'/>
+Talk_PreChallenge02: |
+  <3 Type='0' Data='0900'/><FontSize Value='125'/>Blond!<5 Type='1'/>
+  
+  
+  No abs!<5 Type='1'/>
+  
+  
+  Not a vai!<5 Type='1'/>
+  
+  
+  <FontSize Value='100'/><3 Type='0' Data='0c01'/>I am not in the habit of allowing strangers to
+  pass by me, but you are a special case.<FontSize Value='125'/>
+  
+  <3 Type='0' Data='0900'/>You may pass!<FontSize Value='100'/>
+Talk_AfterDefense: |
+  <FontSize Value='125'/><FontSize Value='100'/><3 Type='0' Data='0700'/>You...<FontSize Value='125'/>
+  
+  
+  <3 Type='0' Data='0800'/>Your skills are very impressive!<FontSize Value='100'/>
+  
+  
+  That must be why our chief accepted
+  you—she knew how helpful you'd be.
+  
+  She may still be young, but our chief is
+  extraordinary, isn't she?
+Near_AfterChallenge: |
+  OK!

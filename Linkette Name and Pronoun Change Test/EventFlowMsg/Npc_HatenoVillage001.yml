@@ -1,0 +1,480 @@
+NewText_22: |
+  <3 Type='0' Data='0c00'/>Only <0 Type='3' Data='0000'/>the clothes you're wearing that can
+  be dyed<0 Type='3' Data='ffff'/> will change color!<5 Type='0'/> Are you sure
+  you wanna go with this outfit?
+Talk_0014: |
+  <3 Type='0' Data='0000'/>I'll need <0 Type='3' Data='0000'/>five<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>brownish ingredients<0 Type='3' Data='ffff'/>, like
+  acorns or hightail lizards.
+NewText_23: |
+  <3 Type='0' Data='0a00'/>Oh, we can't dye <0 Type='3' Data='0000'/>those clothes<0 Type='3' Data='ffff'/>. It's a
+  fabric thing. <5 Type='0'/>Wanna change?
+Talk_0015: |
+  <3 Type='0' Data='0000'/>I'll need <0 Type='3' Data='0000'/>five<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>grayish ingredients<0 Type='3' Data='ffff'/>, like
+  fireproof lizards or Keese wings.
+NewText_24: |
+  <3 Type='0' Data='0c00'/>Hm... You don't have any <0 Type='3' Data='0000'/>clothes that
+  can be dyed<0 Type='3' Data='ffff'/>! <3 Type='0' Data='0701'/>Come back after you
+  develop your wardrobe a bit.
+NewText_71: |
+  <3 Type='0' Data='0800'/>You may be a first-time customer, but
+  that's fine! We have a special introduction
+  to our new service for folks like you!<0 Type='4'/>Ta-da! Your very own introductory fabric!
+NewText_25: |
+  <3 Type='0' Data='0a00'/>Hmm... You don't quite have enough
+  ingredients to dye to that color.<5 Type='0'/> Sorry!
+Talk_1020: |
+  <3 Type='0' Data='0700'/>Do you wanna rework your paraglider with
+  some of that fabric you got? Or did you
+  bring me some new reference material?
+NewText_26: |
+  <3 Type='0' Data='0700'/>Choose <0 Type='3' Data='0000'/>five<0 Type='3' Data='ffff'/> ingredients you'd like to use
+  in your dye!
+Talk_1021: |
+  <3 Type='0' Data='0700'/>Show me that reference and I'll rework
+  my magic for you!
+NewText_27: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Did you want to try another color?<5 Type='0'/> Or do
+  you want to stop here?
+Talk_1022: |
+  <3 Type='0' Data='0400'/>Ohh...that's a grizzlemaw bear, all right!
+NewText_28: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a0048006100700070007900'/>Sometimes it's necessary to reset
+  everything! Throw it all out the window!
+  
+  Let's go right back to the way things
+  were, shall we?<5 Type='0'/> Simpler times.
+  
+  The clothes you're wearing now...are
+  those the ones we'll be changing? Or do
+  you need to change into something else?
+Talk_1023: |
+  <3 Type='0' Data='0400'/>Ohh...that's an Aerocuda, all right!
+NewText_29: |
+  <3 Type='0' Data='0700'/>So will it be the clothes you're wearing
+  now? Or do you need to change?
+Talk_1024: |
+  <3 Type='0' Data='0400'/>Ohh...that's an Eldin ostrich, all right!
+Talk_1025: |
+  <3 Type='0' Data='0400'/>Ohh...that's a Cucco, all right!
+Talk_1026: |
+  <3 Type='0' Data='0400'/>Ohh...that's a horse, all right!
+TerrorSword: |
+  Ehhh?!
+Talk_1027: |
+  <3 Type='0' Data='0400'/>Ohh...that's a Lynel, all right!
+Talk_1028: |
+  <3 Type='0' Data='0400'/>Ohh...that's a Gleeok, all right!
+Talk_0001: |
+  <3 Type='0' Data='0000'/>I'll need <0 Type='3' Data='0000'/>five<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>bluish ingredients<0 Type='3' Data='ffff'/>,<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/>like
+  chillshrooms or blue nightshade.
+Talk_1029: |
+  <3 Type='0' Data='0400'/>Ohh...that's a Stalnox, all right!
+NewText_10: |
+  <3 Type='0' Data='0800'/>If you were looking to add some color to
+  your wardrobe, you found the right place!<5 Type='0'/>
+  Hue do you do?
+Talk_0002: |
+  <3 Type='0' Data='0000'/>I'll need <0 Type='3' Data='0000'/>five<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>reddish ingredients<0 Type='3' Data='ffff'/>,<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/>like
+  spicy peppers or apples.
+NewText_11: |
+  <3 Type='0' Data='0c00'/>Oh, no, no, no, no, no.<5 Type='0'/> I'm sorry, but you
+  don't have <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0701'/>Come on back some other time.
+Talk_0003: |
+  <3 Type='0' Data='0000'/>I'll need <0 Type='3' Data='0000'/>five<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>yellowish ingredients<0 Type='3' Data='ffff'/>,<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/>like
+  shock fruits or mighty bananas.
+TerrorAnimal: |
+  Look out!
+NewText_12: |
+  <3 Type='0' Data='0c01'/>OK then,<5 Type='0'/> that'll be <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/>!
+Talk_0004: |
+  <3 Type='0' Data='0000'/>I'll need <0 Type='3' Data='0000'/>five<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>whitish ingredients<0 Type='3' Data='ffff'/>,<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/>like
+  Hylian rice or fresh milk.
+TerrorFire: |
+  Hot, hot!
+NewText_13: |
+  <3 Type='0' Data='0c00'/>Oh, no, no, no, no, no. <5 Type='0'/>You don't even
+  have any <0 Type='3' Data='0000'/>dye ingredients<0 Type='3' Data='ffff'/>!
+  
+  <3 Type='0' Data='0001'/>Come back later and we'll set you up.
+Talk_0005: |
+  <3 Type='0' Data='0000'/>I'll need <0 Type='3' Data='0000'/>five<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>blackish ingredients<0 Type='3' Data='ffff'/>,<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/>like
+  flint or hearty truffles.
+NewText_60: |
+  <3 Type='0' Data='0b00'/>Huh? What <0 Type='3' Data='0000'/>paraglider<0 Type='3' Data='ffff'/>?! Must be some
+  kinda pigment of your imagination.<0 Type='4'/><3 Type='0' Data='0001'/>When you have a paraglider for me to
+  rework, then we can talk!
+NewText_14: |
+  <3 Type='0' Data='0800'/>Come round again! Every day is a good
+  day to dye!
+Talk_0006: |
+  <3 Type='0' Data='0000'/>I'll need <0 Type='3' Data='0000'/>five<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>purplish ingredients<0 Type='3' Data='ffff'/>,<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/>like
+  rushrooms or armoranths.
+NewText_61: |
+  <3 Type='0' Data='0b00'/>Huh?! Hoo-wee! <5 Type='1'/>That's a lovely <0 Type='3' Data='0000'/>paraglider<0 Type='3' Data='ffff'/>
+  you've got there!<0 Type='4'/><3 Type='0' Data='0001'/>I mighta mentioned this, but we started
+  offering a <0 Type='3' Data='0000'/>fabric rework service<0 Type='3' Data='ffff'/>.<0 Type='4'/>Bring me some <0 Type='3' Data='0000'/>fabric<0 Type='3' Data='ffff'/>, and I can rework
+  your paraglider with flying colors!
+NewText_15: |
+  <3 Type='0' Data='0700'/>Wonderful. <5 Type='0'/>Now go wait up there.<5 Type='0'/>
+  I'll just be a minute.
+Talk_0007: |
+  <3 Type='0' Data='0000'/>I'll need <0 Type='3' Data='0000'/>five<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>greenish ingredients<0 Type='3' Data='ffff'/>, like
+  Hyrule herbs or Lizalfos tails.
+Talk_1010: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>You found yourself some fabric! I've been
+  dyeing to try this out!
+TerrorIce: |
+  Eh?! EH?!
+NewText_16: |
+  <3 Type='0' Data='0800'/>Yeehoo!<5 Type='0'/> We made something very special
+  here if I do say so myself!
+Talk_0008: |
+  <3 Type='0' Data='0000'/>I'll need <0 Type='3' Data='0000'/>five<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>light bluish ingredients<0 Type='3' Data='ffff'/>,<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/>like
+  Chuchu jelly or silent shrooms.
+Talk_1011: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>This your first time reworking a paraglider,
+  is it?<0 Type='4'/>Don't worry, I'll do all the work. You just
+  hand over the fabric and leave the rest
+  to me!
+NewText_17: |
+  <3 Type='0' Data='0000'/>Do you find this palette-able?<5 Type='0'/> If you'd
+  like to do a redye, just let me know!
+Talk_0009: |
+  <3 Type='0' Data='0000'/>I'll need <0 Type='3' Data='0000'/>five<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>navyish ingredients<0 Type='3' Data='ffff'/>,<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/>like
+  luminous stones or bladed rhino beetles.
+Talk_1012: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey! I gotta favor to ask.<0 Type='4'/><3 Type='0' Data='0c00'/>It's not enough for me to just rework with
+  fabric you bring me. I wanna dye my hand
+  at makin' my own patterns!<0 Type='4'/>Just like Cece! Of course, hers are all
+  original designs.<0 Type='4'/>And makin' fabrics from scratch seems
+  like a lotta hard work.<0 Type='4'/>But that's where hue come in!<0 Type='4'/>Could you cast around for some reference
+  material I could use as inspiration?<0 Type='4'/><3 Type='0' Data='0700'/>First, I'm thinking I wanna see visuals of
+  that monster they call a <0 Type='3' Data='0000'/>Chuchu<0 Type='3' Data='ffff'/>.<0 Type='4'/>That kind of Chuchu is everywhere, even
+  just outside the village! <5 Type='1'/>But I'm too paint-
+  hearted to get near them...<0 Type='4'/>I think if I could <0 Type='3' Data='0000'/>see a regular Chuchu
+  for myself<0 Type='3' Data='ffff'/>—<5 Type='0'/>not a Fire Chuchu or
+  Ice Chuchu—<5 Type='0'/>it would help a lot.
+NewText_64: |
+  <3 Type='0' Data='0000'/>If you get a <0 Type='3' Data='0000'/>paraglider<0 Type='3' Data='ffff'/>, I can rework it
+  using that fabric you found.<0 Type='4'/>What a marvelous dye that'll be, eh?
+NewText_18: |
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/>Hateno dyeing <0 Type='3' Data='ffff'/>is a traditional craft of
+  Hateno Village.<0 Type='4'/>Bring us the right <0 Type='3' Data='0000'/>ingredients<0 Type='3' Data='ffff'/>, and we can
+  dye just about anything to whatever color
+  you please!
+Talk_1013: |
+  <3 Type='0' Data='0700'/>Didja bring me some reference material
+  for a <0 Type='3' Data='0000'/>Chuchu <0 Type='3' Data='ffff'/>pattern?
+TerrorImpulse: |
+  Look out!
+NewText_65: |
+  <3 Type='0' Data='0000'/>Think of me if you find some new fabric,
+  won't you?<0 Type='4'/>We can rework your <0 Type='3' Data='0000'/>paraglider<0 Type='3' Data='ffff'/> with it for
+  you to fly the skies in style!
+NewText_19: |
+  <3 Type='0' Data='0000'/>All right! Choose your <0 Type='3' Data='0000'/>dye color <0 Type='3' Data='ffff'/>wisely!<5 Type='0'/>
+  Or do you want to change clothes again?
+Talk_1014: |
+  <3 Type='0' Data='0400'/>Ohh...so that's a <0 Type='3' Data='0000'/>Chuchu<0 Type='3' Data='ffff'/>!
+NewText_66: |
+  <3 Type='0' Data='0001'/>With our new <0 Type='3' Data='0000'/>fabric reworking service<0 Type='3' Data='ffff'/>,
+  all you need is a bit of <0 Type='3' Data='0000'/>fabric<0 Type='3' Data='ffff'/> that we can
+  work with.<0 Type='4'/>We use it to reupholster things with nice
+  new <0 Type='3' Data='0000'/>fabric<0 Type='3' Data='ffff'/>—like a <0 Type='3' Data='0000'/>paraglider<0 Type='3' Data='ffff'/>, for example!
+Talk_1015: |
+  <3 Type='0' Data='0800'/>I can feel the inspiration bleeding into
+  reality! I'll start developing this pattern
+  at once!
+NewText_67: |
+  <3 Type='0' Data='0700'/>Any other requests? <5 Type='1'/>All my services are
+  just <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/> each!
+Talk_1016: |
+  <FontSize Value='125'/><3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/>All tone!<FontSize Value='100'/><5 Type='1'/><0 Type='4'/><3 Type='0' Data='0101'/>With your help, I've made a very pretty
+  pattern! You can have the fabric I worked
+  up as thanks.
+NewText_68: |
+  <3 Type='0' Data='0800'/>Have you dropped by Ventest Clothing at
+  the village entrance yet?<0 Type='4'/><0 Type='3' Data='0000'/><5 Type='0'/>Cece<0 Type='3' Data='ffff'/>, the famous designer who runs the
+  place now, cooked up the cutting-edge
+  design on this fabric!<0 Type='4'/><0 Type='3' Data='0000'/>Every region <0 Type='3' Data='ffff'/>has its own unique fabric
+  designs. Keep an eye out for 'em
+  wherever you go!
+Talk_1017: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I knew I'd get a different result with some
+  quality reference! I betcha I could make
+  other patterns too.
+NewText_69: |
+  <3 Type='0' Data='0b00'/>Hmmm?! <5 Type='0'/>Ma'am, you're...exposed.<0 Type='4'/>Even one article of clothing would be
+  better than none!
+Talk_1018: |
+  <3 Type='0' Data='0000'/>In fact, I made a list of patterns I'd like
+  to dye out.<0 Type='4'/>When you get your hands on anything
+  I might use as reference, come on in
+  and show it to me!<0 Type='4'/>If I have the reference, I can make an
+  original pattern for you to walk out the
+  door with!
+Talk_1019: |
+  <3 Type='0' Data='0800'/>Lookin' forward to seein' what we can
+  do together!
+NewText_01: |
+  <3 Type='0' Data='0000'/>Which dye color would you like?
+NewText_02: |
+  <3 Type='0' Data='0800'/>Come back again. Every day is a good
+  day to dye!
+NewText_50: |
+  <3 Type='0' Data='0000'/>You look great!
+ClearTerrorEnemy: |
+  Phew...
+NewText_05: |
+  <3 Type='0' Data='0000'/>All right, choose your <0 Type='3' Data='0000'/>dye color <0 Type='3' Data='ffff'/><5 Type='0'/>or go
+  ahead and <0 Type='3' Data='0000'/>change clothes<0 Type='3' Data='ffff'/>!
+NewText_51: |
+  <3 Type='0' Data='0000'/>You look dashing!
+NewText_06: |
+  <3 Type='0' Data='0c00'/>I love the fact that someone so young is
+  so interested in our unique <0 Type='3' Data='0000'/>Hateno dyes<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0701'/>Might be Cece's influence, but that kinda
+  thing is catching on quite a bit with the
+  young folks these days.<0 Type='4'/>I'd be a fool not to seize the dyein' while
+  it's hot and let everyone know about what
+  we do here!<5 Type='0'/><0 Type='4'/><3 Type='0' Data='0800'/>Let me give you all the colorful details of
+  how the magic works!
+NewText_52: |
+  <3 Type='0' Data='0000'/>It's downright miraculous what a
+  difference a new set of duds makes.<5 Type='1'/>
+  You're looking very chic!
+TerrorLightning: |
+  Ehhh?!
+NewText_07: |
+  <3 Type='0' Data='0800'/>Wow! <5 Type='0'/>Absolutely chromatic!
+NewText_53: |
+  <3 Type='0' Data='0000'/>Let's get this right on our first dye!
+Talk_1002: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>So, which fabric do you have in mind for
+  a paraglider rework today?
+TerrorHorse: |
+  Look out!
+NewText_54: |
+  <3 Type='0' Data='0b00'/>Huh?! Hoo-wee! <5 Type='1'/>That's a lovely <0 Type='3' Data='0000'/>paraglider<0 Type='3' Data='ffff'/>
+  you've got there!<0 Type='4'/><3 Type='0' Data='0001'/>Nowadays, not only do we dye clothes,
+  we also offer a <0 Type='3' Data='0000'/>fabric rework service<0 Type='3' Data='ffff'/>.<0 Type='4'/>Bring me some <0 Type='3' Data='0000'/>fabric<0 Type='3' Data='ffff'/>, and I can rework
+  your paraglider with flying colors!
+NewText_08: |
+  <3 Type='0' Data='0800'/>By the tints!<5 Type='0'/> We hardly ever get this
+  color to come out!
+Talk_1003: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='08004500610073006500'/>Setting the fabric... Ready to launch...
+NewText_55: |
+  <3 Type='0' Data='0800'/>Dyeing <0 Type='3' Data='0000'/>clothes<0 Type='3' Data='ffff'/> to the color of your
+  choice or <0 Type='3' Data='0000'/>reworking paragliders with
+  some new cloth<0 Type='3' Data='ffff'/>...<0 Type='4'/>Either way, it'll take just <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/>!
+NewText_09: |
+  <3 Type='0' Data='0800'/>Yeehoo! What a wonderful tone that is!
+  <5 Type='0'/>I might try that out on one of my outfits!
+Talk_1004: |
+  <3 Type='0' Data='0100'/>That'll do 'er! <5 Type='1'/>Looking forward to your
+  next visit!<0 Type='4'/><4 Type='0' Data='0a0048006100700070007900'/>Now go out and paint the town red!
+TerrorInsect: |
+  Eh?! EH?!
+NewText_56: |
+  <3 Type='0' Data='0700'/>Now then! <5 Type='0'/>I can either <0 Type='3' Data='0000'/>dye your clothes<0 Type='3' Data='ffff'/>
+  or remove the dye from<0 Type='3' Data='0000'/> some dyed duds
+  and return them to their original colorway<0 Type='3' Data='ffff'/>!
+Talk_1005: |
+  <3 Type='0' Data='0000'/>If you're fine with that one, then slip me
+  <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/>, and we'll get started!
+NewText_57: |
+  <3 Type='0' Data='0001'/>If you have any <0 Type='3' Data='0000'/>dye ingredients<0 Type='3' Data='ffff'/>, it's
+  <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/> to dye an item...<5 Type='0'/> That includes
+  our service charge, of course.
+  Let's get going and dye your getup to...
+Talk_1006: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Thanks for the business! This won't take
+  a moment—<5 Type='1'/>no watching paint dry for you!
+NewText_58: |
+  <3 Type='0' Data='0001'/>If you have any <0 Type='3' Data='0000'/>dye ingredients<0 Type='3' Data='ffff'/>, it's
+  <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/> to dye an item...<5 Type='0'/> That includes
+  our service charge, of course.
+  Let's get going and dye your getup to
+  the color of your choosing!
+NewText_59: |
+  <3 Type='0' Data='0001'/>Nowadays, not only do we dye clothes,
+  we also offer a <0 Type='3' Data='0000'/>fabric rework service<0 Type='3' Data='ffff'/>!<0 Type='4'/>For example, if you had something like
+  a <0 Type='3' Data='0000'/>paraglider<0 Type='3' Data='ffff'/>?<0 Type='4'/>Bring me some <0 Type='3' Data='0000'/>fabric<0 Type='3' Data='ffff'/>, the kind used in
+  huehickeys like a paraglider...<0 Type='4'/>And we can rework it with flying colors!
+Talk_1009: |
+  <3 Type='0' Data='0000'/>Go on and show me the fabric you wanna
+  rework your paraglider with!
+Talk_01: |
+  Greetings and saturations!
+NewText_40: |
+  <3 Type='0' Data='0800'/>Hee har ha! <5 Type='0'/>If you're not a pigment of
+  my imagination, you must be a customer!
+NewText_41: |
+  <3 Type='0' Data='0000'/>All right now... Hold your breath!
+0010: |
+  Change clothes.
+NewText_42: |
+  <3 Type='0' Data='0000'/>All right now... Stay like that and don't
+  move a muscle!
+0011: |
+  Quit.
+NewText_43: |
+  <3 Type='0' Data='0000'/>All right now...hold on to your britches!
+0012: |
+  Back to the original.
+NewText_44: |
+  <3 Type='0' Data='0000'/>Hue we go!
+0013: |
+  Use these clothes.
+NewText_45: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a0048006100700070007900'/>It's the Hateno tradition to dye a person's
+  <0 Type='3' Data='0000'/>whole outfit<0 Type='3' Data='ffff'/>, from head to toe, all at once!
+Talk_1040: |
+  <FontSize Value='125'/><3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/>All tone!<FontSize Value='100'/><5 Type='1'/><0 Type='4'/><3 Type='0' Data='0101'/>I put dye, sweat, and tears into this
+  magnificent beauty. You can have the
+  fabric I worked on as thanks.
+0014: |
+  Dye these clothes.
+NewText_46: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a0048006100700070007900'/>Get ready! Because we are going to dye<5 Type='0'/>
+  all the <0 Type='3' Data='0000'/>clothes you're wearing<0 Type='3' Data='ffff'/> at once!
+Talk_1041: |
+  <3 Type='0' Data='0700'/>There used to be a fella called <0 Type='3' Data='0000'/>Robbie <0 Type='3' Data='ffff'/>at
+  the laboratory up on the hill.<0 Type='4'/>He had this mysterious device that could
+  store anything you could see as a picture.<0 Type='4'/><3 Type='0' Data='0c00'/>If I remember right, he called it a <0 Type='3' Data='0000'/>camera<0 Type='3' Data='ffff'/>.<0 Type='4'/>With a huehicky like that, it'd be a snap
+  to get references for fabrics!<0 Type='4'/><3 Type='0' Data='0701'/>But he hasn't been around the laboratory
+  on the hill in a while. Must still be out at
+  <0 Type='3' Data='0000'/>Lookout Landing<0 Type='3' Data='ffff'/>.
+0015: |
+  Rework the paraglider.
+NewText_47: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a0048006100700070007900'/>Another great day to dye that <0 Type='3' Data='0000'/>whole
+  outfit<0 Type='3' Data='ffff'/> all at once!
+NewText_48: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a0048006100700070007900'/>It's time to tint! Another day to dye that
+  <0 Type='3' Data='0000'/>whole outfit <0 Type='3' Data='ffff'/>all at once!
+0016: |
+  Rework it.
+NewText_49: |
+  <3 Type='0' Data='0000'/>And?! <5 Type='0'/>How is it?
+0017: |
+  I have a new reference.
+TerrorBomb: |
+  Look out!
+0018: |
+  Some other time.
+TerrorFlash: |
+  Ehhh?!
+NewText_30: |
+  <3 Type='0' Data='0c00'/>What do you know, you don't even have
+  any <0 Type='3' Data='0000'/>dyed clothes<0 Type='3' Data='ffff'/>! <3 Type='0' Data='0701'/>Let's get some color
+  going here!
+TerrorArrow: |
+  Look out!
+NewText_31: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>All right, let's reset everything! OK?
+NewText_32: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a0048006100700070007900'/>Well, this isn't so bad!
+  
+  
+  <3 Type='0' Data='0701'/>If you have need of my services at any
+  point,<5 Type='0'/> don't hesitate to call on me!
+0001: |
+  Please dye!
+NewText_33: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a005400680069006e006b00'/>Hm? <5 Type='0'/>But the clothes you're wearing
+  haven't been dyed yet!
+  
+  <3 Type='0' Data='0001'/>Change your clothes or forget about it.
+  <5 Type='0'/>Your choice!
+0002: |
+  Wear clothes.
+0003: |
+  Never mind.
+NewText_35: |
+  <3 Type='0' Data='0000'/>I can also <0 Type='3' Data='0000'/>remove color<0 Type='3' Data='ffff'/> from dyed fabric
+  so your clothes will be restored to their
+  original, if not drab, luster.
+Talk_1030: |
+  <3 Type='0' Data='0700'/>If you get your hands on any other
+  reference materials, I wanna see 'em!
+  Leave no tone unturned!
+TerrorGeneric: |
+  Ehhh?!
+0004: |
+  OK!
+NewText_36: |
+  <3 Type='0' Data='0000'/>Welcome to <0 Type='3' Data='0000'/>Kochi Dye Shop<0 Type='3' Data='ffff'/>, where we
+  live to dye!
+Talk_1031: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>You didn't? All right, I can take a tint.<0 Type='4'/><3 Type='0' Data='0001'/>Let's start over. <5 Type='0'/>Welcome!
+0005: |
+  Choose again.
+NewText_37: |
+  <3 Type='0' Data='0800'/>And the total price is <5 Type='0'/>just <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/>!
+  So now...
+Talk_1032: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>I can't believe it...every pattern I had in
+  mind has bled through into reality!<0 Type='4'/><3 Type='0' Data='0100'/>I'm as pleased as punch that I could
+  make all these pretty new fabrics.<0 Type='4'/>You should take 'em out for a spin up in
+  the clouds! I promise I won't leave you
+  high and dye!
+TerrorExplosion: |
+  Eh?! EH?!
+0006: |
+  Actually, never mind.
+NewText_38: |
+  <3 Type='0' Data='0a00'/>Hm...I think nature's dye is pretty much
+  as intended. Not much to do about that.
+  
+  Put some clothes on and we'll talk!
+Talk_1033: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Eh? That's the same fabric you got on it.
+  Guess you're set in your colorways.
+NewText_39: |
+  <3 Type='0' Data='0000'/>These rainy days remind me of the most
+  romantic date I ever went on.
+  
+  There we were, standing in the soaking
+  rain, and I got down on one knee to
+  propose. <5 Type='1'/>Couldn't have timed it better!
+0008: |
+  Tell me more.
+0009: |
+  Choose a color.
+Talk_1036: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Hmmm? I thought this was the part where
+  you'd show me a reference.<0 Type='4'/><3 Type='0' Data='0000'/>Well, when you do find some kinda
+  reference that sparks an idea, come
+  over and show me first thing!
+Talk_1037: |
+  <3 Type='0' Data='0800'/>Wouldja look at that! <5 Type='1'/>Now that's what I
+  call inspiring. I'll start developing this
+  pattern at once!
+Talk_0010: |
+  <3 Type='0' Data='0000'/>I'll need <0 Type='3' Data='0000'/>five<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>orangish ingredients<0 Type='3' Data='ffff'/>,<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/>like
+  Keese eyeballs or amber.
+Talk_1038: |
+  <3 Type='0' Data='0800'/>It's picture perfect! <5 Type='1'/>Way to get my
+  creative juices flowing again. I'll start
+  developing this pattern at once!
+Talk_0011: |
+  <3 Type='0' Data='0000'/>I'll need <0 Type='3' Data='0000'/>five<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>peachish ingredients<0 Type='3' Data='ffff'/>, like
+  wildberries or rock salt.
+Talk_1039: |
+  <FontSize Value='125'/><3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/>All tone!<FontSize Value='100'/><5 Type='1'/><0 Type='4'/><3 Type='0' Data='0101'/>Perfect enough to give me goosebumps,
+  that's for sure. You can have the fabric
+  I worked on as thanks.
+NewText_20: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Thanks for the business!
+Talk_0012: |
+  <3 Type='0' Data='0000'/>I'll need <0 Type='3' Data='0000'/>five<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>crimsonish ingredients<0 Type='3' Data='ffff'/>, like
+  Goron spice or chickaloo tree nuts.
+NewText_21: |
+  <3 Type='0' Data='0c00'/>You're wearing some clothes you <0 Type='3' Data='0000'/>actually
+  can't dye<0 Type='3' Data='ffff'/>!<5 Type='0'/> Is that OK?
+Talk_0013: |
+  <3 Type='0' Data='0000'/>I'll need <0 Type='3' Data='0000'/>five light<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>yellowish ingredients<0 Type='3' Data='ffff'/>,<0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  like Bokoblin fangs or opals.

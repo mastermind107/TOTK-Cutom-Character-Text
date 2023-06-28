@@ -1,0 +1,210 @@
+talk1010: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0600530061006400'/>*sigh* Do you have to do that here?
+talk1011: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0a005400680069006e006b00'/>It's the end of the world, so I don't really
+  care what happens to any of you, but...
+  
+  If you're ever lost, just look to the sky.
+  
+  
+  Do that, and you'll see that eyesore of a
+  <0 Type='3' Data='0000'/>lighthouse<0 Type='3' Data='ffff'/> shining like a star of salvation.
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08005300690067006800'/>Life's about living, and you only get one
+  shot at it. So don't go dropping dead on
+  me, vai.
+Talk_22: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0600530061006400'/>Are you finished? I wish you would do
+  that somewhere else next time...
+talk1012: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>You're going out in the searing daylight?
+  Bah. I hope you've got some <0 Type='3' Data='0000'/>chilly food<0 Type='3' Data='ffff'/>
+  with you, at least.
+talk1013: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Are you heading into the desert? Bah.
+  I hope you've got some <0 Type='3' Data='0000'/>spicy food <0 Type='3' Data='ffff'/>with
+  you, at least.
+talk1014: |
+  You're free to use the <0 Type='3' Data='0000'/>pot<0 Type='3' Data='ffff'/> over there,
+  just keep it tidy. I hate when I have to
+  clean that thing.
+GreetingBefore03: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='180043007500730074006f006d00560061007300610061007100'/>Vasaaq...<5 Type='0'/> How about it? These are all
+  pretty rare to you folk, right?
+  
+  Why not buy them all up now?
+talk1016: |
+  <3 Type='0' Data='0701'/>You think so too, don't you, voe?
+  
+  
+  But I guess anyone who brazenly strolls
+  into a place like this doesn't care whether
+  they live or die, anyway.
+talk1017: |
+  <3 Type='0' Data='0700'/>The end of the world wouldn't be such
+  a bad thing...if it didn't interfere with
+  my business.
+  Buy something before you drop dead in
+  front of me.
+talk1018: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='08005300690067006800'/>To think that eyesore of a <0 Type='3' Data='0000'/>lighthouse<0 Type='3' Data='ffff'/>
+  could shine like a star of salvation.
+  
+  This really must be the end of the world.
+talk1019: |
+  <3 Type='0' Data='0c00'/>First the sand shroud, then the monsters,<5 Type='0'/>
+  and now the young'uns are going around
+  spouting that annoying slang...
+  If it weren't for the storm clearing up, I'd
+  say for sure it was the end of the world.
+Com_Talk_13: |
+  <3 Type='0' Data='0000'/>How many?
+Com_Talk_14: |
+  Hm, <3 Type='0' Data='0000'/><2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them would be... Well, how
+  about <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>?
+Com_Talk_15: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>What is that? <5 Type='0'/>Whatever it is, I don't deal
+  in it.
+Com_Talk_16: |
+  <3 Type='0' Data='0900'/>Do all Hylians sell the clothes off their
+  backs? I know it's annoying, but take
+  that off before selling it to me!
+Talk_10: |
+  <3 Type='0' Data='0700'/>Are you sure you don't want more?
+  I don't mind if you buy everything.
+Talk_12: |
+  <3 Type='0' Data='0900'/>You're disrupting my business, Yiga.<5 Type='0'/>
+  Get lost.
+talk1002: |
+  <3 Type='0' Data='0a00'/>First the sand shroud, and now monsters?
+  <5 Type='0'/>And all the young'uns are going around
+  using that obnoxious slang too...
+  This must be what the end of the world
+  looks like.
+Talk_13: |
+  What are you doing?!
+Com_Talk_31: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><0 Type='3' Data='ffff'/>How many do you want?
+talk1003: |
+  <3 Type='0' Data='0700'/>I just don't want anyone to drop dead
+  right in front of me. That'll give me
+  some nasty dreams.
+  Anyway, if you need any of this stuff,
+  I'll sell it to you. Why not buy it all?
+  It'd make my life easier.
+Talk_14: |
+  What a rude voe.
+Com_Talk_33: |
+  <3 Type='0' Data='0000'/>Only one?<5 Type='0'/> Hmmm,<5 Type='0'/> <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+  Seem OK?
+Com_Talk_34: |
+  <3 Type='0' Data='0000'/>All <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them? That'll be
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+Com_Talk_05b: |
+  <3 Type='0' Data='0000'/>Let's just get this over with.
+0005: |
+  Buy my stuff!
+Com_Talk_00: |
+  <3 Type='0' Data='0700'/>Well? What will it be?
+Com_Talk_35: |
+  <3 Type='0' Data='0000'/>All <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them? That'll come to exactly
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>, OK?
+Com_Talk_05c: |
+  <3 Type='0' Data='0000'/>Hurry it up already...
+0006: |
+  Gotta go!
+Com_Talk_01: |
+  <3 Type='0' Data='0000'/>I'd say...<0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>, OK?
+Com_Talk_05d: |
+  <3 Type='0' Data='0000'/>Don't tell me you have more to sell...
+Com_Talk_02: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0600530061006400'/>Sarqso.
+talk1020: |
+  <3 Type='0' Data='0701'/>You think so too, don't you, voe?
+  
+  
+  But I guess anyone who brazenly strolls
+  into a place like this doesn't care whether
+  they live or die, anyway.
+talk1009: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0600530061006400'/>What is it about this place that draws all
+  these daredevils?
+talk1021: |
+  <3 Type='0' Data='0a00'/>First the sand shroud, <5 Type='0'/>then the monsters,<5 Type='0'/>
+  and now the young'uns are all spouting
+  that annoying slang...
+  This must be what the end of the world
+  looks like.
+Com_Talk_04: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a005400680069006e006b00'/>Oh... Changed your mind?
+Com_Talk_50: |
+  <3 Type='0' Data='0700'/>That's <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>, OK?
+Com_Talk_02b: |
+  <3 Type='0' Data='0700'/>You still need to sell anything?
+talk1022: |
+  <3 Type='0' Data='0700'/>I wanted some pleasant memories to take
+  with me as I faced the end of the world...
+  
+  But that insufferable slang shows up in
+  every single memory. If it gets rid of the
+  slang, I welcome the world's end.
+Com_Talk_05: |
+  <3 Type='0' Data='0000'/>Well? What are you going to sell?
+Com_Talk_02c: |
+  <3 Type='0' Data='0700'/>Here's your payment.<5 Type='0'/> There anything else
+  you need?
+talk1023: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08005300690067006800'/>Life's about living, and you only get one
+  shot at it. So don't go dropping dead on
+  me, voe.
+Com_Talk_52: |
+  <3 Type='0' Data='0000'/>Hm, <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them will be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+Com_Talk_02d: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>This is pretty nice stuff...
+5500: |
+  OK.
+talk1024: |
+  <3 Type='0' Data='0700'/>You're free to use the pot to make some
+  <0 Type='3' Data='0000'/>spicy food<0 Type='3' Data='ffff'/>, but try not to make a mess.
+  Cleaning that thing's a real pain.
+Com_Talk_53: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='0a0041006e00670072007900'/>Get out of here if you're not gonna
+  buy anything!
+5501: |
+  Never mind.
+talk1025: |
+  <3 Type='0' Data='0700'/>You're free to use the pot to make some
+  <0 Type='3' Data='0000'/>chilly food<0 Type='3' Data='ffff'/>, but try not to make a mess.
+  Cleaning it is a real pain.
+Com_Talk_54: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0600530061006400'/>You don't have enough rupees.<5 Type='0'/> *sigh*
+  Don't tell me you wanna sell something...
+5502: |
+  I wanna buy.
+near1000: |
+  What a letdown...
+Com_Talk_55: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>You can't carry any more...<5 Type='0'/> Isn't there
+  something you can throw away?
+5503: |
+  Never mind.
+near1001: |
+  It's all so annoying...
+Com_Talk_56: |
+  <3 Type='0' Data='0000'/>You're only buying one?<5 Type='0'/> That'll be
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+near1002: |
+  Sold out. Unbelievable...
+5507: |
+  I'll take 'em all!
+5508: |
+  All of them.
+Talk_07: |
+  <3 Type='0' Data='0700'/>Sarqso...
+AssassinClothes: |
+  That's trouble.
+Talk_08: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>I could get used to this.<5 Type='0'/> Sarqso.
+Talk_09: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0600530061006400'/>If you're going to buy from me anyway,
+  I wish you'd just buy it all.

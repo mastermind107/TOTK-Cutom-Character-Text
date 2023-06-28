@@ -1,0 +1,297 @@
+Talk_0008: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Thank you for buying that weird rock.
+  
+  
+  It took up a lot of space and didn't serve
+  any purpose, so I'm glad it's gone.
+  
+  <3 Type='0' Data='0701'/>But enough personal chat! Do you have
+  business with Hudson Construction?
+Talk_0037: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I wonder if Hudson and Mattison are
+  still <0 Type='3' Data='0000'/>busy<0 Type='3' Data='ffff'/>.
+Talk_0066: |
+  <3 Type='0' Data='0701'/>You're out of luck if you wanted a new
+  story. There's nothing interesting for me
+  to talk about anymore.
+  <3 Type='0' Data='0501'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/><FontSize Value='80'/>Just between you and me, it's boring spending every
+  day cleaning. Gossip was the best thing about
+  this job.
+  I'm glad things have worked out, but would it really
+  be so bad to have SOMETHING exciting happen?<FontSize Value='100'/>
+Talk_0038: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0045006100730065005f0030003100'/><FontSize Value='80'/>Oh dear, that was close. I nearly spilled
+  Mattison's secret.<FontSize Value='100'/>
+Near_0001: |
+  <4 Type='0' Data='0e00480075006d006d0069006e006700'/>♪Son and done!♪
+Talk_0040: |
+  <3 Type='0' Data='0701'/>Unfortunately, Hudson and Mattison are a
+  little <0 Type='3' Data='0000'/>busy<0 Type='3' Data='ffff'/>.
+Near_0002: |
+  Zzz... Zzz...
+Talk_0012: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c00570061006b00650075007000'/>*yawn* I'm feeling like one of those Zonai
+  power gadgets that's all run-down.
+Near_0003: |
+  Clean, clean, clean. *sigh*
+Talk_0013: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0053006c00650065007000'/>Quick and quality... Son and done...
+Talk_0043: |
+  <3 Type='0' Data='0701'/>Unfortunately, Hudson and Mattison are a
+  little <0 Type='3' Data='0000'/>busy<0 Type='3' Data='ffff'/>.
+Talk_0044: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Hudson and Mattison still seem <0 Type='3' Data='0000'/>busy<0 Type='3' Data='ffff'/>.
+Talk_1001: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/><FontSize Value='125'/>Th-<5 Type='1'/>thief!<FontSize Value='100'/>
+Talk_0045: |
+  <FontSize Value='80'/><3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>I heard from my husband, Hagie—and this is just
+  between you and me, mind you—a little something
+  about Mattison.
+  He said she's tried to board the <0 Type='3' Data='0000'/>railcar <0 Type='3' Data='ffff'/>multiple
+  times to visit her papa at the construction site.
+  And she got in trouble for it!
+  Apparently she couldn't pay the <0 Type='3' Data='0000'/>fee<0 Type='3' Data='ffff'/>. She really
+  should just talk to her papa and mama about it.
+  
+  But it's hard for children to tell their parents when
+  they've gotten in trouble, I suppose.<FontSize Value='100'/><5 Type='1'/>
+Talk_1002: |
+  <3 Type='0' Data='0401'/>Wait...<5 Type='0'/> It's you.
+  
+  
+  <3 Type='0' Data='0901'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>If you wanted to talk, all you had to do
+  was say hello. Finding you inside my
+  house is quite the shock.
+Talk_1003: |
+  <3 Type='0' Data='0401'/>Oh...<5 Type='0'/> Or not.
+  
+  
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003000'/>Urgh. <5 Type='1'/>Please don't surprise me like that.
+Talk_0047: |
+  <3 Type='0' Data='0701'/>But, well, Hudson seems occupied with
+  Kilton right now.
+Talk_0048: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Rhondson works at the front desk, but
+  I think she's <0 Type='3' Data='0000'/>busy<0 Type='3' Data='ffff'/>.
+Talk_0020: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1400480075006d006d0069006e0067005f0030003000'/>♪Quick and quality, blink and we're done.
+  Dream homes, the envy of everyson!♪
+Talk_0049: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Rhondson works at the front desk, but
+  I think she's still <0 Type='3' Data='0000'/>busy<0 Type='3' Data='ffff'/>.
+Talk_0021: |
+  <FontSize Value='80'/><3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>Just between you and me, it sounds like there's a
+  bit of conflict in the family.
+  
+  You see, Hudson and his daughter, they— Oh, her
+  name is <0 Type='3' Data='0000'/>Mattison<0 Type='3' Data='ffff'/>. Lovely girl. Anyway...
+  
+  Wait. Let me start over. Because of his wife's
+  village's customs— Oh, she's Gerudo, by the way.
+  Her name is <0 Type='3' Data='0000'/>Rhondson<0 Type='3' Data='ffff'/>.
+  Hudson recruited her when he built this village. So...<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0400'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/><FontSize Value='100'/>Oh no! Look at me talking about things
+  that are none of my business. And to a
+  complete stranger!
+  <3 Type='0' Data='0701'/>Please forget everything I just said.<FontSize Value='80'/><FontSize Value='100'/>
+Talk_0050: |
+  <FontSize Value='80'/><3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>Just between you and me, <5 Type='0'/>I heard that someone's
+  coming from the Gerudo region to pick up Mattison.
+  
+  Are you familiar with the Gerudo region? To the
+  southwest? It's where Rhondson is from, you know.
+  
+  And Rhondson, well, she was acting like she was fine
+  yesterday. <5 Type='0'/>But I think she's been distracted lately...<FontSize Value='100'/><5 Type='1'/>
+Talk_0022: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1400480075006d006d0069006e0067005f0030003000'/>♪We don't mind the rain, we'll work
+  through the night! Son and done, it's
+  Hudson Constructiooon!♪
+Talk_0051: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0045006100730065005f0030003100'/><FontSize Value='80'/>Oh dear, that was close. I nearly spilled
+  Rhondson's secret.<FontSize Value='100'/>
+0000: |
+  Goodbye.
+Talk_0052: |
+  <FontSize Value='80'/><3 Type='0' Data='0400'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/><FontSize Value='100'/>Oh no, this is none of my business!<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Please forget everything I just said.<FontSize Value='80'/><FontSize Value='100'/>
+0001: |
+  Busy?
+Talk_0053: |
+  <FontSize Value='80'/><3 Type='0' Data='0800'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>Apparently Hudson's hair is getting split ends with
+  all the stress. I didn't even know that was possible!
+  
+  And Moggs and Monari miss her, too, of course.
+  
+  
+  But Hunnie— Oh, Hunnie is my daughter, you know.<FontSize Value='100'/>
+0002: |
+  And then? And then?
+Talk_0054: |
+  <FontSize Value='80'/><3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>She's excited about going to visit Mattison. That's
+  really perked her up!
+  
+  She's never had a very robust constitution, but
+  thanks to Mattison, she's doing much better.<FontSize Value='100'/>
+Talk_0026: |
+  <3 Type='0' Data='0701'/>Unfortunately, Hudson and Mattison are a
+  little <0 Type='3' Data='0000'/>busy<0 Type='3' Data='ffff'/>.
+0003: |
+  I need to go.
+Talk_0055: |
+  <FontSize Value='125'/><3 Type='0' Data='0800'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>Since you're interested...<FontSize Value='100'/>
+Talk_0027: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Hudson and Mattison are <0 Type='3' Data='0000'/>busy<0 Type='3' Data='ffff'/> right now.
+  I wonder when they'll wrap up...
+Talk_0056: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>You see, he's always fretting about something or
+  other to do with <0 Type='3' Data='0000'/>Kilton<0 Type='3' Data='ffff'/>. Oh, Kilton? He just bought
+  up that vacant land.
+  I wonder what those men are up to from morning
+  to night.
+  
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>Here's a little tidbit for you. If you're nice to Kilton,
+  he might just give you <0 Type='3' Data='0000'/>monster extract<0 Type='3' Data='ffff'/>.
+  
+  Oh! <5 Type='0'/>Do you know about <0 Type='3' Data='0000'/>monster extract<0 Type='3' Data='ffff'/>? It's that
+  stuff <0 Type='3' Data='0000'/>Fyson<0 Type='3' Data='ffff'/> sells in his shop.
+  
+  You might get it from Fyson, but <0 Type='3' Data='0000'/>Kilton <0 Type='3' Data='ffff'/>is the one
+  who actually makes it...<FontSize Value='100'/>
+Talk_0028: |
+  <FontSize Value='80'/><3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>Just between you and me, <5 Type='0'/>Mattison is going around
+  secretly teaching Gerudo words to the folks in town.
+  
+  Why, you ask? Because she wants to make her
+  mother, Rhondson, happy!
+  
+  I know she's secretly studying by herself late into
+  the night...<FontSize Value='100'/><5 Type='1'/>
+Talk_0057: |
+  <3 Type='0' Data='0701'/>Oh, Rhondson seems a little busy
+  right now.
+Talk_0029: |
+  <FontSize Value='80'/><3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>Just between you and me, since Mattison is moving
+  soon... She's been spending her days cooped up in
+  <0 Type='3' Data='0000'/>her room on the second floor<0 Type='3' Data='ffff'/>, studying in secret.<5 Type='0'/>
+  I heard she's learning Gerudo. You know, the
+  language they speak in her mother Rhondson's
+  hometown.<5 Type='0'/>
+  She's got quite a backbone. Doesn't let her mama
+  and papa see how hard she's working. <5 Type='0'/>She's so
+  young but so diligent.
+  <3 Type='0' Data='0501'/>My daughter, she— <5 Type='0'/>Oh, her name is Hunnie.<5 Type='0'/>
+  Anyway, I wish she'd study as much as Mattison...<FontSize Value='100'/>
+Talk_0058: |
+  <FontSize Value='80'/><3 Type='0' Data='0000'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>Well, Hudson Construction's main job is building
+  <0 Type='3' Data='0000'/>dream homes<0 Type='3' Data='ffff'/>, right?
+  
+  But business hasn't exactly been booming lately,
+  you know, so they're considering branching out.
+  
+  For instance, they...<FontSize Value='100'/>
+Talk_0030: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>Oh, excuse me! Do you have business
+  with Hudson Construction?
+  
+  If you need to speak with the president,
+  he and his wife are a little <0 Type='3' Data='0000'/>busy <0 Type='3' Data='ffff'/>right now.
+Talk_0059: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0045006100730065005f0030003100'/><FontSize Value='80'/>Oh dear, that was close. I nearly spilled
+  Hudson Construction's secret.<FontSize Value='100'/>
+Talk_0002: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1400480075006d006d0069006e0067005f0030003100'/>♪Early morning, son and done! 
+  Gooood morning, everyson!♪
+Talk_0031: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Well, if it isn't the vai everyone's talking
+  about! Hehe, I've heard a lot about you.
+  
+  Mattison's departure was really touching,
+  wasn't it?
+  
+  <FontSize Value='80'/>Just between you and me, Rhondson was putting on
+  a brave face, but I'm pretty sure I saw a tear or two.
+  
+  Oh! That reminds me. Hudson...<FontSize Value='100'/>
+Talk_0003: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1400480075006d006d0069006e0067005f0030003100'/>♪Every day, son and done!
+  Helloooo, everyson!♪
+Talk_0032: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0045006100730065005f0030003100'/><FontSize Value='80'/>Oh dear, that was close. I nearly spilled
+  Kilton's secret.<FontSize Value='100'/>
+Talk_0061: |
+  <3 Type='0' Data='0701'/>I'm sorry, but Hudson Construction is a
+  little busy at the moment...
+Talk_0004: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1400480075006d006d0069006e0067005f0030003000'/>♪Even at night, it's son and done!
+  Gooood evening, everyson!♪
+Talk_0033: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='0e0045006100730065005f0030003100'/><FontSize Value='80'/>Oh dear, that was close. I nearly spilled their
+  family's secret.<FontSize Value='100'/>
+Talk_0062: |
+  <FontSize Value='80'/><3 Type='0' Data='0701'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>Did you know that Hudson Construction's site gets
+  more Zonai ruins dropping out of the sky than
+  anywhere else in the world?
+  There might be a lot of them, but apparently none
+  of them are particularly exciting. No historically
+  significant whatevers.
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Everyone is talking about how we could be more
+  famous if we found a slab with text mentioning
+  "sages" or "demon kings."
+  You know, like the <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/> in <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/> in
+  southeast Hyrule.<FontSize Value='100'/>
+Talk_0005: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>I heard that you bought that strange rock
+  from my husband.
+  
+  It wasn't doing anything except taking up
+  space around here, so I'm glad you took
+  it off our hands.
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Oh my, sorry for blathering on about
+  personal matters. Do you have business
+  with Hudson Construction?
+Talk_0034: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>If you have business with Hudson
+  Construction, you should come
+  back later.
+  The president and his wife are <0 Type='3' Data='0000'/>busy<0 Type='3' Data='ffff'/>
+  right now.
+Talk_0006: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Looks like the sun is done. I'm going to
+  find someplace dry until it stops raining.
+Talk_0035: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh my, excuse me! <5 Type='0'/>Do you have business
+  with Hudson Construction?
+Talk_0064: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Hm? You weren't expecting a new story,
+  were you?<0 Type='4'/>Sorry! It seems like work is back on track
+  for Hudson Construction.
+  
+  <3 Type='0' Data='0001'/>And there's nothing interesting for me to
+  talk about.<0 Type='4'/><3 Type='0' Data='0501'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/><FontSize Value='80'/>But just between you and me, it's boring spending
+  every day cleaning. Gossip was the best thing about
+  this job.
+  I'm glad things have worked out, but would it really
+  be so bad to have SOMETHING exciting happen?<FontSize Value='100'/>
+Talk_0007: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1400480075006d006d0069006e0067005f0030003000'/>♪The rain can't keep the son away!
+  Dream homes for everyson, every day!♪
+Talk_0036: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>Oh, excuse me! Welcome to <0 Type='3' Data='0000'/>Tarrey Town<0 Type='3' Data='ffff'/>.
+  
+  
+  Hudson Construction must be popular if
+  it's getting visitors this late at night.
+  
+  Are you here to see the president? He
+  and his wife are a little <0 Type='3' Data='0000'/>busy <0 Type='3' Data='ffff'/>right now.
+Talk_0065: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0a005400680069006e006b00'/>I wish I had a juicy piece of news for you,
+  but I've got nothing.
+  
+  <FontSize Value='80'/>I'm glad things have worked out, but would it really
+  be so bad to have SOMETHING exciting happen?<FontSize Value='100'/>

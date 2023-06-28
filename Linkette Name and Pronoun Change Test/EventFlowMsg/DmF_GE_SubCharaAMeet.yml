@@ -7,7 +7,7 @@ NewText_15: |
   not acceptable. Please put on a bit more
   before coming into town.
 NewText_00: |
-  <3 Type='0' Data='0001'/><4 Type='0' Data='100041006e006700720079005f0030003000'/><FontSize Value='125'/>Voe are not permitted to be here!<FontSize Value='100'/>
+  <3 Type='0' Data='0001'/><4 Type='0' Data='100041006e006700720079005f0030003000'/><FontSize Value='125'/>Foreigners are not permitted to be here!<FontSize Value='100'/>
 NewText_01: |
   <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Hold on!
 NewText_02: |
@@ -39,7 +39,7 @@ NewText_05: |
 NewText_12: |
   <4 Type='0' Data='100041006e006700720079005f0030003100'/>A thief! There's a thief! Capture him!
 NewText_06: |
-  Still, Swordsman... I mean, Linkette.<5 Type='0'/> I am
+  Still, Swordsman... I mean, Rinkuru.<5 Type='0'/> I am
   impressed you made it here through
   the storm that surrounds Gerudo Town.
 NewText_13: |

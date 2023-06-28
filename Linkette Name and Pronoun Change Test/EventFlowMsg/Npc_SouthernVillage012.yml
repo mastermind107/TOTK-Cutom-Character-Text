@@ -1,0 +1,239 @@
+StartPoint_01: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0a005400680069006e006b00'/>It feels as if the Upheaval made
+  everything worse. <5 Type='0'/>Every day, I hear
+  disturbing stories from travelers.
+  <3 Type='0' Data='0001'/>At the stable, for instance, someone
+  mentioned that a giant monster has
+  settled down in the forest east of here.
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>Isn't that horrible?
+GoalPoint_01: |
+  <3 Type='0' Data='0701'/>You know Fort Hateno to the east?<5 Type='0'/>
+  It's abandoned now, but it was once
+  the site of a great battle.
+  <3 Type='0' Data='0501'/><4 Type='0' Data='0a005400680069006e006b00'/>Well, I say "abandoned." Sounds like
+  some monsters are camped out there.
+  You might want to stay away.
+SavedLv2_00: |
+  <3 Type='0' Data='0a00'/>Oh... Thank you for assisting me.<5 Type='0'/> I just
+  wish you hadn't seen that.
+RestPoint_01_2: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I don't see any monsters around.<5 Type='0'/> But to
+  survive out in the wild, you always have
+  to be on your toes.
+SavedLv2_01: |
+  <3 Type='0' Data='0800'/>You won! <5 Type='0'/>Well done, sword vai.
+RestPoint_01: |
+  <3 Type='0' Data='0201'/><4 Type='0' Data='0c004e006f007400690063006500'/>I'm not catching my breath. I'm looking
+  around for monsters.
+  
+  <3 Type='0' Data='0001'/>You must be ready to flee the moment a
+  monster appears. <5 Type='0'/>That's the only way to
+  survive out here.
+GoRange_01_2: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Take the road east, past the ruins of
+  Fort Hateno, to reach Hateno Village.
+Near_RestPoint_01: |
+  See any monsters?
+GoalPoint_01_2: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0a005400680069006e006b00'/>Fort Hateno was once the site of an
+  enormous battle. Now it's basically a
+  five-star monster hotel.
+  The farther you are from that place,
+  the better.
+  
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0600530061006400'/>*sigh*<5 Type='0'/> I just hope those rumors about a
+  monster-control crew being assembled
+  turn out to be true.
+GoalPoint_01_3: |
+  <3 Type='0' Data='0801'/>Did you hear?
+  
+  
+  There's a monster-control crew here to
+  take care of the monsters at Fort Hateno.<5 Type='1'/>
+  Really calling in the cavalry.
+  I would love to join a monster-control
+  crew—fight some monsters, give help to
+  those who need it.
+  <3 Type='0' Data='0a00'/>Alas, I don't know the first thing about
+  weapons or tactics.
+  
+  I should learn how to defend myself
+  before I think about protecting others...
+GoalPoint_01_4: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0a005400680069006e006b00'/>So, the monsters at Fort Hateno are
+  battling against a monster-control crew...
+  
+  <3 Type='0' Data='0a01'/>*sigh* <5 Type='0'/>I wish I could help. But I really
+  know nothing about combat.
+GoalPoint_01_5: |
+  <3 Type='0' Data='0801'/>Did you hear?
+  
+  
+  A monster-control crew came and
+  defeated the monsters at Fort Hateno.<5 Type='1'/>
+  Wiped them out!
+  I would love to join a monster-control
+  crew—fight some monsters, and give help
+  to those who need it.
+  <3 Type='0' Data='0a00'/>Alas, I don't know the first thing about
+  weapons or tactics.
+  
+  I should learn how to defend myself
+  before I think about protecting others...
+Atacked00: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Help! Help me!<5 Type='0'/> I beg you!
+GoalPoint_01_6: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='08004500610073006500'/>A monster-control crew defeated
+  those monsters, thankfully. <5 Type='0'/>I should
+  probably be celebrating.
+  Instead, I find myself wishing that I could
+  have helped.
+BackRange_02_2: |
+  <3 Type='0' Data='0700'/>Those...<5 Type='0'/>machines like to lurk around
+  south of the road.<5 Type='0'/>
+  
+  I just started seeing them after the
+  Upheaval. As soon as they catch sight
+  of you, they attack!
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>I should really find a safer place to
+  walk around...
+Atacked01: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Oh... <5 Type='0'/>Sword vai!<5 Type='0'/> Please save me!
+StartPoint_01_2: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0a005400680069006e006b00'/>Somebody told me that a monster of
+  great size has settled down in the forest
+  east of here. How unnerving.
+Guardian00: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>That monster... <5 Type='0'/>It's terrifying! <5 Type='0'/>Be careful,
+  sword vai!
+Near_GoalPoint_01: |
+  Keep your distance.
+Near_GoalPoint_02: |
+  What can I do?
+Failed00: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='08004500610073006500'/>Sa'oten!<5 Type='0'/> Did I pass out?
+Near_GoalPoint_03: |
+  If only I could.
+SavedLv3_00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>You beat them?<5 Type='0'/> For a Hylian, you're
+  certainly quite skilled.
+Failed01: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='08004500610073006500'/>I'm alive? I'm alive!
+  
+  
+  <3 Type='0' Data='0001'/>You saved me...<5 Type='0'/> Sarqso.
+Thanks00: |
+  <3 Type='0' Data='0101'/><5 Type='0'/>Thanks be to you. Sarqso.<5 Type='1'/> And please,
+  take this.
+SavedLv1_00: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='08004500610073006500'/>Phew! Sa'oten. <5 Type='0'/>The cads caught me 
+  off guard, or I would have been fine.
+SavedLv3_01: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='08004500610073006500'/>I'm...<5 Type='0'/>saved? <5 Type='1'/>You are a hero, sword vai.
+GoRange_02_2: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Up ahead lie the ruins of Fort Hateno.
+  You might have heard that monsters have
+  amassed there.
+SavedLv1_01: |
+  <3 Type='0' Data='0700'/>Oh!<5 Type='0'/> You saved me.<5 Type='1'/> Clearly I paid the price
+  for letting my guard down.
+GoRange_02_3: |
+  <3 Type='0' Data='0001'/>The ruins of Fort Hateno are up ahead.
+  That was the site of a great battle.
+  
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Monsters have gathered there, and the
+  monster-control crew has engaged them.
+Near_Rain: |
+  Ach! Rain!
+Near_GoRange_01: |
+  If you head east...
+GoRange_01: |
+  <3 Type='0' Data='0001'/>You strike me as a vai in need of
+  directions. Looking for Hateno?
+  
+  If you head east on the road, you'll reach
+  the ruins of Fort Hateno. And just beyond
+  there, Hateno Village.
+  <3 Type='0' Data='0c00'/>It seemed like a lazy, laid-back hamlet
+  when last I was there. <5 Type='0'/>But I hear things
+  have really livened up.
+GoRange_02_4: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Up ahead lie the ruins of Fort Hateno.
+  The monster-control crew already went
+  out to fight the monsters amassing there.
+Near_GoRange_02: |
+  Just look around.
+RainPoint_01_2: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0600530061006400'/>More than once, monsters have snuck up
+  on me in the rain... <5 Type='0'/>Terrifying.
+  
+  <3 Type='0' Data='0a01'/>That's why if you ask me, rain is the bane
+  of every traveler's existence.
+GoRange_02: |
+  <3 Type='0' Data='0001'/>The ruins of Fort Hateno are up ahead.
+  That was the site of a great battle.
+  
+  <3 Type='0' Data='0501'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I heard a rumor that monsters are
+  gathering there. But if you just go to look
+  around, you'll be fine...<5 Type='0'/>probably.
+GoRange_02_5: |
+  <3 Type='0' Data='0001'/>The ruins of Fort Hateno are up ahead.
+  That was the site of a great battle.
+  
+  <3 Type='0' Data='0501'/><4 Type='0' Data='0a005400680069006e006b00'/>I hear the monster-control crew cleared
+  out the monsters there, but still.<5 Type='0'/> They
+  could always come back.
+Near_GoRange_03: |
+  Monsters...
+RainPoint_01: |
+  <3 Type='0' Data='0301'/>I hate the rain. Truly I do.
+  
+  
+  Rain limits your vision, making it easier for
+  monsters to sneak up.
+  
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0600530061006400'/>*sigh*<5 Type='0'/> Maybe I should go back home to
+  the Gerudo Desert. It never rained there.
+GoRange_02_6: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Up ahead lie the ruins of Fort Hateno.
+  The monster-control crew cleared out the
+  monsters, but still. <5 Type='0'/>Stay on guard.
+Near_RainPoint_01: |
+  I hate rain.
+Near_GoRange_04: |
+  Vigilance is key.
+BackRange_01_2: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Cross the bridge and take the road north
+  to get to Kakariko Village. I hear some
+  unusual ruins fell from the sky there.
+Near_StartPoint_01: |
+  Just horrible.
+BackRange_01: |
+  <3 Type='0' Data='0001'/>To get there, you can just cross the
+  bridge and follow the road north.
+  
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Everyone is abuzz about the ruins that
+  fell from the sky and landed there. I hear
+  they're highly unusual.
+BackRange_01_3: |
+  <3 Type='0' Data='0000'/>Hm? <5 Type='0'/>You weren't asking for directions?
+  Apologies—<5 Type='0'/>you looked kind of lost.
+Near_Thunder: |
+  Lightning!
+Near_BackRange_01: |
+  If you head north...
+AssassinClothes: |
+  That look is in bad taste.
+BackRange_02: |
+  <3 Type='0' Data='0c00'/>It's not just more monsters around since
+  the Upheaval. There are also strange
+  machines out and about.
+  <3 Type='0' Data='0000'/>The way they attack... It's almost as if
+  they're protecting something.
+  
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>And they like to lurk south of the road,
+  so I should really get out of here...
+Near_BackRange_02: |
+  What strange machines...
+BackRange_03: |
+  <3 Type='0' Data='0000'/>Looking for Kakariko Village?

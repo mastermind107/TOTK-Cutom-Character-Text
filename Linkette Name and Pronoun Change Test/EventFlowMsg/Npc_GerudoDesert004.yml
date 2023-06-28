@@ -1,0 +1,144 @@
+1002: |
+  ...
+sys0003: |
+  <FontSize Value='125'/><3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Fire!<FontSize Value='100'/><5 Type='1'/><0 Type='4'/><3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068005300'/>Hehehe.<5 Type='0'/> Even though this is just practice,
+  my heart still races when I imagine firing
+  the cannon!
+sys0016: |
+  <3 Type='0' Data='0b00'/>I... I just thought we could fire off a
+  celebratory, one-cannon salute... <5 Type='1'/>
+  Also, the foreigner did it.
+Talk21: |
+  <3 Type='0' Data='0800'/>Hehehe!<5 Type='0'/> I'm allowed to fire the cannon
+  again! 
+  
+  This calls for a celebratory, one-cannon
+  salute, obviously! Now where should I
+  fire it...
+sys0004: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Ohhh nonononono...<5 Type='1'/> The...<5 Type='1'/>the wall...
+sys0017: |
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>I don't want to hear it, Barta!<FontSize Value='100'/>
+  
+  
+  If that cannon gets fired every time there
+  is something to celebrate, the town will
+  be leveled before long!
+  Until I say otherwise, you are forbidden
+  from even touching that thing!<FontSize Value='125'/><FontSize Value='100'/>
+near0000: |
+  Pick a target...
+Talk10: |
+  <FontSize Value='125'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Aaah! Be careful!<FontSize Value='100'/><0 Type='4'/><3 Type='0' Data='0900'/>Can't you tell when someone is deeply
+  focused on a dangerous task? Cannons
+  demand the utmost care when handling!
+  I may only be practicing right now,
+  but if my hand slipped, I could <0 Type='3' Data='0000'/>set off
+  the cannon<0 Type='3' Data='ffff'/>!
+  <3 Type='0' Data='0900'/>Don't talk to me again. It could be bad.
+  Really bad!
+sys0005: |
+  <FontSize Value='125'/><3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>HEY! Barta! What are you doing?!<0 Type='4'/><FontSize Value='100'/>This <0 Type='3' Data='0000'/>shelter<0 Type='3' Data='ffff'/> isn't just some hole in the
+  ground. It has historical significance!
+  What are you even...<FontSize Value='125'/><FontSize Value='100'/>
+sys0018: |
+  <3 Type='0' Data='0a00'/>What?! But...but I need to fire it...
+sys0006: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1000530063006100720065005f0030003000'/>I'm-I'm-I'm-I'm sorry!
+Talk11: |
+  <3 Type='0' Data='0800'/>OK, you Gibdo jerks! Do your worst!
+  
+  
+  I, the incredible Barta, am going to reduce
+  each and every one of you to dust!
+  
+  I've been training my body and mind while
+  we were underground, and I am ready to
+  wipe you out!
+sys0019: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>Ugh!<5 Type='0'/> Why?<5 Type='0'/> Why do you keep doing that?
+sys0007: |
+  <3 Type='0' Data='0900'/>We're done! I hope we never speak again!
+Talk12: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/>Center carefully...<5 Type='1'/>and FIRE!
+  Aim right for the noggin...<5 Type='1'/>and FIRE!
+  
+  Hehehe! I don't care what everyone else
+  says—<5 Type='1'/>Gibdos are still just monsters, and a
+  monster's head is always a weak point!
+sys0008: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Hey! Hey! This is your fault!
+  
+  
+  Just unbelievable!<5 Type='0'/> This is exactly why we
+  are so wary of foreigners!
+Talk13: |
+  <3 Type='0' Data='0800'/>Hehehe! It looks like you did just about as
+  well as me and my little friend here.
+  
+  Since you've been so helpful, I'll let you
+  fire off a one-cannon salute whenever
+  you like.
+sys0009: |
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Sa'oten!<5 Type='1'/><0 Type='4'/><FontSize Value='100'/>Deep...deep breaths, Liana...<FontSize Value='125'/><FontSize Value='100'/>
+Talk15: |
+  <3 Type='0' Data='0700'/>Powder? Check. <5 Type='0'/>Cannonball? Check.<5 Type='0'/> Aim
+  barrel at target? Check.<5 Type='0'/> Finally, start the
+  countdown.
+  <FontSize Value='80'/>Three...<5 Type='1'/>two...<5 Type='1'/>one...<FontSize Value='100'/>
+ThunderHelmet: |
+  I recognize that helm!
+sys0020: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Ohhh no...<5 Type='1'/> It...<5 Type='1'/>it went off...
+Talk16: |
+  <3 Type='0' Data='0900'/>What do you want?! I haven't forgotten
+  the trouble you got me into before!
+  
+  <3 Type='0' Data='0701'/>But... <5 Type='1'/>OK, if you defeat more enemies
+  than I do during this battle, I could see
+  my way to forgiving you.
+  <3 Type='0' Data='0c01'/>And I have to admit it—I really, really
+  enjoyed firing the cannon in the moment.
+  I've been itching to do it again.
+sys0021: |
+  <FontSize Value='125'/><3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>HEY! Barta!<FontSize Value='100'/><0 Type='4'/>This <0 Type='3' Data='0000'/>shelter<0 Type='3' Data='ffff'/> is an important piece of our
+  history! What are you doing firing that
+  off down here?!
+Talk17: |
+  <3 Type='0' Data='0900'/>You've got some nerve just walking up to
+  me like we're friends! I haven't forgotten
+  the trouble you got me into before!
+  <3 Type='0' Data='0701'/>But... <5 Type='1'/>OK, I'll admit that you really helped
+  in the battle against the Gibdos.
+  
+  And besides... I guess I owe you for
+  making me realize how much I'd enjoy
+  actually firing this cannon.
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>Since you've been so helpful, I'll let you
+  fire off a one-cannon salute whenever
+  you like.
+sys0010: |
+  <3 Type='0' Data='0900'/>You're much too dangerous to even
+  talk to!
+sys0011: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>What... What are you going to do about
+  that wall?!
+sys0012: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003100'/>How am I going to explain a blown-up wall
+  to Lady Riju...
+1001: |
+  Fire!
+sys0002: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/><FontSize Value='125'/>Fi— NO!<FontSize Value='100'/>
+sys0015: |
+  <FontSize Value='125'/><3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>HEY! Barta! What are you doing?<0 Type='4'/><FontSize Value='100'/>It's way too dangerous to fire that thing
+  off here!<FontSize Value='125'/><FontSize Value='100'/>
+Talk20: |
+  <3 Type='0' Data='0b00'/>Ah! Nuh uh, no! That cannon is off-limits.
+  
+  
+  <3 Type='0' Data='0801'/>I'm being very, very patient. Just waiting
+  for the day when I'm allowed to fire that
+  cannon again.
+  I can almost smell the smoke now.
+  Ooo, I'm so excited!

@@ -1,0 +1,226 @@
+Com_Talk_02c: |
+  <3 Type='0' Data='0800'/>OK...that transaction's finished.
+5507: |
+  I'll take them all!
+Com_Talk_02d: |
+  <3 Type='0' Data='0800'/>Sarqso... I bet my grandkid will like this.
+5508: |
+  All of them!
+talk0010: |
+  <3 Type='0' Data='0800'/>It really is nice to be back out under
+  the sun again. This view is what makes
+  Gerudo Town so special.
+  And there should be more customers too.
+  Now's the time to really go all out!
+  
+  I heard the new big thing is attaching all
+  kinds of stuff to arrows before you shoot
+  them, so I've really stocked up.
+  You don't see a shop this hip very often,
+  am I right?
+  
+  I've realized I need to be more accepting
+  of change.<5 Type='1'/> And that includes accepting
+  vai like you!
+shop_near00: |
+  You are...in the way...
+Com_Talk_50: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><0 Type='3' Data='ffff'/>That's <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>, you know.
+talk0011: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Sarqso... Why not buy some more?
+shop_near01: |
+  A little inconsiderate...
+talk0012: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0600530061006400'/>Now that I think about it, I don't see
+  Makure anywhere...<5 Type='0'/> She's supposed to
+  be helping me run the shop.
+  <3 Type='0' Data='0c01'/>I wonder if she's gone off with Kalani and
+  is eavesdropping on "<0 Type='3' Data='0000'/>voe and You<0 Type='3' Data='ffff'/>"<0 Type='3' Data='0000'/> in
+  the shelter<0 Type='3' Data='ffff'/> again...
+Com_Talk_52: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>So <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them... In that case,
+  it'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>!
+talk0013: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='08005300690067006800'/>Sarqso...
+Com_Talk_53: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0a005400680069006e006b00'/>What? Changed your mind?
+Com_Talk_05b: |
+  <3 Type='0' Data='0701'/>Is there anything else?
+talk0014: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='08005300690067006800'/>If you want to buy more, get on with it.
+Com_Talk_13: |
+  <3 Type='0' Data='0000'/>How many do you want to sell?
+Com_Talk_54: |
+  <3 Type='0' Data='0a00'/>Listen, little vai—you can't buy what
+  you can't pay for, no matter how special
+  you are.
+Com_Talk_05c: |
+  <3 Type='0' Data='0701'/>The sooner you pick something, the
+  sooner you can sell it...
+talk0015: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Sarqso... I'll be sure to restock them
+  for you.
+Com_Talk_14: |
+  <3 Type='0' Data='0000'/>So <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them... I'd say...<0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/><0 Type='3' Data='ffff'/>
+  <0 Type='3' Data='0000'/><201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. Sound good?
+Com_Talk_55: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Look at all this stuff you've already got
+  packed in your pouch.<5 Type='0'/> Make some space
+  before you buy anything.
+Com_Talk_05d: |
+  <3 Type='0' Data='0701'/>Have anything else you want to sell me?
+0000: |
+  Buy from me.
+talk0016: |
+  <3 Type='0' Data='0800'/>It really is nice to be back out under
+  the moon again. This view is what makes
+  Gerudo Town so special.
+  And there should be more customers too.
+  Now's the time to really go all out!
+  
+  I heard the new big thing is attaching all
+  kinds of stuff to arrows before you shoot
+  them, so I've really stocked up.
+  You don't see a shop this hip very often,
+  am I right?
+  
+  I've realized I need to be more accepting
+  of change.<5 Type='1'/> And that includes accepting
+  vai like you!
+Com_Talk_15: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0600530061006400'/>What is... I can't buy that from you.
+Com_Talk_56: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>Just one? In that case, it'll be
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+0001: |
+  Goodbye.
+talk0017: |
+  <3 Type='0' Data='0a00'/>I hate not being able to see the moon.
+  I'm ready to say sav'orq to this place.
+Com_Talk_16: |
+  <3 Type='0' Data='0900'/>I am not going to literally buy something
+  off you. Remove it, then we can talk.
+talk0000: |
+  <3 Type='0' Data='0701'/>Are you surprised to see such a hip shop
+  being run by someone my age?
+  
+  I heard the new big thing is attaching
+  all kinds of stuff to arrows before you
+  shoot them...
+  As a merchant, I've got to embrace
+  the popular trends with open arms.<5 Type='1'/>
+  However...
+  <3 Type='0' Data='0900'/>Under no circumstances will I introduce
+  a new Hylian vai to my granddaughters!
+  
+  outsiders bring nothing but misfortune to
+  young Gerudo!
+talk0001: |
+  <3 Type='0' Data='0a00'/>I hate not being able to see the sun.
+  I'm ready to say sav'orq to this place.
+Com_Talk_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Well then... What do you want to sell?
+GreetingAfter03: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='180043007500730074006f006d00560061007300610061007100'/>Vasaaq...
+  
+  
+  Given the choice between indoors and
+  outdoors, it's far better to test fire
+  arrows outside.
+talk0002: |
+  <3 Type='0' Data='0701'/>What? I haven't had a chance to restock
+  any of my items yet.
+  
+  That should be plenty obvious just from
+  looking at the display. Hang on...
+  
+  <3 Type='0' Data='0900'/>Are you here to meet my granddaughters?
+  Was I not clear before?
+  
+  You may be the chief's guest, but a Hylian vai
+  is still bad luck to young Gerudo!
+Com_Talk_01: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>You're selling that to me, then? It'll come
+  to <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. That OK?
+talk0003: |
+  <3 Type='0' Data='0701'/>Are you surprised to see such a hip shop
+  being run by someone my age?
+  
+  I heard the new big thing is attaching all
+  kinds of stuff to arrows before you shoot
+  them, so I've really stocked up.
+  Change isn't so bad, I guess.<5 Type='1'/> Maybe
+  I should be more accepting of new vai too.
+Com_Talk_02: |
+  <3 Type='0' Data='0700'/>Sarqso...
+talk0004: |
+  <3 Type='0' Data='0701'/>What? I haven't had a chance to restock
+  any of my items yet.
+  
+  That should be plenty obvious just from
+  looking at the display. Hang on...
+  
+  <3 Type='0' Data='0900'/>Are you here to meet my granddaughters?
+  Was I not clear before?
+  
+  <3 Type='0' Data='0701'/>Hmph. After all you did for us, I suppose
+  I shouldn't be so harsh...
+GreetingBefore03: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='180043007500730074006f006d00560061007300610061007100'/>Vasaaq...
+  
+  
+  I sell arrows, and I sell Chuchu jelly.
+  What do you think? A pretty sensible
+  combination, right?
+talk0005: |
+  <3 Type='0' Data='0700'/>What? Are you looking for a handout
+  or something?
+Com_Talk_04: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0600530061006400'/>You're pretty indecisive for a vai who's
+  just got here...
+talk0006: |
+  <3 Type='0' Data='0700'/>We Gerudo are open-minded enough
+  to honor our traditions while still being
+  accepting of new trends.
+  You clearly aren't a vai with a storm
+  cloud of misfortune following her around.
+  You can speak with my grandkids.
+Com_Talk_05: |
+  <3 Type='0' Data='0000'/>Make up your mind already.
+talk0007: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='08004300680061007400'/>You browsing or buying?
+talk0008: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='08004300680061007400'/>Are you satisfied?
+talk0009: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0600530061006400'/>Hm. <5 Type='0'/>Makure is supposed to be helping
+  me run the shop.
+  
+  <3 Type='0' Data='0c01'/>She better not be planning to eavesdrop
+  on "<0 Type='3' Data='0000'/>voe and You<0 Type='3' Data='ffff'/>" again...
+Com_Talk_31: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><0 Type='3' Data='ffff'/>OK. How many do you want?
+Com_Talk_33: |
+  <3 Type='0' Data='0000'/>Just one, right?<5 Type='0'/> In that case, it'll be
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+Com_Talk_34: |
+  <3 Type='0' Data='0701'/>All of them?<5 Type='0'/> There's <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them, so
+  that'll come to <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. That OK?
+Com_Talk_35: |
+  <3 Type='0' Data='0701'/>All of them? That'll come to <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/>
+  <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>, you know. That OK?
+5500: |
+  OK.
+5501: |
+  Never mind.
+5502: |
+  I'll buy.
+5503: |
+  Never mind.
+near0000: |
+  What? A stranger?
+near0001: |
+  Really hip, right?
+near0002: |
+  I've got to restock...
+Com_Talk_02b: |
+  <3 Type='0' Data='0800'/>This is pretty good quality.<5 Type='0'/> Sarqso.

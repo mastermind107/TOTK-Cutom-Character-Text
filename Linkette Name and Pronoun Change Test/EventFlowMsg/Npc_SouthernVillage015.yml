@@ -1,0 +1,61 @@
+talk0002: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>Sorry, I forgot an important rule of the
+  <0 Type='3' Data='0000'/>Secret Club<0 Type='3' Data='ffff'/>—everyone's business is
+  their own.
+  You'll be safe from the guards here, so
+  feel free to take all the time you need to
+  look at the things we sell.
+talk0003: |
+  <3 Type='0' Data='0301'/>That outfit... <5 Type='0'/>It would be best if the guards
+  didn't see you dressed that way.
+  
+  But besides that...
+talk0004: |
+  <3 Type='0' Data='0a01'/>The desert may be a warm place, but I
+  would really appreciate it if you'd wear
+  a little bit more clothing, OK?
+  But besides that...
+talk0005: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0a005400680069006e006b00'/>That outfit... <5 Type='0'/>It would be best if the guards
+  didn't see you dressed that way.
+  
+  Hm.
+talk0000: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003000'/>I was...not expecting a stranger to suddenly
+  appear right before my eyes. Nearly made
+  me jump out of my skin!
+  I should thank you though. I had a crick
+  in my back, but the shock of your arrival
+  seems to have fixed it!
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>My husband is a Hylian outsider too. Imagine
+  if he'd been the one suddenly appearing!
+  But obviously he isn't allowed into town...
+  Since it is customary for Gerudo to return
+  to town at a certain age, our daughter
+  and I moved back here...
+  <3 Type='0' Data='0301'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>I warned my husband—several times—that
+  outsiders were not allowed inside the town and
+  were sometimes jailed, but...
+  Well, he insisted on traveling with us all
+  the way here, and I saw him eyeing the
+  town walls when we parted ways.
+  <FontSize Value='80'/><0 Type='3' Data='0200'/><3 Type='0' Data='0c01'/>Wabbin... I wonder what you're up to right now...<5 Type='1'/><0 Type='3' Data='ffff'/><FontSize Value='100'/>
+  
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>Anyway, once you're done shopping,
+  you'd better get out of town before any
+  of the guards catch you.
+talk0001: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Oh, you're back? I'm surprised the guards
+  haven't found you. Normally they're pretty
+  good at catching intruders...
+  Usually when a outsider tries to sneak into
+  town, he's quickly caught by the guards
+  and thrown into <0 Type='3' Data='0000'/>jail<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>I won't turn you in, of course, but once
+  you're done shopping, you should get out
+  of town before the guards find you.
+  <3 Type='0' Data='0c01'/><0 Type='3' Data='0200'/><FontSize Value='80'/>Wow, I see another Hylian outsider and all I can think
+  about is my husband...
+  
+  Wabbin... What are you up to right now?<FontSize Value='100'/><0 Type='3' Data='ffff'/>

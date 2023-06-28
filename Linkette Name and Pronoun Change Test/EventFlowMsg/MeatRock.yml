@@ -1,0 +1,190 @@
+Talk_07: |
+  <3 Type='0' Data='0800'/>Rock roast is the greatest thing to happen
+  to Hyrule.
+  
+  Yes, indeed. It is the finest of edible
+  delicacies and a necessity for us Gorons.
+  
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/>I put down some tracks <0 Type='3' Data='ffff'/>so we could load
+  up on stock easily.
+  
+  But even with the tracks, it can be a
+  challenge for Gorons to collect rock roast.
+Talk_08: |
+  <3 Type='0' Data='0700'/>Welcome to Bedrock Bistro, a gourmet-
+  roast restaurant.
+Talk_09: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>What use could a Hylian have for
+  rock roast anyway?
+  
+  If you give me one, I'll treat you to
+  my finest <0 Type='3' Data='0000'/>cooking<0 Type='3' Data='ffff'/>. Pretty good trade,
+  if ya ask me.
+Talk_20: |
+  <3 Type='0' Data='0c00'/>Uh. <5 Type='0'/>Ma'am, <5 Type='1'/>your pouch is still full.
+  
+  
+  Our special dish is the <0 Type='3' Data='0000'/>seared gourmet
+  steak<0 Type='3' Data='ffff'/>. Come on back once you've made
+  space in your pouch.
+  <3 Type='0' Data='0800'/>I want to treat you to our specialty!
+Talk_10: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>I see... You don't have any <0 Type='3' Data='0000'/>rock roast<0 Type='3' Data='ffff'/>,
+  do you.
+  
+  Well, if you happen upon some and
+  bring it my way, I'll treat you to our
+  <0 Type='3' Data='0000'/>special dish<0 Type='3' Data='ffff'/>.
+Talk_11: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0a005400680069006e006b00'/>I can't help but smell it...
+  
+  
+  <3 Type='0' Data='0101'/>You've got <0 Type='3' Data='0000'/>rock roast<0 Type='3' Data='ffff'/>. If you provide it to
+  me, I'll whip up our <0 Type='3' Data='0000'/>special dish <0 Type='3' Data='ffff'/>for you.
+0000: |
+  Rock roast?
+Talk_00: |
+  <3 Type='0' Data='0800'/>Welcome to Bedrock Bistro.
+  
+  
+  Ours is the finest restaurant in Hyrule,
+  specializing in gourmet roasts.
+  
+  Whether you're a Goron or Hylian, I have
+  every confidence you'll be salivating
+  for more.
+  If you're hankerin' for a steak, please
+  order directly from the grill.
+  
+  <3 Type='0' Data='0700'/>I have to say, I'm relieved you're a Hylian.
+  
+  
+  Right now, <0 Type='3' Data='0000'/>rock roast <0 Type='3' Data='ffff'/>is in short supply,
+  and I don't know if I have enough to keep
+  up with demand for the Gorons.
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003000'/>I can't go get supplies myself at the
+  moment, so I'm in a bit of a bind.
+Talk_13: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0a005400680069006e006b00'/>By the way, I couldn't help notice...
+  
+  
+  <3 Type='0' Data='0101'/>You've got an interesting thing goin' on
+  with that rock roast.
+  
+  In that state, I wouldn't be able to use it
+  in my cooking.
+  
+  But if you happen to have any untainted
+  rock roast, then I'd be happy if you gave
+  it to me.
+  <3 Type='0' Data='0800'/>In exchange, I'd cook you our
+  <0 Type='3' Data='0000'/>special dish<0 Type='3' Data='ffff'/>!
+0001: |
+  Goodbye.
+Talk_01: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Even if I sell out of the Hylian
+  ingredients, I can restock 'em quickly.
+  
+  Right now it's <0 Type='3' Data='0000'/>rock roast <0 Type='3' Data='ffff'/>that's in short
+  supply. I don't know if I have enough to
+  keep up with demand for the Gorons.
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003000'/>I can't go get supplies myself at the
+  moment, so I'm in a bit of a bind.
+Talk_14: |
+  <3 Type='0' Data='0700'/>You're really rockin' it, walkin' around
+  with that rock roast, you know that?
+  
+  I wouldn't have a cooking use for it in
+  that state.
+  
+  But if you happen to have any untainted
+  rock roast, then I'd be happy if you gave
+  it to me!
+  <3 Type='0' Data='0800'/>In exchange, I'd cook you our
+  <0 Type='3' Data='0000'/>special dish<0 Type='3' Data='ffff'/>!
+0002: |
+  Here you go.
+Talk_02: |
+  <3 Type='0' Data='0700'/>If you're hankerin' for something, please
+  order directly from the grill.
+  
+  I have to say, I'm relieved you're a Hylian.
+  
+  
+  Right now, <0 Type='3' Data='0000'/>rock roast <0 Type='3' Data='ffff'/>is in short supply,
+  and I don't know if I've got enough to
+  keep up with demand for the Gorons.
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003000'/>I can't go get supplies myself at the
+  moment, so I'm in a bit of a bind.
+Talk_15: |
+  <3 Type='0' Data='0c00'/>Hm. <5 Type='0'/>Ma'am, <5 Type='1'/>your pouch is full.
+  
+  
+  Our special dish, which I'd love to provide
+  to you, is <0 Type='3' Data='0000'/>seared gourmet steak<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0700'/>I'll take this rock roast off your hands,
+  so please come back once you've made
+  space in your pouch.
+  I want to treat you to our special dish!
+0003: |
+  I'm keeping this.
+Talk_03: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Oh, ma'am! That <0 Type='3' Data='0000'/>rock roast<0 Type='3' Data='ffff'/> there! Could I
+  have it?
+  
+  If you give it to me, I'll whip up our
+  <0 Type='3' Data='0000'/>special dish<0 Type='3' Data='ffff'/> just for you.
+Talk_16: |
+  <3 Type='0' Data='0700'/>Ah, you're the customer who brought
+  me the rock roast.
+  
+  Did you make space in your pouch?
+0004: |
+  You can buy from me.
+Near_00: |
+  Nothin' finer 'n rock roast.
+Talk_04: |
+  <3 Type='0' Data='0800'/>Wonderful, thank you so much! To show
+  my gratitude, here is the special dish
+  I promised.
+Talk_17: |
+  <3 Type='0' Data='0800'/>Thanks for bringing me the rock roast.<5 Type='0'/>
+  Did you make space in your pouch?
+0005: |
+  I made space.
+Talk_18: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Come on back once you've made space in
+  your pouch!
+  
+  I'll treat you to our special dish, <0 Type='3' Data='0000'/>seared
+  gourmet steak<0 Type='3' Data='ffff'/>!
+Talk_05: |
+  <3 Type='0' Data='0700'/>I don't have enough <0 Type='3' Data='0000'/>rock roast<0 Type='3' Data='ffff'/>. Bring me
+  more and I'll whip you up something nice!
+Talk_06: |
+  <3 Type='0' Data='0800'/>Welcome to Bedrock Bistro.
+  
+  
+  Ours is the finest restaurant in all of
+  Eldin. Wait, no... All of Hyrule! Here we
+  specialize in gourmet roasts.
+  Whether you're a Goron or Hylian, I have
+  every confidence you'll be salivating
+  for more.
+  <3 Type='0' Data='0700'/>I have to say, I'm relieved you're a Hylian.
+  
+  
+  Y'see, right now <0 Type='3' Data='0000'/>rock roast <0 Type='3' Data='ffff'/>is in short
+  supply, and I don't know if I have enough
+  to keep up with demand for the Gorons.
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003000'/>I can't go get supplies myself at the
+  moment, so I'm in a bit of a bind.
+  
+  <3 Type='0' Data='0700'/>And...I'm sorry, but we're also sold out of
+  food for Hylians... But I should be able to
+  get some pretty soon here.
+  You'll just need to wait awhile.
+Talk_19: |
+  <3 Type='0' Data='0700'/>Superb! Here's that special dish
+  as thanks!

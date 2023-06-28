@@ -1,0 +1,139 @@
+near0000: |
+  There's nothin' else I need.
+near0001: |
+  Company-store special!
+Com_Talk_13: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0001'/><0 Type='3' Data='ffff'/>How many you gonna sell?
+Com_Talk_14: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0001'/><0 Type='3' Data='ffff'/>For <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>, I can give <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.<5 Type='0'/> Deal?
+5500: |
+  Yes.
+Com_Talk_15: |
+  <3 Type='0' Data='0c00'/>I...<5 Type='0'/>can't buy that!
+5501: |
+  No.
+Com_Talk_16: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0600530061006400'/>If you wanna sell your clothing, you
+  should take it off first!<5 Type='1'/> Yeesh, they're
+  all wrinkled and everything.
+5502: |
+  Buy.
+5503: |
+  Never mind.
+Com_Talk_50: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0001'/><4 Type='0' Data='10004700720065006500740069006e006700'/><0 Type='3' Data='ffff'/>One will cost you only <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.<5 Type='0'/>
+  Buy it!
+5507: |
+  I'll buy them all.
+NakedPlayer: |
+  We got a live one!
+5508: |
+  I'll sell them all.
+Com_Talk_52: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0001'/><0 Type='3' Data='ffff'/>That's...<2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> in total. You're looking at
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.<5 Type='0'/> Wanna buy?
+Com_Talk_53: |
+  <3 Type='0' Data='0a00'/>Yer missin' out!
+Com_Talk_54: |
+  <3 Type='0' Data='0a00'/>You don't have enough rupees!<5 Type='0'/> I can't
+  give you a lower price than this.
+Com_Talk_55: |
+  <3 Type='0' Data='0c00'/>ma'am, your pouch is full.<5 Type='0'/> Try tossing or
+  selling some of your stuff.
+0000: |
+  Buy my stuff.
+Com_Talk_02b: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I'll be taking that, then.
+Com_Talk_56: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><0 Type='3' Data='ffff'/>At our price, one is <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>!<5 Type='0'/> Buy?
+0001: |
+  Goodbye.
+Com_Talk_02c: |
+  <3 Type='0' Data='0800'/>Business is boomin'!
+Com_Talk_05b: |
+  <3 Type='0' Data='0001'/>What else ya got?
+talk0000: |
+  <3 Type='0' Data='0700'/>President Yunobo asked me to start up
+  a <0 Type='3' Data='0000'/>ruby shop<0 Type='3' Data='ffff'/>, so I did.
+  
+  But I don't care about rubies. I care about
+  <0 Type='3' Data='0000'/>marbled rock roast<0 Type='3' Data='ffff'/>.
+Com_Talk_00: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/><4 Type='0' Data='10004700720065006500740069006e006700'/>We've got a low-price guarantee here, and
+  we'll buy from you at the normal price—
+  that's the YunoboCo-store way!
+Com_Talk_02d: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/>I'll keep buying!
+Com_Talk_05c: |
+  <3 Type='0' Data='0001'/>I'll buy it all!
+talk0001: |
+  <3 Type='0' Data='0c00'/>Now that I think about it, I don't even
+  know why I gave such a hoot about
+  marbled rock roast.
+  President Yunobo went through the 
+  trouble of prepping this stall for me,
+  and I was letting it go to waste.
+Com_Talk_01: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0001'/><0 Type='3' Data='ffff'/>That's <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. How about it?
+Com_Talk_05d: |
+  <3 Type='0' Data='0001'/>Come on, sell me somethin'!
+talk0002: |
+  <3 Type='0' Data='0700'/>I don't mean to disrespect President
+  Yunobo, but working at the <0 Type='3' Data='0000'/>ruby shop<0 Type='3' Data='ffff'/>
+  is a waste of time.
+  I don't care about rubies. I care about
+  <0 Type='3' Data='0000'/>marbled rock roast<0 Type='3' Data='ffff'/>.
+Com_Talk_02: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0e00430061006c006c00460061007200'/>Thanks a million!
+Com_Talk_31: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0701'/><0 Type='3' Data='ffff'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Freshly harvested <0 Type='3' Data='0000'/>rubies<0 Type='3' Data='ffff'/>!<5 Type='0'/> How many will
+  you take?
+talk0003: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>YunoboCo stores can always offer<0 Type='3' Data='0000'/> half
+  the normal price<0 Type='3' Data='ffff'/>! Come again before we
+  sell out.
+talk0004: |
+  <3 Type='0' Data='0800'/>Thanks for the business! We're always
+  just waitin' for you to come back.
+Com_Talk_04: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Oh?<5 Type='0'/> I was ready to buy and everything...
+Com_Talk_33: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0001'/><0 Type='3' Data='ffff'/>For one...that'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.<5 Type='0'/> Deal?
+talk0005: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>From here on out, we've got a new
+  business approach—sell, sell, and sell
+  some more!
+Com_Talk_05: |
+  <3 Type='0' Data='0001'/>I'll buy anything!
+Com_Talk_34: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0001'/><0 Type='3' Data='ffff'/>That's every one I have!<5 Type='0'/> For <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>, that's
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>! Buy, buy, buy!
+talk0006: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>YunoboCo stores can always offer <0 Type='3' Data='0000'/>half
+  the normal price<0 Type='3' Data='ffff'/>!
+  
+  We sell out quickly, just like now, so yer
+  best bet is to snap things up just as soon
+  as we get our stock back!
+Com_Talk_35: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0001'/><0 Type='3' Data='ffff'/>You'll sell all <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of them?<5 Type='0'/> How's about
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>?
+talk0007: |
+  <3 Type='0' Data='0800'/>You can only buy ore at these kind of
+  prices at YunoboCo stores!
+talk0008: |
+  <3 Type='0' Data='0800'/>Thanks for the business! We'll
+  restock soon.
+talk0009: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Welcome to the ruby shop!<5 Type='1'/> We're open
+  for business again.
+talk0010: |
+  <3 Type='0' Data='0900'/>My precious stones go there—not yer
+  filthy feet!
+talk0011: |
+  <3 Type='0' Data='0700'/>President Yunobo asked me to start up
+  a new ruby shop.
+  
+  But now's no time for work.<5 Type='1'/> All I've
+  got time for is this incredible <0 Type='3' Data='0000'/>marbled
+  rock roast<0 Type='3' Data='ffff'/>.

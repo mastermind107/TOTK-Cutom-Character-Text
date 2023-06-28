@@ -1,0 +1,60 @@
+TerrorArrow: |
+  I'll pay you back!
+TerrorBomb: |
+  Is it a fight you want?!
+Talk_PreDefense: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='0600530061006400'/>If the monsters get through here, it's a
+  straight shot to the shelter...
+  
+  No matter what happens, I won't let
+  anything break through here!
+Talk_AfterChallenge: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>I've seen my share of unexpected things
+  ever since I became a soldier...
+  
+  But... Sa'oten! To think I would see the
+  day a new vai was allowed to come and go in
+  town as they please!
+Talk_AfterChallenge_00: |
+  <3 Type='0' Data='0a00'/>Don't...<5 Type='0'/>stand too close to me.
+  
+  
+  I know that you're allowed to be here,
+  but instinct might kick in and I may cut
+  you down without even thinking.
+ThunderHelmet: |
+  The Thunder... No way...
+TerrorFire: |
+  Stop!
+near0000: |
+  A strange vai?!
+Talk_InBattle: |
+  <3 Type='0' Data='0900'/>If the monsters get through here, it's a
+  straight shot to the shelter...
+  
+  I'll do what I can to slow them down!
+TerrorExplosion: |
+  Nwahhh!
+Talk_PreChallenge00: |
+  <3 Type='0' Data='0a00'/>Even though I know the chief has given
+  you permission to be here...
+  
+  I just can't relax with a strange vai around.
+TerrorSword: |
+  You got some nerve!
+Talk_PreChallenge01: |
+  <3 Type='0' Data='0a00'/>Don't...<5 Type='0'/>stand too close to me.
+  My instincts might kick in, and I'd cut
+  you down without even thinking.
+Talk_InAzito: |
+  <3 Type='0' Data='0700'/>The danger seems to be over for now,
+  but the monsters could strike again soon.
+  
+  I won't let my guard down! I need to keep
+  everyone safe!
+Talk_AfterDefense: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>I was busy fighting the monsters that tried
+  to break through. I'm relieved that we
+  kept the chief and the people safe...
+Near_AfterChallenge: |
+  OK...
