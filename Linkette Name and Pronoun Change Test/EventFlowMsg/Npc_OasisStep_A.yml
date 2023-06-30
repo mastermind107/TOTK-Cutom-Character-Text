@@ -8,7 +8,7 @@ talk0000: |
   Really, the only way into jail is to <0 Type='3' Data='0000'/>break
   our rules<0 Type='3' Data='ffff'/>.
   
-  foreigners are normally not allowed inside our
+  voe new outsiders are normally not allowed inside our
   town—the one in jail broke that rule, so
   he's locked up.
   And, even though you have permission
@@ -16,14 +16,14 @@ talk0000: |
   
   you'll join him in jail.
 talk0010: |
-  <4 Type='0' Data='100041006e006700720079005f0030003100'/>Thief! Seize him!
+  <4 Type='0' Data='100041006e006700720079005f0030003100'/>Thief! Seize her!
 talk0020: |
   <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>Wait a minute!
 talk0001: |
   <3 Type='0' Data='0900'/>I already told you that's the jail cell.
   The only way to end up in there is by
   <0 Type='3' Data='0000'/>breaking the rules<0 Type='3' Data='ffff'/> of Gerudo Town!
-  foreigners are normally not allowed inside
+  voe and new outsiders are normally not allowed inside
   Gerudo Town—the one in jail broke that
   rule, so he's locked up.
   And, even though you have permission
@@ -32,7 +32,7 @@ talk0001: |
   You'll join him in jail.
 talk0011: |
   Wait...<0 Type='4'/><3 Type='0' Data='0400'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Now that I look closely... You're the
-  vai from before!
+  voe from before!
   
   <3 Type='0' Data='0200'/>Do you realize you're dressed like a
   member of a group that intends us harm?
@@ -84,7 +84,7 @@ talk0003: |
   <3 Type='0' Data='0900'/><4 Type='0' Data='180057006f0072006b00480065006100760079005f0030003000'/>Get out of there before anyone sees you!<5 Type='0'/>
   Come on!
 talk0013: |
-  <4 Type='0' Data='100041006e006700720079005f0030003100'/>Hey, voe! <5 Type='1'/>You can't just walk around
+  <4 Type='0' Data='100041006e006700720079005f0030003100'/>Hey, vai! <5 Type='1'/>You can't just walk around
   like that!
 talk0004: |
   <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Wh— Again?!<0 Type='4'/><FontSize Value='100'/>How do you keep getting in there?
@@ -133,7 +133,7 @@ talk0008: |
   <3 Type='0' Data='0900'/>You scoundrel! Breaking our laws... Maybe
   a little time in there will do you good.
 talk0018: |
-  <3 Type='0' Data='0901'/>Listen, I know you're a special outsider, but
+  <3 Type='0' Data='0901'/>Listen, I know you're a special vai, but
   that doesn't mean you can do whatever
   you want.
   If you're planning on coming into town,
