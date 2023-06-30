@@ -1,0 +1,107 @@
+0001: |
+  Here's some acorns.
+0002: |
+  I'll leave you to it.
+Talk_20: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Well! You're a new face round here, if I'm
+  any judge. Welcome to Hateno Pasture!
+Talk_01: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>You here to buy <0 Type='3' Data='0000'/>fresh milk<0 Type='3' Data='ffff'/>, wanderer?
+Talk_21: |
+  <3 Type='0' Data='0a01'/>My daughter, Koyin, is always out staring
+  into that pond, so I doubt she'd be any
+  help gathering acorns.
+Talk_11: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>I was keeping it squirreled away, <5 Type='0'/>but no
+  reason to be a miser about it now.<0 Type='4'/><3 Type='0' Data='0701'/>I better go mix up a batch of feed right
+  away now that I got some more acorns.<0 Type='4'/><3 Type='0' Data='0101'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>If you ever want more fresh milk, I'll swap
+  you some for <0 Type='3' Data='0000'/>three acorns<0 Type='3' Data='ffff'/>. <5 Type='0'/>Call it a
+  special trade, just for you.
+near_01: |
+  Hmm...
+0005: |
+  That's right.
+Talk_12: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Sure you are. The milk from my cows is
+  the best in Hateno! The secret's in the
+  special feed I make for 'em.<0 Type='4'/><3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003100'/>Except I've been havin' trouble getting my
+  hands on <0 Type='3' Data='0000'/>acorns <0 Type='3' Data='ffff'/>to mix up any more of it.<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0001'/>There used to be tons of acorns all over
+  the ground in the <0 Type='3' Data='0000'/>forest out back<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0c01'/>No idea where they all went. Probably the
+  <0 Type='3' Data='0000'/>squirrels<0 Type='3' Data='ffff'/> started takin' over and grabbing
+  them all for themselves.<0 Type='4'/>Sometimes they'll drop the acorns they
+  carry in their cheeks if you startle 'em,
+  but they're quick little critters.<0 Type='4'/><3 Type='0' Data='0a01'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>I need at least <0 Type='3' Data='0000'/>three acorns<0 Type='3' Data='ffff'/> to make my
+  special feed, so it's a real problem for me.
+Talk_22: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0c005300610064005f0030003100'/>There used to be tons of acorns all over
+  the ground in the forest out back.<0 Type='4'/><FontSize Value='80'/>Dadgum <0 Type='3' Data='0000'/>squirrels<0 Type='3' Data='ffff'/>...<FontSize Value='100'/>
+Talk_02: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Come to buy some fresh milk, wanderer?<5 Type='0'/><0 Type='4'/>Hate to be the bearer of bad news, <5 Type='0'/>but
+  right now I don't have any <0 Type='3' Data='0000'/>fresh milk<0 Type='3' Data='ffff'/> to
+  offer you.<0 Type='4'/><3 Type='0' Data='0c01'/>I've been havin' some trouble getting my
+  hands on the acorns I mix into the cows'
+  special feed.<0 Type='4'/>If it's milk you're after, <5 Type='0'/>they might still
+  have some out at the general store.<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0a01'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>*sigh* <5 Type='0'/>If I just had <0 Type='3' Data='0000'/>three<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>acorns<0 Type='3' Data='ffff'/>, I could
+  mix up another batch of feed...<5 Type='0'/>
+0006: |
+  Nope.
+Talk_13: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Don't tell me you haven't heard of my
+  farm's <0 Type='3' Data='0000'/>fresh milk<0 Type='3' Data='ffff'/>! <5 Type='0'/>It's the best in Hateno!<0 Type='4'/>The secret's in the special feed I make for
+  my cows. <5 Type='0'/>It gives their milk an extra li'l
+  something you don't get anywhere else.<0 Type='4'/><3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003100'/>Except I've been havin' trouble getting my
+  hands on <0 Type='3' Data='0000'/>acorns <0 Type='3' Data='ffff'/>to mix up any more of it.<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0001'/>There used to be tons of acorns all over
+  the ground in the <0 Type='3' Data='0000'/>forest out back<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0c01'/>No idea where they all went. <5 Type='0'/>Probably the
+  <0 Type='3' Data='0000'/>squirrels<0 Type='3' Data='ffff'/> started takin' over and grabbing
+  them all for themselves.<0 Type='4'/>Sometimes they'll drop the acorns they
+  carry in their cheeks if you startle 'em,<5 Type='0'/>
+  but they're quick little critters.<0 Type='4'/><3 Type='0' Data='0a01'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>I need at least <0 Type='3' Data='0000'/>three acorns<0 Type='3' Data='ffff'/> to make my
+  special feed, <5 Type='0'/>so it's a real problem for me.
+near_02: |
+  What a pickle...
+Talk_03: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0a005400680069006e006b00'/>There used to be tons of acorns all over
+  the ground in the <0 Type='3' Data='0000'/>forest out back<0 Type='3' Data='ffff'/>.<0 Type='4'/><FontSize Value='80'/>Dadgum <0 Type='3' Data='0000'/>squirrels<0 Type='3' Data='ffff'/>, breedin' left and right...<0 Type='4'/>Maybe if I startle 'em, they'll drop the acorn they
+  got in their cheeks. But they're some quick li'l
+  critters...how'm I supposed to get close?<FontSize Value='100'/>
+near_03: |
+  Gotta mix that feed...
+Talk_14: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0600530061006400'/>Hate to be the bearer of bad news, but
+  right now I don't have any <0 Type='3' Data='0000'/>fresh milk<0 Type='3' Data='ffff'/> to
+  offer you.<0 Type='4'/>If I just had <0 Type='3' Data='0000'/>three<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>acorns<0 Type='3' Data='ffff'/>, I could mix up
+  another batch of feed...
+Talk_04: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0c004c0061007500670068005300'/>I appreciate the sentiment, but I'll need
+  more than a kind gesture. It takes at least
+  <0 Type='3' Data='0000'/>three acorns<0 Type='3' Data='ffff'/> to mix their feed, y'see.<0 Type='4'/>There used to be tons of acorns all over
+  the ground in the <0 Type='3' Data='0000'/>forest out back<0 Type='3' Data='ffff'/>, but
+  darned if I can find any now.
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0600530061006400'/><FontSize Value='80'/>Dadgum <0 Type='3' Data='0000'/>squirrels<0 Type='3' Data='ffff'/>, breedin' left and right...<0 Type='4'/>Maybe if I startle 'em, they'll drop the acorns they
+  got in their cheeks. But they're some quick li'l
+  critters...how'm I supposed to get close?<FontSize Value='100'/>
+Talk_15: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Nothing like morning air on a farm, eh?
+Talk_05: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>No foolin'? Well, I'm not gonna look a gift
+  horse in the mouth. Not with me at my
+  wit's end and all.<0 Type='4'/>I don't know if this rightly makes up for it,
+  but have a bottle on me.
+Talk_16: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Love to get some sun. Don't my cows look
+  happy to be out sunbathing?
+Talk_17: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='0c004c0061007500670068005300'/>When'd it get so dark out?
+Talk_07: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0c004e006f007400690063006500'/>Excuse me, ma'am. I wanted to give you some
+  of our <0 Type='3' Data='0000'/>fresh milk <0 Type='3' Data='ffff'/>in exchange, but I think
+  your pouch is full.<0 Type='4'/>While I appreciate the thought, <5 Type='0'/>I can't
+  accept these for free.<0 Type='4'/>Why don't you take your acorns back for
+  now and see me again after you've made
+  some room?
+Talk_18: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='0c004c0061007500670068005300'/>Didn't think I'd be getting any visitors in
+  this rain!
+Talk_19: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Time for me and the cows both to hit
+  the hay.

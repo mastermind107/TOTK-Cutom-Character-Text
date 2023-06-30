@@ -1,0 +1,57 @@
+near_02: |
+  Gotta make more feed...
+Talk_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>I really can't thank you enough for helping
+  me make my special cow feed.<0 Type='4'/>Why don't you bring me <0 Type='3' Data='0000'/>three more
+  acorns<0 Type='3' Data='ffff'/>? There'd be another bottle of
+  <0 Type='3' Data='0000'/>fresh milk<0 Type='3' Data='ffff'/> in it for you.<0 Type='4'/>And that offer's not open to just anyone,
+  y'understand. Don't go telling tales, now.
+Talk_47: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>Whew...<5 Type='0'/>sorry for the ruckus. I wasn't
+  expecting anybody else here.<0 Type='4'/>Welcome to Hateno Pasture. <5 Type='0'/>Feel free to
+  say hi to the cows, so long as you don't
+  rile 'em.
+near_03: |
+  Time to make the feed.
+Talk_02: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Thanks to your help, I got to mix more of
+  my special feed. I'm happy, the cows are
+  happy, everyone's happy.<0 Type='4'/>Oh, <5 Type='0'/>and if you bring me <0 Type='3' Data='0000'/>three more
+  acorns<0 Type='3' Data='ffff'/>, there'd be another bottle of
+  <0 Type='3' Data='0000'/>fresh milk <0 Type='3' Data='ffff'/>in it for you.
+Talk_03: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0600530061006400'/>Time was, you could find acorns all over
+  the ground in the forest out back.<0 Type='4'/><FontSize Value='80'/>Dadgum <0 Type='3' Data='0000'/>squirrels<0 Type='3' Data='ffff'/>...<FontSize Value='100'/>
+Talk_04: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='0c004e006f007400690063006500'/>Whoopsie! Sorry, but I do need three
+  acorns and no less.<0 Type='4'/>I'd be happy to set you up with some
+  <0 Type='3' Data='0000'/>fresh milk<0 Type='3' Data='ffff'/>. Just as soon as you bring me
+  <0 Type='3' Data='0000'/>three<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>acorns<0 Type='3' Data='ffff'/>.
+Talk_05: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>That's three acorns, sure enough. Here
+  you go! Our special-brand fresh milk.
+Talk_11: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Thanks, wanderer. Any ol' time you wanna
+  bring me some acorns, I'd appreciate it.
+Talk_12: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Well, if it isn't Acorn Girl! Round this
+  farm, you're a VIP, far as I'm concerned.<0 Type='4'/>Here to trade three acorns for a bottle
+  of our fresh milk again?
+Talk_06: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Whoopsie! Your pouch is full. You've got
+  all you can carry, looks like.<0 Type='4'/>I'll keep this fresh milk for you while you
+  make some space for it.
+Talk_13: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Oh, you interested in trading three acorns
+  for our fresh milk again?
+Talk_14: |
+  <3 Type='0' Data='0701'/>Anyways... You here to trade <0 Type='3' Data='0000'/>three acorns<0 Type='3' Data='ffff'/>
+  for our <0 Type='3' Data='0000'/>fresh milk<0 Type='3' Data='ffff'/> again?
+0001: |
+  Here's some acorns.
+near_01: |
+  The cows seem happy.
+0002: |
+  Goodbye.
+Talk_46: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/><FontSize Value='125'/>Gaaah!<FontSize Value='100'/>

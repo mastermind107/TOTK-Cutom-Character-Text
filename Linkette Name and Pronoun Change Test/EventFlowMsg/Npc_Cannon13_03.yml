@@ -1,0 +1,90 @@
+0001: |
+  I'm in a hurry. Sorry.
+0002: |
+  What's going on again?
+Talk_10: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Yes, ma'am?
+0003: |
+  Never mind.
+Talk_01: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Y...<5 Type='0'/>you...<5 Type='1'/> What are you doing in a place
+  like this?!
+  
+  <3 Type='0' Data='0701'/>No,<5 Type='0'/> no, it doesn't matter.<5 Type='1'/> Could you just
+  help me?
+Talk_11: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>You're my last hope.<5 Type='1'/> Please, do
+  something, <5 Type='0'/>I'm begging you...
+Talk_02: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>I set off a trap in the ruins, and now I'm
+  stuck.<5 Type='1'/> Oh,<5 Type='0'/> what a mess...
+Talk_12: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>Ma'am!<5 Type='1'/> Please! Save me!
+Talk_13: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>Thank you!<5 Type='1'/> I knew you'd rescue me!
+  
+  
+  <3 Type='0' Data='0101'/>I don't have much, but... <5 Type='1'/>Please.<5 Type='0'/>
+  Take this.
+Near_01: |
+  Whoa!
+Talk_04: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Can you see a <0 Type='3' Data='0000'/>switch<0 Type='3' Data='ffff'/>?<5 Type='1'/> If you press that,
+  you should be able to get me out of this.
+Talk_14: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003100'/>That is what lured me into the trap.
+  I don't even want to look at it anymore.<5 Type='0'/>
+  Do whatever you want with it.
+  <3 Type='0' Data='0b01'/>Wait!<5 Type='1'/> I don't have time to chat!
+  
+  
+  <3 Type='0' Data='0801'/>I have urgent business at the tower,<5 Type='0'/> so I
+  have to go.<5 Type='1'/> Thanks again!
+Near_02: |
+  Heeey!
+Talk_15: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Hello there, ma'am! <5 Type='1'/>Thanks again for
+  saving me.
+  
+  <3 Type='0' Data='0701'/>I was only in the area in the first place to
+  do maintenance on the tower.
+  
+  <3 Type='0' Data='0101'/>The terminal wasn't making anything
+  happen due to the humidity, <5 Type='0'/>but I fixed
+  it in a jiffy.
+Talk_06: |
+  <3 Type='0' Data='0701'/>There's a <0 Type='3' Data='0000'/>cave entrance <0 Type='3' Data='ffff'/>over there.<5 Type='1'/>
+  I got in that way.
+Near_03: |
+  Hello again!
+Talk_16: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Unfortunately,<5 Type='1'/> getting stuck caused all
+  kinds of delays.<5 Type='0'/> I need to hurry to
+  the next Skyview Tower.
+  <3 Type='0' Data='0301'/>I probably caused trouble for my friends
+  at the construction company, so I'm going
+  to get moving as soon as I calm down.
+Near_04: |
+  <FontSize Value='80'/>He...lp...<FontSize Value='100'/>
+Talk_07: |
+  <3 Type='0' Data='0801'/>I'm begging you, ma'am!<5 Type='1'/> I'll just be
+  waiting here, trusting you...
+Talk_17: |
+  <3 Type='0' Data='0800'/>Thanks for pressing the switch! I can
+  finally find my way out of here.
+  
+  I got myself caught in that trap pretty
+  badly and had no way to escape.
+  
+  <3 Type='0' Data='0700'/>This is all I've got right now, but I want
+  you to have it.
+Near_05: |
+  <FontSize Value='80'/>Anyon...ere? Please...<FontSize Value='100'/>
+Talk_08: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='1c0055006e0063006f006e007300630069006f00750073005f0030003000'/>I...<5 Type='0'/> Wait, really? <5 Type='1'/>If...if you leave me here,<5 Type='0'/>
+  I don't know what will happen to me...
+Talk_09: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>I'm begging you.<5 Type='1'/> Could you <5 Type='0'/>please<5 Type='0'/>
+  help me?
+0000: |
+  What's wrong?

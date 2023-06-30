@@ -5,14 +5,14 @@ Talk_14: |
 NakedPlayer_01: |
   Where are your clothes?
 Talk_15: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>How goes it, Linkette?
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>How goes it, Rinkuru?
 NakedPlayer_02: |
   It takes all kinds, I guess.
 Talk_16: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>How goes it, Linkette? Getting dark out here,
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>How goes it, Rinkuru? Getting dark out here,
   isn't it?
 Talk_17: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>How goes it, Linkette? You're out pretty late,
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>How goes it, Rinkuru? You're out pretty late,
   you know!
 Talk_18: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>What are you doing out in the rain? Go
@@ -37,12 +37,12 @@ Talk_20: |
 Talk_21: |
   <3 Type='0' Data='0701'/>Keep your wits about you.
 Talk_22: |
-  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Linkette, look!<0 Type='4'/>You see those Gerudo? They're here to
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Rinkuru, look!<0 Type='4'/>You see those Gerudo? They're here to
   defend Lookout Landing with us.<0 Type='4'/>Gerudo soldiers are the best of the best.
   With them on our side, we'll have no
   problem keeping this place safe!
 BlackZelda_01: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Linkette! <5 Type='0'/>Did you hear that rumor about
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Rinkuru! <5 Type='0'/>Did you hear that rumor about
   Princess Zelda?<0 Type='4'/>They're saying she was spotted at
   Hyrule Castle.
 TerrorSword: |
@@ -61,23 +61,23 @@ BlackZelda_02: |
   no luck.<0 Type='4'/>You might be able to see something
   with <0 Type='3' Data='0000'/>Purah's telescope<0 Type='3' Data='ffff'/> though...
 Talk_24: |
-  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Linkette! At last you come talk to me!<0 Type='4'/>This whole time, I never stopped keeping
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Rinkuru! At last you come talk to me!<0 Type='4'/>This whole time, I never stopped keeping
   my eye out for you.
 BlackZelda_03: |
   <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>There's a rumor going around that
   Princess Zelda was spotted at
   Hyrule Castle.
 Talk_25: |
-  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Linkette, you're here! We've all been hoping
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Rinkuru, you're here! We've all been hoping
   that you'd return!<0 Type='4'/>I've watched for any sign of you this
   whole time!
 BlackZelda_04: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>By the way, Linkette! <5 Type='0'/>Did you hear that rumor
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>By the way, Rinkuru! <5 Type='0'/>Did you hear that rumor
   about Princess Zelda?<0 Type='4'/>They're saying she was spotted at
   Hyrule Castle.
 Talk_26: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>I'm sure Purah is glad to have you
-  back, Linkette.
+  back, Rinkuru.
   
   Now we'll bring Princess Zelda back, too,
   <5 Type='0'/>whatever it takes!
@@ -91,7 +91,7 @@ Talk_28: |
 Near_01: |
   Could it be?
 Talk_00: |
-  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Linkette?<0 Type='4'/>It's you! You're back!<0 Type='4'/><FontSize Value='100'/><3 Type='0' Data='0b01'/><FontSize Value='125'/>Wh-where have you been?!<FontSize Value='100'/>
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Rinkuru?<0 Type='4'/>It's you! You're back!<0 Type='4'/><FontSize Value='100'/><3 Type='0' Data='0b01'/><FontSize Value='125'/>Wh-where have you been?!<FontSize Value='100'/>
 0000: |
   Lookout Landing?
 Talk_29: |
@@ -122,7 +122,7 @@ Talk_02: |
   Goodbye.
 Talk_31: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>We'll put everything we've got into things
-  here, Linkette.
+  here, Rinkuru.
   
   Anything we can do to support you and
   Purah in finding the princess, <5 Type='0'/>we'll do it!
@@ -195,5 +195,5 @@ Talk_12: |
   Where do you think she is? Still in that
   dangerous <0 Type='3' Data='0000'/>area under Hyrule Castle<0 Type='3' Data='ffff'/>?
 Talk_13: |
-  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>L-Linkette, you're here! We've all been hoping
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>R-Rinkuru, you're here! We've all been hoping
   that you'd return!

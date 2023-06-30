@@ -1,0 +1,154 @@
+Near_GoRange_02: |
+  I can't go alone.
+RestPoint_01: |
+  <3 Type='0' Data='0700'/>It's essential that you're prepared to
+  encounter a monster at any time.<0 Type='4'/>You can do that by staying well-rested,
+  staying <0 Type='3' Data='0000'/>stocked-up on food<0 Type='3' Data='ffff'/>, and making
+  sure your <0 Type='3' Data='0000'/>weapons are combat-ready<0 Type='3' Data='ffff'/>.
+  These little preparations can make all the
+  difference when you're in harm's way.
+Near_BackRange_01: |
+  You can't be too careful.
+StartPoint_01_2: |
+  <3 Type='0' Data='0700'/>Fighting isn't just about physical strength
+  and skill. It's also about <0 Type='3' Data='0000'/>knowing more<0 Type='3' Data='ffff'/>
+  than your opponent.
+  That's why I read the <0 Type='3' Data='0000'/>newspaper<0 Type='3' Data='ffff'/>. You
+  never know what you might need to
+  know someday.
+GoalPoint_01_2: |
+  <3 Type='0' Data='0c00'/>I heard there's a big picture drawn on the
+  ground up <0 Type='3' Data='0000'/>north<0 Type='3' Data='ffff'/>. A <0 Type='3' Data='0000'/>geoglyph<0 Type='3' Data='ffff'/>—<5 Type='0'/>that's what
+  they call it.
+  But you know what else they've got up
+  in those snowfields? No roads and no
+  places to hide!
+  Plus, I hear there's a huge <0 Type='3' Data='0000'/>monster <0 Type='3' Data='ffff'/>with
+  <0 Type='3' Data='0000'/>three heads<0 Type='3' Data='ffff'/>... <5 Type='1'/>Yeesh!
+  
+  <3 Type='0' Data='0700'/>I'll go someday, but I think I better bulk
+  up a little first.
+Near_BackRange_02: |
+  Watch for snowballs.
+GoRange_01: |
+  <3 Type='0' Data='0800'/>Oh yeah, I've got some info to share!<0 Type='4'/>Have you seen those monsters with one
+  large eye? They'll <0 Type='3' Data='0000'/>chase after any enemy
+  they catch sight of<0 Type='3' Data='ffff'/>.
+  If only we could use their <0 Type='3' Data='0000'/>eyeballs as
+  weapons<0 Type='3' Data='ffff'/>. Seems like the other eyeballs
+  I plucked from enemies are good for that.
+GoRange_02: |
+  <3 Type='0' Data='0700'/>You know, some <0 Type='3' Data='0000'/>monsters <0 Type='3' Data='ffff'/>just set up a
+  <0 Type='3' Data='0000'/>large base <0 Type='3' Data='ffff'/>nearby.<0 Type='4'/>Ever since I heard about that, I've been
+  dreaming about going in there and taking
+  'em all out!
+  <3 Type='0' Data='0301'/>But if I tried that today, I think I'd be
+  dead before I reached the entrance.
+  
+  <3 Type='0' Data='0700'/>So, I gotta train up and learn combat
+  strategies, like how to assess enemies'
+  moves and time my attacks!
+  When I'm done with all that, I'll be those
+  monsters' worst nightmare!
+Near_GoalPoint_01: |
+  I want to see a geoglyph!
+Near_StartPoint_01: |
+  Learn all you can.
+Near_RestPoint_01: |
+  Make sure to rest.
+talk00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Hey, you're <5 Type='0'/>the guy from that time with
+  the All-Clucking Cucco! <5 Type='1'/>Thanks for getting
+  all that sorted out.
+  <3 Type='0' Data='0000'/>Since then, I've been traveling all over,
+  trying to get strong enough to decide my
+  own path through life.
+  <3 Type='0' Data='0801'/>Maybe running into each other is a sign
+  I'm doing things right!<5 Type='0'/> I'm going to be just
+  as strong as you someday, I swear it.
+Greeting: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Oh...<5 Type='0'/> You're the guy from that time with
+  the All-Clucking Cucco. Glad to see you
+  looking well.
+  I'm here in Hebra to get stronger.
+  Training in cold weather is the best way
+  to bulk up my muscles—<5 Type='0'/>and my spirit!
+StartPoint_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Fighting monsters takes strength and
+  skill, yes, but also <0 Type='3' Data='0000'/>knowledge<0 Type='3' Data='ffff'/>. That's why
+  I read the <0 Type='3' Data='0000'/>newspaper <0 Type='3' Data='ffff'/>every day.
+  <3 Type='0' Data='0801'/>You never know. <5 Type='0'/>A trivial-seeming scrap
+  of information might just be what saves
+  your skin!
+GoRange_01_2: |
+  <3 Type='0' Data='0800'/>They say that monsters with one large eye
+  will <0 Type='3' Data='0000'/>chase down any enemy they catch in
+  their sights<0 Type='3' Data='ffff'/>.
+  One day, I'll be strong enough to try <0 Type='3' Data='0000'/>using
+  one of those big eyes as a weapon<0 Type='3' Data='ffff'/>!
+GoRange_02_2: |
+  <3 Type='0' Data='0700'/>Good fighting's all about strategy. You
+  gotta watch your opponents' moves, and
+  time your attacks!
+  <3 Type='0' Data='0300'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>At least, that's what I've heard...
+  I'm not even strong enough to take
+  a Bokoblin.
+  Let alone all the monsters in that
+  stronghold near here...
+  
+  <3 Type='0' Data='0700'/>But! No point getting down in the dumps
+  about it. I've got training to do!
+GoalPoint_01: |
+  <3 Type='0' Data='0c00'/>I heard there's a big picture drawn on the
+  ground up <0 Type='3' Data='0000'/>north<0 Type='3' Data='ffff'/>. A <0 Type='3' Data='0000'/>geoglyph<0 Type='3' Data='ffff'/>—<5 Type='0'/>that's what
+  they call it.
+  But you know what else they've got up
+  north? No roads and a huge <0 Type='3' Data='0000'/>monster<0 Type='3' Data='ffff'/>
+  with <0 Type='3' Data='0000'/>three heads<0 Type='3' Data='ffff'/>!
+  So I'm conflicted. If that thing found me,
+  I'm not sure how long I'd last.
+RestPoint_01_2: |
+  <3 Type='0' Data='0700'/>I consider rest to be a key part of combat.
+  I mean it!<0 Type='4'/>It's a chance to think about the battle
+  ahead. How strong are your enemies?
+  What terrain will you be fighting on?
+  Most importantly, <0 Type='3' Data='0000'/>what food will you bring<0 Type='3' Data='ffff'/>
+  and <0 Type='3' Data='0000'/>how will you prepare your weapons<0 Type='3' Data='ffff'/>?<0 Type='4'/>If you don't rest, you'll never get to ask
+  yourself these essential questions!
+BackRange_01: |
+  <3 Type='0' Data='0700'/>Be careful exploring the caves around
+  here. Sometimes they have monsters
+  camped out inside.
+  I learned that the hard way. Once I
+  walked into a cave, only to be greeted
+  by a full-blown Bokoblin ambush.<0 Type='4'/>Not recommended!
+BackRange_01_2: |
+  <3 Type='0' Data='0700'/>Be careful. There's a cave nearby that's
+  absolutely packed with monsters.
+BackRange_02_2: |
+  <3 Type='0' Data='0700'/>A stationary snowball, that's one thing.
+  But a <0 Type='3' Data='0000'/>snowball <0 Type='3' Data='ffff'/>with momentum? Deadly!
+  
+  If you're not careful, a <0 Type='3' Data='0000'/>flying monster<0 Type='3' Data='ffff'/>
+  might <0 Type='3' Data='0000'/>rain one down <0 Type='3' Data='ffff'/>on you before you
+  can dodge out of the way.
+  So be vigilant, OK? Eyes up!
+BackRange_02: |
+  <3 Type='0' Data='0700'/>Watch out for <0 Type='3' Data='0000'/>snowballs <0 Type='3' Data='ffff'/>out here. Deadly!
+  I'm not kidding!
+  
+  You get hit by one rolling down a hill?
+  Lights out!
+  
+  A <0 Type='3' Data='0000'/>monster <0 Type='3' Data='ffff'/>flying overhead <0 Type='3' Data='0000'/>pelts you
+  with one<0 Type='3' Data='ffff'/>? Sweet dreams, sword girl!
+  
+  <3 Type='0' Data='0c00'/>Or, in the fleeting chance you survive...<5 Type='0'/>
+  you'll be too embarrassed to tell anyone
+  what happened.
+Near_RainPoint_01: |
+  Hm, this weather.
+Near_Rain: |
+  Brr! Chilly!
+Near_GoRange_01: |
+  Would that work?

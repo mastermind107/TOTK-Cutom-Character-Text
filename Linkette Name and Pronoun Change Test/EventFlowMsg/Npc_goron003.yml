@@ -1,0 +1,174 @@
+talk15: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Enjoy your rest until night!
+0009: |
+  A massage?
+talk16: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Mornin'! Come back whenever you wanna
+  rest those weary bones.
+talk17: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Mornin'! Er, afternoon! I woke you up just
+  when you asked me to.
+  
+  Come back whenever you wanna rest
+  those weary bones.
+talk18: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Mornin'! Er, evenin'! Nighttime wake up,
+  just as you requested.
+  
+  Come back whenever you wanna rest
+  those weary bones.
+talk19: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Mornin'!
+  
+  
+  Good rest and good massage, eh?
+  
+  
+  You slept like a rock! I could hardly get
+  you to wake up this morning.
+  
+  Come back any ol' time.
+0010: |
+  Fireproof gear?
+talk08: |
+  <3 Type='0' Data='0100'/>A bed will cost ya <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/>. <5 Type='1'/>If you wanna
+  throw in a Goron massage, that'll run ya
+  <0 Type='3' Data='0000'/>50 rupees<0 Type='3' Data='ffff'/>.
+0011: |
+  Goodbye.
+talk09: |
+  <3 Type='0' Data='0a00'/>Aw, I was hopin' you'd try the massage.
+0000: |
+  A bed.
+talk20: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Afternoon!
+  
+  
+  Good rest and good massage, eh?
+  
+  
+  You slept like a rock! I could hardly get
+  you to wake up this afternoon.
+  
+  Come back any ol' time.
+Talk_00: |
+  <3 Type='0' Data='0a00'/>I'm sick of trying to get customers to
+  go inside...
+  
+  It's not nearly hot enough for <0 Type='3' Data='0000'/>fireproof
+  gear<0 Type='3' Data='ffff'/>. Nobody's gonna buy it right now.
+0001: |
+  A bed and massage.
+talk21: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Evenin'!
+  
+  
+  Good rest and good massage, eh?
+  
+  
+  You slept like a rock! I could hardly get
+  you to wake up this evening.
+  
+  Come back any ol' time.
+Talk_01: |
+  <3 Type='0' Data='0800'/>Welcome to the clothing shop! <5 Type='1'/>Wait, wait.
+  No, I mean the inn!
+  
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0600530061006400'/>Oh no...<5 Type='0'/> I did it again.
+  
+  
+  Y'see, I used to work at a clothing shop,
+  so I still get mixed up.
+  
+  The previous innkeep, Tray, is retiring,
+  and I've taken on the business.
+  
+  But if I can't even remember what kinda
+  shop I'm runnin', I've got a long way
+  to go...
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>But I'll do a good job, eventually! I made
+  a promise to Tray. That's why, ma'am...
+  
+  I'd like...<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>I'd like you to be my first customer!
+  
+  
+  I give a killer massage too! You won't
+  regret it!
+0002: |
+  Never mind.
+talk22: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>ma'am, is this your first time hearing about
+  Goron massages?<5 Type='0'/>
+  
+  <3 Type='0' Data='0100'/>We administer the massage on a hard
+  rock bed,<5 Type='0'/> and we apply a lot of pressure
+  to loosen the muscles.
+  <3 Type='0' Data='0800'/>But it doesn't hurt one bit.<5 Type='0'/> Just lie back
+  and relax.
+  
+  You'll wake up refreshed, rejuvenated,
+  and restored! The three magic Rs!
+Talk_02: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Thanks for stopping by!
+  
+  
+  Now then, ma'am, would you like a massage?
+  Or would you like a bed?
+0003: |
+  Until morning.
+talk10: |
+  <3 Type='0' Data='0a00'/>ma'am... <5 Type='0'/>You can't sleep in one of our beds
+  if you don't have the money.
+Talk_03: |
+  <3 Type='0' Data='0700'/>Up until a couple years ago, Death
+  Mountain was super active and erupting.
+  
+  It's the reason Goron City was so hot and
+  flowing with lava.
+  
+  A little Hylian like you would've been
+  cooked to a crisp!
+  
+  <3 Type='0' Data='0a00'/>So we always sold <0 Type='3' Data='0000'/>fireproof gear<0 Type='3' Data='ffff'/> for folks
+  such as yourself, but now the only places
+  hot enough for it are the <0 Type='3' Data='0000'/>caves<0 Type='3' Data='ffff'/>.
+  Our sales have hit rock bottom...
+0004: |
+  Until noon.
+talk11: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>How long do you wanna sleep for?
+Talk_04: |
+  <3 Type='0' Data='0900'/>Trying to get customers is such a pain.
+  If you want anything, though, you should
+  talk to Rogaro inside.
+0005: |
+  Until night.
+talk12: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>A bed and a massage, you got it! How
+  long do you wanna rest for?
+Talk_05: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Welcome.
+  
+  
+  I ALMOST said, "Welcome to the clothing
+  shop," but then I didn't!
+  
+  See? I'm gettin' better!
+  
+  
+  <3 Type='0' Data='0800'/>Y'know, I learned my massagin' skills from
+  ol' Tray himself. Stay here and you'll feel
+  limber and well rested!
+0006: |
+  Never mind.
+talk13: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Enjoy your rest until morning!
+Near_01: |
+  Clothing, er, rest this way!
+NakedPlayer: |
+  We don't sell clothes here.
+talk14: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Enjoy your rest until noon!
