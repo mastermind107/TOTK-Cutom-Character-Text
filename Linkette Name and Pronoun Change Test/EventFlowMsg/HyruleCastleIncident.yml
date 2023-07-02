@@ -40,7 +40,7 @@ talk_Goron033_10: |
   It never rains in Goron City, so I get really
   excited when it happens.
 talk_1_87: |
-  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Linkette? Is that you?<5 Type='1'/> You're alive! <3 Type='0' Data='0801'/>And all in
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Rinkuru? Is that you?<5 Type='1'/> You're alive! <3 Type='0' Data='0801'/>And all in
   one piece, it looks like.
   
   Does that mean <0 Type='3' Data='0000'/>Princess Zelda<0 Type='3' Data='ffff'/> is
@@ -91,7 +91,7 @@ talk_1_31: |
   be complete.
 talk_2_1: |
   <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Welcome back! That was some good
-  gliding up there, Linkette. I expected
+  gliding up there, Rinkuru. I expected
   nothing less.
   So,<5 Type='0'/> how did it go? Did you get a proper
   <0 Type='3' Data='0000'/>map scan<0 Type='3' Data='ffff'/>?
@@ -116,7 +116,7 @@ talk_1_32: |
   Talk to him to see how you can help out.
   You must reach the princess quickly if
   she's there.
-  <3 Type='0' Data='0700'/>I'm counting on you, Linkette!
+  <3 Type='0' Data='0700'/>I'm counting on you, Rinkuru!
 talk_2_2: |
   <3 Type='0' Data='0800'/><4 Type='0' Data='2000440065007400650072006d0069006e006100740069006f006e005f0030003000'/>Good. That <0 Type='3' Data='0000'/>map<0 Type='3' Data='ffff'/> is crucial to our search.
   
@@ -174,7 +174,7 @@ talk_2_41: |
   appearances of the princess.
 talk_HighMountain009_04: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>If I could, I'd fly you to <0 Type='3' Data='0000'/>Hyrule Castle<0 Type='3' Data='ffff'/>
-  myself, Linkette.
+  myself, Rinkuru.
   
   But we have a responsibility to this place.
   We have to stay here and protect it.
@@ -274,7 +274,7 @@ talk_ZoraFencer_23: |
   locations of the <0 Type='3' Data='0000'/>geoglyphs<0 Type='3' Data='ffff'/> and search
   every corner of them to find out.
 New01_01_talk003: |
-  <3 Type='0' Data='0700'/>Linkettey, welcome back. So? Any news from
+  <3 Type='0' Data='0700'/>Rinkury, welcome back. So? Any news from
   the Depths?
   
   <3 Type='0' Data='0c01'/>At this point, you've gathered the five
@@ -288,7 +288,7 @@ New01_01_talk003: |
   to nothing.
   We have to find him, and quickly.
 talk_1_39: |
-  <3 Type='0' Data='0400'/><4 Type='0' Data='260050007500720061006800540061006c006b0053006500720069006f00750073005f0030003000'/>Linkette! Well? Did you find anything?
+  <3 Type='0' Data='0400'/><4 Type='0' Data='260050007500720061006800540061006c006b0053006500720069006f00750073005f0030003000'/>Rinkuru! Well? Did you find anything?
 talk61: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='200050007500720061006800540061006c006b0053006500720069006f0075007300'/>Welcome back. Looks like it was
   pretty tough.
@@ -414,7 +414,7 @@ talk_Goron011_13: |
   rumbleboom just like President Yunobo
   someday!
 New01_01_talk007: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Linkette, the rest is up to you.
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Rinkuru, the rest is up to you.
 talk_Goron011_14: |
   <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Oh, <5 Type='0'/>it's President Yunobo's friend! It feels
   like it's been a while!
@@ -526,7 +526,7 @@ talk_1_54: |
   We must inform Purah about this as soon
   as possible!
   
-  <3 Type='0' Data='0700'/>Linkette, I apologize for the burden, but can
+  <3 Type='0' Data='0700'/>Rinkuru, I apologize for the burden, but can
   you be the messenger and let her know?
   
   There's a lot of us up here, so it will take
@@ -579,7 +579,7 @@ talk_1_58: |
   
   
   We'll ask the captain for the details. You'd
-  better hurry to see Purah, Linkette!
+  better hurry to see Purah, Rinkuru!
 0001: |
   Chasm?
 talk_3_31: |
@@ -607,14 +607,14 @@ talk80: |
   
   The Master Sword is the key to defeating
   the Demon King. You need to do whatever
-  it takes to find it, Linkettey.
+  it takes to find it, Rinkury.
   <3 Type='0' Data='0700'/>Princess Zelda entrusted us with her
   final wishes.
   
   We can't let them come to nothing.
 talk_1_59: |
   <3 Type='0' Data='0400'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>We'll ask the captain for the details. You'd
-  better hurry to see Purah, Linkette!
+  better hurry to see Purah, Rinkuru!
 0002: |
   ...
 talk_3_32: |
@@ -655,7 +655,7 @@ New01_02_talk001: |
   deepest reaches of the Depths<0 Type='3' Data='ffff'/>...
   Far <0 Type='3' Data='0000'/>beneath Hyrule Castle<0 Type='3' Data='ffff'/>.<5 Type='1'/>
   <3 Type='0' Data='0000'/>As usual, you're one step ahead
-  of me, Linkette!
+  of me, Rinkuru!
   
   <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>And you look so calm and collected,
   despite what you were up against.
@@ -687,7 +687,7 @@ talk83: |
   to believe...
   <3 Type='0' Data='0701'/>However...<5 Type='1'/>
 talk_3_35: |
-  <3 Type='0' Data='0700'/>Hey, Linkette. You all set? I just wrapped up
+  <3 Type='0' Data='0700'/>Hey, Rinkuru. You all set? I just wrapped up
   here myself.
 talk84: |
   <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>And it was found on the head of a white
@@ -730,7 +730,7 @@ talk_3_37: |
   I've already activated the <0 Type='3' Data='0000'/>Skyview Tower<0 Type='3' Data='ffff'/>.
   So now it's time to go woosh!
 talk_2_12: |
-  <3 Type='0' Data='0700'/>Oh, and before I forget, Linkette.
+  <3 Type='0' Data='0700'/>Oh, and before I forget, Rinkuru.
   
   
   We've asked the Lucky Clover Gazette to
@@ -755,7 +755,7 @@ talk102: |
   Of all the stories you've told, this one has
   to be the most outlandish.<5 Type='1'/> But I guess I've
   got no choice but to believe you.
-  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Linkettey.<5 Type='0'/> Fantastic work!<5 Type='0'/>
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Rinkury.<5 Type='0'/> Fantastic work!<5 Type='0'/>
   
   
   This is HUGE. The <0 Type='3' Data='0000'/>sage Mineru<0 Type='3' Data='ffff'/>...<5 Type='0'/> You
@@ -787,7 +787,7 @@ talk103: |
   <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Incredible! That means we have the
   five sages!
   
-  Fantastic work, Linkette!
+  Fantastic work, Rinkuru!
   
   
   <3 Type='0' Data='0701'/>I can't believe this is actually one of the
@@ -807,7 +807,7 @@ talk103: |
   
   <5 Type='1'/>...
 talk87: |
-  <3 Type='0' Data='0700'/>Linkettey! Welcome back.
+  <3 Type='0' Data='0700'/>Rinkury! Welcome back.
   
   
   And the Master Sword?<5 Type='1'/> Any luck?<5 Type='1'/>
@@ -836,7 +836,7 @@ talk88: |
   <3 Type='0' Data='0c01'/>So, the sage's name is <0 Type='3' Data='0000'/>Mineru<0 Type='3' Data='ffff'/>.<5 Type='1'/> And there
   are clues at the Zonai Ruins in Faron...<5 Type='1'/>
   I see.
-  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Linkettey!<5 Type='0'/> Fantastic work!<5 Type='0'/> This is a
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Rinkury!<5 Type='0'/> Fantastic work!<5 Type='0'/> This is a
   huge development.
   
   I'm sure you'll find the <0 Type='3' Data='0000'/>sage Mineru<0 Type='3' Data='ffff'/>!
@@ -862,7 +862,7 @@ talk89: |
   <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Incredible! That means we have the
   five sages!
   
-  Fantastic work, Linkette!
+  Fantastic work, Rinkuru!
   
   
   <3 Type='0' Data='0701'/>I can't believe this is actually one of the
@@ -894,12 +894,12 @@ talk_1_72: |
 talk_2_17: |
   <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>I'm counting on you to <0 Type='3' Data='0000'/>check out the
   major phenomena<0 Type='3' Data='ffff'/> that are troubling
-  regions around Hyrule, Linkette.
+  regions around Hyrule, Rinkuru.
   We'll find Princess Zelda, one way
   or another!
 talk_1_73: |
   <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I keep looking at you, and you keep
-  looking like Linkette.
+  looking like Rinkuru.
   
   I bet if <0 Type='3' Data='0000'/>Captain Hoz<0 Type='3' Data='ffff'/> saw you, he'd
   be so startled he might even fall off
@@ -939,7 +939,7 @@ talk_oasis007_11: |
   
   <3 Type='0' Data='0c00'/>I have to say, I'm rather proud of it!
 talk_1_75: |
-  <3 Type='0' Data='0b00'/>You saw that, too, Linkette?
+  <3 Type='0' Data='0b00'/>You saw that, too, Rinkuru?
   
   
   You saw Princess Zelda turn into light
@@ -1112,7 +1112,7 @@ talk_3_2: |
   <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>That should do it.
 talk_2_33: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>I'm leaving it to you to continue
-  <0 Type='3' Data='0000'/>investigating the phenomena<0 Type='3' Data='ffff'/>, Linkettey!
+  <0 Type='3' Data='0000'/>investigating the phenomena<0 Type='3' Data='ffff'/>, Rinkury!
   
   Together, we'll find Princess Zelda!
 talk_Goron033_09: |
@@ -1157,13 +1157,13 @@ talk_1_90: |
   Please, you must tell Purah about what
   happened here as soon as possible.
 talk_1_29: |
-  <3 Type='0' Data='0700'/>Sorry about this, Linkettey. I'll fix it up quick,
+  <3 Type='0' Data='0700'/>Sorry about this, Rinkury. I'll fix it up quick,
   so just hang tight.
   
   In the meantime, why don't you rest up?
   You must be pretty tired.
 talk_3_4: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>OK, Linkette! Your turn!
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>OK, Rinkuru! Your turn!
 talk_2_35: |
   <3 Type='0' Data='0b00'/>What! <5 Type='1'/>You're telling me <5 Type='0'/>you already
   finished investigating all four regions?
@@ -1271,7 +1271,7 @@ talk54: |
   I believe that her voice is a clue to
   her revival.
   
-  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>If that's true, Linkette,<5 Type='1'/> then all you have to do
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>If that's true, Rinkuru,<5 Type='1'/> then all you have to do
   is follow what the voice tells you!
 talk_ZoraFencer_17: |
   <3 Type='0' Data='0700'/>It was found at <0 Type='3' Data='0000'/>Illumeni Plateau<0 Type='3' Data='ffff'/> in
@@ -1335,7 +1335,7 @@ talk_1_40: |
 talk_Goron011_08: |
   <3 Type='0' Data='0800'/>We only laze sometimes!
 talk_1_41: |
-  <FontSize Value='80'/><0 Type='3' Data='0200'/><3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>L-<5 Type='1'/>Linkette? No...<5 Type='1'/>it can't be him.<0 Type='3' Data='ffff'/><5 Type='1'/><FontSize Value='100'/>
+  <FontSize Value='80'/><0 Type='3' Data='0200'/><3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>R-<5 Type='1'/>Rinkuru? No...<5 Type='1'/>it can't be her.<0 Type='3' Data='ffff'/><5 Type='1'/><FontSize Value='100'/>
   
   
   <3 Type='0' Data='0701'/>I can't allow anyone past here.
@@ -1355,11 +1355,11 @@ talk_HighMountain009_10: |
 talk_1_42: |
   <3 Type='0' Data='0700'/>Hey! This area is off-limits while we
   conduct our search for Princess Zelda
-  and Linkette.
+  and Rinkuru.
   You can't just come wandering in here
   like that.<5 Type='1'/>
   
-  <3 Type='0' Data='0b00'/>Linkette? It's you?!
+  <3 Type='0' Data='0b00'/>Rinkuru? It's you?!
   
   
   I'm sorry! I had no idea that you
@@ -1480,7 +1480,7 @@ talk_ZoraFencer_33: |
   There is no doubt that this impostor is
   the same wretch who loosed the sludge
   monster upon King Dorephan.
-  <3 Type='0' Data='0000'/><4 Type='0' Data='0c005300610064005f0030003100'/>Linkette.<5 Type='1'/> I know it is far too little too late,
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0c005300610064005f0030003100'/>Rinkuru.<5 Type='1'/> I know it is far too little too late,
   and I dearly wish I had voiced this sooner,
   but... I am so sorry for doubting you.
   If we end up battling the Demon King,<5 Type='0'/>
@@ -1516,7 +1516,7 @@ talk_HighMountain009_19: |
   before it was all wrapped up.
   I imagine<5 Type='0'/> if he'd been attempting it solo,
   he'd still be at it. But the task is done
-  now, thanks to you, Linkette.
+  now, thanks to you, Rinkuru.
   <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>So,<5 Type='0'/> he's on vacation now, huh?<5 Type='1'/> I'm sure
   he's resting his wings on <0 Type='3' Data='0000'/>Washa's Bluff<0 Type='3' Data='ffff'/>.
   
@@ -1559,7 +1559,7 @@ talk148: |
   <3 Type='0' Data='0800'/><4 Type='0' Data='260050007500720061006800540061006c006b0053006500720069006f00750073005f0030003000'/>This was Princess Zelda's wish. One she
   believed in so strongly that she gave her
   life to see it through. For us...
-  Thank you for finding the sword,<5 Type='1'/> Linkette.
+  Thank you for finding the sword,<5 Type='1'/> Rinkuru.
 talk_3_26: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='2000440065007400650072006d0069006e006100740069006f006e005f0030003000'/>I'll be observing from the <0 Type='3' Data='0000'/>research lab<0 Type='3' Data='ffff'/>.
 talk_ZoraFencer_38: |
@@ -1601,13 +1601,13 @@ talk_3_29: |
   on to the <0 Type='3' Data='0000'/>map<0 Type='3' Data='ffff'/>.
 talk_1_60: |
   <3 Type='0' Data='0400'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I had no idea that you'd come back,
-  Linkette. Does that mean we can call off
+  Rinkuru. Does that mean we can call off
   the search?<5 Type='1'/>
   Well,<5 Type='1'/> please talk to <0 Type='3' Data='0000'/>Captain Hoz<0 Type='3' Data='ffff'/>—he's
   at the <0 Type='3' Data='0000'/>first gatehouse at the end of
   this road<0 Type='3' Data='ffff'/>.
 talk_1_61: |
-  <3 Type='0' Data='0100'/>Huh... You're the spitting image of Linkette.
+  <3 Type='0' Data='0100'/>Huh... You're the spitting image of Rinkuru.
   
   
   I bet if <0 Type='3' Data='0000'/>Captain Hoz<0 Type='3' Data='ffff'/> saw you, he'd
@@ -1678,7 +1678,7 @@ talk_1_11: |
 talk_oasis007_06: |
   <3 Type='0' Data='0800'/>I am glad to see you're safe, Lady Riju.
 talk91: |
-  <3 Type='0' Data='0700'/>Linkettey, welcome back.
+  <3 Type='0' Data='0700'/>Rinkury, welcome back.
   
   
   Did you find out where the
@@ -1708,7 +1708,7 @@ talk92: |
   <3 Type='0' Data='0c00'/><4 Type='0' Data='260050007500720061006800540061006c006b0053006500720069006f00750073005f0030003000'/>All that's left now is to find the
   Master Sword.
 New01_02_talk011: |
-  <3 Type='0' Data='0801'/><4 Type='0' Data='0c005300610064005f0030003100'/>Thank you, Linkette.<5 Type='1'/> So much.
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0c005300610064005f0030003100'/>Thank you, Rinkuru.<5 Type='1'/> So much.
 0014: |
   Understood!
 talk_oasis007_08: |
@@ -1718,7 +1718,7 @@ talk_oasis007_08: |
   So? Curious about my <0 Type='3' Data='0000'/>weapon
   enhancement<0 Type='3' Data='ffff'/>?
 talk93: |
-  <3 Type='0' Data='0700'/>Linkettey, welcome ba—<5 Type='1'/>
+  <3 Type='0' Data='0700'/>Rinkury, welcome ba—<5 Type='1'/>
   
   
   <3 Type='0' Data='0400'/>Hang on. That looks an awful lot like...<5 Type='1'/>
@@ -1857,7 +1857,7 @@ talk43: |
   The soldiers and I can't make our way
   over there, no matter what we do.
   
-  I'm sorry, Linkettey. I'm always putting you
+  I'm sorry, Rinkury. I'm always putting you
   through the wringer, huh?
   
   <3 Type='0' Data='0701'/>I'll wait here. You come on back with the
@@ -1891,7 +1891,7 @@ talk_ZoraFencer_07: |
   I dearly wish that our King Sidon will not
   have to experience any such sorrow.
 talk_1_84: |
-  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Linkette! Did you meet with Purah?
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Rinkuru! Did you meet with Purah?
 talk_2_29: |
   <3 Type='0' Data='0b00'/>What!<5 Type='1'/> You've<5 Type='0'/> already finished
   investigating the Hebra, Eldin,

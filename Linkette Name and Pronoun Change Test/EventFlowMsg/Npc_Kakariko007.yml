@@ -41,7 +41,7 @@ talk0015: |
   Would you do me a favor and stop by to
   see <0 Type='3' Data='0000'/>Lady Paya<0 Type='3' Data='ffff'/>?
 talk_0008: |
-  <3 Type='0' Data='0500'/><4 Type='0' Data='0c004e006f007400690063006500'/>Is that you, Linkette?
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0c004e006f007400690063006500'/>Is that you, Rinkuru?
   
   
   I've been a light sleeper ever since
@@ -91,7 +91,7 @@ talk0019: |
   <3 Type='0' Data='0700'/>I... <5 Type='1'/>I...
   
   
-  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>L-<5 Type='1'/>Linkette?!<FontSize Value='100'/>
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>R-<5 Type='1'/>Rinkuru?!<FontSize Value='100'/>
   
   
   Why are you wearing that awful mask?!
@@ -140,7 +140,7 @@ talk_0016: |
   I'm being too pushy? Or overbearing?
   No, best to wait it out...
 talk_0017: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Linkette?
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Rinkuru?
   
   
   If you can't sleep, try a <0 Type='3' Data='0000'/>soft bed <0 Type='3' Data='ffff'/>at the
@@ -170,17 +170,17 @@ talk_0021: |
 Ballon_03: |
   What to do first...
 talk_0022: |
-  <3 Type='0' Data='0700'/>Ah, Linkette, pardon me.
+  <3 Type='0' Data='0700'/>Ah, Rinkuru, pardon me.
   
   
   <3 Type='0' Data='0a01'/>I'm sorry, but <0 Type='3' Data='0000'/>Lady Paya<0 Type='3' Data='ffff'/> is still deep in
   discussion with the Zonai Survey Team.
 Talk_Greeting_01: |
-  <3 Type='0' Data='0700'/>Ah, Linkette. You're up early.
+  <3 Type='0' Data='0700'/>Ah, Rinkuru. You're up early.
 Ballon_04: |
   Left it out again.
 Talk_Greeting_02: |
-  <3 Type='0' Data='0700'/>Ah, Linkette.
+  <3 Type='0' Data='0700'/>Ah, Rinkuru.
 Ballon_05: |
   Are they already asleep?
 0004: |
@@ -198,7 +198,7 @@ talk_0024: |
   In the end, Lady Paya was more
   concerned for the village than anyone.
 Talk_Greeting_03: |
-  <3 Type='0' Data='0700'/>Ah, Linkette. Hard to believe it's night
+  <3 Type='0' Data='0700'/>Ah, Rinkuru. Hard to believe it's night
   already. Would you like to rest at
   the inn?
 talk_0025: |
@@ -211,7 +211,7 @@ talk_0025: |
   <3 Type='0' Data='0500'/>I wish she brought the same enthusiasm
   to her duties as <0 Type='3' Data='0000'/>chief<0 Type='3' Data='ffff'/>...
 Talk_Greeting_04: |
-  <3 Type='0' Data='0b00'/>Linkette! You must be soaked through!
+  <3 Type='0' Data='0b00'/>Rinkuru! You must be soaked through!
   
   
   Unless... Do you have <0 Type='3' Data='0000'/>armor made for
@@ -233,7 +233,7 @@ talk_0026: |
   <3 Type='0' Data='0500'/>When is she going to realize that she's
   the <0 Type='3' Data='0000'/>chief<0 Type='3' Data='ffff'/>?
 Talk_Greeting_05: |
-  <3 Type='0' Data='0500'/><4 Type='0' Data='0a005400680069006e006b00'/>Linkette... I don't know if you're attempting
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0a005400680069006e006b00'/>Rinkuru... I don't know if you're attempting
   to make a joke, but that mask is in very
   poor taste.
 Ballon_08: |
@@ -293,7 +293,7 @@ talk0009: |
   <3 Type='0' Data='0700'/>Who...<5 Type='1'/> Is that really you...<5 Type='1'/>
   
   
-  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>L-<5 Type='1'/>Linkette?<FontSize Value='100'/>
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>R-<5 Type='1'/>Rinkuru?<FontSize Value='100'/>
   
   
   Why, it's been some time! You gave me
@@ -310,7 +310,7 @@ talk_0002: |
   I'm sure my wife will hear my words
   wherever I say them.
 talk_0031: |
-  <3 Type='0' Data='0a00'/><4 Type='0' Data='08004500610073006500'/>Oh... It was only you, Linkette.<5 Type='0'/> Please don't
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='08004500610073006500'/>Oh... It was only you, Rinkuru.<5 Type='0'/> Please don't
   startle me like that.<0 Type='4'/>I nearly laid hands on you, thinking that
   you were a Yiga Clan assassin.
 talk_0032: |

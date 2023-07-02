@@ -1,0 +1,252 @@
+Talk1001: |
+  <3 Type='0' Data='0700'/>With everyone making such a fuss about
+  those <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/>, I'm glad to see a young
+  lass like you visit my humble arrow shop.
+  You must be a fine archer!
+  
+  
+  <3 Type='0' Data='0a00'/>If <0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/> had more archers like
+  you, then maybe things wouldn't have
+  happened...like they did...
+Talk1002: |
+  <3 Type='0' Data='0700'/>You have the look of an archer, young lass.
+  
+  
+  Why, lookin' at you reminds me of my
+  husband. There was a time he was a
+  master of the bow...
+  <3 Type='0' Data='0c00'/>Now he's left the village with our former
+  chief. Truthfully, it's been so long since
+  I've seen him, I can barely recall his face.
+  <3 Type='0' Data='0700'/>Ah, sorry. Look at me, goin' on and on.
+  Back to business.
+  
+  If you find yourself short on funds, you
+  just sell me what you don't need. Don't
+  be shy, now.
+Talk1003: |
+  <3 Type='0' Data='0700'/>Even though the rest of town is fussin'
+  about those <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/>, you stayed up
+  late to visit the arrow shop?
+  That's some dedication to the bow.
+  You've made my night, kid!
+Talk1004: |
+  <3 Type='0' Data='0700'/>Even though the rest of town is fussin'
+  about those <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/>, you're spending
+  the evening at the arrow shop?
+  That's my kind of enthusiasm, kid!
+Talk1005: |
+  <3 Type='0' Data='0700'/>Even though the rest of town is fussin'
+  about those <0 Type='3' Data='0000'/>Ring Ruins<0 Type='3' Data='ffff'/>, you're shopping
+  for arrows? <5 Type='1'/>That's some dedication!
+Talk1006: |
+  <3 Type='0' Data='0700'/>Are you headin' out? Heh, the energy
+  of youth...
+  
+  It's a good time to find materials, but
+  keep an eye out for monsters, ya hear?
+Talk1007: |
+  <3 Type='0' Data='0700'/>I sure am glad when you stop by, kid.
+  Folks just don't appreciate a good
+  arrow anymore.
+  You keep on stopping by, even if it's just
+  to sell. Got it?
+Com_Talk_13: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>OK, and how many?
+Com_Talk_14: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>So <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> will net you... Let me see...
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/> <0 Type='3' Data='ffff'/>total.
+Talk1020: |
+  <3 Type='0' Data='0800'/>If you want to hear about my hometown,
+  I can talk your ear off!
+  
+  <3 Type='0' Data='0701'/><0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/> is a small fishing town on
+  the <0 Type='3' Data='0000'/>southeastern coast<0 Type='3' Data='ffff'/>.
+  
+  It may be out of the way, but it has <0 Type='3' Data='0000'/>shops
+  and such you'll find only there<0 Type='3' Data='ffff'/>. Our
+  village is a lovely place.
+  <3 Type='0' Data='0a00'/>But then...<5 Type='0'/>it was seized by <0 Type='3' Data='0000'/>pirates<0 Type='3' Data='ffff'/>, and
+  everyone had to abandon the village. The
+  villagers are scattered all over now.
+  The leader of the village is desperate to
+  save <0 Type='3' Data='0000'/>Lurelin<0 Type='3' Data='ffff'/>, but...<5 Type='0'/>who knows what'll
+  happen?
+  <3 Type='0' Data='0701'/>Sorry, sorry! I didn't mean to take us in
+  such dark directions.
+  
+  <3 Type='0' Data='0800'/>No helping it. Now then, back to work!
+Talk1009: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Thank you.
+Com_Talk_15: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a005400680069006e006b00'/>Well, well... Never seen something like
+  that before. Sorry, kid, I can't buy that.
+Talk1021: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Seein' someone look at these arrows
+  reminds me of my husband. There was a
+  time he was a regular master archer.
+  I wonder where he is now...
+Com_Talk_16: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a005400680069006e006b00'/>I like a good sale, but I won't buy it right
+  off of ya. Take it off, first!
+Talk1022: |
+  <3 Type='0' Data='0a00'/>If <0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/> had more archers like
+  you, then maybe things wouldn't have
+  happened...like they did...
+Talk1023: |
+  <3 Type='0' Data='0b00'/>Sakes alive!<5 Type='1'/> The pirates?<5 Type='1'/> Chased off?
+  By you?!<5 Type='1'/>
+  
+  <3 Type='0' Data='0800'/>Sure enough, I knew at first glance you
+  were a top-notch archer!
+  
+  To you, Lurelin may just be a small fishing
+  village, but to me it'll always be my dear
+  hometown. I...I can't thank you enough.
+  The world seems just a little brighter!
+  I can finally breathe easy.
+Talk1024: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>With all the tourists overrunning the town,
+  I thought I'd get some more business.
+  But you're my only customer.
+  Maybe I need a signature souvenir, like
+  little Koko's ring garlands...
+Talk1025: |
+  <3 Type='0' Data='0700'/>Knowin' Lurelin Village is safe, I...
+  Thank you.
+0001: |
+  I wanna sell.
+Com_Talk_31: |
+  <3 Type='0' Data='0700'/>How many?
+0002: |
+  Goodbye.
+Talk1026: |
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/>Some days, I can almost hear my husband's voice...
+  Like he's just a room away...<FontSize Value='100'/>
+Talk1027: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0a005400680069006e006b00'/>...But even with all the tourists around
+  town, no one's coming in. You're my
+  only customer.
+  Maybe I need a signature souvenir, like
+  little Koko's ring garlands...
+Near1001: |
+  Welcome!
+Com_Talk_33: |
+  <3 Type='0' Data='0000'/>For one,<5 Type='0'/> that'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+  That sound OK?
+0004: |
+  Lurelin Village?
+Near1002: |
+  I'm always making more!
+Com_Talk_34: |
+  So...all of them?<5 Type='0'/> That will run you about
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. How's that sound?
+Com_Talk_05b: |
+  <3 Type='0' Data='0100'/>I can still buy stuff from you...
+Talk1028: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>Oh my. I didn't think you'd go straight for
+  the <0 Type='3' Data='0000'/>Aerocuda eyeball<0 Type='3' Data='ffff'/>, kid. You've got a
+  discerning eye!<0 Type='4'/>They're supposed to make it <0 Type='3' Data='0000'/>easier to hit
+  a target<0 Type='3' Data='ffff'/> if you attach one to an arrow, so
+  they're one of our best sellers.
+  <3 Type='0' Data='0701'/>But sorry, I didn't mean to interrupt you
+  while you were shopping.
+Near1003: |
+  Awful weather, isn't it?
+Com_Talk_00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Look at this collection of yours!
+  What'll ya sell me?
+Com_Talk_35: |
+  Oh, all of them?<5 Type='0'/> How does
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/> sound?
+Com_Talk_05c: |
+  <3 Type='0' Data='0100'/>You've got some quality goods here, kid!
+Talk1029: |
+  <3 Type='0' Data='0700'/>That's an <0 Type='3' Data='0000'/>Aerocuda wing<0 Type='3' Data='ffff'/>, which we just
+  started stocking recently.<0 Type='4'/>It's popular with hunters, since attaching
+  it to an arrow <0 Type='3' Data='0000'/>makes the arrow fly farther<0 Type='3' Data='ffff'/>.<0 Type='4'/>So popular, in fact, that I recommend
+  buying it now. You never know when we
+  might sell out.
+Com_Talk_01: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>That'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. Is that OK?
+Com_Talk_05d: |
+  <3 Type='0' Data='0100'/>I'm ready when you are!
+Com_Talk_02: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>I've always wanted this!
+WakkaCharm: |
+  Have a friend-filled day!
+Com_Talk_04: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Oh, did you change your mind?<5 Type='0'/> Well,
+  that's the way it goes.
+Com_Talk_50: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><0 Type='3' Data='ffff'/>That'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>. That OK?
+Com_Talk_02b: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>And that's that!
+Talk1010: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>I like how you shop.
+Com_Talk_05: |
+  <3 Type='0' Data='0000'/>How tempting!
+Com_Talk_02c: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>All mine! What a thrill!
+Talk1011: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Thank you!
+NakedPlayer: |
+  We never turn folks away!
+Com_Talk_52: |
+  <3 Type='0' Data='0000'/>So <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> would come to...a total of
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+Com_Talk_02d: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Would you believe it—I was just thinking
+  about picking this up!
+5500: |
+  Yes.
+Talk1012: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Please come again!
+Com_Talk_53: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Oh, second thoughts?<5 Type='0'/> Too bad!
+5501: |
+  No.
+Talk1013: |
+  <3 Type='0' Data='0800'/>My, my! Eager, aren't we? I'll be sure to
+  keep those stocked for you.
+Com_Talk_54: |
+  <3 Type='0' Data='0c00'/>I'd LIKE to give you a discount, but with
+  my husband helping Lady Impa, who
+  knows when he'll start pulling his weight.
+  If you can't afford it, just walk away.
+5502: |
+  I'll buy.
+Com_Talk_55: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a005400680069006e006b00'/>Kid...<5 Type='0'/>that pouch of yours is filled to
+  bursting. <5 Type='0'/>Come back when you've made
+  some room.
+5503: |
+  Never mind.
+Com_Talk_56: |
+  <3 Type='0' Data='0000'/>For one, that'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+5507: |
+  I'll take 'em all!
+Talk1030: |
+  <3 Type='0' Data='0700'/>You have the look of an archer, young lass.
+  
+  
+  Why, lookin' at you reminds me of my
+  husband. There was a time he was a
+  master of the bow...
+  <3 Type='0' Data='0c00'/>He recently left the village with our
+  former chief, though I heard he's
+  now returned.
+  <4 Type='0' Data='0c005300610064005f0030003100'/>Truthfully, it's been so long since I've
+  seen him, I can barely recall his face.
+  If he is back, you'd think he'd come by...<5 Type='2'/>
+  <3 Type='0' Data='0700'/>Ah, sorry. Look at me, goin' on and on.
+  Back to business.
+  
+  If you find yourself short on funds, you
+  just sell me what you don't need. Don't
+  be shy, now.
+Talk1019: |
+  <3 Type='0' Data='0c00'/><FontSize Value='80'/><0 Type='3' Data='0200'/>Once a fool, always a fool!<5 Type='1'/> If he doesn't have a
+  place to stay, he should come straight to m—<5 Type='1'/> Hm?<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0800'/><0 Type='3' Data='ffff'/><FontSize Value='100'/>Oh, um, welcome!
+5508: |
+  I'll sell them all.

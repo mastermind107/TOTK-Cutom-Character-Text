@@ -1,0 +1,166 @@
+NakedPlayer_00: |
+  You can buy armor here.
+Talk_14: |
+  <3 Type='0' Data='0700'/>What are you doing in my house? Did you
+  get lost on your way to the clothing shop
+  next door?
+NakedPlayer_01: |
+  What a bold young lass!
+Talk_15: |
+  <3 Type='0' Data='0700'/>Hello there. Felt like a stroll in the rain,
+  did you?
+NakedPlayer_02: |
+  Do what your heart feels.
+Talk_16: |
+  <3 Type='0' Data='0700'/>Hello there! Always happy to see a
+  traveler in Hateno Village.<0 Type='4'/>Are you one of those who came to see
+  the new <0 Type='3' Data='0000'/>Cece fashion line<0 Type='3' Data='ffff'/>?<0 Type='4'/><3 Type='0' Data='0700'/>Not to brag, but the mind behind it is
+  my own daughter Cece!<0 Type='4'/>If you're looking for her...
+Talk_17: |
+  <3 Type='0' Data='0700'/>Oops, pardon me. Say...
+near_01: |
+  Mornin'.
+Talk_18: |
+  <3 Type='0' Data='0800'/>Hello there! Always happy to see a
+  traveler in Hateno Village.<0 Type='4'/>Are you one of those who came to see
+  the new <0 Type='3' Data='0000'/>Cece fashion line<0 Type='3' Data='ffff'/>?<5 Type='0'/><0 Type='4'/><3 Type='0' Data='0b00'/>Wait,<5 Type='0'/> that hat! There you go!<0 Type='4'/><3 Type='0' Data='0701'/>Not to brag, but the mind behind it is my
+  own daughter Cece.<0 Type='4'/><3 Type='0' Data='0401'/>Whaddaya mean, we don't look alike?<5 Type='0'/>
+  Not so! There's a strong resemblance
+  around the eyebrows, see?<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0800'/>Anyway, I know she's all about glamour,
+  but she's a good kid at heart. Hope to see
+  you at <0 Type='3' Data='0000'/>Ventest Clothing<0 Type='3' Data='ffff'/>!
+near_02: |
+  Don't be late for school!
+Talk_19: |
+  <3 Type='0' Data='0700'/>This is the general store, <0 Type='3' Data='0000'/>East Wind<0 Type='3' Data='ffff'/>. They
+  have all sorts of things, mostly harvested
+  right here in Hateno Village!<0 Type='4'/>It's good stuff, but don't get too attached
+  or you'll never want to leave!
+near_03: |
+  Goodbye, now!
+Talk_20: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>This is the boutique <0 Type='3' Data='0000'/>Ventest Clothing<0 Type='3' Data='ffff'/>!<0 Type='4'/>It's the only store that carries <0 Type='3' Data='0000'/>Cece-brand<0 Type='3' Data='ffff'/>
+  clothes, made by my own daughter Cece!
+near_04: |
+  Take care heading home!
+Talk_21: |
+  <3 Type='0' Data='0700'/>This is the dyer, <0 Type='3' Data='0000'/>Kochi Dye Shop<0 Type='3' Data='ffff'/>. Like the
+  man says, if you've gotta dye somewhere,
+  it might as well be in Hateno!<0 Type='4'/>The owner will treat you right. Bring him
+  some clothes and he can make them
+  whatever color you please.<0 Type='4'/><0 Type='3' Data='0200'/><FontSize Value='80'/>Just try not to get too hung up on first impressions.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_22: |
+  <3 Type='0' Data='0700'/>I keep watch over the children <0 Type='3' Data='0000'/>on their
+  way to school<0 Type='3' Data='ffff'/> here every single day.<0 Type='4'/>It's not my job, mind you. More like
+  volunteering to help my community!
+SagonoHat: |
+  That's a very stylish hat!
+near_06: |
+  Hmmm...
+Talk_23: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Hmm? What am I doing, you ask?<0 Type='4'/>This is the road to the <0 Type='3' Data='0000'/>Hateno School <0 Type='3' Data='ffff'/>they
+  just founded.<0 Type='4'/><3 Type='0' Data='0700'/>Come rain or shine, I stand here and make
+  sure the kids are safe coming and going.<0 Type='4'/>It's not my job, mind you. More like
+  volunteering to help my community!
+near_07: |
+  Bring on the rain!
+Talk_24: |
+  <3 Type='0' Data='0700'/>The store owner's a solid member of the
+  community. Ol' <0 Type='3' Data='0000'/>Pruce <0 Type='3' Data='ffff'/>can tell you all sorts
+  of things if you ask!
+near_08: |
+  Here I go patrollin'...
+Talk_25: |
+  <3 Type='0' Data='0800'/>Be sure to shop <0 Type='3' Data='0000'/>Ventest Clothing<0 Type='3' Data='ffff'/>, run by
+  my girls Cece and Sophie!
+near_09: |
+  All kids accounted for!
+Talk_26: |
+  <3 Type='0' Data='0700'/>I hear tell he's expanded the operation
+  lately. They don't just dye clothes at
+  <0 Type='3' Data='0000'/>Kochi Dye Shop<0 Type='3' Data='ffff'/>, but <0 Type='3' Data='0000'/>other things<0 Type='3' Data='ffff'/> too!
+near_10: |
+  Zzz... Gotta patrol...
+Talk_27: |
+  <3 Type='0' Data='0800'/>Ah, have you been by our store yet?
+Talk_28: |
+  <3 Type='0' Data='0701'/>Sure, no one's heading to or from school
+  right now, but there's no such thing as
+  rest for an old man on patrol.
+Talk_29: |
+  <3 Type='0' Data='0701'/>You'll probably find her at that clothing
+  shop. <5 Type='1'/>I mean, boutique.
+Talk_30: |
+  <FontSize Value='80'/><3 Type='0' Data='0a00'/><4 Type='0' Data='0a005400680069006e006b00'/>Not sure what the difference is, personally, but Cece
+  always gets upset when I call it a clothing shop.<FontSize Value='100'/>
+Talk_01: |
+  <3 Type='0' Data='0700'/>Have you been by the clothing store—
+  I mean, the boutique <0 Type='3' Data='0000'/>Ventest Clothing<0 Type='3' Data='ffff'/>?<0 Type='4'/>It's right by the entrance to the village!
+  If you get lost, look for the big <0 Type='3' Data='0000'/>mushroom-
+  clothing sculpture<0 Type='3' Data='ffff'/>.<0 Type='4'/>Since my girls, Cece and Sophie, keep a
+  tight ship at the...at the boutique, I've
+  had a lot more free time.<0 Type='4'/>So I pass the time by giving travelers
+  a little tour around the shops. It beats
+  working!
+Talk_31: |
+  Were you looking to do business inside
+  this shop here?
+Talk_02: |
+  <3 Type='0' Data='0b00'/>Hey...<5 Type='0'/> I know that Cece hat!<0 Type='4'/><3 Type='0' Data='0701'/>If you have a limited-edition Cece-brand
+  piece, you must be a VIP at our store.<0 Type='4'/><3 Type='0' Data='0800'/>In which case, thanks a bunch for being
+  a good customer at <0 Type='3' Data='0000'/>Ventest Clothing<0 Type='3' Data='ffff'/>!<0 Type='4'/>My darling girls, Cece and Sophie, are
+  always there to assist you whenever you
+  need a new outfit!
+Talk_32: |
+  <3 Type='0' Data='0701'/>You'll probably find her at that clothing
+  shop. <5 Type='1'/>I mean, boutique. It's over by the
+  village entrance.
+Talk_03: |
+  <3 Type='0' Data='0700'/>That's right! Believe it or not, my girl
+  <0 Type='3' Data='0000'/>Cece<0 Type='3' Data='ffff'/> is running in the mayoral election!<0 Type='4'/>If she wins, she'll be picking up a lot of
+  responsibilities around here.<0 Type='4'/><0 Type='3' Data='0200'/><FontSize Value='80'/><3 Type='0' Data='0a01'/>I hope she'll still have time for her father...<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_33: |
+  <3 Type='0' Data='0700'/>You again, eh? <5 Type='0'/>Ho ho...<5 Type='0'/>are you that
+  curious about an old man's house?<0 Type='4'/>I don't mind chatting, but it's my time to
+  nap so I'm rested for the night watch.<0 Type='4'/>If you've got nothing else to do with
+  yourself, I recommend window shopping
+  at the clothing boutique next door!
+Talk_34: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Too bad they don't really make clothes
+  in my size.<0 Type='4'/><3 Type='0' Data='0a01'/><0 Type='3' Data='0200'/><FontSize Value='80'/>What's a guy gotta do? Beg his own daughter to
+  expand the line a little?<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_05: |
+  <3 Type='0' Data='0700'/>I can't help but brag, so bear with me.<0 Type='4'/>You might know already, but my girl
+  Cece ran for mayor of Hateno Village
+  in the election we just held.<0 Type='4'/><3 Type='0' Data='0800'/>I'm proud of Cece and Sophie for caring
+  so much about our village.<0 Type='4'/>So proud, in fact, that it still brings a
+  tear to my eye to think about it!
+Talk_06: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>The boutique <0 Type='3' Data='0000'/>Ventest Clothing<0 Type='3' Data='ffff'/> is right by
+  the village entrance! If you get lost, look
+  for the big <0 Type='3' Data='0000'/>mushroom-clothing sculpture<0 Type='3' Data='ffff'/>.
+Talk_07: |
+  <3 Type='0' Data='0700'/>The whole village is buzzing about the
+  mayoral election.<0 Type='4'/><3 Type='0' Data='0c00'/>My girl <0 Type='3' Data='0000'/>Cece<0 Type='3' Data='ffff'/> looks to be in the lead,
+  but Reede, the incumbent mayor, has
+  done a lot for me over the years.<0 Type='4'/>Not sure how to feel about all
+  this, personally...
+Talk_08: |
+  <3 Type='0' Data='0700'/>I never imagined we'd even need anything
+  like a mayoral election out here.<0 Type='4'/>And for my own daughter to run as a
+  candidate...<5 Type='0'/> Life's just full of surprises!
+  Hoh ho ho!
+Talk_09: |
+  <3 Type='0' Data='0700'/>My, you're up early. Well, the early Cucco
+  gets the worm, so they say.
+Talk_10: |
+  <3 Type='0' Data='0700'/>Hate to be rude, but I need to rest up for
+  my patrol tonight.
+Talk_11: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0053006c00650065007000'/>I patrolled today...and I'll patrol
+  tomorrow too... Zzz...
+Talk_12: |
+  <3 Type='0' Data='0700'/>Hello there. No rest for the weary, eh?<0 Type='4'/>I know how that goes. I stay up watching
+  over the community at night.
+Talk_13: |
+  <3 Type='0' Data='0b00'/>Oh?

@@ -71,7 +71,7 @@ Talk_0050: |
   <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Wha—
   
   
-  <0 Type='3' Data='0200'/><FontSize Value='80'/>He's actually gonna buy this weird rock I found?
+  <0 Type='3' Data='0200'/><FontSize Value='80'/>She's actually gonna buy this weird rock I found?
   It's my lucky day!<5 Type='1'/><FontSize Value='100'/>
   
   <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/><0 Type='3' Data='ffff'/>Th-that's great! You have a good eye, ma'am!
@@ -102,7 +102,7 @@ Talk_0052: |
   <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Wha—
   
   
-  <0 Type='3' Data='0200'/><FontSize Value='80'/>He's actually gonna buy this weird rock I found?
+  <0 Type='3' Data='0200'/><FontSize Value='80'/>She's actually gonna buy this weird rock I found?
   It's my lucky day!<5 Type='1'/><FontSize Value='100'/>
   
   <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/><0 Type='3' Data='ffff'/>Th-that's great! You have a good eye, ma'am!
@@ -274,7 +274,7 @@ Talk_0045: |
   <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>B-but...I already set an absolutely
   fair price...
   
-  And he might have...<5 Type='1'/>
+  And she might have...<5 Type='1'/>
   
   
   <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>OK, no need for the stern-wife look.
@@ -292,8 +292,8 @@ Talk_0047: |
 Talk_0013: |
   <3 Type='0' Data='0401'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Hey now! <5 Type='0'/>Don't be so hasty.
 Talk_0048: |
-  <3 Type='0' Data='0901'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Of course he isn't going to buy after you
-  insulted him with such a high price!
+  <3 Type='0' Data='0901'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Of course she isn't going to buy after you
+  insulted her with such a high price!
   
   Hudson made this town so that everyone
   could live here in peace.
@@ -301,7 +301,7 @@ Talk_0048: |
   If you do anything to harm that beautiful
   vision, you won't get away with it!
 Talk_0014: |
-  <FontSize Value='80'/><3 Type='0' Data='0c00'/>Maybe he'll buy this <0 Type='3' Data='0000'/>weird rock<0 Type='3' Data='ffff'/> while he's at it.<FontSize Value='100'/>
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/>Maybe she'll buy this <0 Type='3' Data='0000'/>weird rock<0 Type='3' Data='ffff'/> while she's at it.<FontSize Value='100'/>
 Talk_0060: |
   <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>I'll place it in the back for whenever
   you're ready to take it to its new home.

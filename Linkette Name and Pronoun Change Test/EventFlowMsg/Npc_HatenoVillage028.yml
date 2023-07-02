@@ -17,7 +17,7 @@ Talk_16: |
   at night.<0 Type='4'/><FontSize Value='80'/><3 Type='0' Data='0c01'/>Mom's kind of a scaredy-cat, so I hope she's
   cut out to be a guard.<FontSize Value='100'/>
 Talk_29: |
-  <3 Type='0' Data='0900'/>Aha! <5 Type='0'/>A suspicious guy!
+  <3 Type='0' Data='0900'/>Aha! <5 Type='0'/>A suspicious girl!
 Near_10: |
   Not suspicious at all!
 Talk_18: |
@@ -88,7 +88,7 @@ Talk_34: |
   on guard duty!
 Talk_22: |
   <3 Type='0' Data='0401'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Huh? You're suspicious? <5 Type='1'/>Y...y...<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0801'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>Yippee! You're the first actually
-  suspicious guy I've met! I could tell
+  suspicious girl I've met! I could tell
   as soon as I saw you!<0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh, but I'm not supposed to talk to the
   suspicious ones.
 Talk_35: |
@@ -109,7 +109,7 @@ Talk_36: |
   house or my family while Dad's away at
   Lookout Landing!
 Talk_11: |
-  <3 Type='0' Data='0901'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Halt and identify yourself, suspicious guy!
+  <3 Type='0' Data='0901'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Halt and identify yourself, suspicious girl!
 Talk_24: |
   <3 Type='0' Data='0900'/>My dad told me not to talk to any
   suspicious folks, and that means you.
@@ -123,6 +123,6 @@ Talk_25: |
   greeting.<0 Type='4'/><3 Type='0' Data='0c01'/>Uh...how did it go again?
 Talk_26: |
   <3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068004c00'/>That's right, I remember you now!
-  The suspicious guy!<0 Type='4'/>I knew you seemed as suspicious as the
+  The suspicious girl!<0 Type='4'/>I knew you seemed as suspicious as the
   last time we met!<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>Oh, but I'm not supposed to talk to the
   suspicious ones.

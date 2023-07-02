@@ -1,0 +1,230 @@
+CarrotGarden_Npc_Kakariko006_Water_03: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>Are you watering Steen's carrots?
+  
+  
+  <3 Type='0' Data='0000'/>So you're a highly skilled fighter and
+  make time to help others in this way too.
+  Very impressive.
+  <3 Type='0' Data='0700'/>Still, Steen knows his carrots better than
+  anyone, and you can count on us to
+  handle things here.
+PumpkinGarden_Npc_Kakariko006_Water_03: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Are you watering my pumpkins?
+  
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>Ha! Thank you.<5 Type='0'/> I can see why a highly
+  skilled fighter like you would want to
+  check up on my fortified pumpkins.
+  <3 Type='0' Data='0700'/>But I am a master when it comes to
+  working in these gardens. You can rely
+  on me to take care of this.
+TerrorGeneric: |
+  Ugh!
+CarrotGarden_Npc_Kakariko006_Water_04: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>Are you watering Steen's carrots?
+  
+  
+  <3 Type='0' Data='0000'/>So you're a highly skilled fighter and
+  make time to help others in this way too.
+  Very impressive.
+  <3 Type='0' Data='0700'/>But the rain here often helps our garden
+  work. You can leave the rest to us.
+PumpkinGarden_Npc_Kakariko006_Water_04: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Are you watering my pumpkins?
+  
+  
+  <3 Type='0' Data='0000'/>So you're a highly skilled fighter and
+  make time to help others in this way too.
+  Very impressive.
+  But the rain here often helps our garden
+  work. You can leave the rest to us.
+TerrorEnemy: |
+  Ugh!
+ReturnHome_01: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Wh-who's there?!
+talk24: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1600540061006c006b00440065006e0079005f0030003100'/><FontSize Value='80'/>Steen and I stand united for this village.<FontSize Value='100'/>
+ReturnHome_02: |
+  <3 Type='0' Data='0500'/>Oh... It's you.<0 Type='4'/>I don't usually see folks in here, other
+  than Steen or my wife.<0 Type='4'/>Wasn't expecting anyone else in my
+  own home.
+TerrorSword: |
+  What is happening?
+NakedPlayer: |
+  You're past needing armor.
+talk25: |
+  <3 Type='0' Data='0700'/>If you want a fortified pumpkin, buy it
+  at Trissa's store. Steen sold her on the
+  idea of selling my pumpkins there.
+ReturnHome_03: |
+  <3 Type='0' Data='0500'/>Oh... It's you. <5 Type='0'/>You shouldn't make people
+  jump like that.
+near00: |
+  Easier work with two here.
+talk26: |
+  <3 Type='0' Data='0700'/>I don't sell my fortified pumpkins here.
+  Buy them at Trissa's store.
+near01: |
+  A nice amount of rain...
+near02: |
+  Keep growing now...
+TerrorHorse: |
+  Ugh!
+near03: |
+  These look delicious.
+talk00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>I'm sure if he wasn't around, I wouldn't
+  have figured out that new <0 Type='3' Data='0000'/>method of
+  attacking while defending<0 Type='3' Data='ffff'/>.
+  I can't believe I didn't get along with him
+  until now. What a shame.
+  
+  A lass like you has likely mastered all
+  there's to know about battle.
+  
+  But I'd be glad to show you the <0 Type='3' Data='0000'/>secret
+  technique <0 Type='3' Data='ffff'/>I came up with, if you're
+  interested.
+TerrorImpulse: |
+  Ugh!
+TerrorFire: |
+  Ugh!
+near04: |
+  A gift from the heavens...
+talk01: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Trissa sells my pumpkins now at her <0 Type='3' Data='0000'/>store<0 Type='3' Data='ffff'/>,
+  and that makes me want to work extra
+  hard in my field.
+  Steen is helping me too. I appreciate
+  all of the support.
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>And I know that I would have never come
+  up with that <0 Type='3' Data='0000'/>method of attacking while
+  defending <0 Type='3' Data='ffff'/>without him.
+  A lass like you has surely mastered all
+  there's to know about battle.
+  
+  But I'd be glad to share that new method
+  of ours if you're interested.
+talk30: |
+  <3 Type='0' Data='0700'/>Trissa has more than pumpkins in her
+  store. Stock up on ingredients there
+  anytime you head out of our village.
+talk02: |
+  <3 Type='0' Data='0800'/>It's the usual time I help Steen with
+  his field.
+talk31: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>The fortified pumpkin has the effect
+  of <0 Type='3' Data='0000'/>making you tougher<0 Type='3' Data='ffff'/>.
+  
+  If you use them in your cooking, the
+  dishes will increase your defense.
+  
+  I used to ask my old lady to cook up
+  those dishes so I could eat some of
+  that every day.
+talk03: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>I'm glad to work hard with Steen so
+  that Trissa has an easier time stocking
+  up her <0 Type='3' Data='0000'/>store<0 Type='3' Data='ffff'/>.
+0002: |
+  Fortified pumpkin?
+talk32: |
+  That's an impressive pumpkin. You might
+  be reprimanded if you take it.
+Talk_Greeting_01: |
+  <3 Type='0' Data='0700'/>Hello. You're out early.
+talk04: |
+  <3 Type='0' Data='0800'/>I got a lot done in my field too, thanks
+  to Steen's help.
+Talk_Greeting_02: |
+  <3 Type='0' Data='0700'/>We're having pleasant weather today.
+talk05: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>You're the lass who helped us defeat
+  those monsters! I have to thank you for
+  bringing a geezer like me to my senses.
+  <3 Type='0' Data='0701'/>I talked everything out with Steen, and I
+  understand now that he's just a bold sort.
+  Charges ahead. Makes his own way.
+  We spend our hours discussing the
+  merits of pumpkins—and of carrots, of
+  course.
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>By the way, during our talks, Steen and I
+  came up with <0 Type='3' Data='0000'/>a method of attacking
+  while defending<0 Type='3' Data='ffff'/>.
+  A lass like you has probably mastered
+  all there's to know about battle.
+  
+  But I'd be glad to share our method
+  with you if you're interested.
+0004: |
+  Goodbye.
+Talk_Greeting_03: |
+  <3 Type='0' Data='0700'/>Oh, what did you need at this time of
+  the day?
+0005: |
+  I'm interested!
+talk06: |
+  <3 Type='0' Data='0701'/>That idea that Steen and I came up
+  with, that whole <0 Type='3' Data='0000'/>method of attacking
+  while defending<0 Type='3' Data='ffff'/>...
+  It's probably not interesting to a lass like
+  you, who's mastered all there is to know
+  about battle.
+  But I'd be glad to show you the <0 Type='3' Data='0000'/>secret
+  technique <0 Type='3' Data='ffff'/>I came up with, if you're
+  curious.
+Talk_Greeting_04: |
+  <3 Type='0' Data='0700'/>Oh, what did you need, out in this rain?
+0006: |
+  No, thanks. Goodbye.
+Talk_Greeting_05: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Why are you wearing that awful mask?
+  
+  
+  It'd be a good idea to remove that while
+  in this village. If you mean it as some sort
+  of joke, some will not find it funny.
+near11: |
+  My good friend...
+TerrorArrow: |
+  I detect ill intent...
+talk10: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003000'/>Normally, you'd use a shield only for
+  defense, right? And you can't use it to
+  attack.
+  <3 Type='0' Data='0801'/>Or CAN you? You see, if you <0 Type='3' Data='0000'/>attach a
+  weapon to a shield<0 Type='3' Data='ffff'/>, you can then defend
+  and attack at the same time.
+  Steen and I think it'd be worth trying
+  out with <0 Type='3' Data='0000'/>monster horns <0 Type='3' Data='ffff'/>and<0 Type='3' Data='0000'/> rocks<0 Type='3' Data='ffff'/>. Good
+  thing we got to talking.
+  We believe that, if you really run with
+  this idea, it opens up a whole bunch of
+  interesting possibilities.
+talk11: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>Ha! All this talk is probably just a lot of
+  blather to a skilled fighter like you.
+talk12: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1400410064006d00690072006100740069006f006e00'/>Keeping an open mind can lead to
+  attaching new ideas to your old ones, and
+  that's more impressive in the end.
+  So, attacking while defending—who knew
+  that was possible. Yet it is, if you <0 Type='3' Data='0000'/>attach
+  a weapon to your shield<0 Type='3' Data='ffff'/>.
+  Steen and I are still working on this
+  method and hope to test it out with
+  <0 Type='3' Data='0000'/>monster horns <0 Type='3' Data='ffff'/>and <0 Type='3' Data='0000'/>rocks<0 Type='3' Data='ffff'/>.
+  Who'd have thought that two opinionated
+  old geezers like us could put aside our
+  differences to talk about battle.
+talk13: |
+  <3 Type='0' Data='0500'/>You shouldn't wear that awful mask in
+  this village. Not many of us would find
+  it funny in the least.
+CarrotGarden_Npc_Kakariko006_Water_01: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Wh-what...<5 Type='1'/>are you doing?
+TerrorIce: |
+  Ugh!
+TerrorBomb: |
+  I detect ill intent...

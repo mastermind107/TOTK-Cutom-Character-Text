@@ -8,7 +8,7 @@ Talk29: |
 Talk80: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Where goest thou? Thy trial is not over!
 Talk63: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey there, fella. So, checking out my
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey there, traveler. So, checking out my
   fancy duds, I bet.<5 Type='0'/> Stylish, right?
   
   I'm a little late to fashion and all that,
@@ -293,7 +293,7 @@ Talk03: |
   
   
   Thy name... What is thy name?<5 Type='1'/>
-  Ah, I sense it. You are...Linkette.
+  Ah, I sense it. You are...Rinkuru.
   
   And you're searching for someone...<5 Type='1'/>
   Ah, yes...<0 Type='3' Data='0000'/>Princess Zelda<0 Type='3' Data='ffff'/>.

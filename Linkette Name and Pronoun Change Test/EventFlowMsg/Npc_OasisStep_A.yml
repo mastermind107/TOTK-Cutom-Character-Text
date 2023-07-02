@@ -8,7 +8,7 @@ talk0000: |
   Really, the only way into jail is to <0 Type='3' Data='0000'/>break
   our rules<0 Type='3' Data='ffff'/>.
   
-  voe new outsiders are normally not allowed inside our
+  voe and unauthorized outsiders are normally not allowed inside our
   town—the one in jail broke that rule, so
   he's locked up.
   And, even though you have permission
@@ -23,7 +23,7 @@ talk0001: |
   <3 Type='0' Data='0900'/>I already told you that's the jail cell.
   The only way to end up in there is by
   <0 Type='3' Data='0000'/>breaking the rules<0 Type='3' Data='ffff'/> of Gerudo Town!
-  voe and new outsiders are normally not allowed inside
+  voe and unauthorized outsiders are normally not allowed inside
   Gerudo Town—the one in jail broke that
   rule, so he's locked up.
   And, even though you have permission
