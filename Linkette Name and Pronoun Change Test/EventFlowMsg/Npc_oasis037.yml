@@ -4,7 +4,7 @@ Talk_233: |
   Hmm...<5 Type='1'/> Hang on...<5 Type='1'/> You look like... <5 Type='1'/>Ah!
   
   
-  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/><FontSize Value='125'/>Li— Li—<FontSize Value='100'/><5 Type='1'/>
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/><FontSize Value='125'/>Ri— Ri—<FontSize Value='100'/><5 Type='1'/>
 Talk_250: |
   <3 Type='0' Data='0700'/>Now that the blizzard has finally stopped,
   my sisters and I can get back to work.
@@ -19,7 +19,7 @@ Talk_250: |
   my opinion. I hope she's not chasing a
   lead that goes nowhere...
 Talk_251: |
-  <3 Type='0' Data='0700'/>Ah, hello, Linkette. Working hard at such
+  <3 Type='0' Data='0700'/>Ah, hello, Rinkuru. Working hard at such
   a late hour—good, good...
 Talk_Tribune02: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='0e00540072006f00750062006c006500'/>Let's see... Right now, he should be
@@ -113,7 +113,7 @@ Talk_270: |
   But we'll do all we can to help you find
   Princess Zelda!
   
-  And don't forget, Linkette—if you're ever
+  And don't forget, Rinkuru—if you're ever
   feeling lost, reading the newspaper might
   just help you!
 Talk_271: |
@@ -130,7 +130,7 @@ Talk_271: |
   piece by piece. First you've got to make
   your editor here happy.
 Talk_254: |
-  <3 Type='0' Data='0700'/>Ah, Linkette. Nice to see you hard at work.
+  <3 Type='0' Data='0700'/>Ah, Rinkuru. Nice to see you hard at work.
 Talk_Tribune05: |
   <3 Type='0' Data='0c01'/><4 Type='0' Data='0e00540072006f00750062006c006500'/>Let's see... Right around now, he should
   be canvassing at <0 Type='3' Data='0000'/>Wetland Stable<0 Type='3' Data='ffff'/>.
@@ -159,7 +159,7 @@ Talk_238: |
   Could you stop telling people I cheated
   him out of it?
 Talk_255: |
-  <3 Type='0' Data='0700'/>Ah, hello, Linkette. Hard at work so early
+  <3 Type='0' Data='0700'/>Ah, hello, Rinkuru. Hard at work so early
   in the morning, I see.
 Talk_Tribune06: |
   <3 Type='0' Data='0c01'/><4 Type='0' Data='0e00540072006f00750062006c006500'/>Let's see... Right around now, he should
@@ -267,13 +267,13 @@ Talk_Tribune_End13: |
   <3 Type='0' Data='0800'/>And the last one, the <0 Type='3' Data='0000'/>froggy hood<0 Type='3' Data='ffff'/>!
 Talk_259: |
   <3 Type='0' Data='0800'/>I was glad to hand over that whole set of
-  froggy armor, Linkette. You earned it.
+  froggy armor, Rinkuru. You earned it.
   
   <0 Type='3' Data='0200'/><FontSize Value='80'/>Besides, it was an impulse buy. Didn't fit me or my
   sisters. Or Penn.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
 Talk_277: |
   <3 Type='0' Data='0700'/>All right. How about you give me the
-  whole story, Linkette.
+  whole story, Rinkuru.
   
   I'm the editor of the Lucky Clover Gazette
   here, if you couldn't tell.<5 Type='0'/> I recognized you
@@ -284,7 +284,7 @@ Talk_277: |
   Now, tell me everything.<5 Type='1'/> What exactly
   brought you here?
 Talk_278: |
-  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>A pretty good deal there, Linkette...<5 Type='1'/>
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>A pretty good deal there, Rinkuru...<5 Type='1'/>
   
   
   Anyway,<5 Type='0'/> that's my offer.
@@ -297,7 +297,7 @@ Talk_240: |
   me and this guy a second here?<5 Type='1'/>
 Talk_241: |
   <3 Type='0' Data='0700'/>All right. How about you give me the
-  whole story, Linkette.
+  whole story, Rinkuru.
   
   I'm the editor of the Lucky Clover Gazette
   here, if you couldn't tell. So, don't worry.
@@ -471,7 +471,7 @@ Talk_281: |
   me cold just looking at you.
   
   Well, I'm not going to tell you how to
-  dress for adventure, Linkette.
+  dress for adventure, Rinkuru.
   
   <3 Type='0' Data='0100'/>I just appreciate you coming here.
 Talk_247: |
@@ -481,7 +481,7 @@ Talk_247: |
   The Lucky Clover Gazette is equally eager
   and is happy to help however it can!
 Talk_Tribune_End01: |
-  <FontSize Value='125'/><3 Type='0' Data='0800'/>Aha! Our trusty reporter!<FontSize Value='100'/><0 Type='4'/>So, Linkette...Penn's filled me in on all
+  <FontSize Value='125'/><3 Type='0' Data='0800'/>Aha! Our trusty reporter!<FontSize Value='100'/><0 Type='4'/>So, Rinkuru...Penn's filled me in on all
   the latest.
   
   <3 Type='0' Data='0701'/>We're relieved that you managed to get
@@ -497,7 +497,7 @@ Talk_282: |
   to <0 Type='3' Data='0000'/>Lookout Landing<0 Type='3' Data='ffff'/> if you haven't. It's
   near the Hyrule Castle Town Ruins.
   I'm sure that she'd be relieved to see
-  your face, Linkette.
+  your face, Rinkuru.
   
   <3 Type='0' Data='0700'/>Well, you're here at least. Good instincts,
   coming to the newspaper. We get leads
@@ -541,7 +541,7 @@ Talk_Tribune_End02: |
   <3 Type='0' Data='0001'/>But now I know just who to call when
   we get another good lead.
   
-  Until then, Linkette, you keep doing what
+  Until then, Rinkuru, you keep doing what
   you do—your part in all this will be clear
   soon enough, I bet.
   <3 Type='0' Data='0700'/>As for Penn, well, I've given him some
@@ -550,7 +550,7 @@ Talk_Tribune_End02: |
   I did tell him, "Hey, you say something
   nice to your partner after all this?"
   
-  I think I put him on the spot, Linkette. He
+  I think I put him on the spot, Rinkuru. He
   looked at me in an odd way and flew off
   with barely a "Soar long."
   He was right in the middle of writing a
@@ -585,7 +585,7 @@ Talk_249: |
   but we'll do all we can to help you find
   Princess Zelda!
   
-  And don't forget, Linkette—if you're ever
+  And don't forget, Rinkuru—if you're ever
   feeling lost, reading the newspaper might
   just help you!
 Talk_267: |
