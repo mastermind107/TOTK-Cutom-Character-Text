@@ -52,7 +52,7 @@ talk0033: |
   You're gonna get in trouble if you stay here!<FontSize Value='100'/>
 talk0017: |
   <3 Type='0' Data='0800'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>I know I asked you already, but...<5 Type='0'/>
-  You're a real voe?
+  You're a outsider?
 near0010: |
   Can't let her see me...
 talk0034: |
@@ -124,7 +124,7 @@ near0003: |
 SunazarashiDoll: |
   So cuuute!
 talk0010: |
-  <3 Type='0' Data='0800'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>You...<5 Type='0'/> You're a real voe, right?
+  <3 Type='0' Data='0800'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>You...<5 Type='0'/> You're a outsider, right?
 near0004: |
   Gotta be sneaky...
 talk0028: |
