@@ -1,0 +1,89 @@
+Talk_01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>There are some untrustworthy fellas rollin'
+  around the city right now.
+0003: |
+  Thanks for the tip...
+Talk_02: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>So if you're loaded up on ore, you should
+  probably sell it before you're scammed
+  out of it.
+Talk_03: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003100'/><FontSize Value='125'/>Hey! What are you doing?!<FontSize Value='100'/>
+Talk_04: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Uh-oh.<5 Type='0'/> Heehl, let's get outta here!
+Talk_10: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Wow, rude! I'd never rip you off!
+  
+  
+  <3 Type='0' Data='0701'/>Well...<5 Type='0'/>I guess you DID almost get ripped
+  off.<5 Type='0'/> So your response is warranted.
+  
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>I'm not going to force you. If you decide
+  you'd like to sell it, then let me know.
+  
+  <3 Type='0' Data='0c01'/>Right now, I'm low on amber.
+  
+  
+  <3 Type='0' Data='0101'/>If you sell me <0 Type='3' Data='0000'/>a parcel of 10 pieces of
+  amber<0 Type='3' Data='ffff'/>, I'll buy them for <0 Type='3' Data='0000'/>a little more<0 Type='3' Data='ffff'/> than
+  you could sell them for at other shops.
+Talk_05: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>You almost got duped there, huh?
+  
+  
+  Now that Death Mountain's eruptions
+  have stopped and the lava's cooled, I've
+  been seeing more Hylian travelers.
+  <3 Type='0' Data='0c00'/><0 Type='3' Data='0000'/><4 Type='0' Data='0c005300610064005f0030003000'/><0 Type='3' Data='ffff'/>Which is great, except those two have
+  been swindling travelers <5 Type='0'/>by offering to
+  take their ore for next to nothing.
+  After the <0 Type='3' Data='0000'/>marbled rock roast <0 Type='3' Data='ffff'/>started
+  surfacing, everyone around here's been
+  acting strange.<5 Type='1'/>
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>So be mindful of any <0 Type='3' Data='0000'/>Gorons who've got
+  marbled rock roast<0 Type='3' Data='ffff'/>.
+Talk_11: |
+  <3 Type='0' Data='0900'/>Shoot. We almost had her.
+  
+  
+  We coulda squeezed her for every measly
+  rupee she had.
+Talk_06: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='10004700720065006500740069006e006700'/>We gotta let ya in on something.
+Talk_12: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>We'll squeeze the next one who rolls
+  along. But we got better things to do
+  at the moment.
+Near_00: |
+  Over here! It's important.
+Talk_07: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>We're good Gorons.<5 Type='1'/> We'll take it off your
+  hands for a great price.
+  
+  <4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>How about...<0 Type='3' Data='0000'/>three rupees<0 Type='3' Data='ffff'/> for all your ore?
+  Whatever ore ya got! Come on, show us
+  the goods!
+Near_01: |
+  <4 Type='0' Data='0c004e006f007400690063006500'/>Hey!
+Talk_08: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>My name is Ramella. I'm a jeweler from
+  Gerudo Town in the southwest of Hyrule.
+  
+  The <0 Type='3' Data='0000'/>ore<0 Type='3' Data='ffff'/> that <0 Type='3' Data='0000'/>YunoboCo <0 Type='3' Data='ffff'/>deals in is high
+  quality, so I always come here to
+  replenish my stock.
+  If you're open to it, I'll gladly buy your ore
+  off of you—for my shop.
+0000: |
+  It's all yours!
+Talk_15: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>All right, then. I'm off to <0 Type='3' Data='0000'/>Goron City <0 Type='3' Data='ffff'/>to get
+  more gems.
+  
+  Take care!
+0001: |
+  No, thanks.
+Talk_00: |
+  Hey, hey!
+0002: |
+  Who are you?

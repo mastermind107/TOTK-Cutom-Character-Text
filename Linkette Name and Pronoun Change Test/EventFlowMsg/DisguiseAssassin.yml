@@ -5,7 +5,7 @@ Talk_0037: |
 Talk_0009: |
   <FontSize Value='125'/><4 Type='0' Data='0a0041006e00670072007900'/>does not deserve to live!<FontSize Value='100'/><1 Type='3' Data='5a000000'/>
 Talk_0038: |
-  <FontSize Value='125'/><4 Type='0' Data='0a0041006e00670072007900'/>Prepare to die, Linkette!<FontSize Value='100'/><1 Type='3' Data='5a000000'/>
+  <FontSize Value='125'/><4 Type='0' Data='0a0041006e00670072007900'/>Prepare to die, Rinkuru!<FontSize Value='100'/><1 Type='3' Data='5a000000'/>
 Talk_0039: |
   <4 Type='0' Data='0a0041006e00670072007900'/><FontSize Value='125'/>This is revenge for Master Kohga!<1 Type='3' Data='5a000000'/><FontSize Value='100'/>
 Talk_0011: |
@@ -13,7 +13,7 @@ Talk_0011: |
 Talk_0040: |
   <4 Type='0' Data='0a0041006e00670072007900'/><FontSize Value='125'/>This is for the boss!<1 Type='3' Data='5a000000'/><FontSize Value='100'/>
 Talk_0012: |
-  <3 Type='0' Data='0001'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Kehehehe... The noble swordsman,
+  <3 Type='0' Data='0001'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Kehehehe... The noble knight,
   scrounging for scraps?
 Talk_0041: |
   <4 Type='0' Data='0e005000610069006e00660075006c00'/>Hey, stop that! Don't you recognize an
@@ -32,13 +32,13 @@ Talk_0043: |
 Talk_0015: |
   <FontSize Value='125'/><4 Type='0' Data='0a0041006e00670072007900'/>Savor them as you die!<FontSize Value='100'/><1 Type='3' Data='5a000000'/>
 Talk_0044: |
-  <4 Type='0' Data='0a0041006e00670072007900'/>What'll we do if Linkette sees us? Get out
+  <4 Type='0' Data='0a0041006e00670072007900'/>What'll we do if Rinkuru sees us? Get out
   of here—now!
 Talk_0016: |
   <FontSize Value='125'/><4 Type='0' Data='0a0041006e00670072007900'/>Your life ends today!<1 Type='3' Data='5a000000'/><FontSize Value='100'/>
 Talk_0045: |
   <4 Type='0' Data='0a0041006e00670072007900'/>More importantly, don't stand around
-  in full uniform! You'll tip Linkette off!
+  in full uniform! You'll tip Rinkuru off!
 Talk_0017: |
   <3 Type='0' Data='0001'/><4 Type='0' Data='160055006e0063006f006e007300630069006f0075007300'/>Urgh... Saw through my trap, did you?
 Talk_0046: |
@@ -93,14 +93,14 @@ Talk_0002: |
   Did you really think someone would leave
   such premier bananas just lying around?
 Talk_0003: |
-  <FontSize Value='125'/><4 Type='0' Data='0a0041006e00670072007900'/>Prepare yourself, Linkette!<FontSize Value='100'/><1 Type='3' Data='5a000000'/>
+  <FontSize Value='125'/><4 Type='0' Data='0a0041006e00670072007900'/>Prepare yourself, Rinkuru!<FontSize Value='100'/><1 Type='3' Data='5a000000'/>
 Talk_0032: |
   <4 Type='0' Data='0a0041006e00670072007900'/><FontSize Value='125'/>This is for Master Kohga!<1 Type='3' Data='5a000000'/><FontSize Value='100'/>
 Talk_0004: |
   <3 Type='0' Data='0001'/><4 Type='0' Data='160055006e0063006f006e007300630069006f0075007300'/>Urgh... So you knew it was a trap.
 Talk_0033: |
   <4 Type='0' Data='1200530075007200700072006900730065005300'/>Hey, don't get so close to those in
-  uniform! Linkette will realize it's a trap!
+  uniform! Rinkuru will realize it's a trap!
 Talk_0005: |
   Fine then.
 Talk_0034: |
@@ -113,7 +113,7 @@ Talk_0002_01: |
 Talk_0006: |
   <4 Type='0' Data='0a0041006e00670072007900'/><FontSize Value='125'/>Your life is mine!<FontSize Value='100'/><1 Type='3' Data='5a000000'/>
 Talk_0035: |
-  <4 Type='0' Data='1200530075007200700072006900730065005300'/>Hey! Those are bait for Linkette! I know they
+  <4 Type='0' Data='1200530075007200700072006900730065005300'/>Hey! Those are bait for Rinkuru! I know they
   look delicious, but don't get taken in!
 Talk_0007: |
   <3 Type='0' Data='0001'/><4 Type='0' Data='10004700720065006500740069006e006700'/>First rule of the Yiga Clan! Those who

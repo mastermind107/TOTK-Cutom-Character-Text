@@ -29,7 +29,7 @@ Talk1043: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003100'/>It's an honor to see you again!<0 Type='4'/><3 Type='0' Data='0a00'/>Though...<5 Type='0'/>I do wish we'd run into each
   other sooner...
   
-  Look at this disaster.<0 Type='4'/><3 Type='0' Data='0701'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003100'/>Please, if you could help us again, Linkette,
+  Look at this disaster.<0 Type='4'/><3 Type='0' Data='0701'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003100'/>Please, if you could help us again, Rinkuru,
   I would be very grateful.
 Talk1053: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>It's an honor to see you once again!<0 Type='4'/>The strange thing is, we came here to
@@ -51,9 +51,9 @@ Talk1005: |
   disadvantage right now.<5 Type='1'/>
   <3 Type='0' Data='0701'/>I'm sorry to ask, but... I would be
   incredibly grateful if you could help
-  us again, Linkette.
+  us again, Rinkuru.
 Talk1025: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003000'/>Once again you've come to our aid, Linkette.<5 Type='0'/>
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003000'/>Once again you've come to our aid, Rinkuru.<5 Type='0'/>
   You have my thanks.
 Talk1015: |
   <3 Type='0' Data='0701'/>Ah, I nearly forgot.<5 Type='1'/> Please accept this
@@ -62,15 +62,15 @@ Talk1045: |
   <3 Type='0' Data='0a00'/>I do wish...<5 Type='0'/>we'd crossed paths sooner.
   
   
-  Just look at this disaster...<0 Type='4'/><3 Type='0' Data='0300'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003100'/>Please, Linkette, we could really use your
+  Just look at this disaster...<0 Type='4'/><3 Type='0' Data='0300'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003100'/>Please, Rinkuru, we could really use your
   strength again.
 Talk1046: |
-  <3 Type='0' Data='0400'/><4 Type='0' Data='26005100750065007300740069006f006e00530075007200700072006900730065005f0030003000'/>Is that you, Linkette?!<5 Type='1'/> You helped us defeat
+  <3 Type='0' Data='0400'/><4 Type='0' Data='26005100750065007300740069006f006e00530075007200700072006900730065005f0030003000'/>Is that you, Rinkuru?!<5 Type='1'/> You helped us defeat
   the monsters!<0 Type='4'/><3 Type='0' Data='0001'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>I'm so grateful for your assistance!<5 Type='1'/>
   Can you come here for moment?
 Talk1016: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003100'/>Of course, the true battle is yet to come.<5 Type='0'/>
-  Have you seen it, Linkette?
+  Have you seen it, Rinkuru?
   
   The<0 Type='3' Data='0000'/> blood moon<0 Type='3' Data='ffff'/>, I mean.<0 Type='4'/>When it rises in the sky,<5 Type='0'/> monsters will
   flood the land and threaten the peace in
@@ -78,7 +78,7 @@ Talk1016: |
   <4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003100'/>My squad members will rest and rebuild
   their energy to prepare for its return.
 Talk1017: |
-  <3 Type='0' Data='0800'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003100'/>Another incredible battle!<0 Type='4'/>With you on our side, Linkette, we can take
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003100'/>Another incredible battle!<0 Type='4'/>With you on our side, Rinkuru, we can take
   on any threat.
 Talk1047: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003100'/>You know, as long as the<0 Type='3' Data='0000'/> blood moon<0 Type='3' Data='ffff'/>
@@ -96,13 +96,13 @@ Talk1019: |
   fight on our own.<5 Type='1'/>
   <3 Type='0' Data='0701'/>I'm sorry to ask but...I would be
   incredibly grateful if you could help
-  us again, Linkette.
+  us again, Rinkuru.
 Talk1029: |
   <3 Type='0' Data='0701'/>As always, I want to give you a reward.
   Please, take this.
 Talk1049: |
   <3 Type='0' Data='0800'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003100'/><1 Type='3' Data='6e000000'/>May you fight with the Goddess Hylia's
-  divine protection, brave swordsman!
+  divine protection, brave knight!
 Talk1040: |
   <3 Type='0' Data='0700'/>We received a message from
   headquarters.<0 Type='4'/>It says you've been an enormous help to
@@ -121,7 +121,7 @@ Talk1021: |
   <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>After we <0 Type='3' Data='0000'/>approach the base<0 Type='3' Data='ffff'/>, we'll wait
   for the right opportunity and then <0 Type='3' Data='0000'/>launch
   our attack<0 Type='3' Data='ffff'/>.
-  Please, Linkette...<5 Type='1'/> Could I ask you to lend us
+  Please, Rinkuru...<5 Type='1'/> Could I ask you to lend us
   a hand once again?
   
   <4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003100'/>The renowned Fort Hateno must not

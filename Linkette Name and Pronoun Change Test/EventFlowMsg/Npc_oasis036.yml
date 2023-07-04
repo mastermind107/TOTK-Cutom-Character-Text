@@ -1,0 +1,218 @@
+talk0008: |
+  <3 Type='0' Data='0900'/>No, "voe." With a V!<5 Type='0'/> Bite your lower lip
+  when you say it! "voe"!<5 Type='1'/>
+  
+  <0 Type='3' Data='0200'/><3 Type='0' Data='0a00'/><0 Type='3' Data='ffff'/><FontSize Value='80'/><0 Type='3' Data='0200'/>I have had to explain this so many times since I
+  became a guard...<5 Type='1'/><0 Type='3' Data='ffff'/>
+  
+  <3 Type='0' Data='0701'/><FontSize Value='100'/><0 Type='3' Data='0000'/>voe<0 Type='3' Data='ffff'/> means "<0 Type='3' Data='0000'/>man<0 Type='3' Data='ffff'/>" in Gerudo.
+Talk_PreChallenge07: |
+  <3 Type='0' Data='0700'/>If someone had asked what I thought I'd
+  be doing today, "opening the door for
+  a voe" would not have made the list...
+talk0009: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Hm? I thought we talked about this. Did
+  you forget already?
+  
+  <0 Type='3' Data='0000'/>voe<0 Type='3' Data='ffff'/> means "<0 Type='3' Data='0000'/>man<0 Type='3' Data='ffff'/>" in Gerudo.
+Talk_InKarakara: |
+  <3 Type='0' Data='0700'/>It's the <0 Type='3' Data='0000'/>voe <0 Type='3' Data='ffff'/>the chief gave special
+  permission to. <5 Type='0'/>Of course I'll open the
+  door for you, but...
+  You should know that Buliara isn't here
+  right now. She left for <0 Type='3' Data='0000'/>Kara Kara Bazaar<0 Type='3' Data='ffff'/>
+  some time ago.
+Talk_InBattle: |
+  <3 Type='0' Data='0900'/>I have to protect the people of the town
+  from danger!
+near0000: |
+  Is that Ploka?
+talk0020: |
+  <3 Type='0' Data='0900'/>You can't be serious.<5 Type='1'/> Do you really think I
+  would open the door for the likes of you?
+  
+  Get out of my sight!
+0000: |
+  vai?
+0001: |
+  Sorry, "bai"?
+Talk_InKarakara_00: |
+  <3 Type='0' Data='0700'/>Buliara isn't here right now. She left for
+  <0 Type='3' Data='0000'/>Kara Kara Bazaar <0 Type='3' Data='ffff'/>some time ago.
+  
+  I understand that you're a special <0 Type='3' Data='0000'/>voe<0 Type='3' Data='ffff'/>, so
+  I'll let you through...
+  
+  <3 Type='0' Data='0900'/>But that doesn't mean you can do
+  whatever you want. You still need to
+  obey the rules!
+0002: |
+  I'll go.
+talk0010: |
+  <3 Type='0' Data='0900'/>No, "voe." With a V!<5 Type='0'/> Bite your lower lip
+  when you say it! "voe"!<5 Type='1'/>
+  
+  It's important to know this, because <0 Type='3' Data='0000'/>voe<0 Type='3' Data='ffff'/>
+  means "<0 Type='3' Data='0000'/>man<0 Type='3' Data='ffff'/>" in Gerudo.
+  
+  <0 Type='3' Data='0200'/><3 Type='0' Data='0a00'/><0 Type='3' Data='ffff'/><FontSize Value='80'/><0 Type='3' Data='0200'/>I have had to explain this so many times since I
+  became a guard...<5 Type='1'/><0 Type='3' Data='ffff'/><FontSize Value='100'/>
+Talk_AfterChallenge: |
+  <3 Type='0' Data='0900'/>The idea of a <0 Type='3' Data='0000'/>voe<0 Type='3' Data='ffff'/> walking around the
+  throne room would normally be
+  preposterous.
+  <3 Type='0' Data='0801'/>But I will allow you inside anytime. It is
+  what the chief wants, after all.
+talk0011: |
+  <3 Type='0' Data='0700'/>You...<5 Type='0'/>still don't get it, do you?
+  In that case...
+talk0012: |
+  <3 Type='0' Data='0900'/>OK, how about I show you how to do it
+  with my spear!<5 Type='0'/> It's "vo," not "bo"! Got it?!
+talk0000: |
+  <3 Type='0' Data='0700'/>Nothing to report...<5 Type='1'/> Hm?
+talk0013: |
+  <3 Type='0' Data='0900'/>I'll whack it into your thick skull with my
+  spear!<5 Type='0'/> <0 Type='3' Data='0000'/>voe<0 Type='3' Data='ffff'/> means "<0 Type='3' Data='0000'/>man<0 Type='3' Data='ffff'/>" in Gerudo!<5 Type='0'/>
+  Got it?!
+ThunderHelmet: |
+  Is that...
+talk0001: |
+  <3 Type='0' Data='0b00'/>Wha— A voe?!<5 Type='0'/> Did you come here to
+  escape the sand shroud?!
+  
+  <3 Type='0' Data='0701'/>Well, you've reached the entrance to
+  the Gerudo <0 Type='3' Data='0000'/>shelter<0 Type='3' Data='ffff'/>.
+  
+  But I cannot allow any <0 Type='3' Data='0000'/>voe <0 Type='3' Data='ffff'/>to pass
+  through this door.
+talk0014: |
+  <3 Type='0' Data='0200'/>It is against the law for young Gerudo to
+  interact with voe.
+  
+  So hurry up and get out of here.
+talk0015: |
+  <3 Type='0' Data='0701'/>There is a custom—really more of a law—
+  that we Gerudo follow.
+  
+  Young Gerudo are generally not allowed
+  to interact with <0 Type='3' Data='0000'/>voe<0 Type='3' Data='ffff'/>.
+talk0002: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>What's wrong? What's going on?
+talk0003: |
+  <3 Type='0' Data='0700'/>A voe wandered in here...
+talk0016: |
+  <3 Type='0' Data='0900'/>Back again, are you? Well, I told you
+  before—no voe are allowed past this
+  point!<5 Type='1'/> Wait a second...
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/>Golden hair...<5 Type='0'/> Blue eyes...<5 Type='0'/> About the same height
+  as Lady Riju...<FontSize Value='100'/>
+Talk_PreChallenge02: |
+  <3 Type='0' Data='0700'/>You're the <0 Type='3' Data='0000'/>voe <0 Type='3' Data='ffff'/>the chief gave special
+  permission to... <5 Type='0'/>Just past here is the
+  Gerudo <0 Type='3' Data='0000'/>shelter<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0901'/>You may have the chief's favor, but that
+  doesn't mean you can do whatever you
+  want. You still need to obey the rules!
+talk0004: |
+  <3 Type='0' Data='0700'/>Oh! You've never heard that word?<5 Type='0'/>
+  <0 Type='3' Data='0000'/>voe<0 Type='3' Data='ffff'/> means "<0 Type='3' Data='0000'/>man<0 Type='3' Data='ffff'/>" in Gerudo.
+Talk_PreChallenge03: |
+  <3 Type='0' Data='0700'/>The Gerudo <0 Type='3' Data='0000'/>shelter<0 Type='3' Data='ffff'/> is beyond here...<5 Type='0'/>
+  It doesn't matter how many times you
+  ask—I won't open the door for a <0 Type='3' Data='0000'/>voe<0 Type='3' Data='ffff'/>.
+  Between keeping watch for intruders and
+  checking on the interior of the shelter
+  with those <0 Type='3' Data='0000'/>peepholes<0 Type='3' Data='ffff'/>, I'm very busy.
+  So please stop bothering me.
+talk0017: |
+  <3 Type='0' Data='0900'/>What is a <0 Type='3' Data='0000'/>voe<0 Type='3' Data='ffff'/> like you doing here?
+  
+  
+  <3 Type='0' Data='0701'/>Maybe you're looking to escape the
+  sand shroud? Well, beyond this point is
+  the Gerudo <0 Type='3' Data='0000'/>shelter<0 Type='3' Data='ffff'/>.
+  And no voe are allowed there.
+  Wait a second...
+  
+  <FontSize Value='80'/><3 Type='0' Data='0c00'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Golden hair...<5 Type='0'/> Blue eyes...<5 Type='0'/> About the same height
+  as Lady Riju...<FontSize Value='100'/>
+Talk_PreDefense: |
+  <3 Type='0' Data='0700'/>It's the <0 Type='3' Data='0000'/>voe<0 Type='3' Data='ffff'/> everyone's been talking
+  about...
+  
+  If you've got business inside, you'd better
+  get it done now. Once the fighting kicks
+  off, this door won't open until it's safe.
+talk0005: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0041006e00670072007900'/>Normally, voe aren't allowed to even set
+  foot within the walls of <0 Type='3' Data='0000'/>Gerudo Town<0 Type='3' Data='ffff'/>...
+  
+  But this is a unique situation...
+  
+  
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0700'/><0 Type='3' Data='ffff'/>So as long as you keep out of the <0 Type='3' Data='0000'/>shelter<0 Type='3' Data='ffff'/>,
+  I'll overlook your presence in town.
+  
+  If you're looking for some place to get out
+  of the sand shroud, you can rest in one of
+  the houses on the surface.
+talk0018: |
+  <3 Type='0' Data='0700'/>You're the voe everyone's been talking
+  about, aren't you?<5 Type='0'/>
+  
+  Lady Riju let us know that you have her
+  permission to enter the <0 Type='3' Data='0000'/>shelter<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0701'/>You're even allowed to visit the shops and
+  use things in town.<5 Type='0'/> You must quite the
+  special voe...
+Talk_PreChallenge04: |
+  <3 Type='0' Data='0700'/>Just past here is the Gerudo <0 Type='3' Data='0000'/>shelter<0 Type='3' Data='ffff'/>.
+  
+  
+  <3 Type='0' Data='0901'/>You may have the chief's favor, but that
+  doesn't mean you can do whatever you
+  want. You still need to obey the rules!
+Near_AfterChallenge: |
+  Come on in!
+talk0006: |
+  <3 Type='0' Data='0b00'/>What?! Did you say "voe"?!
+talk0019: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>It's you! <5 Type='1'/>You're the voe everyone's been
+  talking about?!<5 Type='0'/>
+  
+  <3 Type='0' Data='0701'/>Lady Riju let us know that you have her
+  permission to enter the <0 Type='3' Data='0000'/>shelter<0 Type='3' Data='ffff'/>.
+  
+  <FontSize Value='80'/><3 Type='0' Data='0701'/><FontSize Value='100'/>You're even allowed to visit the shops and
+  use things in town.<5 Type='0'/> You must be quite the
+  special voe...
+Talk_PreChallenge05: |
+  <3 Type='0' Data='0700'/>What? Hurry up and get moving, already.<5 Type='0'/>
+  Geez... Are all <0 Type='3' Data='0000'/>voe<0 Type='3' Data='ffff'/> as slow as you?
+talk0007: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>There's nothing to worry about.<5 Type='0'/> The voe
+  is very short and can't even reach the
+  <0 Type='3' Data='0000'/>peepholes<0 Type='3' Data='ffff'/> in the door.
+  He's out of sight, and even on his tiptoes,
+  he won't be able to see in.
+Talk_PreChallenge06: |
+  <3 Type='0' Data='0900'/>You should know this! "<0 Type='3' Data='0000'/>voe<0 Type='3' Data='ffff'/>" means
+  "<0 Type='3' Data='0000'/>man<0 Type='3' Data='ffff'/>" in Gerudo.
+  
+  Maybe you need to write it down?
+Talk_AfterDefense: |
+  <3 Type='0' Data='0700'/>You fought well against the Gibdos.
+  
+  
+  I'm glad you're all right. It would have
+  been unacceptable for an important guest
+  of Lady Riju, even a <0 Type='3' Data='0000'/>voe<0 Type='3' Data='ffff'/>, to be injured.
+  You may pass through here. Get some
+  rest, and recover after such a fierce
+  battle.
+Talk_AfterChallenge_00: |
+  <3 Type='0' Data='0800'/>I hope that you will continue to be a good
+  friend to the chief...<5 Type='0'/>and to all of the
+  Gerudo as well!

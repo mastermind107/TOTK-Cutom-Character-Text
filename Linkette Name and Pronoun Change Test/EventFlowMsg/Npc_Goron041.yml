@@ -1,8 +1,8 @@
 Talk_00: |
-  <3 Type='0' Data='0400'/><4 Type='0' Data='120045006100740069006e0067005f0030003100'/>Say...<5 Type='1'/> You look like that Linkette fella. You
-  haven't seen him around, have ya?
+  <3 Type='0' Data='0400'/><4 Type='0' Data='120045006100740069006e0067005f0030003100'/>Say...<5 Type='1'/> You look like that Rinkuru Lady. You
+  haven't seen her around, have ya?
   
-  President Yunobo told me not to let him
+  President Yunobo told me not to let her
   near <0 Type='3' Data='0000'/>YunoboCo HQ<0 Type='3' Data='ffff'/>.
   
   <4 Type='0' Data='22004100720072006f00670061006e0074004c00610075006700680053005f0030003000'/>There's a <0 Type='3' Data='0000'/>cart <0 Type='3' Data='ffff'/>up ahead that goes straight
@@ -28,7 +28,7 @@ Talk_05: |
   marbled rock roast in the city center
   either. I already called dibs.
 Talk_02: |
-  <3 Type='0' Data='0c00'/><4 Type='0' Data='120045006100740069006e0067005f0030003000'/>You! You're that Linkette fella! <5 Type='0'/><0 Type='3' Data='0000'/>President
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='120045006100740069006e0067005f0030003000'/>You! You're that Rinkuru fella! <5 Type='0'/><0 Type='3' Data='0000'/>President
   Yunobo <0 Type='3' Data='ffff'/>said I oughta keep an eye out
   for you.
   Well, I won't tell ya that you can get

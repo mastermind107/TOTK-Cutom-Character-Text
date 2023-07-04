@@ -11,7 +11,7 @@ Talk_44: |
   <3 Type='0' Data='0c01'/><FontSize Value='80'/>If I remember correctly... You press this while you
   pull this, and then you tap that, and...<FontSize Value='100'/>
 Talk_30: |
-  <3 Type='0' Data='0701'/><4 Type='0' Data='160049006e0073007000690072006100740069006f006e00'/>Swordsman! Did you make room in your
+  <3 Type='0' Data='0701'/><4 Type='0' Data='160049006e0073007000690072006100740069006f006e00'/>Knight! Did you make room in your
   pouch? I want to give you something
   rare from the Depths!
 Talk_46: |
@@ -71,7 +71,7 @@ Talk_20: |
   <0 Type='3' Data='0000'/>statue<0 Type='3' Data='ffff'/>. The figure matches up pretty
   well—and it looks darn cool too!
 Talk_21: |
-  <3 Type='0' Data='0801'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003300'/>Thank you, Swordsman!
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003300'/>Thank you, Knight!
   
   
   Just like on the slate, this figure must be
@@ -189,7 +189,7 @@ Talk_19: |
   <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>This is it! This does match what's on
   the fragment!
 Talk_05: |
-  <3 Type='0' Data='0801'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Oh, Swordsman! Sorry, I didn't mean to
+  <3 Type='0' Data='0801'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Oh, Knight! Sorry, I didn't mean to
   leave you out of the conversation.<5 Type='0'/>
 Talk_93: |
   <3 Type='0' Data='0c01'/><4 Type='0' Data='0c005300610064005f0030003000'/>Though there's been a sighting of the
@@ -239,7 +239,7 @@ Talk_80: |
   <3 Type='0' Data='0c01'/><4 Type='0' Data='0600530061006400'/>I won't be able to show you what I've
   discovered with it this dark.
 Talk_95: |
-  <3 Type='0' Data='0801'/>Swordsman!
+  <3 Type='0' Data='0801'/>Knight!
   
   
   <4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Thank you so much for going to
@@ -282,7 +282,7 @@ Talk_70: |
 Near201: |
   How far did Robbie go?
 Talk_201: |
-  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Are you Linkette?
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Are you Rinkuru?
   
   
   Pleasure to meet you. I am Ponnick, from
@@ -562,13 +562,13 @@ Talk_41: |
   Hmm...<5 Type='0'/> Give me that Purah Pad for a
   second, all right?
 Talk_57: |
-  <3 Type='0' Data='0800'/>And Linkette will join me!
+  <3 Type='0' Data='0800'/>And Rinkuru will join me!
 Talk_42: |
   <3 Type='0' Data='0401'/><4 Type='0' Data='0c005300610064005f0030003000'/>Looks like<5 Type='0'/> he's gone...
   
   
   <3 Type='0' Data='0a01'/>I'm sorry you got roped into all of
-  this, Swordsman.
+  this, Knight.
   
   Goggles means well... But when he wants
   to help me, he leaps before he looks.

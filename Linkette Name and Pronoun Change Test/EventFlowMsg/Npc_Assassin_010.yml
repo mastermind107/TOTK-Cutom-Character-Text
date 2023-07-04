@@ -1,0 +1,56 @@
+talk_1042: |
+  <3 Type='0' Data='0c00'/>You are... Hmm, yes... You are burdened
+  with a mission of monumental importance.
+  
+  I sense some sort of nobility...<5 Type='0'/>
+  A knight serving a princess.
+  
+  And you use your power to crush the
+  weak... To serve evil.
+talk_1000: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>I can see it...
+  
+  
+  <3 Type='0' Data='0b00'/>I can see it!
+  
+  
+  You there! <5 Type='0'/>I... <5 Type='0'/>I see the shadow of DEATH
+  upon your face!
+  
+  <3 Type='0' Data='0701'/>Me? I'm a fashion fortune teller.<5 Type='1'/> Please,
+  allow me give you a reading.
+talk_1043: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Hee-hee! See? My fortune-telling never
+  fails! If you want to repay me, I'll take...
+talk_1020: |
+  <FontSize Value='125'/><3 Type='0' Data='0900'/>your head!<1 Type='3' Data='5a000000'/><FontSize Value='100'/>
+talk_1002: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/>My, what a delightfully fashionable outfit!
+  I'm wearing mine underneath all this!
+  
+  <3 Type='0' Data='0301'/>Sadly, I'm afraid we have to keep our Yiga
+  Clan affiliation secret...
+  
+  You'll have to go change.
+talk_1030: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>Now, if I may be so bold... Looking at
+  your outfit... Yes. Yes, I see.<5 Type='1'/>
+talk_1021: |
+  <FontSize Value='125'/><3 Type='0' Data='0900'/>vengeance for Master Kohga!<1 Type='3' Data='5a000000'/><FontSize Value='100'/>
+talk_1003: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>There's no denying your spectacular
+  fashion sense...
+  
+  But we have to keep mum about the fact
+  we're in the Yiga Clan!
+  
+  I'm sorry, but you'll have to change.
+0000: |
+  Go ahead.
+talk_1040: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>It's not like I was going to charge you.
+  I simply must give you a reading!
+near_0000: |
+  Get your fashion fortune!
+0001: |
+  Thanks, but no.

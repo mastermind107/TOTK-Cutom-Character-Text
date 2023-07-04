@@ -248,7 +248,7 @@ talk_1_38: |
   <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Poor Princess Zelda...<0 Type='4'/>All alone beneath the castle with that
   creepy mummy...<3 Type='0' Data='0a01'/><0 Type='4'/>I don't even know what I'd do if it were
   me down there. Just thinking about it
-  gives me the willies.<0 Type='4'/><3 Type='0' Data='0400'/>Swordsman! <5 Type='1'/>You gotta rescue
+  gives me the willies.<0 Type='4'/><3 Type='0' Data='0400'/>Knight! <5 Type='1'/>You gotta rescue
   Princess Zelda!
 talk_3_11: |
   <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>All of the Skyview Towers have now
@@ -677,7 +677,7 @@ talk_3_34: |
   
   
   <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>You've got your "heres" and "theres" all
-  mixed up, Swordsman!
+  mixed up, Knight!
 talk83: |
   <3 Type='0' Data='0b00'/>You found the Master Sword,<5 Type='0'/> did you?<5 Type='1'/>
   

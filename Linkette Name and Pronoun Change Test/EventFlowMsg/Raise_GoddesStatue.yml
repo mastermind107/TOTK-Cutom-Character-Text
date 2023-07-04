@@ -1,0 +1,36 @@
+talk032: |
+  You lack the full set of the spirits' claws.
+talk033: |
+  Very well. I shall once more bestow upon
+  you the White Sword of the Sky.
+talk000: |
+  The Goddess Statue has been toppled...
+talk034: |
+  Kindly organize your belongings so that
+  another sword may fit among them,
+  and return to me once this is done.
+talk010: |
+  devout hero who offers his prayers,
+  I am deeply grateful for the aid you have
+  provided to the statues of the springs.<0 Type='4'/>I bestow this upon you in recognition of
+  your wisdom, power, and courage.
+talk011: |
+  Go, and bring peace to this world.
+talk012: |
+  devout hero who offers his prayers,
+  I am deeply grateful for the aid you have
+  provided to the statues of the springs.<0 Type='4'/>In recognition of your wisdom, power,
+  and courage, I should like to present to
+  you a sword.<0 Type='4'/>Kindly organize your belongings so that
+  another sword may fit among them,
+  and return to me once this is done.
+talk030: |
+  devout hero. <5 Type='0'/>Have you lost the
+  White Sword of the Sky?<0 Type='4'/>Dinraal... Naydra... Farosh...<0 Type='4'/>Offer the claws of the spirits, and I shall
+  return the White Sword of the Sky to you.
+0000: |
+  Offer them.
+0001: |
+  Maybe another time.
+talk031: |
+  Go, and bring peace to this world.

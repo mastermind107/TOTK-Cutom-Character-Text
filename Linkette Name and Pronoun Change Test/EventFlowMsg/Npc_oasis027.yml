@@ -11,13 +11,13 @@ talk0024: |
 near0003: |
   The sanctuary, hmm?
 talk0039: |
-  <3 Type='0' Data='0800'/>Huh? Linkette? You knew this was my house?<5 Type='1'/>
+  <3 Type='0' Data='0800'/>Huh? Rinkuru? You knew this was my house?<5 Type='1'/>
   Well, I shouldn't be surprised that such an
   expert investigator found me.<0 Type='4'/>I'm in the middle of writing up my report
   about the eighth hero.<0 Type='4'/>I've got all my old documents and field
   notes from previous expeditions to go off
   of, to be extra thorough.<0 Type='4'/>This will be a history text they'll teach for
-  ages to come.<0 Type='4'/><3 Type='0' Data='0800'/>And it's co-authored by Rotana and Linkette!
+  ages to come.<0 Type='4'/><3 Type='0' Data='0800'/>And it's co-authored by Rotana and Rinkuru!
   You and I will soon be the stars of the
   archaeological society!
 near0004: |
@@ -172,7 +172,7 @@ talk0070: |
   carry it back here for me again.
 talk0086: |
   <3 Type='0' Data='0800'/>Which means you must have carried it
-  here for me!<0 Type='4'/><3 Type='0' Data='0801'/>Nice work.<5 Type='0'/> Voe have their uses, eh?
+  here for me!<0 Type='4'/><3 Type='0' Data='0801'/>Nice work.<5 Type='0'/> Hylians have their uses, eh?
 talk0071: |
   <3 Type='0' Data='0700'/>Let's see... <5 Type='0'/>We've got seven of them
   here now.<0 Type='4'/>And there are seven statues. So if we
@@ -183,7 +183,7 @@ talk0087: |
   <3 Type='0' Data='0801'/>And that's not the only orb you brought,
   I see. <5 Type='0'/>This is a big help!
 talk0072: |
-  <3 Type='0' Data='0800'/>Voe do have their uses, don't they?<0 Type='4'/>If you find any more orbs, I'd be thrilled
+  <3 Type='0' Data='0800'/>Hylians do have their uses, don't they?<0 Type='4'/>If you find any more orbs, I'd be thrilled
   if you bring them here to me!
 talk0088: |
   <3 Type='0' Data='0700'/>All right. <5 Type='0'/>This is all seven of the orbs.
@@ -201,7 +201,7 @@ talk0089: |
   should happen right...about...now.
 talk0075: |
   <3 Type='0' Data='0b00'/>What?! <5 Type='0'/>You were already searching for
-  the orbs?<0 Type='4'/><3 Type='0' Data='0801'/>Look at you! <5 Type='0'/>Who knew voe could be
+  the orbs?<0 Type='4'/><3 Type='0' Data='0801'/>Look at you! <5 Type='0'/>Who knew Hylians could be
   so reliable?
 talk0060: |
   <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Next time you see me, I'll be the star of
@@ -384,8 +384,8 @@ talk0058: |
 0009: |
   Your choice.
 talk0059: |
-  <3 Type='0' Data='0800'/>Linkette, eh? That's a funny coincidence.<0 Type='4'/>Must be nice, having the same name as
-  Princess Zelda's favored swordsman.<0 Type='4'/>I'll write this report up nice and thorough.
+  <3 Type='0' Data='0800'/>Rinkuru, eh? That's a funny coincidence.<0 Type='4'/>Must be nice, having the same name as
+  Princess Zelda's favored knight.<0 Type='4'/>I'll write this report up nice and thorough.
   I know you're excited to read it!<0 Type='4'/>Oh! <5 Type='0'/>Before I forget, this is your reward!
 talk0030: |
   <3 Type='0' Data='0400'/>Huh?<0 Type='4'/>I can't help but notice that...<5 Type='1'/>nothing

@@ -1,7 +1,7 @@
 0014: |
   I'll help.
 talk0128: |
-  <3 Type='0' Data='0800'/>Linkette! I'm pleased as a pickled pike to see
+  <3 Type='0' Data='0800'/>Rinkuru! I'm pleased as a pickled pike to see
   you again!<5 Type='1'/>
   
   <3 Type='0' Data='0700'/>Uh...<5 Type='1'/> Pardon me. I was so happy to see
@@ -63,7 +63,7 @@ talk0130: |
 talk0043: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Feeling bold, are we?
 talk0102: |
-  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Ah, Swordsman!
+  <3 Type='0' Data='0800'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Ah, Knight!
 talk0131: |
   <3 Type='0' Data='0b00'/>Uh, someone else is here for the job?
   Already?
@@ -86,7 +86,7 @@ talk0044: |
   Survey Team fabric<0 Type='3' Data='ffff'/>, right?<0 Type='4'/>There's a shop at <0 Type='3' Data='0000'/>Hateno Village <0 Type='3' Data='ffff'/>that
   makes interesting stuff from bits of fabric
   like that.<0 Type='4'/>You're a bona fide member of the Zonai
-  Survey Team now, Linkette.<0 Type='4'/>When you use that fabric, it'll show that
+  Survey Team now, Rinkuru.<0 Type='4'/>When you use that fabric, it'll show that
   you're one of us!
 talk0103: |
   <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Uh, someone else is here for the job?
@@ -106,7 +106,7 @@ talk0045: |
   ...
   
   
-  Oh, wait. You're Linkette. For a moment,
+  Oh, wait. You're Rinkuru. For a moment,
   I thought the ancient hero had been
   resurrected!
   <3 Type='0' Data='0800'/>That is quite the getup. I'd love to try
@@ -169,7 +169,7 @@ talk0047: |
   clothing. Better to feel the breeze on my
   skin while I work!
   <3 Type='0' Data='0800'/>It warms my heart to see I've found a
-  kindred spirit in you, Linkette.
+  kindred spirit in you, Rinkuru.
 talk0106: |
   <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>But!<5 Type='0'/>
   
@@ -178,7 +178,7 @@ talk0106: |
   That bait's too juicy to pass up!
 talk0048: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Investigating the floating Ring Ruin was
-  the single biggest discovery in my career.<0 Type='4'/><3 Type='0' Data='0800'/>Due in part to you, Linkette.<0 Type='4'/>Our ancestors left behind such a rich
+  the single biggest discovery in my career.<0 Type='4'/><3 Type='0' Data='0800'/>Due in part to you, Rinkuru.<0 Type='4'/>Our ancestors left behind such a rich
   history. <5 Type='1'/>It's crucial that we pass that
   knowledge on to future generations.<0 Type='4'/>But any history needs to be accurate. So
   I intend to continue my work translating
@@ -191,7 +191,7 @@ talk0107: |
   that he'll bolt from a project to chase
   any new discoveries.
 talk0108: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Oh, Swordsman, did you perhaps come to
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Oh, Knight, did you perhaps come to
   help with our <0 Type='3' Data='0000'/>investigation of the Depths<0 Type='3' Data='ffff'/>?
 talk0137: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>What's up?
@@ -223,7 +223,7 @@ talk0110: |
   We'll explain all the details to you. Come
   with me!
 talk0139: |
-  <3 Type='0' Data='0700'/>Linkette, have you been feeling the urge to
+  <3 Type='0' Data='0700'/>Rinkuru, have you been feeling the urge to
   learn more about the ruins?
   
   I'd encourage you to explore the Ring
@@ -280,7 +280,7 @@ talk0114: |
   <0 Type='3' Data='0000'/>sky islands <0 Type='3' Data='ffff'/>and <0 Type='3' Data='0000'/>gloom<0 Type='3' Data='ffff'/>. That might
   appeal to you more.
 talk0143: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>Thanks to your contributions, Linkette,
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>Thanks to your contributions, Rinkuru,
   we've learned new things about the
   age of legends.<0 Type='4'/>Wortsworth told me all about how much
   you've helped him. He's been worked up

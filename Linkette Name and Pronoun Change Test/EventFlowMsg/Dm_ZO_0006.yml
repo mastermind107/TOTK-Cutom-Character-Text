@@ -28,7 +28,7 @@ Dm_ZO_0006_43: |
   <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Gah! Who approaches?!<5 Type='1'/>
   
   
-  Is that you?<5 Type='0'/> So it is... Linkette!
+  Is that you?<5 Type='0'/> So it is... Rinkuru!
 Dm_ZO_0006_13: |
   <3 Type='0' Data='0401'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Ah! <5 Type='1'/>So you have already spoken
   with Jiahto!
@@ -54,14 +54,14 @@ Dm_ZO_0006_44: |
   should transpire for the hero of Hyrule
   and Princess Zelda...
 Dm_ZO_0006_14: |
-  <3 Type='0' Data='0001'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Tell me, Linkette.<5 Type='1'/> Has any progress
+  <3 Type='0' Data='0001'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Tell me, Rinkuru.<5 Type='1'/> Has any progress
   been made?
 Dm_ZO_0006_25: |
   <3 Type='0' Data='0301'/><4 Type='0' Data='1e005300690063006b004700720065006500740069006e0067005f0030003000'/>Hold, my ever-loyal Muzu.
   
   
   If you speak in such a way without
-  explanation, Linkette here will only be
+  explanation, Rinkuru here will only be
   confused as to what is going on.
 Dm_ZO_0006_15: |
   <3 Type='0' Data='0001'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Ah! <5 Type='1'/>So you have spoken with Jiahto!
@@ -75,7 +75,7 @@ Dm_ZO_0006_45: |
   Perhaps the time is nearing for me to pass
   the title of king on to Sidon.
 Dm_ZO_0006_26: |
-  <3 Type='0' Data='0001'/><4 Type='0' Data='18005300690063006b005400680069006e006b005f0030003000'/>Hello, Linkette. It has been some time since
+  <3 Type='0' Data='0001'/><4 Type='0' Data='18005300690063006b005400680069006e006b005f0030003000'/>Hello, Rinkuru. It has been some time since
   we last spoke.
   
   I had received word that you went missing
@@ -104,7 +104,7 @@ Dm_ZO_0006_48: |
   <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Gah! Who approaches?!<5 Type='1'/>
   
   
-  Is that you?<5 Type='0'/> So it is... Linkette!
+  Is that you?<5 Type='0'/> So it is... Rinkuru!
   
   
   <3 Type='0' Data='0900'/><4 Type='0' Data='20005100750065007300740069006f006e0041006e006700720079005f0030003100'/>How did you find this place?!
@@ -119,8 +119,8 @@ Dm_ZO_0006_08: |
   <3 Type='0' Data='0001'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Calm yourself, Muzu.
   
   
-  Linkette's eyes betray no hint of deception.
-  He remains a trusted friend of the Zora.
+  Rinkuru's eyes betray no hint of deception.
+  She remains a trusted friend of the Zora.
   
   There must be an explanation.
 Dm_ZO_0006_18: |
@@ -142,7 +142,7 @@ Dm_ZO_0006_49: |
   <3 Type='0' Data='0900'/><4 Type='0' Data='20005100750065007300740069006f006e0041006e006700720079005f0030003100'/>Gah! You have returned, have you?
   What cruel ploy are you plotting?!
 Dm_ZO_0006_09: |
-  <3 Type='0' Data='0001'/>Linkette. I will now tell you what happened
+  <3 Type='0' Data='0001'/>Rinkuru. I will now tell you what happened
   when we last saw Princess Zelda...
   
   As well as the reason behind my seclusion

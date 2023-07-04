@@ -12,7 +12,7 @@ Talk0071: |
   <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Who'd have thought! I'd heard that your
   skills were unmatched throughout Hyrule,
   but wow!
-  Ah, right—Linkette, please take this.
+  Ah, right—Rinkuru, please take this.
 Talk0069: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>From the reports of our forces out
   on expedition, the number of
@@ -27,7 +27,7 @@ Talk0072: |
   a single person would do it, and yet!
 Talk0073: |
   <3 Type='0' Data='0701'/>Everyone knows about your great deeds,
-  Linkette, but it feels good to give you
+  Rinkuru, but it feels good to give you
   something tangible as proof of them.
   From here forward, it is our solemn duty
   to become as brave as you are and fight
@@ -36,7 +36,7 @@ Talk0074: |
   <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Who'd have thought! I'd heard that your
   skills were unmatched throughout Hyrule,
   but wow!
-  Ah, right—Linkette, please take this.
+  Ah, right—Rinkuru, please take this.
 Talk0075: |
   <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>That's a hunting token made especially
   for the one who might defeat all of
@@ -46,7 +46,7 @@ Talk0075: |
   a single person would do it, and yet!
 Talk0076: |
   <3 Type='0' Data='0701'/>Everyone knows about your great deeds,
-  Linkette, but it feels good to give you
+  Rinkuru, but it feels good to give you
   something tangible as proof of them.
   From here forward, it is our solemn duty
   to become as brave as you are and fight
@@ -55,7 +55,7 @@ Talk0077: |
   <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Who'd have thought! I'd heard that your
   skills were unmatched throughout Hyrule,
   but wow!
-  Ah, right—Linkette, please take this.
+  Ah, right—Rinkuru, please take this.
 Talk0100: |
   <3 Type='0' Data='0c00'/>I...see!
   
@@ -83,12 +83,12 @@ Talk0080: |
   <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Who'd have thought! I'd heard that your
   skills were unmatched throughout Hyrule,
   but wow!
-  Ah, right—Linkette, please take this.
+  Ah, right—Rinkuru, please take this.
 Talk0101: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='100041006e006700720079005f0030003000'/><FontSize Value='125'/>AHEM!<FontSize Value='100'/>
 Talk0079: |
   <3 Type='0' Data='0701'/>Everyone knows about your great deeds,
-  Linkette, but it feels good to give you
+  Rinkuru, but it feels good to give you
   something tangible as proof of them.
   From here forward, it is our solemn duty
   to become as brave as you and carry out
@@ -109,7 +109,7 @@ Talk0102: |
   disadvantage fighting in the Depths...
 Talk0082: |
   <3 Type='0' Data='0701'/>Everyone knows about your great deeds,
-  Linkette, but it feels good to give you
+  Rinkuru, but it feels good to give you
   something tangible as proof of them.
   With you as our shining example, we of
   the monster-control crew are determined
@@ -123,7 +123,7 @@ Talk0083: |
   <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Who'd have thought! I'd heard that your
   skills were unmatched throughout Hyrule,
   but wow!
-  Ah, right—Linkette, please take this.
+  Ah, right—Rinkuru, please take this.
 Talk0104: |
   <3 Type='0' Data='0700'/>I continue to receive reports about
   unusual monsters.
@@ -154,7 +154,7 @@ Talk0105: |
   we know.
 Talk0085: |
   <3 Type='0' Data='0701'/>Everyone knows about your great deeds,
-  Linkette, but it feels good to give you
+  Rinkuru, but it feels good to give you
   something tangible as proof of them.
   We will dedicate ourselves more fervently
   to monster expeditions, following
@@ -175,7 +175,7 @@ Talk0086: |
   <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Who'd have thought! I'd heard that your
   skills were unmatched throughout Hyrule,
   but wow!
-  Ah, right—Linkette, please take this.
+  Ah, right—Rinkuru, please take this.
 Talk0107: |
   <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>These fearsome foes were beyond what
   we of the monster-control crew could've
@@ -190,7 +190,7 @@ Talk0087: |
   a single person would do it, and yet!
 Talk0110: |
   <3 Type='0' Data='0700'/>Good morning, and thank you for your
-  hard work,<5 Type='1'/> Linkette!
+  hard work,<5 Type='1'/> Rinkuru!
 Talk0090: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Hoz's squad is currently taking a break.
   
@@ -204,14 +204,14 @@ Talk0108: |
   control crew.
 Talk0088: |
   <3 Type='0' Data='0701'/>Everyone knows about your great deeds,
-  Linkette, but it feels good to give you
+  Rinkuru, but it feels good to give you
   something tangible as proof of them.
   We of the monster-control crew will
   continue our mission to keep the people
-  of Hyrule safe, as you have, Linkette!
+  of Hyrule safe, as you have, Rinkuru!
 Talk0111: |
   <3 Type='0' Data='0700'/>Hello, and thank you for your hard
-  work,<5 Type='1'/> Linkette!
+  work,<5 Type='1'/> Rinkuru!
 Talk0091: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Flaxel's squad is hunting monsters in
   <0 Type='3' Data='0000'/>Faron<0 Type='3' Data='ffff'/> to the south.
@@ -241,10 +241,10 @@ Talk0089: |
   
   But let it be known that I will forever
   remember this incredible feat you
-  have accomplished, Linkette!
+  have accomplished, Rinkuru!
 Talk0112: |
   <3 Type='0' Data='0700'/>Burning the candle at both ends,
-  hm,<5 Type='1'/> Linkette?
+  hm,<5 Type='1'/> Rinkuru?
 Talk0092: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Flaxel's squad cleared out Faron<5 Type='0'/> and is
   now advancing on <0 Type='3' Data='0000'/>Hebra<0 Type='3' Data='ffff'/> to the far north.
@@ -256,7 +256,7 @@ Talk0092: |
   help them out, please.
 Talk0113: |
   <3 Type='0' Data='0700'/>Working hard despite the bad weather,<5 Type='1'/>
-  Linkette? Thank you!
+  Rinkuru? Thank you!
 Talk0093: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Flaxel's squad is currently taking a break.
   
@@ -283,7 +283,7 @@ Talk0115: |
   
   <3 Type='0' Data='0000'/>Receiving support from you out in the
   field would do wonders for their
-  morale, Linkette.
+  morale, Rinkuru.
 Talk0095: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Toren's squad is on the north side of
   Death Mountain in <0 Type='3' Data='0000'/>Eldin<0 Type='3' Data='ffff'/>.
@@ -305,7 +305,7 @@ Talk0096: |
   help them out, please.
 Talk0116: |
   <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>People will sing of the feats you have
-  accomplished for generations, Linkette!
+  accomplished for generations, Rinkuru!
   
   In fact,<5 Type='1'/> I'll be leading the chorus!
   
@@ -373,7 +373,7 @@ Talk0121: |
   <3 Type='0' Data='0100'/>It's not much, but I've got a reward for
   your valor. Please, take it.
 Talk0099: |
-  <3 Type='0' Data='0700'/>Freed up space in your pouch, Linkette?
+  <3 Type='0' Data='0700'/>Freed up space in your pouch, Rinkuru?
   Please. Take this.
 Talk0122: |
   <3 Type='0' Data='0801'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>So I see! The latest report confirms the
@@ -394,7 +394,7 @@ Talk0001: |
   So, whatever you need, it's got to
   wait until...<5 Type='1'/>
   
-  <3 Type='0' Data='0b00'/>What?! Is that really you?<5 Type='0'/> Linkette,
+  <3 Type='0' Data='0b00'/>What?! Is that really you?<5 Type='0'/> Rinkuru,
   you've returned!
   
   <3 Type='0' Data='0000'/>I've got to say that it's a relief to see
@@ -457,7 +457,7 @@ Talk0128: |
   <3 Type='0' Data='0b00'/>Hm?
   
   
-  What?! Is that really you?<5 Type='0'/> Linkette,
+  What?! Is that really you?<5 Type='0'/> Rinkuru,
   you've returned!
   
   <3 Type='0' Data='0000'/>It's such a relief to see that you're safe.<5 Type='0'/>
@@ -533,7 +533,7 @@ Talk0132: |
   <3 Type='0' Data='0b00'/>Hm?
   
   
-  What?! Is that really you?<5 Type='0'/> Linkette,
+  What?! Is that really you?<5 Type='0'/> Rinkuru,
   you've returned!
   
   <3 Type='0' Data='0000'/>It's such a relief to see that you're safe.<5 Type='0'/>
@@ -616,7 +616,7 @@ Talk0018: |
   <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>I was just debating whether or not to
   add reinforcements.
   
-  But if you're joining the search, Linkette,
+  But if you're joining the search, Rinkuru,
   I can keep our forces on standby.
   
   If you head to the castle, you'll run into
@@ -636,7 +636,7 @@ Talk0020: |
   strength, we'd be in over our heads.
   It's a real situation.
 Talk0019: |
-  <3 Type='0' Data='0700'/>Linkette! I have word from Purah.
+  <3 Type='0' Data='0700'/>Rinkuru! I have word from Purah.
 Talk0021: |
   <3 Type='0' Data='0701'/>Would you like to ask about other
   large monsters?
@@ -672,7 +672,7 @@ Talk0024: |
   <3 Type='0' Data='0b00'/>You... You already defeated it?!<5 Type='0'/>
   Incredible!
   
-  Well, of course you did, Linkette. Taking down
+  Well, of course you did, Rinkuru. Taking down
   a big monster like that all by yourself
   comes as no surprise.
   <3 Type='0' Data='0701'/>It's not much, but please take this.
@@ -690,7 +690,7 @@ Talk0026: |
   I'm stunned! <5 Type='1'/>I am in complete and utter
   awe of you!
   
-  <3 Type='0' Data='0100'/>Legendary swordsman Linkette, <5 Type='1'/>please
+  <3 Type='0' Data='0100'/>Legendary knight Rinkuru, <5 Type='1'/>please
   take this on behalf of the monster-
   control crew.
 0005: |
@@ -699,7 +699,7 @@ Talk0027: |
   <3 Type='0' Data='0400'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Ah!
   
   
-  <3 Type='0' Data='0c01'/>If you find it in you, Linkette, maybe you can
+  <3 Type='0' Data='0c01'/>If you find it in you, Rinkuru, maybe you can
   defeat <0 Type='3' Data='0000'/>them<0 Type='3' Data='ffff'/> too...
 0006: |
   Searching the castle?
@@ -722,7 +722,7 @@ Talk0031: |
   Molduga!
 Talk0032: |
   <3 Type='0' Data='0a00'/>I see. Even for someone as esteemed as
-  you, Linkette, this is no walk in the park.
+  you, Rinkuru, this is no walk in the park.
   
   <3 Type='0' Data='0701'/>Really, we can't expect a single person to
   take down such creatures. We'll all head
@@ -737,7 +737,7 @@ Talk0034: |
   <3 Type='0' Data='0b00'/>Hm?
   
   
-  What?! Is that really you?<5 Type='0'/> Linkette,
+  What?! Is that really you?<5 Type='0'/> Rinkuru,
   you've returned!
   
   <3 Type='0' Data='0000'/>It's such a relief to see that you're safe.<5 Type='0'/>
@@ -752,7 +752,7 @@ Talk0034: |
 0012: |
   I hunted something.
 Talk0035: |
-  <3 Type='0' Data='0700'/>Linkette, my apologies.<5 Type='1'/>
+  <3 Type='0' Data='0700'/>Rinkuru, my apologies.<5 Type='1'/>
   
   
   Your interest in our work honors us, but
@@ -783,7 +783,7 @@ Talk0037: |
 Near0003: |
   Monsters... I wonder...
 Talk0005_00: |
-  <3 Type='0' Data='0b00'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Linkette!<5 Type='1'/> You've got great timing!<0 Type='4'/><3 Type='0' Data='0701'/>Folks working for the monster-control
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Rinkuru!<5 Type='1'/> You've got great timing!<0 Type='4'/><3 Type='0' Data='0701'/>Folks working for the monster-control
   crew have been reporting frequent
   appearances of some very <0 Type='3' Data='0000'/>large monsters<0 Type='3' Data='ffff'/>.
   Our noncombatant squad members are ill-
@@ -926,7 +926,7 @@ Talk0044: |
   <3 Type='0' Data='0b00'/>You've already defeated it?!<5 Type='0'/> I can't
   believe it!
   
-  <3 Type='0' Data='0100'/>No, I can. Really, it's just like you, Linkette, to
+  <3 Type='0' Data='0100'/>No, I can. Really, it's just like you, Rinkuru, to
   be off on the next conquest before we've
   even begun to hear about it!
   It's not much, but please take this.
@@ -997,7 +997,7 @@ Talk0054: |
   some time to rest up and check in with
   me later.
 Talk0055: |
-  <3 Type='0' Data='0700'/>Linkette. Thank you so much for hunting down
+  <3 Type='0' Data='0700'/>Rinkuru. Thank you so much for hunting down
   those three beasts.
   
   I was wondering if I might...trouble you
@@ -1011,7 +1011,7 @@ Talk0055: |
   fearsome beasts.
 Talk0056: |
   <3 Type='0' Data='0700'/>I am in perpetual awe of you and all
-  of your accomplishments, Linkette!
+  of your accomplishments, Rinkuru!
 Talk0060: |
   <3 Type='0' Data='0700'/>Our squads out on expedition report that,
   currently, <0 Type='3' Data='0000'/><2 Type='14' Data='36004e0075006d004f006600520065006d00610069006e0069006e0067005f00480075006700650045006e0065006d0079005f0030003200ffff00cd'/><0 Type='3' Data='ffff'/> Molduga <201 Type='6' Data='0e00720065006d00610069006e0073000c00720065006d00610069006e000000'/>.

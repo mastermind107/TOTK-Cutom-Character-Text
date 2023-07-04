@@ -16,7 +16,7 @@ talk_1_25: |
   and needs help...
 talk_1_26: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>That settles it. I know you only just
-  returned, Linkette...
+  returned, Rinkuru...
   
   But I need you to meet with the search
   party <0 Type='3' Data='0000'/>up by Hyrule Castle<0 Type='3' Data='ffff'/>. They've been
@@ -30,7 +30,7 @@ talk_1_26: |
   Which is concerning, to say the least, but
   we have more immediate problems to
   deal with right now.
-  I'm counting on you, Linkettey!
+  I'm counting on you, Rinkury!
 talk_1_27: |
   <3 Type='0' Data='0c01'/>This <0 Type='3' Data='0000'/>Rauru<0 Type='3' Data='ffff'/> you met...<5 Type='0'/> I think that's what
   the <0 Type='3' Data='0000'/>first king of Hyrule<0 Type='3' Data='ffff'/> was named.
@@ -53,7 +53,7 @@ talk_1_3: |
   <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/><FontSize Value='125'/>Doctor Puuuraaah!<FontSize Value='100'/>
   
   
-  The swordsman!<5 Type='1'/> The swordsman
+  The Hero!<5 Type='1'/> The Hero
   has returned!
 near_1_5: |
   Hm?
@@ -61,7 +61,7 @@ talk_1_4: |
   <3 Type='0' Data='0b01'/><4 Type='0' Data='1400520075006e0061007700610079005f0030003100'/><FontSize Value='125'/>Doctor Puuuraaah!<FontSize Value='100'/>
   
   
-  The swordsman!<5 Type='1'/> The swordsman
+  The Hero!<5 Type='1'/> The Hero
   has returned!
 near_1_6: |
   Um...

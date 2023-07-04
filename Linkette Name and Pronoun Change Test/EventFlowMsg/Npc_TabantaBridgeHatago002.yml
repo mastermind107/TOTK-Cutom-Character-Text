@@ -35,7 +35,7 @@ Talk27_03: |
 0003: |
   See ya!
 Talk19: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Ah!<5 Type='0'/> Ms. Swordsman!<5 Type='0'/> Welcome to
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Ah!<5 Type='0'/> Ms. Knight!<5 Type='0'/> Welcome to
   <0 Type='3' Data='0000'/>Tabantha Bridge Stable<0 Type='3' Data='ffff'/>!
 Talk02: |
   <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Yo!<5 Type='0'/> Er, no, I mean...<5 Type='0'/> Good evening! Yeah!
@@ -50,7 +50,7 @@ Talk03: |
   
   Oh, because you are one. <5 Type='0'/>I see.
 Talk20: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Yo!<5 Type='0'/> Ms. Swordsman!<5 Type='0'/> Welcome to
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Yo!<5 Type='0'/> Ms. Knight!<5 Type='0'/> Welcome to
   <0 Type='3' Data='0000'/>Tabantha Bridge Stable<0 Type='3' Data='ffff'/>!
 Talk04: |
   <3 Type='0' Data='0001'/>I'm gonna be so buff someday that I won't
@@ -107,7 +107,7 @@ Talk27: |
 Balloon03: |
   Hoo, hoo! Ha, ha!
 Talk28: |
-  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>WHOA!<5 Type='0'/> A real live swordsman!<FontSize Value='100'/><5 Type='0'/>
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>WHOA!<5 Type='0'/> A real live knight!<FontSize Value='100'/><5 Type='0'/>
   
   
   Urk!

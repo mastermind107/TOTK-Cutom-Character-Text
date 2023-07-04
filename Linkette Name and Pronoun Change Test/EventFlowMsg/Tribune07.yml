@@ -87,7 +87,7 @@ Talk1015: |
   commitment to do "good."
   
   <3 Type='0' Data='0701'/>You are Princess Zelda's chosen
-  bodyguard, the swordsman Linkette, correct?
+  bodyguard, the knight Rinkuru, correct?
 Talk1056: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='0e00430061006c006c00460061007200'/>Hey!<5 Type='0'/> Hey, partner!
 0003: |
@@ -139,7 +139,7 @@ Talk1018: |
   <3 Type='0' Data='0701'/>Eventually I lost track of her. <5 Type='0'/>That's all
   there is to it.
 Talk1059: |
-  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>It's no use, Linkette! I won't let you escape!
+  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>It's no use, Rinkuru! I won't let you escape!
 Talk1042: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hello, partner! You here to investigate
   the rumors too?
@@ -289,7 +289,7 @@ Talk1020: |
   coming reporter who just happens
   to have blond hair...
   They believed you were actually that
-  swordsman? <5 Type='1'/>That's just bad luck for you!
+  knight? <5 Type='1'/>That's just bad luck for you!
 near0001: |
   Over here.
 Talk1062: |

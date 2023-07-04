@@ -33,7 +33,7 @@ talk_1000: |
 0000: |
   Nope.
 talk_1030: |
-  <3 Type='0' Data='0900'/>Curiosity killed the swordsman!<1 Type='3' Data='5a000000'/>
+  <3 Type='0' Data='0900'/>Curiosity killed the knight!<1 Type='3' Data='5a000000'/>
 0001: |
   I get it.
 talk_1002: |
@@ -42,7 +42,7 @@ talk_1002: |
   off your duds, but...
   we DO work in secret, you know. Keep
   making such amateur mistakes, and
-  I won't help you if Linkette attacks.
+  I won't help you if Rinkuru attacks.
 0002: |
   I'm stumped.
 talk_1003: |
@@ -50,4 +50,4 @@ talk_1003: |
   outfit, but we work in secret.
   
   If you don't keep that in mind, I won't lift
-  a finger to help you if Linkette attacks.
+  a finger to help you if Rinkuru attacks.

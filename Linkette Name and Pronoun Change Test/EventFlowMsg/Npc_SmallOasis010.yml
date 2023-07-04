@@ -34,7 +34,7 @@ GreetingBefore03: |
   
   Why not buy them all up now?
 talk1016: |
-  <3 Type='0' Data='0701'/>You think so too, don't you, voe?
+  <3 Type='0' Data='0701'/>You think so too, don't you, vai?
   
   
   But I guess anyone who brazenly strolls
@@ -120,7 +120,7 @@ Com_Talk_05d: |
 Com_Talk_02: |
   <3 Type='0' Data='0000'/><4 Type='0' Data='0600530061006400'/>Sarqso.
 talk1020: |
-  <3 Type='0' Data='0701'/>You think so too, don't you, voe?
+  <3 Type='0' Data='0701'/>You think so too, don't you, vai?
   
   
   But I guess anyone who brazenly strolls

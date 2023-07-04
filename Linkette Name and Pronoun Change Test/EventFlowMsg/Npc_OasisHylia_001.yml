@@ -20,7 +20,7 @@ talk0003: |
   <3 Type='0' Data='0101'/><4 Type='0' Data='1a0043007500730074006f006d005300610076006f00740074006100'/>Sav'otta!<5 Type='0'/> That's how you greet someone
   in the morning!<5 Type='0'/> You remember, right?
 talk0029: |
-  <3 Type='0' Data='0800'/>It's really rare for a voe to be able to
+  <3 Type='0' Data='0800'/>It's really rare for a new outsider to be able to
   come and go in Gerudo Town, so make
   the most of it! Sav'orq!
 talk0016: |
@@ -30,9 +30,9 @@ talk0016: |
   <FontSize Value='80'/>But, well... Just keep in mind that it's discounted for
   a reason. I don't think the results are guaranteed...<FontSize Value='100'/>
 talk0004: |
-  <3 Type='0' Data='0800'/>You must be that man—I mean voe—that
+  <3 Type='0' Data='0800'/>You must be that outsider that
   everyone is talking about! It's so unusual
-  to see a man here...
+  to see someone new here...
   So you really did get special permission
   to be in here, huh?
   
@@ -56,21 +56,21 @@ talk0017: |
   If you're in the mood to take a chance,
   you should give it a shot!
 near0002: |
-  <4 Type='0' Data='1400430061006c006c004600610072005f0030003100'/>Welco— Wait, a man?!
+  <4 Type='0' Data='1400430061006c006c004600610072005f0030003100'/>Welco— Wait, a outsider?!
 near0003: |
   Improved constitution!
 near0004: |
   For an overheated body!
 talk0007: |
-  <3 Type='0' Data='0800'/>You must be that man—I mean voe—that
+  <3 Type='0' Data='0800'/>You must be that outsider that
   everyone is talking about! It's so unusual
-  to see a man here...
+  to see a new vai here...
 near0005: |
   For those freezing nights!
 talk0008: |
   <FontSize Value='80'/><3 Type='0' Data='0700'/>Like what happened to that guy over there...<FontSize Value='100'/>
 near0006: |
-  A man?!
+  A outsider?!
 talk0009: |
   <3 Type='0' Data='0700'/>Have you tried either of the spa plans?
   
@@ -130,7 +130,7 @@ talk0024: |
   <3 Type='0' Data='0001'/><4 Type='0' Data='1c0043007500730074006f006d0053006100760073006100610062006100'/>Sav'saaba! That's how you greet someone
   at night!<5 Type='0'/> You remember, right?
 talk0011: |
-  <3 Type='0' Data='0800'/>It's really rare for a voe to be able to
+  <3 Type='0' Data='0800'/>It's really rare for a new outsider to be able to
   come and go in Gerudo Town.
   
   You should absolutely check out Romah's

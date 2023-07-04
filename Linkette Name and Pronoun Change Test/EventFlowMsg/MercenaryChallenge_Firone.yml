@@ -242,7 +242,7 @@ Talk1058: |
   who needs a monster-control crew?
 Talk1064: |
   <3 Type='0' Data='0701'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>It was a hard-fought battle, but thanks
-  to Linkette, we did it! We won!
+  to Rinkuru, we did it! We won!
   
   First, we have to treat the wounded.
   Then, when everyone's ready, we'll
@@ -254,17 +254,17 @@ Talk1071: |
 Talk1059: |
   <3 Type='0' Data='0000'/>Do you <5 Type='0'/>know anything about this?
 Talk1065: |
-  As for you, Linkette,<5 Type='1'/> you deserve a reward.
+  As for you, Rinkuru,<5 Type='1'/> you deserve a reward.
   
   
   Can we talk?
 Talk1066: |
-  As for you, Linkette, <5 Type='1'/>you deserve thanks.
+  As for you, Rinkuru, <5 Type='1'/>you deserve thanks.
   
   
   Can I talk to you for a minute?
 Talk1067: |
-  <4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>As for you, Linkette,<5 Type='1'/> you came back!<0 Type='4'/>I won't let you walk away empty-handed.<5 Type='1'/>
+  <4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>As for you, Rinkuru,<5 Type='1'/> you came back!<0 Type='4'/>I won't let you walk away empty-handed.<5 Type='1'/>
   Can we talk?
 Talk1068: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003000'/>As you can see, the monsters are back
@@ -374,7 +374,7 @@ Talk_004: |
   not sure that sounds like a good idea.
 Talk1008: |
   <3 Type='0' Data='0701'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Hm? <5 Type='1'/>Oh, hey, I thought I recognized
-  you from somewhere.<5 Type='1'/><0 Type='4'/>Aren't you that missing swordsman?<0 Type='4'/>You're all anyone at Lookout Landing
+  you from somewhere.<5 Type='1'/><0 Type='4'/>Aren't you that missing knight?<0 Type='4'/>You're all anyone at Lookout Landing
   talked about when I was there.<5 Type='1'/> Ah, but
   you seem good. Happy to see it!
   <3 Type='0' Data='0000'/><4 Type='0' Data='1600540061006c006b00440065006e0079005f0030003100'/>Anyway, this is the <0 Type='3' Data='0000'/>monster-control crew<0 Type='3' Data='ffff'/>.

@@ -77,7 +77,7 @@ Talk2010_01: |
 0002: |
   I'll pass.
 Talk2502: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>Good evening, Ms. Swordsman!<5 Type='1'/> Nice and
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>Good evening, Ms. Knight!<5 Type='1'/> Nice and
   peaceful outside, hm?
   
   You know, I'm really grateful for everyone
@@ -94,7 +94,7 @@ Talk2010: |
   <3 Type='0' Data='0701'/>Hm... <5 Type='0'/>Would you take <0 Type='3' Data='0000'/>10 arrows <0 Type='3' Data='ffff'/>for
   <0 Type='3' Data='0000'/>three glowing cave fish<0 Type='3' Data='ffff'/>?
 Talk2503: |
-  <3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Ms. Swordsman!<5 Type='1'/> It's good to see you.
+  <3 Type='0' Data='0701'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Ms. Knight!<5 Type='1'/> It's good to see you.
   
   
   I gotta say, the children can really eat.
@@ -117,7 +117,7 @@ Talk2012: |
 near2011: |
   We need ingredients...
 Talk2001_00: |
-  <4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Ms. Swordsman!<5 Type='1'/> Good to see you.
+  <4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Ms. Knight!<5 Type='1'/> Good to see you.
 Talk2013: |
   <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>If you ever have spare ingredients,
   let me know. I'll give you <0 Type='3' Data='0000'/>arrows<0 Type='3' Data='ffff'/> for them.

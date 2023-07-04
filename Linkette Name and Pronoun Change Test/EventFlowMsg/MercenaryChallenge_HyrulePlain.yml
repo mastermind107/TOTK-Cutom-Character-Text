@@ -2,7 +2,7 @@ Near1027: |
   Goddess protect me!
 Talk1022: |
   <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>I can't believe you joined forces with us,
-  Linkette! <5 Type='0'/>Though, I admit, I hoped you would
+  Rinkuru! <5 Type='0'/>Though, I admit, I hoped you would
   ever since we met at Hyrule Castle.
   The monster-control crew is battling those
   awful things all over Hyrule,<5 Type='0'/> trying to
@@ -54,7 +54,7 @@ Talk_021: |
   <3 Type='0' Data='0701'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003100'/>I want this finished before the night takes
   hold. Please, help us if you can!
 Talk1025: |
-  <3 Type='0' Data='0701'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003100'/>Linkette, that weapon of yours...it's the famed
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003100'/>Rinkuru, that weapon of yours...it's the famed
   <0 Type='3' Data='0000'/>Master Sword<0 Type='3' Data='ffff'/>, isn't it.
   
   I'd heard it was a special sword, but this!
@@ -80,7 +80,7 @@ Talk1032: |
   <3 Type='0' Data='0000'/><4 Type='0' Data='0e0053006900670068005f0030003100'/>My monster-control crew is in the midst
   of a strike on the monsters that have
   plagued this area.
-  But just look... What a disaster...<0 Type='4'/><3 Type='0' Data='0701'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003100'/>Please, Linkette, can you help us?
+  But just look... What a disaster...<0 Type='4'/><3 Type='0' Data='0701'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003100'/>Please, Rinkuru, can you help us?
 Talk1026: |
   <3 Type='0' Data='0700'/>We will bring peace back to Hyrule!
 Talk_016: |
@@ -131,7 +131,7 @@ Talk1037: |
   <3 Type='0' Data='0900'/>If we win this fight, I'm gonna get myself
   a horse and ride it.
 Talk1043: |
-  <3 Type='0' Data='0100'/>Linkette! I was sure I'd see you again!
+  <3 Type='0' Data='0100'/>Rinkuru! I was sure I'd see you again!
   
   
   <3 Type='0' Data='0000'/>I have terrible news. The <0 Type='3' Data='0000'/>blood moon<0 Type='3' Data='ffff'/>...
@@ -174,7 +174,7 @@ Talk1052: |
   <3 Type='0' Data='0001'/><4 Type='0' Data='0c004e006f007400690063006500'/>I'm getting ready to fight some monsters
   here. Not a good time to distract me.
 Talk1046: |
-  <3 Type='0' Data='0701'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003100'/>Come to think of it, Linkette, I was told that
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003100'/>Come to think of it, Rinkuru, I was told that
   you wield a <0 Type='3' Data='0000'/>special sword—one that cuts
   down evil<0 Type='3' Data='ffff'/> like no other sword can.
   I don't mean to be rude, but...<5 Type='0'/>your
@@ -206,7 +206,7 @@ Talk1054: |
   
   I must say, nothing would be more
   encouraging than to have you, Hyrule's
-  best swordsman, assist us.
+  best knight, assist us.
   <4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>If we work together, I'm sure we could
   bring peace back to this land.
 Talk1060: |
@@ -216,7 +216,7 @@ Talk1060: |
   <3 Type='0' Data='0000'/>I guess I underestimated you. You really
   are a master swordsman.
 Talk1048: |
-  <3 Type='0' Data='0100'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Aha! If it isn't, Linkette!<5 Type='1'/> I was sure we'd
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Aha! If it isn't, Rinkuru!<5 Type='1'/> I was sure we'd
   meet again!
   
   <3 Type='0' Data='0000'/>Unfortunately, there's no time to enjoy
@@ -233,7 +233,7 @@ Talk1048: |
 Talk1049: |
   <3 Type='0' Data='0001'/><4 Type='0' Data='0c004e006f007400690063006500'/>Um,<5 Type='0'/> not now...
 Talk1056: |
-  <3 Type='0' Data='0000'/>If you're here, Linkette, does that mean...
+  <3 Type='0' Data='0000'/>If you're here, Rinkuru, does that mean...
 Talk1062: |
   <3 Type='0' Data='0001'/>I hope I get the chance to fight beside
   you again.
@@ -241,21 +241,21 @@ Talk1057: |
   <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>What!<5 Type='1'/> You took out the monsters for us?!
   
   
-  <3 Type='0' Data='0000'/>Linkette, how do I even begin to thank you?
+  <3 Type='0' Data='0000'/>Rinkuru, how do I even begin to thank you?
   
   
   Because of you, we can head to our next
   mission with the squad at full strength.
 Talk1063: |
   <3 Type='0' Data='0800'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003100'/><1 Type='3' Data='6e000000'/>May you fight with the Goddess Hylia's
-  divine protection, brave swordsman!
+  divine protection, brave knight!
 Talk1015_01: |
   It's part of the bounty given to the
   monster-control crew,<5 Type='0'/> so please don't
   hesitate to accept it.
 Talk1058: |
   <3 Type='0' Data='0001'/>Next time, I hope I get to see you in
-  action with my own eyes, Linkette.
+  action with my own eyes, Rinkuru.
 Talk1059: |
   <3 Type='0' Data='0000'/>Is this some sort of trick? Have they
   found a way to hide from us?
@@ -268,11 +268,11 @@ Talk1066: |
   <3 Type='0' Data='0001'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>Is everyone OK? What an incredible fight!<5 Type='0'/>
   Hold on, I'm on my way!
 Talk1067: |
-  I'm incredibly grateful for your help, Linkette.<5 Type='0'/>
+  I'm incredibly grateful for your help, Rinkuru.<5 Type='0'/>
   And I hate to impose, but could you come
   with me for a minute?
 Talk1068: |
-  <3 Type='0' Data='0b00'/><4 Type='0' Data='26005100750065007300740069006f006e00530075007200700072006900730065005f0030003000'/>Is that you there, Linkette?!<5 Type='1'/> Hey...<5 Type='0'/>I see you
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='26005100750065007300740069006f006e00530075007200700072006900730065005f0030003000'/>Is that you there, Rinkuru?!<5 Type='1'/> Hey...<5 Type='0'/>I see you
   helped us out!<0 Type='4'/><3 Type='0' Data='0001'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>I'm so grateful for all your assistance!<5 Type='1'/>
   Could you join me for a moment?
 Talk1069: |
@@ -293,7 +293,7 @@ Near1010: |
 Near1011: |
   Defeat is not an option!
 Talk1001: |
-  <3 Type='0' Data='0801'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/><FontSize Value='125'/>Linkette! Hello!<FontSize Value='100'/>
+  <3 Type='0' Data='0801'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/><FontSize Value='125'/>Rinkuru! Hello!<FontSize Value='100'/>
 Near1006: |
   <4 Type='0' Data='180057006f0072006b00480065006100760079005f0030003000'/>Begin the attack!
 Near1012: |
@@ -306,7 +306,7 @@ Talk1022_01: |
   helped us defeat last time...<5 Type='0'/>the blood
   moon brought them back.
   <4 Type='0' Data='140055006e006400650072007300740061006e006400'/>I'm just grateful you were able to take
-  them out again, Linkette.
+  them out again, Rinkuru.
 Talk1002: |
   <3 Type='0' Data='0200'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/><FontSize Value='125'/>For Hyrule! For victory!<FontSize Value='100'/>
 Near1007: |
@@ -340,7 +340,7 @@ Talk1005: |
   So I'm giving orders from here.
   
   
-  <4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003100'/>But, Linkette, if you could join them and add
+  <4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003100'/>But, Rinkuru, if you could join them and add
   your considerable strength to theirs...
   I'd feel far better.
 Near1022: |
@@ -351,7 +351,7 @@ Talk1011: |
   <3 Type='0' Data='0000'/><4 Type='0' Data='1a0055006e006400650072007300740061006e0064005f0030003000'/>As the commander, I'm so grateful for
   every single ally who's joined the fight.<5 Type='1'/>
   They fill me with hope.
-  But, Linkette, if you add your strength to
+  But, Rinkuru, if you add your strength to
   ours, I'm sure we can win this!
 Talk1012: |
   <3 Type='0' Data='0701'/>The last time we met was at Hyrule Castle,
@@ -369,9 +369,9 @@ Talk1007: |
   the <0 Type='3' Data='0000'/>captain on duty <0 Type='3' Data='ffff'/>nearby!
 Talk1013: |
   <3 Type='0' Data='0800'/>Just incredible! No monster is a match
-  for you, eh, Linkette?
+  for you, eh, Rinkuru?
 Talk1020: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/><FontSize Value='125'/>Linkette!<FontSize Value='100'/>
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/><FontSize Value='125'/>Rinkuru!<FontSize Value='100'/>
 Near1019: |
   Where'd the monsters go?
 Near1025: |
@@ -381,7 +381,7 @@ Talk1008: |
   dangerous, and the captain will be
   real mad.
 Talk1014: |
-  <3 Type='0' Data='0701'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003100'/>Come to think of it, Linkette, I was told that
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003100'/>Come to think of it, Rinkuru, I was told that
   you wield a <0 Type='3' Data='0000'/>special sword<0 Type='3' Data='ffff'/>—one more
   magnificent than all the others.
   I don't mean to be rude, but...<5 Type='0'/>your
@@ -397,7 +397,7 @@ Near1026: |
 Talk1009: |
   <3 Type='0' Data='0b00'/>Now is not the time for a chat!
 Talk1021: |
-  <3 Type='0' Data='0001'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Linkette, I'm so grateful for everything you
+  <3 Type='0' Data='0001'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Rinkuru, I'm so grateful for everything you
   did for us! If you don't mind, could you
   come here for a moment?
 Talk1015: |
