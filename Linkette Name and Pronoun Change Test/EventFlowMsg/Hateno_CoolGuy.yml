@@ -1,0 +1,228 @@
+Talk_0034: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>You already caught all the hot-footed
+  frogs? <5 Type='1'/>That's some quick work!<FontSize Value='80'/><0 Type='3' Data='0200'/><0 Type='4'/><3 Type='0' Data='0001'/>And here I am, not having caught even one...<0 Type='3' Data='ffff'/><FontSize Value='100'/>
+0010: |
+  Ivee?
+Talk_0035: |
+  <3 Type='0' Data='0001'/>Onnne, twooo, threee...
+0011: |
+  I talked to her.
+Talk_0036: |
+  <3 Type='0' Data='0201'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Does this look like <0 Type='3' Data='0000'/>10 frogs <0 Type='3' Data='ffff'/>to you?
+  I don't need all my fingers to know you
+  came up short!<0 Type='4'/><3 Type='0' Data='0001'/>Ms. Ivee wants her frogs. Let's not keep
+  her waiting. <5 Type='0'/>Go on and gather the rest
+  of those hot-footed little guys.
+Talk_0060: |
+  <3 Type='0' Data='0001'/>So? You got anything?
+0012: |
+  Here's some frogs.
+Talk_0037: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>Aha! <5 Type='0'/><0 Type='3' Data='0000'/>10 frogs<0 Type='3' Data='ffff'/>, all accounted for! Allow me
+  to take those off your hands.
+Talk_0079: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>What's the matter? <5 Type='0'/>You can tell me—I'm
+  the most fashionable young guy around.
+Talk_0038: |
+  <3 Type='0' Data='0000'/>And as promised, <5 Type='0'/>here's your reward.
+Talk_0021: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>You know it. <5 Type='1'/>I'm at peak fashion, but I still
+  have a hard time...you know.
+Talk_0062: |
+  <3 Type='0' Data='0500'/>Sure, things are peaceful in the ol' village,
+  but it's a jungle out there in the world.<5 Type='0'/><0 Type='4'/>That's why I stick around here, checkin'
+  out the scene, making sure no strangers
+  put the moves on <0 Type='3' Data='0000'/>Ms.<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>Ivee<0 Type='3' Data='ffff'/>.<5 Type='0'/>
+  <3 Type='0' Data='0701'/>Wait, I mean...<5 Type='1'/> I'm on guard duty to make
+  sure no strangers come in from outside to
+  disturb the peace.
+Talk_0039: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>She wants <0 Type='3' Data='0000'/>hot-footed frogs<0 Type='3' Data='ffff'/>? <5 Type='0'/>And <0 Type='3' Data='0000'/>100 of
+  them<0 Type='3' Data='ffff'/>, at that?!<0 Type='4'/><3 Type='0' Data='0801'/>Yeah, that checks out! <5 Type='0'/>Ms. Ivee's love for
+  animals is just one of the many charming
+  things about her.<0 Type='4'/><3 Type='0' Data='0701'/>Or so my friend's friend is always saying.<0 Type='4'/><0 Type='3' Data='0200'/><FontSize Value='80'/>That was a close one! I better play it smooth.<FontSize Value='100'/><0 Type='3' Data='ffff'/><0 Type='4'/><3 Type='0' Data='0c01'/>Still, <5 Type='0'/>collecting 100 <0 Type='3' Data='0000'/>hot-footed frogs<0 Type='3' Data='ffff'/>
+  seems like a big job, even for someone
+  you love.<5 Type='0'/><0 Type='4'/><3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>But not if I had help! You traveler types
+  go into <0 Type='3' Data='0000'/>wells <0 Type='3' Data='ffff'/>and <0 Type='3' Data='0000'/>caves <0 Type='3' Data='ffff'/>all the time, right?<0 Type='4'/>That's just the kind of place where you
+  find frogs. You don't even have to go far!<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0c01'/><0 Type='3' Data='0200'/><FontSize Value='80'/>Didn't I hear about a bunch of frogs in a well
+  somewhere in this village? Maybe I should check
+  it out later.<FontSize Value='100'/><0 Type='3' Data='ffff'/><0 Type='4'/><3 Type='0' Data='0001'/>What? I didn't say anything. Haha.<5 Type='0'/> Look,
+  let's focus on how helpful it would be if
+  you gathered <0 Type='3' Data='0000'/>10 of those frogs<0 Type='3' Data='ffff'/>.
+Talk_0022: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>No matter the weather or the time of day,<5 Type='1'/>
+  I'm always here, checkin' out the scene.<5 Type='0'/>
+  That's me. Good ol' Manny.
+Talk_0063: |
+  <3 Type='0' Data='0c01'/>I'm here on guard duty, checkin' out
+  Ms. Ivee.<5 Type='0'/><0 Type='4'/><3 Type='0' Data='0000'/>Sorry, let me do that one over. <5 Type='1'/>I'm on
+  guard duty protectin' the village.
+Talk_0023: |
+  <3 Type='0' Data='0001'/>There's no problem if you wanna talk to
+  <0 Type='3' Data='0000'/>Ms.<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>Ivee<0 Type='3' Data='ffff'/>.<0 Type='4'/>Just...keep the naive, "I just moved here,
+  and won't somebody show me around?"
+  act to a minimum.<0 Type='4'/><0 Type='3' Data='0200'/><FontSize Value='80'/>Not that anyone could be as young, guyish, or
+  fashionesque as me.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_0064: |
+  <3 Type='0' Data='0701'/>Whoa. You don't let go of much,
+  do you, buddy?<0 Type='4'/>And here I'd collected 10 rushrooms as
+  a reward for you.<0 Type='4'/>Oh well. Guess you'll be keeping those
+  hot-footed frogs you caught.
+Talk_0065: |
+  <3 Type='0' Data='0001'/>There's no problem if you wanna talk to
+  <0 Type='3' Data='0000'/>Ms. Ivee<0 Type='3' Data='ffff'/>.<0 Type='4'/>Just ease up on the whole "fashionable
+  dude" thing, all right? No one cares how
+  great your hat looks like, pal.<0 Type='4'/><0 Type='3' Data='0200'/><FontSize Value='80'/>Not that anyone can pull off Cece's looks as well
+  as me. I'm not just fashionable—I'm fashion-able.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_0025: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='0e00480075006d006d0069006e006700'/>♪Love's fiiire <5 Type='1'/>buuurns forever.♪<5 Type='1'/>
+Talk_0066: |
+  <3 Type='0' Data='0700'/>So now you know the situation. If you
+  find any <0 Type='3' Data='0000'/>hot-footed frogs<0 Type='3' Data='ffff'/>, you know
+  what to do.
+Talk_0026: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Whether it's raining spears or just regular
+  rain, I never slack off guardin' the place.<0 Type='4'/><0 Type='3' Data='0200'/><FontSize Value='80'/>Not that it ever rains spears, granted.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_0050: |
+  <3 Type='0' Data='0400'/><FontSize Value='80'/><0 Type='3' Data='0200'/>Again? He's asked me that already... Is this guy OK?<0 Type='3' Data='ffff'/><FontSize Value='100'/>
+Talk_0068: |
+  <3 Type='0' Data='0c01'/><0 Type='3' Data='0200'/><FontSize Value='80'/>Hmmm... Does this mean I've gotta catch them
+  myself? Seems that way.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_0028: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>What's the matter? <5 Type='0'/>You can tell me,
+  weirdly gorgeous chick.
+Talk_0069: |
+  <3 Type='0' Data='0800'/>There'd be a reward in it for you! <5 Type='0'/>Won't
+  you do it for my friend's friend's sake?
+Talk_0029: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Hey, not so fast. <5 Type='0'/>As a kind of follow-up to
+  that friend-of-a-friend conversation we
+  were having...<0 Type='4'/>Remember? How we were wondering what
+  kind of present would make Ms. Ivee from
+  the general store<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/>happy?<0 Type='4'/><3 Type='0' Data='0701'/>If you have any answers, buddy, now's
+  the time for 'em. <5 Type='0'/>It's not like I can <0 Type='3' Data='0000'/>just
+  go ask her directly<0 Type='3' Data='ffff'/>.
+Talk_0052: |
+  <FontSize Value='80'/><0 Type='3' Data='0200'/><3 Type='0' Data='0500'/>Hmmm... Could this be...what that other guy calls
+  "putting the moves" on me?<0 Type='4'/>Well, if that is what's going on, maybe he'll cut it
+  out if I answer him again...<0 Type='3' Data='ffff'/><FontSize Value='100'/>
+0005: |
+  That's rough.
+Talk_0053: |
+  <3 Type='0' Data='0001'/>I've got no problem with you meeting
+  Ms. Ivee. <5 Type='0'/>Just keep the naive-guy act
+  to a minimum.
+0006: |
+  Guard duty?
+Talk_0054: |
+  <3 Type='0' Data='0500'/><FontSize Value='80'/><0 Type='3' Data='0200'/>Uh, I'm... <5 Type='0'/>I'm not sure. What kind of a question
+  is that? But he's still looking at me, so I should
+  say something...<0 Type='3' Data='ffff'/><FontSize Value='100'/>
+0009: |
+  Goodbye.
+Talk_0080: |
+  <3 Type='0' Data='0700'/>I'm not trying to be rude, buddy, but...<0 Type='4'/>What were you doing with Ms. Ivee from
+  the general store?<0 Type='4'/>Sure I noticed. I've been checkin' her out
+  for...a long...<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0400'/>I mean, a friend-of-a-friend tipped me off!
+Talk_0081: |
+  <3 Type='0' Data='0c01'/>So weird. Who'd have thought Ms. Ivee's
+  heart's desire would be 100 hot-footed
+  frogs?<0 Type='4'/><3 Type='0' Data='0801'/>Her love for animals is just one of the
+  things that makes her so great!<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0701'/>Or so my friend's friend claims, anyway.<0 Type='4'/><0 Type='3' Data='0200'/><FontSize Value='80'/>That was a close one! I better play it smooth.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_0040: |
+  <3 Type='0' Data='0701'/>Niiice. Guess it's up to me to collect
+  the rest.
+Talk_0018: |
+  <3 Type='0' Data='0c01'/>You look like you've been places. <5 Type='0'/>Sure,
+  things are peaceful in the ol' village, but
+  it's a jungle out there in the world.<5 Type='0'/><0 Type='4'/>That's why I stick around here, checkin'
+  out the scene, making sure no strangers
+  put the moves on <0 Type='3' Data='0000'/>Ms. Ivee<0 Type='3' Data='ffff'/>.<5 Type='0'/>
+  <3 Type='0' Data='0000'/>Wait, I mean...<5 Type='1'/>that's why I make sure no
+  strangers come in from outside to disturb
+  the peace.
+Talk_0082: |
+  <3 Type='0' Data='0700'/>You're a traveler, right, buddy? You go
+  into <0 Type='3' Data='0000'/>wells <0 Type='3' Data='ffff'/>and <0 Type='3' Data='0000'/>caves<0 Type='3' Data='ffff'/> sometimes?<0 Type='3' Data='0000'/><0 Type='4'/><0 Type='3' Data='ffff'/>That's just the kinds of places where you
+  find frogs. So it should be no problem for
+  you to grab 10 of them, right?<0 Type='4'/><3 Type='0' Data='0c01'/><0 Type='3' Data='0200'/><FontSize Value='80'/>Didn't I hear about a bunch of frogs in a well
+  somewhere in this village? Eh, this weirdo doesn't
+  need to know about that. I'll check it out myself.<FontSize Value='100'/><0 Type='3' Data='ffff'/><0 Type='4'/><3 Type='0' Data='0001'/>What? I didn't say anything. Haha. <5 Type='0'/>Look,
+  there'd be a reward in it for you! <5 Type='0'/><0 Type='4'/>Won't you gather <0 Type='3' Data='0000'/>10 hot-footed frogs<0 Type='3' Data='ffff'/>?
+  For my friend's friend's sake?
+Talk_0041: |
+  <3 Type='0' Data='0501'/>Hm?
+Talk_0042: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>The thing about being on love guard
+  duty is...<0 Type='4'/>Uh...<5 Type='0'/>how'd "love" get in there? Forget it.<0 Type='4'/><3 Type='0' Data='0200'/>The thing about guard duty is,<5 Type='0'/> I have to
+  make sure no creepy creeps get in here
+  and spoil everyone's good time!
+Talk_0083: |
+  <3 Type='0' Data='0b00'/>Hey...buddy...do I hear the faint croaks
+  of little frogs? <5 Type='1'/><0 Type='4'/><3 Type='0' Data='0801'/>Specifically, 10 <0 Type='3' Data='0000'/>hot-footed frogs <0 Type='3' Data='ffff'/>in that
+  pouch of yours?
+Talk_0084: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0c004e006f007400690063006500'/>Oh...<5 Type='0'/>hey there, buddy. <5 Type='0'/>Is today the day?
+  Am I gonna get 10 <0 Type='3' Data='0000'/>hot-footed frogs<0 Type='3' Data='ffff'/>?
+Talk_0043: |
+  <3 Type='0' Data='0001'/>OK, so if you've got the frogs, then let's
+  see them.
+Talk_0044: |
+  <3 Type='0' Data='0900'/>I told you to put a "Ms." on her name!
+Talk_0085: |
+  <3 Type='0' Data='0700'/>Buddy... <5 Type='0'/>I know you've been talking with
+  Ms. Ivee from the general store. I know.<0 Type='4'/>It's gonna keep me up at night if I don't
+  know what the two of you talked about.
+  I'm gonna dwell on it for days.
+  <3 Type='0' Data='0400'/>And when I say "me," I mean, my friend's
+  friend who cares about this stuff. So spill
+  all the details!
+Near_0001: |
+  *mumble mumble*
+Talk_0045: |
+  <3 Type='0' Data='0001'/>Ms. Ivee is the poster girl for the
+  <0 Type='3' Data='0000'/>East Wind<0 Type='3' Data='ffff'/> general store.
+Talk_0046: |
+  <3 Type='0' Data='0001'/>I've got no problem with you meeting
+  Ms. Ivee.<5 Type='0'/> Just ease up on the whole
+  "fashionable dude" thing, all right?<0 Type='4'/><0 Type='3' Data='0200'/><FontSize Value='80'/>Not that anyone can pull off Cece's looks as well
+  as me. I'm not just fashionable—I'm fashion-able.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Near_0002: |
+  Come to me, froggies!
+Talk_0047: |
+  <FontSize Value='80'/><0 Type='3' Data='0200'/><3 Type='0' Data='0400'/>Huh? What do I like? Where did that come from?<5 Type='1'/>
+  Umm... Hmmm...<0 Type='3' Data='ffff'/><FontSize Value='100'/>
+Near_0003: |
+  Heh! What a cute li'l guy!
+Talk_0070: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>Wait... <5 Type='0'/>You didn't jump the line, right?!
+Talk_0048: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Ummm... Maybe <0 Type='3' Data='0000'/>frogs<0 Type='3' Data='ffff'/>? Sure, why not?
+  I like frogs.<5 Type='1'/><0 Type='4'/><0 Type='3' Data='0000'/><3 Type='0' Data='0801'/><0 Type='3' Data='ffff'/>If I had <0 Type='3' Data='0000'/>100 hot-footed frogs<0 Type='3' Data='ffff'/>, I would be<0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  incredibly happy!
+Talk_0030: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>You went and ASKED what Ms. Ivee likes?<5 Type='0'/>
+  Right to her face?! <5 Type='0'/>What's the idea?!<5 Type='1'/><FontSize Value='80'/><0 Type='3' Data='0200'/><0 Type='4'/><3 Type='0' Data='0701'/>Uh-oh. <5 Type='0'/>Gotta play it smooth. <5 Type='0'/>Can't let him guess
+  I'm the one dying to know.<0 Type='4'/><0 Type='3' Data='ffff'/><FontSize Value='100'/>All right, then. So what is it? What does
+  Ms. Ivee want? <5 Type='0'/>I can't leave my friend's
+  friend hanging.
+Talk_0071: |
+  <3 Type='0' Data='0701'/>How I've been dreaming of a date with my
+  beloved Ms. Ivee...<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>That's why I, Manny,<5 Type='1'/> will check every well
+  in sight!<0 Type='4'/><0 Type='3' Data='0200'/><FontSize Value='80'/>Uh-oh. <5 Type='0'/>No coming back from that one.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_0031: |
+  <3 Type='0' Data='0900'/>You forgot the "Ms."! ALWAYS add
+  the "Ms."!
+Talk_0049: |
+  <3 Type='0' Data='0801'/><0 Type='3' Data='0200'/><FontSize Value='80'/>Oops. I couldn't think of anything, so I just told him
+  what my dad likes instead.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk_0032: |
+  <FontSize Value='80'/><0 Type='3' Data='0200'/><3 Type='0' Data='0c01'/>Hmm...but this doesn't solve my problem.<5 Type='0'/>
+  Just what shall I gift my beloved?<0 Type='3' Data='ffff'/><FontSize Value='100'/>
+Talk_0033: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0a005400680069006e006b00'/>Byyy the waaay... <5 Type='1'/>Quick question for you,
+  young lady.<0 Type='4'/>What kind of present do you think would
+  make Ms. Ivee at <0 Type='3' Data='0000'/>East Wind<0 Type='3' Data='ffff'/> happy?<0 Type='4'/>I'm not asking for me, you understand.<5 Type='0'/>
+  A friend of a friend wanted advice, and
+  I'm having a tough time with the answer.<0 Type='4'/><3 Type='0' Data='0701'/>Obviously, I can't <0 Type='3' Data='0000'/>just go ask her directly<0 Type='3' Data='ffff'/>.
+  Let me know if you think of something.
