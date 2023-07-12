@@ -1,0 +1,63 @@
+SavedLv1_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>Dear me, was that dire! You saved my life!
+EnokidaSignboard: |
+  Hudson Construction?
+Failed00: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='1000540069007200650064005f0030003000'/>Phew...<5 Type='0'/> They took a chunk out of me...
+  
+  
+  A doctor I may be, but it's difficult to
+  treat one's own wounds.
+Talk_0001: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Are you here because you saw that
+  call for applications in the newspaper?<5 Type='0'/>
+  You better make sure you're prepared.
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003100'/>So far, every single applicant has been
+  turned down...<5 Type='0'/>including yours truly.<0 Type='4'/>If anyone out there could win the favor
+  of the brilliant, young mind that's running
+  the project, I'd really like to meet them.
+SavedLv3_00: |
+  <3 Type='0' Data='0800'/>You're...<5 Type='0'/>strong. Thanks for the rescue.
+Failed01: |
+  <3 Type='0' Data='0a00'/>Oww...<5 Type='0'/> I can't stay here. I need to find
+  somewhere to rest...
+Guardian00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0a0053006300610072006500'/>Whatever that is, it's terrifying! <5 Type='0'/>Run!
+  Run for your life!
+Talk_0002: |
+  <3 Type='0' Data='0700'/>Well then. Guess I'll go back to my old job
+  researching the <0 Type='3' Data='0000'/>Zonai ruins<0 Type='3' Data='ffff'/>.<0 Type='4'/>If you're here to interview as a <0 Type='3' Data='0000'/>Depths
+  explorer<0 Type='3' Data='ffff'/>, I'd advise against getting your
+  hopes up.
+  That Josha's standards are high!
+SavedLv3_01: |
+  <3 Type='0' Data='0b00'/>I'm in awe. <5 Type='0'/>How did you do that?
+Atacked00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>You came just in time.<5 Type='1'/> I'm sorry I couldn't
+  do it on my own.
+Talk_0003: |
+  <3 Type='0' Data='0700'/>Are you also here to interview for the
+  <0 Type='3' Data='0000'/>investigation of the Depths<0 Type='3' Data='ffff'/>? My advice—
+  bring your very best.
+  So far, not one single applicant has made
+  it through.<0 Type='4'/>I know Josha is a prodigy, so she's
+  probably looking for an equally capable
+  assistant. I wonder if she'll find one...
+SavedLv2_00: |
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/><4 Type='0' Data='08004500610073006500'/><0 Type='3' Data='ffff'/>Monsters know how to ruin a good walk...<5 Type='1'/>
+  Anyway, thank you for saving me!
+Atacked01: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>Thanks for your help, young lady!<5 Type='0'/>
+  I'm sorry to say, I didn't even bring
+  a weapon...
+Talk_0004: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Oh, you're the fellow from the other day!
+  Lookout Landing continues to surprise.
+SavedLv2_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='08004500610073006500'/>Sorry to trouble you... <5 Type='1'/>Are you OK?<5 Type='1'/>
+  You're not injured, are you?
+SavedLv1_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Phewww... And they say youths don't
+  look after their elders!
+Thanks00: |
+  <3 Type='0' Data='0701'/>Here. It's the least I owe you.

@@ -1,0 +1,102 @@
+Talk_01: |
+  <3 Type='0' Data='0700'/>Everything here's top-notch, and I've got
+  plenty to sell.
+Com_Talk_55: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='0a0041006e00670072007900'/>No matter the mission, you always need
+  space for a banana. Make some room!
+Talk_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>Nobody's ever bought out my whole
+  stock before. Enjoy 'em!
+Com_Talk_56: |
+  <3 Type='0' Data='0701'/>One bunch? A mere <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+Talk_03: |
+  <3 Type='0' Data='0700'/>I only sell the best of the bunch.
+Com_Talk_31: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>Banana goodness coming right up.
+  But how many?
+Com_Talk_33: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>Just the one? That'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+  Take it or leave it.
+Com_Talk_34: |
+  <3 Type='0' Data='0701'/>You want every last one?<5 Type='0'/> All <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> can be
+  yours for <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+Com_Talk_35: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>For all <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/>...I could give you
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+Com_Talk_02b: |
+  <3 Type='0' Data='0700'/>I'm still buying if you're still selling.
+Near_00: |
+  They're irresistible.
+Talk_08: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0600530061006400'/>Just here to smell? <5 Type='1'/>If you're not buyin'
+  bananas, then split.
+Com_Talk_02c: |
+  <3 Type='0' Data='0700'/>If you're still selling, make it snappy.
+Talk_09: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Just couldn't resist, could you?
+Com_Talk_02d: |
+  <3 Type='0' Data='0700'/>Any more for me? Don't be shy.
+Near_02: |
+  Fresh out. Too bad...
+0001: |
+  Buy my stuff!
+5500: |
+  You got a deal.
+Com_Talk_00: |
+  <3 Type='0' Data='0700'/>You sellin'? Let's see it.
+Com_Talk_13: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>How many are you looking to sell?
+0002: |
+  Goodbye.
+5501: |
+  Not a chance.
+Com_Talk_01: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>I'll take it. <5 Type='0'/>For <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+Com_Talk_14: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><0 Type='3' Data='ffff'/>Hm, <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of those? I can offer you
+  <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+5502: |
+  Deal.
+Com_Talk_02: |
+  <3 Type='0' Data='0700'/>What else ya got?
+Com_Talk_15: |
+  <3 Type='0' Data='0900'/>I'm not buying that. This is a shop,
+  not a charity.
+5503: |
+  Never mind.
+Com_Talk_16: |
+  <3 Type='0' Data='0900'/>That clothing is the sign of our loyalty to
+  Master Kohga. How DARE you try to sell
+  it to me?! While you're wearing it, no less!
+Com_Talk_04: |
+  <3 Type='0' Data='0900'/>Got cold feet, huh?
+Com_Talk_05: |
+  <3 Type='0' Data='0701'/>Whaddaya got for me?
+5507: |
+  I'll take 'em all.
+5508: |
+  I'll sell them all.
+Com_Talk_50: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004c0061007500670068005300'/>Good choice. That'll be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+Talk_10: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0600530061006400'/>Just here to get a whiff of the lingering
+  scent?<5 Type='1'/> We're out of bananas, so split.
+Talk_11: |
+  <4 Type='0' Data='0600530061006400'/><FontSize Value='80'/>Gotta restock. Need some bananas to offer up
+  to Master Kohga...<FontSize Value='100'/>
+Com_Talk_52: |
+  <3 Type='0' Data='0701'/>So, <2 Type='15' Data='2200530068006f0070005f00540072006100640065004900740065006d004e0075006d00ffff00cd'/> of 'em will be <0 Type='3' Data='0000'/><2 Type='18' Data='2600530068006f0070005f00540072006100640065004900740065006d0050007200690063006500ffff00cd'/> <201 Type='6' Data='0a00720075007000650065000c007200750070006500650073000000'/><0 Type='3' Data='ffff'/>.
+Com_Talk_05b: |
+  <3 Type='0' Data='0701'/>Come on now, show me.
+Com_Talk_53: |
+  <3 Type='0' Data='0700'/>Got enough to tide you over?
+Com_Talk_05c: |
+  <3 Type='0' Data='0701'/>Show me the good stuff.
+Talk_00: |
+  <3 Type='0' Data='0701'/>You may be young, but you know quality.
+  A true banana man, I see.
+Com_Talk_54: |
+  <3 Type='0' Data='0900'/>You wanna pay with your life? No?
+  Then come back with money.
+Com_Talk_05d: |
+  <3 Type='0' Data='0701'/>Let's see what you've got.

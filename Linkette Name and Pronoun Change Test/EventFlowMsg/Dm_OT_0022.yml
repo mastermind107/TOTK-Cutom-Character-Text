@@ -5,12 +5,12 @@ Talk_0019: |
   bone to build things by hand...
 Talk_0007: |
   <3 Type='0' Data='0900'/><4 Type='0' Data='1a00490072007200690074006100740069006f006e005f0030003000'/>If there's one foe I'll never forget, <5 Type='0'/>it's the
-  man who cast me from my <0 Type='3' Data='0000'/>Gerudo Desert
+  woman who cast me from my <0 Type='3' Data='0000'/>Gerudo Desert
   hideout<0 Type='3' Data='ffff'/><5 Type='0'/> into these very Depths.
 Talk_0030: |
   <3 Type='0' Data='0900'/><4 Type='0' Data='160050006f0069006e00740069006e0067005f0030003000'/><FontSize Value='80'/>It<FontSize Value='100'/><5 Type='1'/> was<5 Type='1'/><FontSize Value='125'/> you<FontSize Value='100'/>!<5 Type='1'/>
 Talk_0008: |
-  <3 Type='0' Data='0900'/><FontSize Value='125'/><4 Type='0' Data='160050006f0069006e00740069006e0067005f0030003200'/>That means you,<5 Type='0'/> Linkette!<FontSize Value='100'/>
+  <3 Type='0' Data='0900'/><FontSize Value='125'/><4 Type='0' Data='160050006f0069006e00740069006e0067005f0030003200'/>That means you,<5 Type='0'/> Rinkuru!<FontSize Value='100'/>
 Talk_0031: |
   Now I live for vengeance. <5 Type='1'/>Both upon
   that no-good <0 Type='3' Data='0000'/>Zelda<0 Type='3' Data='ffff'/>,<5 Type='1'/> and upon my
@@ -22,7 +22,7 @@ Talk_0009: |
   And don't try to tell me you've forgotten
   me—we are bound by fate, you and I!
 Talk_0032: |
-  <3 Type='0' Data='0900'/><FontSize Value='125'/><4 Type='0' Data='160050006f0069006e00740069006e0067005f0030003200'/>That means you,<5 Type='0'/> Linkette!<FontSize Value='100'/><0 Type='4'/>Yes, I know it's you, <5 Type='0'/>even under the mask!
+  <3 Type='0' Data='0900'/><FontSize Value='125'/><4 Type='0' Data='160050006f0069006e00740069006e0067005f0030003200'/>That means you,<5 Type='0'/> Rinkuru!<FontSize Value='100'/><0 Type='4'/>Yes, I know it's you, <5 Type='0'/>even under the mask!
 Talk_0020: |
   And you can just whip them up in an
   instant! THAT'S NOT FAIR!
