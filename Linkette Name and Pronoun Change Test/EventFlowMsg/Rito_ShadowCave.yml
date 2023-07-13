@@ -1,0 +1,108 @@
+0008: |
+  Tell me about the bird.
+Talk03_00: |
+  <3 Type='0' Data='0700'/>Yeah. <5 Type='1'/>Have you ever looked up at the
+  peak of the spire here in Rito Village?
+Talk03_01: |
+  <3 Type='0' Data='0700'/>That bit jutting out sideways looks kind
+  of like a bird's perch, right? <5 Type='0'/>We call it
+  <0 Type='3' Data='0000'/>Vah Medoh's perch<0 Type='3' Data='ffff'/>.
+Talk10: |
+  <3 Type='0' Data='0c01'/>Over there? No, I don't think that was it.
+Talk03_02: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I told you about how the peak of the spire
+  the village is built around is called <0 Type='3' Data='0000'/>Vah
+  Medoh's perch<0 Type='3' Data='ffff'/>, right?
+Talk11: |
+  <3 Type='0' Data='0c01'/>Hmmm. This is frustrating.
+Talk06_00: |
+  <3 Type='0' Data='0c00'/>Hmm. <5 Type='0'/>Was there anything that stood out?
+  Let me think...
+Talk01_00: |
+  <3 Type='0' Data='0c00'/>Hmm. <5 Type='1'/>That cave...where was it again?<5 Type='1'/>
+  Oh, hello.
+Talk04_11: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>When I happened to look west while up on
+  that perch, basking in the sun at dawn...<0 Type='4'/>I saw a single <0 Type='3' Data='0000'/>white bird<0 Type='3' Data='ffff'/> resting atop the
+  <0 Type='3' Data='0000'/>long shadow of the perch<0 Type='3' Data='ffff'/> caused by the
+  angle of the morning sun.
+Talk01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Hey! <5 Type='1'/>If it isn't the lady who worked with
+  Tulin to save the village.<0 Type='4'/>Everyone in the village is happy to stretch
+  their wings again without them icing over.<5 Type='0'/>
+  So thanks for that.<0 Type='4'/>And the end of the blizzard has improved
+  visibility too. <5 Type='0'/>It's much easier now to find
+  <0 Type='3' Data='0000'/>caves<0 Type='3' Data='ffff'/> where we can gather food!
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0c005300610064005f0030003000'/>I saw one just the other day, in fact, while
+  I was flying around...<5 Type='1'/>but I forgot exactly
+  where it was.<0 Type='4'/><3 Type='0' Data='0c01'/>It had a <0 Type='3' Data='0000'/>rock wreathed in green light<0 Type='3' Data='ffff'/>
+  inside it, just like the one beneath the
+  general store.<0 Type='4'/>Just where did I see that <0 Type='3' Data='0000'/>cave<0 Type='3' Data='ffff'/>, anyway?<5 Type='0'/>
+  I found it while I was looking for that
+  <0 Type='3' Data='0000'/>white bird<0 Type='3' Data='ffff'/>...
+Talk04_12: |
+  <3 Type='0' Data='0701'/>After I was done sunning, I went to have
+  a look at the <0 Type='3' Data='0000'/>bird<0 Type='3' Data='ffff'/>, but it wasn't there
+  anymore. <5 Type='1'/>There was just a <0 Type='3' Data='0000'/>cave<0 Type='3' Data='ffff'/> entrance.<0 Type='4'/><3 Type='0' Data='0300'/>The white bird was nice enough to lead
+  me to that cave, so it's frustrating that
+  I can't remember where it was now.
+Talk02: |
+  <3 Type='0' Data='0c00'/>Yeah...there were mushrooms in it and
+  a pond with fish. It would've been the
+  perfect place to stock up on supplies.<0 Type='4'/>All I remember is that I found it while
+  looking for that <0 Type='3' Data='0000'/>white bird<0 Type='3' Data='ffff'/>.
+Talk03_00_01: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Sure. I don't mind telling the story again.<5 Type='1'/>
+  I found that cave while looking for a
+  <0 Type='3' Data='0000'/>white bird<0 Type='3' Data='ffff'/>.
+Near01: |
+  Now where was it again?
+Talk04_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003100'/>It's weird for a bird to rest on a shadow,
+  right? <5 Type='1'/>I was curious, so I went to go have
+  a look where I saw the bird.<0 Type='4'/>Thing is, I couldn't find the white bird
+  again after that. Instead, I found a
+  <0 Type='3' Data='0000'/>cave entrance<0 Type='3' Data='ffff'/>.<0 Type='4'/>It's kind of like the <0 Type='3' Data='0000'/>white bird<0 Type='3' Data='ffff'/> led me to
+  that <0 Type='3' Data='0000'/>cave<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0300'/><4 Type='0' Data='0c005300610064005f0030003100'/>I don't know why I can remember all that
+  so clearly, but not where the cave was...
+Talk04: |
+  <3 Type='0' Data='0c00'/>Part of my morning routine is to head up
+  there and bask in the sun as it rises.<5 Type='1'/><0 Type='4'/>That day, I was getting some sun up on
+  the perch, same as always, just when the
+  <0 Type='3' Data='0000'/>dawn was breaking<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0701'/>Right about then...<5 Type='1'/>I looked to the west
+  and saw a <0 Type='3' Data='0000'/>white bird<0 Type='3' Data='ffff'/> resting atop the <0 Type='3' Data='0000'/>long
+  shadow of the perch<0 Type='3' Data='ffff'/>.
+Near02: |
+  The resting white bird...
+0001: |
+  There was a white bird?
+Talk02_00: |
+  <3 Type='0' Data='0700'/>Hey there! <5 Type='1'/>I still haven't figured out where
+  I saw that <0 Type='3' Data='0000'/>cave<0 Type='3' Data='ffff'/> the other day...
+0002: |
+  Any standout details?
+Talk06: |
+  <3 Type='0' Data='0501'/>I was lucky to find it. I don't think the
+  area around the entrance was anything
+  special or memorable.<0 Type='4'/><3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>But it was <0 Type='3' Data='0000'/>right next to a resting white
+  bird<0 Type='3' Data='ffff'/>. <5 Type='1'/>That much, I do remember.<0 Type='4'/>Deep inside, I could make out a <0 Type='3' Data='0000'/>rock<0 Type='3' Data='ffff'/>
+  <0 Type='3' Data='0000'/>wreathed in green light<0 Type='3' Data='ffff'/> like the one
+  that's beneath the general store now.
+0003: |
+  I hope you find it.
+Talk07: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Ugh. If I could just remember where I
+  found it, we'd have one more place to
+  search for food.
+Talk08: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Yeah! That's the cave, all right! So you
+  found it on your own, huh?<0 Type='4'/><3 Type='0' Data='0000'/>I remembered that it was near where I saw
+  the bird from the peak of Rito Village, on
+  the tip of Vah Medoh's perch's shadow...<0 Type='4'/>But I'd never have found it again without
+  your help, so I appreciate you telling me.<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Maybe I'll check it out soon to see what
+  kind of food we can scrounge there. <5 Type='1'/>I bet
+  Bedoli would like to come along.
+Talk09: |
+  <3 Type='0' Data='0c01'/>Where was that cave?
+0005: |
+  Got it.

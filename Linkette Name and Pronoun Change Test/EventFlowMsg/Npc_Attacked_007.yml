@@ -1,0 +1,142 @@
+NakedPlayer: |
+  Still no clothes, huh?
+talk0010: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>Where were you?! You disappeared on
+  me so suddenly. I was worried sick.
+talk0020: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Yikes. Have I got a dumb story for you...
+talk0011: |
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>What about you?! Pay more attention!<5 Type='1'/>
+  I fell down a well. It was awful!
+  
+  <3 Type='0' Data='0a01'/>I would have spent the rest of my life
+  down there if a passing traveler hadn't
+  rescued me...
+talk0021: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Baaah haha! Just imagine all you guys
+  doing that. It's just so dumb! Can't
+  believe I missed all that.<5 Type='0'/>
+  Serves me right for falling down a well.
+talk0012: |
+  <3 Type='0' Data='0700'/>You a new member of the research team
+  too, buddy? <5 Type='0'/>Me too. Look what we've
+  gotten ourselves into.
+  Hardly dressed to impress, are we? Can't
+  believe the first order we got was to...<5 Type='0'/>
+  go into the field...<5 Type='0'/>in our underpants.
+  <3 Type='0' Data='0c00'/>Totally bizarre. They say the order came
+  from Princess Zelda, but...<5 Type='1'/>you've got to
+  wonder, uh, <5 Type='0'/>really?
+talk0022: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Right?<5 Type='0'/> Massive blunder.
+  
+  
+  You won't believe this either...<5 Type='0'/> Our
+  leader, Bougan, didn't just drop the
+  whole underpants thing.
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003100'/>He's made it a whole way of training!
+  Yeah, he took Drant with him and went
+  on a journey to master that "method."
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>They're headed to <0 Type='3' Data='0000'/>Deplian Badlands<0 Type='3' Data='ffff'/> in
+  the <0 Type='3' Data='0000'/>far north of Hyrule<0 Type='3' Data='ffff'/>!
+talk0003: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Uh, what? <5 Type='0'/>I swear I'm not slacking here.
+  I'm on an official break!
+talk0013: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Uh, what?<5 Type='0'/> I swear I'm not slacking here.
+  I'm on an official break.
+  
+  <3 Type='0' Data='0701'/>But yeah...<5 Type='1'/> Let's not spread it to the
+  other survey-team people around the
+  world about this, uh, <5 Type='0'/>style choice.
+talk0023: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>Baaah! Hahaha!<5 Type='1'/> Sounds bad for poor
+  Drant. What are they doing there?
+  There's NOTHING there!
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>But I guess the new roads going
+  from Hebra to Eldin might have some
+  new surprises.
+  <3 Type='0' Data='0701'/>It could be interesting, I guess.
+talk0004: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>*sigh* Finally,<5 Type='0'/> I look like a real survey
+  team member now that I can dress in
+  the official uniform, but...
+  You see, I have a best buddy, <0 Type='3' Data='0000'/>Dillie<0 Type='3' Data='ffff'/>, who
+  I usually travel everywhere with, and he
+  came out here with me.
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003100'/>But somewhere along the way, I lost track
+  of him. Well...<5 Type='1'/>I mean, I actually lost SIGHT
+  of the guy.
+  We were around <0 Type='3' Data='0000'/>Rebonae Bridge <0 Type='3' Data='ffff'/>when it
+  happened. That's near Wetland Stable,
+  kinda southwest of here.
+  <3 Type='0' Data='0700'/>Suddenly, just gone. If you see him,
+  do me a favor, huh? Tell him he's got
+  me worried.
+talk0014: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Huh? Hold on. Aren't you...
+  
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/><FontSize Value='125'/>Yes! You're that lady from before!
+  
+  
+  <FontSize Value='100'/>Thank you for saving me!<FontSize Value='125'/><FontSize Value='100'/>
+talk0024: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Hahaha! That whole underpants story is
+  going to crack me up every time.
+talk0005: |
+  <3 Type='0' Data='0700'/>My buddy <0 Type='3' Data='0000'/>Dillie<0 Type='3' Data='ffff'/> just up and vanished on
+  me while we were coming out this way.
+  
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0e00540072006f00750062006c006500'/>Like, I saw him, right? And then I didn't
+  see him. I mean, we just got separated
+  somehow. Maybe.
+  We were around <0 Type='3' Data='0000'/>Rebonae Bridge<0 Type='3' Data='ffff'/> when it
+  happened. That's near Wetland Stable,
+  kinda southwest of here.
+  <3 Type='0' Data='0700'/>If you see that guy, just please tell him
+  he's got me worried.
+talk0025: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>Ha! That IS ridiculous.<5 Type='1'/> One more time,
+  so I can enjoy every stupid detail.
+talk0006: |
+  <3 Type='0' Data='0c00'/>Now where did Dillie run off to?
+  
+  
+  We were around <0 Type='3' Data='0000'/>Rebonae Bridge<0 Type='3' Data='ffff'/> when he
+  vanished. That's near Wetland Stable,
+  southwest of here.
+  <3 Type='0' Data='0700'/>If you bump into him somewhere, just
+  tell that guy I'm worried about him.
+talk0016: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1a00410064006d00690072006100740069006f006e005f0030003100'/>Ah!<5 Type='0'/> That IS you, isn't it!
+  
+  
+  You helped me with that underpants thing.<5 Type='0'/>
+  Wait, you helped Dillie here too?
+talk0026: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Should we try going there in just
+  our underpants?
+talk0017: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Underpants thing? What?!
+talk0027: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/>Baaah! Haha!<5 Type='1'/> Underpants?
+near0000: |
+  Break time!
+talk0009: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0e0053006900670068005f0030003100'/>*sigh*<5 Type='1'/> What's a guy to do? I got into
+  the Zonai Survey Team recently, and
+  now THIS. Look at me.
+  <3 Type='0' Data='0701'/>Sitting here. Like a dope. In my
+  underpants.
+  
+  Thought I'd be getting in on something
+  good here, but my first order was to go
+  into the field...dressed like this.
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>They say the order came down from
+  none other than Princess Zelda, but...<5 Type='1'/>
+  I mean, what's up with that, right?
+near0001: |
+  Where did he go?
+near0002: |
+  You left me!

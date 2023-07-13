@@ -1,0 +1,297 @@
+Talk62: |
+  <3 Type='0' Data='0100'/>With your help, President Hudson is now
+  standing proudly and firmly in place!<0 Type='4'/><3 Type='0' Data='0801'/>It fills my heart with joy to see him doing
+  so well on his own.
+Talk14: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>All right! Time to go back to Tarrey Town
+  and tell Mr. Hudson the good news!
+Talk63: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/>These portray Mr. Hudson himself in
+  detail—noble, glorious detail!
+Talk15: |
+  <3 Type='0' Data='0100'/>And with that, <5 Type='0'/>I'm off!
+Talk16: |
+  <3 Type='0' Data='0b00'/><FontSize Value='125'/>Whoa, whoa, whoaaa! Darn it all!<FontSize Value='100'/>
+Talk64: |
+  <3 Type='0' Data='0b00'/><0 Type='3' Data='0200'/><FontSize Value='80'/>Ah! <5 Type='0'/>I let go!<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+0001: |
+  Try letting go!
+Talk65: |
+  <3 Type='0' Data='0701'/><0 Type='3' Data='0200'/><FontSize Value='80'/>I really should redouble my support...<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk17: |
+  <0 Type='3' Data='0200'/><FontSize Value='80'/><3 Type='0' Data='0a00'/><4 Type='0' Data='0a0053006300610072006500'/>President Hudson!<5 Type='0'/> I'll support you!<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+0002: |
+  I'll leave you to it.
+0003: |
+  President Hudson?
+Talk19: |
+  <FontSize Value='125'/><3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>How's the president standing?!<FontSize Value='100'/>
+Talk20: |
+  <3 Type='0' Data='0b01'/>Did you do that?!
+  
+  
+  <3 Type='0' Data='0800'/>Thanks! Who knew there was such a
+  clever way to offer a helping hand!
+0004: |
+  Sorry, what's all this?
+0005: |
+  President Hudson?
+Talk21: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='0a0053006300610072006500'/><0 Type='3' Data='0200'/><FontSize Value='80'/>W-will he be OK? He won't fall?<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk22: |
+  <3 Type='0' Data='0101'/>And that's to put up these signs all over
+  the place to let everyone know that
+  Hudson Construction is a big deal.
+  These aren't your ordinary signs, as you
+  can clearly see.
+0006: |
+  What's with the pose?
+CompNear01: |
+  What a performance!
+Talk23: |
+  <3 Type='0' Data='0201'/>And so...
+  
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/><FontSize Value='125'/>I've pledged to support him!<FontSize Value='100'/>
+CompNear02: |
+  Oh, it's raining...
+Talk24: |
+  <3 Type='0' Data='0c01'/>But I can't stand here forever. I've got so
+  many more signs to spread around!
+  
+  I don't know what to do...
+CompNear03: |
+  Oh, it's snowing...
+Talk25: |
+  <3 Type='0' Data='0b01'/>President Hudson!<5 Type='1'/> Are you OK?!
+TerrorImpulse: |
+  Hmm?
+Near01: |
+  You have my support!
+Talk26: |
+  <0 Type='3' Data='0200'/><3 Type='0' Data='0300'/><4 Type='0' Data='0a0054006900720065006400'/><FontSize Value='80'/>All right...<5 Type='1'/> I'm sorry, President Hudson! <5 Type='0'/>I won't
+  let you fall over again!<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Near02: |
+  Here for you, even wet!
+Talk27: |
+  <0 Type='3' Data='0200'/><3 Type='0' Data='0a01'/><FontSize Value='80'/>Oh no...<5 Type='0'/> What have I done?!<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Near03: |
+  H-he's standing!
+Talk28: |
+  <3 Type='0' Data='0b01'/>Oh, right! Let's get him secured while
+  he's still standing!
+Talk29: |
+  <FontSize Value='80'/><3 Type='0' Data='0801'/>Don't worry, Mr. Hudson. I'm here for you!<FontSize Value='100'/>
+Talk30: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/><0 Type='3' Data='0200'/><FontSize Value='80'/>Just put this right there... Get that fastened, and...<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk31: |
+  <3 Type='0' Data='0c00'/>What is it? <5 Type='0'/>I need to stay focused.
+  President Hudson might topple over if
+  I don't give him my full support!
+  So, er, can you not bother me?
+Talk32: |
+  <3 Type='0' Data='0800'/><FontSize Value='125'/>Perfect!<FontSize Value='100'/><5 Type='1'/>
+Talk33: |
+  <3 Type='0' Data='0800'/>President Hudson <5 Type='0'/>is THE visionary who
+  had material caches placed all over
+  the land.
+  <3 Type='0' Data='0100'/>Everyone is welcome to use those
+  building materials. You, too, of course.
+  Help yourself.
+  Just remember to say it loud and proud—
+  "Thank you, Mr. Hudson! Thank you for all
+  you do!"
+Talk34: |
+  <3 Type='0' Data='0800'/>President Hudson <5 Type='0'/>is the brilliant founder
+  of Tarrey Town! Be sure to visit if you go
+  to Akkala.
+  <3 Type='0' Data='0100'/>It's such a nice, homey place that you
+  might not be able to bring yourself
+  to leave.
+Talk35: |
+  <3 Type='0' Data='0800'/>President Hudson <5 Type='0'/>is more or less a genius
+  when it comes to making anything. Signs
+  of all kinds? Easy.
+  You name it, he can make it. Houses, no
+  problem. Ingeniously detailed figures?
+  Oh, yes. That too.
+  <3 Type='0' Data='0100'/>This whole sign, by the way, is my own
+  work. I'm nowhere nearly as skilled as
+  President Hudson...
+  Still, I'm happy with how it turned out!
+Talk36: |
+  <3 Type='0' Data='0800'/>Oh, it's you! Thanks for your help earlier.
+Talk37: |
+  <3 Type='0' Data='0900'/>That was unforgivable!<5 Type='1'/> It's all your fault,
+  startling me like that!
+Talk38: |
+  <3 Type='0' Data='0901'/>Yes, I know it's just a sign. But I have
+  great respect for President Hudson!
+  So, I pin the blame on you...
+  <FontSize Value='125'/><4 Type='0' Data='0a0041006e00670072007900'/>Un-for-givable!<FontSize Value='100'/>
+Talk41: |
+  <3 Type='0' Data='0000'/>Ah! What am I doing, blathering on?<5 Type='1'/>
+  Don't worry, President Hudson! You
+  have my full attention!
+Talk42: |
+  <3 Type='0' Data='0c00'/>Oh, but maybe that's not enough?
+  Here's a little something extra...
+Talk43: |
+  <3 Type='0' Data='0a00'/>Ah, but that hardly conveys my gratitude.
+  Let me give you this too!
+Talk44: |
+  <3 Type='0' Data='0b00'/>You haven't heard about Mr. Hudson?!
+  
+  
+  <3 Type='0' Data='0101'/>He's the president of our construction
+  company! He's THE one appointed by
+  THE princess herself!
+CompTalk01: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Ah, it's you!<0 Type='4'/><3 Type='0' Data='0100'/>Thank you for helping me put up all those
+  President Hudson signs.<0 Type='4'/>I meant to get back to town right away,
+  but I was drawn in by the sweet sounds
+  of the Stable Trotters.
+  They're such great performers, I just have
+  to listen to enough of their music to give
+  President Hudson a full report!
+  <3 Type='0' Data='0200'/>So I'm not slacking off. I'm carrying out
+  a very important mission!
+Talk45: |
+  <3 Type='0' Data='0101'/>She placed him in charge of putting those
+  material caches everywhere. And now he's
+  shouldering Hyrule's restoration!
+CompTalk02: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Hm? What do you want? <5 Type='0'/>I'm trying to
+  marvel at President Hudson's—<0 Type='4'/>Er, <5 Type='1'/>that is, Bandleader Mastro's rousing
+  and masterful conducting.<0 Type='4'/>So could you not bother me?
+Talk46: |
+  <3 Type='0' Data='0101'/>Of course, he is also the founder of
+  Hudson Construction, and besides
+  all that...
+CompTalk03: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>What? What is it? <5 Type='0'/>Can't you see I'm
+  getting lost in President Hudson's—<0 Type='4'/>Er, <5 Type='1'/>I mean, Violynne's beautiful timbre?!<0 Type='4'/>So could you not pull me out of the
+  performance like that?
+Talk47: |
+  <3 Type='0' Data='0900'/>Hey! <5 Type='0'/>I'm right in the middle of President
+  Hudson's epic tale of heroism!<5 Type='1'/>
+  
+  Well, fine. <5 Type='0'/>What was I doing before?
+  I don't want the others getting jealous,
+  so I haven't spread this around...
+  <3 Type='0' Data='0100'/>But President Hudson gave me an
+  extra-special mission.
+CompTalk04: |
+  <3 Type='0' Data='0100'/><0 Type='3' Data='0200'/><FontSize Value='80'/><4 Type='0' Data='0c004c0061007500670068005300'/>The way they play is so incredible, I almost forget
+  that it's raining.<0 Type='4'/>How I wish President Hudson could hear this...<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk48: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/><FontSize Value='125'/>Ack!<FontSize Value='100'/>
+CompTalk05: |
+  <3 Type='0' Data='0b00'/>What do you think you're doing?!
+  Listening to the Stable Trotters in such
+  lacking attire is unforgivable!
+  <FontSize Value='125'/><3 Type='0' Data='0900'/>Un-for-givable!<FontSize Value='100'/><0 Type='4'/>Come back when you've put on some
+  proper clothes!
+Talk50: |
+  <3 Type='0' Data='0701'/>I will give him my full support as always.
+  No wind or rain will get in my way!
+Talk02: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>What?! <5 Type='0'/>Are you going to support him?
+  All right.<5 Type='0'/> I'll let go!
+CompTalk06: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Oh, hello. We meet again. Thanks for your
+  help putting up those signs.<0 Type='4'/>The Stable Trotters put on some amazing
+  performances, so I've been following them
+  around and listening to them play.<0 Type='4'/><3 Type='0' Data='0200'/>But it's not just for fun. I've undertaken
+  this important duty so I can report my
+  findings to President Hudson!<0 Type='4'/>You should get comfortable and take a
+  listen for yourself.
+Talk51: |
+  <3 Type='0' Data='0201'/>And so...
+  
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068004c00'/><FontSize Value='125'/>I shall continue to support him!<FontSize Value='100'/>
+Talk03: |
+  <3 Type='0' Data='0800'/>That was brilliant! I would have never
+  thought of it.
+CompTalk07: |
+  <3 Type='0' Data='0100'/><0 Type='3' Data='0200'/><FontSize Value='80'/><4 Type='0' Data='0c004c0061007500670068005300'/>The way they play is so incredible, I almost forget
+  that it's snowing.<0 Type='4'/>How I wish President Hudson could hear this...<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Talk52: |
+  <3 Type='0' Data='0801'/>President Hudson, <5 Type='0'/>now you can stand
+  just fine without my support!
+Talk04: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Whoa! <5 Type='0'/>Unforgivable!
+Talk53: |
+  <3 Type='0' Data='0200'/>It's unforgivable for even one of these
+  to fall over.
+Talk05: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Now I can go to other places to put up
+  more signs!
+CompTalk10: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>What do you want? <5 Type='0'/>My heart is pounding
+  with President Hudson's—<0 Type='4'/>Or rather, <5 Type='1'/>Beetz's thundering percussion!<0 Type='4'/>So stop throwing me off my groove!
+Talk54: |
+  <3 Type='0' Data='0200'/>It's unforgivable for even one of these
+  to fall over, even in rainy weather!
+CompTalk11: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Yes? What is it? <5 Type='0'/>I'm busy having my
+  spirits lifted by President Hudson's—<0 Type='4'/>I mean,<5 Type='1'/> by Pyper's jaunty flute playing.<0 Type='4'/>So stop dragging me back to earth!
+Talk55: |
+  <3 Type='0' Data='0101'/>She placed him in charge of putting the
+  material caches all over Hyrule. And now
+  he's shouldering the land's restoration!
+CompTalk12: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Huh? Why're you bothering me? <5 Type='0'/>I'm all
+  fired up by President Hudson's—<0 Type='4'/>Er, I mean, <5 Type='1'/>by Eustus's wild horn playing!<0 Type='4'/>So could you go bug someone else?
+Talk56: |
+  <3 Type='0' Data='0701'/>No need to worry that I might suffer in
+  this cold. I've eaten a special rice ball I
+  made that helps me withstand it.
+Talk08: |
+  <3 Type='0' Data='0801'/>Take this with my thanks.
+CompTalk13: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Oh, my pose?<5 Type='1'/> Truth be told, when I stand
+  like this...<0 Type='4'/><3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/><FontSize Value='125'/>I feel completely at ease!<FontSize Value='100'/><0 Type='4'/><3 Type='0' Data='0000'/>It's as if I can feel President Hudson
+  nearby, watching over me.<0 Type='4'/>It also makes me feel like I'm really
+  supporting the Stable Trotters!<0 Type='4'/><3 Type='0' Data='0100'/>Ha! Don't worry. This time, I can provide
+  support without your help!
+Talk10: |
+  <3 Type='0' Data='0701'/>Still, thanks to you, I don't need to
+  support this sign anymore.
+Talk57: |
+  <3 Type='0' Data='0701'/>No need to worry that I might suffer in
+  this heat. I've eaten a special rice ball I
+  made that helps me withstand it.
+Talk09: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='0c004c0061007500670068005300'/>Also... You must be hungry after all that
+  hard work, right? Let me give you a little
+  something I made myself!
+Talk58: |
+  <3 Type='0' Data='0701'/>I've eaten a special rice ball I made so
+  this cold weather won't get to me.
+Talk11: |
+  <3 Type='0' Data='0800'/>Ah, but I still don't feel like I've thanked
+  you enough!<0 Type='4'/>This is a little something from my premium
+  collection. A special gift from me to you!
+Talk60: |
+  <3 Type='0' Data='0700'/>Oh! You're that lady from before!
+Talk59: |
+  <3 Type='0' Data='0701'/>I've eaten a special rice ball I made so
+  this heat won't get to me.
+Talk12: |
+  <3 Type='0' Data='0500'/>Hm? <5 Type='0'/>Am I—<0 Type='4'/><3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/><FontSize Value='125'/>I am! I'm all out of signs!<FontSize Value='100'/><0 Type='4'/><3 Type='0' Data='0b01'/>I...<5 Type='1'/> I did it! I've finally spread the legend
+  of President Hudson all across the land!
+Enokida: |
+  President Hudson?!
+Talk61: |
+  <3 Type='0' Data='0701'/>I'm putting President Hudson here too.
+Talk13: |
+  <3 Type='0' Data='0800'/>But it wasn't just me. I couldn't have done
+  it without you!<0 Type='4'/>No matter where I found myself, you were
+  there to keep President Hudson—<5 Type='0'/>or his
+  signs—standing.
+  <3 Type='0' Data='0400'/>There's no doubt about it—you truly
+  admire President Hudson!<0 Type='4'/><FontSize Value='80'/><3 Type='0' Data='0100'/><0 Type='3' Data='0200'/>Though still not as much as I do...<0 Type='4'/><0 Type='3' Data='ffff'/><FontSize Value='100'/>I'm giving you a very special present to
+  thank you for all you've done. I'm sure
+  you'll love it!<FontSize Value='80'/><FontSize Value='100'/>

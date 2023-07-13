@@ -1,0 +1,204 @@
+Talk_0015: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Sure. Even the greatest warrior needs
+  rest. Come by again if you want to give
+  it another try.
+Near_0001: |
+  It's training time again!
+0010: |
+  Rito warrior?
+Talk_0016: |
+  <3 Type='0' Data='0800'/>Did you decide that you, too, want to
+  train like the best?
+Near_0002: |
+  Raining? More like training.
+Talk_0017: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>What?! <5 Type='1'/>Fine. I'll clean up here...
+0012: |
+  Tell me how this works.
+Talk_0018: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>You need to train hard, too, if you don't
+  want the monsters to get you!
+0013: |
+  What are you doing?
+Talk_0030: |
+  <3 Type='0' Data='0800'/>Decided you want to give my elite training
+  a try, huh? The rain's no obstacle for the
+  truly dedicated!
+Talk_1001: |
+  <3 Type='0' Data='0800'/>I'm itching to start! And once I get going,
+  I don't stop till it's over!
+Talk_0019: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>That's more like it! <5 Type='0'/>Now get back here!
+0014: |
+  Goodbye.
+Talk_0031: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Do you want to get in on this training?<5 Type='0'/>
+  It only costs <0 Type='3' Data='0000'/>20 rupees <0 Type='3' Data='ffff'/>a go.
+Talk_1002: |
+  <3 Type='0' Data='0800'/>Phew! I worked up a sweat watching you!
+Talk_1003: |
+  <3 Type='0' Data='0700'/>Need something from me?
+Talk_0032: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='180057006f0072006b00480065006100760079005f0030003000'/>My training setup works even in the rain!
+  Still costs <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/> though. Want to
+  go for it?
+0015: |
+  Yep, still quitting!
+Talk_1004: |
+  <3 Type='0' Data='0700'/>I'm here because <0 Type='3' Data='0000'/>Ornest<0 Type='3' Data='ffff'/> over there hired
+  me to be.
+Talk_0033: |
+  <FontSize Value='125'/><3 Type='0' Data='0901'/><4 Type='0' Data='0e0057006f0072006b005f0030003000'/>I'm!<0 Type='4'/>Gonna train!<0 Type='4'/>Again today!<0 Type='4'/>To become!<0 Type='4'/>An all-time!<0 Type='4'/>Great!<0 Type='4'/>Rito warrior!<FontSize Value='100'/>
+0016: |
+  Oh. I'll keep going.
+Talk_1005: |
+  <3 Type='0' Data='0800'/>I'm just helping with that. Turns out it
+  pays pretty well!
+Talk_0034: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>See that impressive tower back there?<5 Type='0'/>
+  We built that baby just for this.
+Talk_1006: |
+  <3 Type='0' Data='0700'/>You know it's raining, right? You still need
+  something from me?
+Talk_0035: |
+  <3 Type='0' Data='0700'/>Aren't you curious what kind of training
+  I'm talking about?<0 Type='4'/><3 Type='0' Data='0800'/>Of course you are!
+Talk_0001: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Huh? <5 Type='0'/>Who are you? <5 Type='0'/>Someone else who
+  aspires to greatness?<0 Type='4'/><3 Type='0' Data='0700'/>Guess you heard my little pep talk to
+  myself, huh? <5 Type='0'/>Talk about embarrassing.<0 Type='4'/>For us Rito, our ability to control the
+  wind is one of our big advantages in
+  fighting monsters.<0 Type='4'/><3 Type='0' Data='0801'/>That's why I train here every day!
+Talk_0036: |
+  <3 Type='0' Data='0700'/>I guess it was a little tough for a Hylian.
+Talk_1008: |
+  <3 Type='0' Data='0700'/>Ornest and I built this training tower.<0 Type='4'/><3 Type='0' Data='0900'/>Though between you and me, Ornest
+  barely did any of the building part!<0 Type='4'/>He seriously thinks he's gonna bulk up
+  when he won't put the work in?!
+Talk_0002: |
+  <3 Type='0' Data='0101'/>I use these sweet wings of mine to <0 Type='3' Data='0000'/>return<0 Type='3' Data='ffff'/>
+  the balls that fly at me, pushing them
+  back one after the next!<0 Type='4'/>What do you think? <5 Type='0'/>Want to give it a try?
+Talk_0037: |
+  <3 Type='0' Data='0700'/>Wait right there! I'll be over in a second.
+Talk_1009: |
+  <3 Type='0' Data='0700'/>Ornest is training pretty heavily so he can
+  bulk up.
+Talk_0003: |
+  <3 Type='0' Data='0800'/>Tabult will lob <0 Type='3' Data='0000'/>balls<0 Type='3' Data='ffff'/> at you. <5 Type='0'/>The game is to
+  <0 Type='3' Data='0000'/>return <0 Type='3' Data='ffff'/>them to the moving basket.
+Talk_0038: |
+  <3 Type='0' Data='0701'/>OK, but I'm not giving back the <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/>
+  you already paid. <5 Type='0'/>Still want to quit?
+Talk_0004: |
+  <3 Type='0' Data='0701'/>I charge <0 Type='3' Data='0000'/>20 rupees <0 Type='3' Data='ffff'/>so I can keep Tabult
+  on retainer. So, think you can <0 Type='3' Data='0000'/>return<0 Type='3' Data='ffff'/>
+  the balls?
+Talk_0039: |
+  <3 Type='0' Data='0800'/>Since you got a perfect score, you can
+  take this too!
+Talk_0005: |
+  <3 Type='0' Data='0800'/>Ha! Think you can wing 'em in like me?<5 Type='0'/>
+  Then let me tell you how the setup works!
+Talk_0007: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='180057006f0072006b00480065006100760079005f0030003000'/>I don't miss a single day, even when
+  it rains!
+Talk_0008: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='180057006f0072006b00480065006100760079005f0030003100'/>That's all!
+Talk_0020: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Huh? Oh, it's you.
+0003: |
+  I want to try!
+Talk_0009: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Your score is...<0 Type='3' Data='0000'/><2 Type='2' Data='1c004d0069006e006900470061006d0065005f00530063006f0072006500ffff00cd'/><201 Type='6' Data='0c00200070006f0069006e0074000e00200070006f0069006e00740073000000'/><0 Type='3' Data='ffff'/>!
+Talk_0021: |
+  <3 Type='0' Data='0401'/>Oooh! Even if it wasn't many, I'm still
+  impressed you did that well!<0 Type='4'/><3 Type='0' Data='0101'/>Probably by pure luck. But either way,
+  you've got spirit!<0 Type='4'/><3 Type='0' Data='0101'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>You deserve something for putting on a
+  good show. Take this.
+Talk_0022: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>You'll be faced with a total of <2 Type='14' Data='36004200610073006b0065007400620061006c006c005f004d0069006e006900470061006d0065005f00420061006c006c004e0075006d00ffff00cd'/> balls
+  coming at you.<0 Type='4'/>Getting a green ball in is worth <0 Type='3' Data='0000'/>one point<0 Type='3' Data='ffff'/>.<5 Type='0'/>
+  But a red ball nets you <0 Type='3' Data='0000'/>three<0 Type='3' Data='ffff'/>!<0 Type='4'/><3 Type='0' Data='0c01'/>I don't see a featherless lady like you
+  doing it my way though.<0 Type='4'/><3 Type='0' Data='0701'/>So I'll let you use any tools or mysterious
+  powers you've got going for you to
+  <0 Type='3' Data='0000'/>return<0 Type='3' Data='ffff'/> them.
+0005: |
+  I quit!
+0006: |
+  I'll keep going!
+Talk_0023: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>What do you say? Want to try again?
+  It'll be another <0 Type='3' Data='0000'/>20 rupees<0 Type='3' Data='ffff'/>.
+0007: |
+  I think I'll pass.
+Talk_0024: |
+  <3 Type='0' Data='0b01'/>I don't believe this... How is a score like
+  that even possible?!<0 Type='4'/>I've never seen anyone get so many in
+  before! There's clearly way more to you
+  Hylians than I thought.<0 Type='4'/>I still have a long way to go before I can
+  achieve anything as good.<0 Type='4'/><3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>You deserve a real reward for putting on
+  such an incredible show. Take this!
+0008: |
+  I'll do it!
+Talk_0025: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='14005000610069006e00660075006c005f0030003000'/>After all that, you're not even curious?
+0009: |
+  I'll pass.
+Talk_0026: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003100'/>OK, everything's ready! <5 Type='1'/>Here goes!
+Talk_0027: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Great! I'll go set it up again!
+Talk_1010: |
+  <3 Type='0' Data='0c00'/>When is <0 Type='3' Data='0000'/>Ornest<0 Type='3' Data='ffff'/> gonna start his training?
+  I'm tired of waiting around.
+Talk_0028: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003000'/>Heeey! Where are you going?! Are you
+  seriously giving up midtraining?
+Talk_0029: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003000'/>Wow, <0 Type='3' Data='0000'/><2 Type='2' Data='1c004d0069006e006900470061006d0065005f00530063006f0072006500ffff00cd'/> <201 Type='6' Data='0a0070006f0069006e0074000c0070006f0069006e00740073000000'/><0 Type='3' Data='ffff'/>! That's a new record!
+Talk_0040: |
+  <3 Type='0' Data='0c00'/>I was gonna give you this <0 Type='3' Data='0000'/>feathered edge<0 Type='3' Data='ffff'/>
+  as well, but it looks like you have too
+  many weapons already.
+Talk_0041: |
+  <3 Type='0' Data='0c00'/>I was gonna give you this <0 Type='3' Data='0000'/>feathered spear<0 Type='3' Data='ffff'/>
+  as well, but it looks like you have too
+  many weapons already.
+Talk_0042: |
+  <3 Type='0' Data='0700'/>I'll hold on to it for when you make room.
+Talk_0043: |
+  <3 Type='0' Data='0c00'/>Looks like you're still carrying too many
+  weapons to take the reward I was gonna
+  give you.
+Talk_0044: |
+  <3 Type='0' Data='0800'/>Ah, you ditched a weapon or two, huh?
+  Then this is all yours!
+Near_1001: |
+  I'm all set.
+Talk_0010: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Hm?! This isn't enough rupees! <5 Type='1'/>Maybe
+  you should come back some other time.
+Talk_0045: |
+  <3 Type='0' Data='0701'/>Hey, you can't keep the balls. I need
+  those for the training exercise.
+Near_1002: |
+  Don't mind the rain, huh?
+Talk_0046: |
+  <3 Type='0' Data='0801'/>The guy operating the tower is <0 Type='3' Data='0000'/>Tabult<0 Type='3' Data='ffff'/>.
+  I keep him on retainer so I can train!
+Talk_0011: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Huh. I don't think you got even one in.<0 Type='4'/><3 Type='0' Data='0701'/>Not as easy as it looks to <0 Type='3' Data='0000'/>return<0 Type='3' Data='ffff'/> the balls,
+  is it?
+Talk_0012: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Nice. Let me go tell Tabult we're on.
+  I won't be long!
+Talk_0013: |
+  <3 Type='0' Data='0b01'/>That's not half bad!<5 Type='0'/><0 Type='4'/><3 Type='0' Data='0301'/>Maybe I've been underestimating Hylians.<5 Type='0'/>
+  You're more resourceful than I thought.<0 Type='4'/><3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>You deserve something for putting on a
+  good show. <5 Type='0'/>Take this.
+Talk_0014: |
+  <3 Type='0' Data='0b01'/>What the— That's amazing! <5 Type='0'/>How did you
+  do that?!<0 Type='4'/>Even us Rito can't put up scores like that.
+  What's your secret?!<0 Type='4'/><3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>You deserve a real reward for putting on
+  such an incredible show. Take this!

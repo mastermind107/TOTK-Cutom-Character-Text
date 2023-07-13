@@ -1,0 +1,9 @@
+Talk_02: |
+  <FontSize Value='80'/><3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Shhh... The captain's still talking...<FontSize Value='100'/>
+Talk_01: |
+  <FontSize Value='80'/><3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Shhh... The captain's talking...<FontSize Value='100'/>
+Talk_03: |
+  <FontSize Value='80'/><3 Type='0' Data='0400'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Shhh...
+  
+  
+  Wait...<5 Type='0'/> Oh! <5 Type='0'/>Sorry, swordmaster!<FontSize Value='100'/>

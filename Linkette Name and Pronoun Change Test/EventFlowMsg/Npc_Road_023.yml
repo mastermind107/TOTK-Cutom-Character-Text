@@ -1,0 +1,347 @@
+Talk_44: |
+  <3 Type='0' Data='0c00'/>Hmm. There are a lot of dragon statues...
+  But we're looking for one with a long
+  body, sounds like.
+  What's with that mountain of death part?<5 Type='0'/>
+  That's...<5 Type='0'/>troubling.
+Talk_59: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003100'/><FontSize Value='125'/>What a discovery!<FontSize Value='100'/>
+Talk_30: |
+  <3 Type='0' Data='0800'/>Take a look! <5 Type='1'/>I think you'll be pretty
+  surprised by this discovery!
+Talk_45: |
+  <3 Type='0' Data='0b00'/>You found it? <5 Type='1'/>The place the monolith was
+  talking about?
+Talk_31: |
+  <3 Type='0' Data='0800'/>Right?<5 Type='0'/> Riiight?<5 Type='1'/>
+Talk_46: |
+  <3 Type='0' Data='0c00'/>So that's where it was!<0 Type='4'/><3 Type='0' Data='0801'/>Excellent work! <5 Type='1'/>I'll go and take a
+  look shortly.
+Talk_32: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0600530061006400'/>I take your restrained reaction to mean
+  you've never seen a Zonai relic before...<5 Type='0'/>
+  Allow me to explain.
+Talk_47: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>My trusty assistant! You're back!
+Talk_33: |
+  <3 Type='0' Data='0c00'/>Though these ruins appear to be Zonai
+  in origin, they feature text written in
+  modern Hyrulean.<0 Type='4'/><3 Type='0' Data='0c01'/>How could that be? <5 Type='1'/>Who built these ruins
+  and for what purpose?
+Talk_48: |
+  <3 Type='0' Data='0c01'/>I thought I could hear a loud noise from
+  deep within the ruins. <5 Type='1'/>You heard that
+  too, right?
+Talk_34: |
+  <3 Type='0' Data='0800'/>There's my plucky assistant, getting to
+  work bright and early! <5 Type='1'/>I know I can count
+  on you to propel our research forward!
+Talk_49: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0c005300610064005f0030003100'/>That was unsettling. <5 Type='0'/>I wonder what might
+  have caused it.
+Talk_35: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>There you are, my assistant! <5 Type='1'/>I know
+  I can count on you to propel our
+  research forward!
+Talk_21: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hello, my brother in research! <5 Type='1'/>I was
+  waiting for you!
+Talk_36: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>You're working late! <5 Type='0'/>Don't overdo it, OK?<5 Type='1'/>
+  I can't have my trusty assistant getting
+  worn out.
+Talk_22: |
+  <3 Type='0' Data='0700'/>That's right!<0 Type='4'/>I'm the one who discovered these big
+  ruins way out here.<0 Type='4'/>But I wasn't able to make much progress
+  investigating them.<0 Type='4'/><3 Type='0' Data='0a00'/>I'm only one Hylian, and this, alas, is not
+  a one-Hylian job.<0 Type='4'/>That's why I wrote to the Zonai Survey
+  Team asking them to dispatch a
+  researcher to assist me.
+  <3 Type='0' Data='0800'/>And here you are, practically right after
+  I sent my letter! <5 Type='1'/>Great response time!
+Talk_23: |
+  <3 Type='0' Data='0b00'/><1 Type='1' Data='0000a040'/>...What?<5 Type='1'/> You're not a Zonai Survey Team
+  researcher? You're just some lady?<1 Type='1' Data='0000803f'/><0 Type='4'/><3 Type='0' Data='0a01'/>I see...<5 Type='1'/>
+Talk_38: |
+  <3 Type='0' Data='0c00'/>It's just a guess, but...<0 Type='4'/><3 Type='0' Data='0701'/>I think of all the Zonai ruins that have
+  been found thus far, these might be the
+  most recent.
+Talk_39: |
+  <3 Type='0' Data='0c00'/>The monoliths make mention of someone
+  called a sage. But who is that?<0 Type='4'/><3 Type='0' Data='0701'/>Hm... <5 Type='0'/>I think we can say with certainty
+  that they are connected somehow to
+  these ruins' creation.
+Talk_25: |
+  <3 Type='0' Data='0a00'/>So few people come through here, I
+  assumed you had to be the assistant
+  I asked for. <5 Type='1'/>My mistake.
+  <3 Type='0' Data='0701'/>Well, I haven't made any particularly
+  notable discoveries as of yet, so I can
+  investigate alone until I do.
+  <3 Type='0' Data='0800'/>But I'm certain that I'm on the brink of
+  brilliance!<5 Type='1'/> Come back soon so you don't
+  miss history being made.
+Talk_26: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oops.<5 Type='1'/> Did you hear that?<0 Type='4'/><3 Type='0' Data='0001'/>Sorry.<5 Type='1'/> Scrub that from your brain. It's not
+  meant to be public knowledge.
+Talk_27: |
+  <3 Type='0' Data='0a00'/>So few people come through here, I
+  assumed you had to be the assistant
+  I asked for. <5 Type='1'/>My mistake.
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/>After all the trouble I've gone to...<5 Type='1'/> Can't they send
+  one assistant to help with my <0 Type='3' Data='0000'/>monolith research<0 Type='3' Data='ffff'/>?<FontSize Value='100'/>
+Talk_28: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Hmm.<5 Type='1'/> I appreciate the offer, <5 Type='0'/>but that's
+  really not allowed.<0 Type='4'/><3 Type='0' Data='0c01'/><0 Type='3' Data='0200'/><FontSize Value='80'/>Then again...<5 Type='1'/> Though he may not be a researcher,<5 Type='0'/>
+  he does have the look of an adventurer about him.<0 Type='4'/><3 Type='0' Data='0501'/>Maybe his expertise will get things back on track.<FontSize Value='100'/><0 Type='4'/><3 Type='0' Data='0700'/><0 Type='3' Data='ffff'/>You know what? You're hired!<5 Type='1'/> For this
+  project alone, I'm appointing you as my
+  research assistant!
+  <3 Type='0' Data='0801'/>Come on! <5 Type='0'/>Let's find out what secrets
+  these ruins are hiding!
+Talk_29: |
+  <3 Type='0' Data='0700'/>Well then, we can dive right in.<5 Type='1'/><0 Type='4'/>I'll start by showing you what my research
+  has uncovered so far. <5 Type='1'/>Wait there.
+Talk_01: |
+  <3 Type='0' Data='0800'/>Eh? Eh?<5 Type='1'/> Aren't you surprised?
+Talk_90: |
+  <3 Type='0' Data='0c00'/>Hmm. It seems there's nothing more you
+  can help me with for now.<0 Type='4'/><3 Type='0' Data='0000'/>I'll investigate alone for a while. Just
+  check back in when I inevitably make a
+  new discovery.<5 Type='1'/> I'm counting on you!
+Talk_91: |
+  <3 Type='0' Data='0700'/>If we're going to figure out the mystery of
+  these ruins, you need to know everything
+  we've uncovered thus far.
+Talk_92: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey, partner! <5 Type='0'/>Thanks for coming.<0 Type='4'/>Sorry to be the bearer of bad news, but
+  while I appreciate you checking on me,
+  I don't have any discoveries to report.
+  <4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I'll keep up the search though, so stop
+  by again, and maybe I'll have something
+  that needs your expertise.
+Talk_93: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>I see! <5 Type='1'/>In other words...<0 Type='4'/><3 Type='0' Data='0701'/>This ruin is dedicated to the sages who
+  fought with Rauru, the first king of Hyrule.<5 Type='0'/>
+  It was built by Hylians afterward!<0 Type='4'/>That explains why there was Hyrulean text
+  on the monoliths we found.
+Talk_94: |
+  I'm astonished to find so profound a
+  secret hidden in these long-buried ruins,
+  so full of mystery...
+0010: |
+  Where's Kakariko again?
+Talk_80: |
+  <3 Type='0' Data='0700'/>I'm still searching the ruins, just in case
+  there are more monoliths to be found.
+  
+  <3 Type='0' Data='0701'/>I'm a little low on assistant-requiring
+  work right now, but keep checking back
+  in case I find any more monoliths!
+0011: |
+  Got it!
+Talk_81: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey there, assistant! <5 Type='1'/>That monolith is
+  one of my newest discoveries.
+Talk_77_01: |
+  Please, take this!
+Talk_82: |
+  <3 Type='0' Data='0c00'/>Huh?<5 Type='0'/> I'd hoped to give you something
+  as thanks, but...<5 Type='1'/>your pouch is too full
+  to hold it.
+Talk_77_02: |
+  And this, too, as a bonus!
+Talk_83: |
+  <3 Type='0' Data='0700'/>Please do organize that pouch so I can
+  thank you. I have a <0 Type='3' Data='0000'/>large Zonai charge
+  and a big battery with your name on them<0 Type='3' Data='ffff'/>.<0 Type='3' Data='0000'/><0 Type='3' Data='ffff'/>
+  Oh, yes—<5 Type='0'/>and a <0 Type='3' Data='0000'/>diamond <0 Type='3' Data='ffff'/>too. Don't delay!
+Talk_77_03: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>If you came all this way just to see
+  some ruins, <5 Type='0'/>you must be almost as
+  fanatical about Zonai history as I am!
+  So please, enjoy these Zonai artifacts
+  I discovered—<5 Type='0'/>mementos to remind you
+  of our time working together.
+Talk_84: |
+  <3 Type='0' Data='0800'/>It looks like you organized your pouch!<5 Type='0'/>
+  Well then, please take this.
+0000: |
+  You were?
+Talk_70: |
+  <3 Type='0' Data='0b00'/>What? <5 Type='1'/>You already found the place the
+  monolith's talking about?
+Talk_85: |
+  <3 Type='0' Data='0b00'/>Oh! <5 Type='0'/>Did you hear it too?
+Talk_77_04: |
+  <3 Type='0' Data='0700'/>Now, fear not. Since I'll be sticking
+  around a while, you can come back if
+  ever you'd like to talk ruins and relics.
+  In the meantime, happy trails!<5 Type='1'/> Goodbye,
+  my trusty assistant!
+Near_00: |
+  <4 Type='0' Data='1400430061006c006c004600610072005f0030003000'/>Hey! Over here!
+0001: |
+  Monolith research?
+Talk_71: |
+  <3 Type='0' Data='0700'/>This is just a possibility, but the monoliths
+  that were found might be pointing to a
+  spot somewhere in the ruins.
+  You and me, we're going to get to
+  the bottom of this. I need you to find
+  that spot.
+  <3 Type='0' Data='0701'/>There, we may find yet another monolith
+  that tells us why these ruins were built...<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>It's just a hunch, but it's also your boss's
+  hunch. So...
+Talk_86: |
+  <3 Type='0' Data='0c00'/>That loud noise coming from farther within
+  the ruins... <5 Type='0'/>What was that?
+Near_01: |
+  Help still hasn't arrived.
+Talk_87: |
+  <3 Type='0' Data='0700'/>Hey.<5 Type='0'/> There's nothing quite like ruins in
+  the rain, is there?
+0002: |
+  Good luck with that.
+0003: |
+  Let me help!
+Talk_73: |
+  <3 Type='0' Data='0c01'/>Sorry to say, you won't find what you're
+  after around here. <5 Type='0'/>These ruins are from
+  an entirely different era.
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>That said...<0 Type='4'/><3 Type='0' Data='0701'/>If you're that curious, you should pay
+  a visit to the Zonai Survey Team
+  headquarters in <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>.
+  They've chronicled every scrap of info
+  they've come across.<5 Type='0'/> If anyone can help
+  you find your ruins, it's them.
+Near_02: |
+  Sage... Secret technique...
+Talk_88: |
+  <3 Type='0' Data='0700'/>Look at you, working through the rain!<5 Type='1'/>
+  I'm glad for your aid, assistant, <5 Type='0'/>but please
+  be mindful of your health.
+0004: |
+  Bye, then.
+Talk_74: |
+  <3 Type='0' Data='0700'/>Kakariko Village is a Sheikah village
+  located east of Hyrule Field, north
+  of Dueling Peaks.
+  The Sheikah have always loved their
+  research, but these fresh Zonai ruins
+  really have the village hopping.
+Talk_89: |
+  <3 Type='0' Data='0000'/>If there are any monoliths you haven't
+  investigated, don't be shy, assistant!
+  Get close, and take a good look.
+Near_03: |
+  Huh?!
+Talk_75: |
+  <3 Type='0' Data='0800'/>I hope you find what you're looking for!
+0005: |
+  Yeah! Wow!
+Talk_60: |
+  <3 Type='0' Data='0100'/>Oh, whoops.<5 Type='0'/> I completely forgot to give
+  you a reward...
+Talk_61: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>If you were from the Zonai Survey Team,
+  I could tell you all about what I've
+  discovered so far. <5 Type='0'/>But you're not, so...
+Talk_76: |
+  <3 Type='0' Data='0800'/>I'm counting on you!
+0006: |
+  Um...
+Talk_62: |
+  Oof!
+0007: |
+  The age of legends...
+Talk_77: |
+  <3 Type='0' Data='0800'/>I never could have solved the mysteries
+  of these ruins without you, my assistant.<5 Type='1'/>
+  You have my thanks!
+Talk_78: |
+  <3 Type='0' Data='0700'/>Oh,<5 Type='0'/> goodbye.
+  
+  
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/>I could accomplish such great things with even one
+  adventure-ready assistant...<FontSize Value='100'/>
+0008: |
+  Kakariko Village?
+Talk_63: |
+  <3 Type='0' Data='0800'/>Oh, yeah! <5 Type='1'/>I discovered a new monolith
+  while I was exploring the ruins.
+Talk_79: |
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/>I guess all I can do is wait around until they
+  send somebody...<FontSize Value='100'/>
+0009: |
+  Thank you!
+Talk_64: |
+  <3 Type='0' Data='0700'/>It's right over there.<0 Type='4'/>At a glance, it seems different from the
+  other monoliths. You should get closer
+  so you can see what it says.
+Talk_50: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003100'/>Heyyy! <5 Type='1'/>Hellooo! <5 Type='1'/>Are you there?
+Talk_65: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003100'/>Heyyy!<5 Type='1'/> Is somebody there?
+Talk_66: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Hm? What about the age of legends?
+Talk_51: |
+  <3 Type='0' Data='0700'/>The Zonai were an ancient civilization
+  with their own system of writing. <5 Type='1'/>Almost
+  no one living today can read Zonai script.
+  But you can read the inscription on that
+  monolith, right? <5 Type='1'/>That's because it's
+  written in Hyrulean.
+Talk_52: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Ah, you're back. <5 Type='0'/>Good morning.
+Talk_67: |
+  <3 Type='0' Data='0700'/>I'll stay here for now to analyze what's
+  written on this monolith.<0 Type='4'/>Once my heart rate returns to normal,
+  I'll swing by the survey-team base in
+  Kakariko and turn my findings into a book.
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c0061007500670068004c005f0030003000'/>I can't wait to see the looks on their
+  faces!<5 Type='0'/> Ahaha!<5 Type='0'/> Oh, this is gonna be great!
+Talk_53: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Ah, you're back.<5 Type='0'/> Hey.
+Talk_68: |
+  <3 Type='0' Data='0c00'/>Now I see...<5 Type='0'/> You're looking for ruins from
+  the age of legends.
+Talk_54: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey.<5 Type='0'/> Isn't it a little late for you to be
+  poking around old ruins?
+Talk_69: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Wait—<5 Type='0'/>you found another monolith?<5 Type='1'/><0 Type='4'/>If it was hidden away down here, there's
+  almost certainly something important
+  written upon it!
+  <3 Type='0' Data='0701'/>Oh...<5 Type='1'/> My heart is pounding... Shall we
+  read it? Dare we?
+  
+  <4 Type='0' Data='1000480061007000700079005f0030003000'/>We dare!<5 Type='0'/> Here, allow me!
+Talk_40: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>My gut is telling me that there are four
+  of these monoliths total.<0 Type='4'/><3 Type='0' Data='0701'/>Which would mean that only one remains
+  to be found. <5 Type='1'/>We're on the brink of figuring
+  it all out! I know we are!
+Talk_55: |
+  <3 Type='0' Data='0c00'/>So this is what was waiting for us beneath
+  the ruins.
+Talk_41: |
+  <3 Type='0' Data='0c00'/>The "owl," the "dragons"... <5 Type='1'/>Could those
+  be statues? There's one nearby that does
+  look like an owl.
+Talk_56: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Wait... <5 Type='1'/>K-King Rauru?<5 Type='0'/> Imprisoning the
+  Demon King?!
+Talk_42: |
+  <3 Type='0' Data='0c00'/>"Two dragons"... <5 Type='0'/>That description reminds
+  me of something I saw when I first arrived
+  at these ruins.
+Talk_43: |
+  <3 Type='0' Data='0c00'/>There was a small ring of dragon-head
+  statues somewhere, wasn't there?<5 Type='0'/>
+  Ominous place...<0 Type='4'/>Where was that again?
+Talk_58: |
+  <3 Type='0' Data='0400'/>Rauru is named in legend as the first
+  king of Hyrule!<0 Type='4'/><3 Type='0' Data='0000'/>And this mention of imprisoning the
+  Demon King...<5 Type='0'/> This monolith is no doubt
+  a chronicle of the Imprisoning War!<0 Type='4'/><3 Type='0' Data='0100'/><4 Type='0' Data='14005000610069006e00660075006c005f0030003100'/>My heart won't stop pounding... <5 Type='1'/>Let's
+  read on!

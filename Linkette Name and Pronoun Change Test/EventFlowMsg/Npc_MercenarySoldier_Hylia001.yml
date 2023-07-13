@@ -360,14 +360,14 @@ Talk0119: |
   to better equip you in the search for
   Princess Zelda.
   And considering you're the legendary
-  swordsman, maybe you can lend a hand
+  swordmaster, maybe you can lend a hand
   in the hunt for <0 Type='3' Data='0000'/>the large monsters<0 Type='3' Data='ffff'/>...
   I would really appreciate it.
 Talk0121: |
   <3 Type='0' Data='0800'/>To defeat such a formidable monster, well,
   that's the stuff legends are made of—and
   to do so single-handedly!
-  I'd expect nothing less from a swordsman
+  I'd expect nothing less from a swordmaster
   of your renown.
   
   <3 Type='0' Data='0100'/>It's not much, but I've got a reward for
@@ -382,7 +382,7 @@ Talk0123: |
   <3 Type='0' Data='0800'/>To defeat such an unyielding beast, well,
   that's the stuff legends are made of—and
   to do so single-handedly!
-  I'd expect nothing less from a swordsman
+  I'd expect nothing less from a swordmaster
   of your renown.
   
   <3 Type='0' Data='0801'/>It's not much, but I've got a reward for
@@ -417,7 +417,7 @@ Talk0125: |
   <3 Type='0' Data='0800'/>To defeat such a behemoth, well, that's
   the stuff legends are made of—and to do
   so single-handedly!
-  I'd expect nothing less from a swordsman
+  I'd expect nothing less from a swordmaster
   of your renown.
   
   <3 Type='0' Data='0100'/>It's not much, but here's a reward for
@@ -430,7 +430,7 @@ Talk0126: |
   <3 Type='0' Data='0800'/>To defeat such an uncanny beast, well,
   that's the stuff legends are made of—and
   to do so single-handedly!
-  I'd expect nothing less from a swordsman
+  I'd expect nothing less from a swordmaster
   of your renown.
   
   <3 Type='0' Data='0100'/>It's not much, but I've got a reward for
@@ -448,7 +448,7 @@ Talk0127: |
   <3 Type='0' Data='0800'/>To defeat such an elusive monstrosity,
   well, that's the stuff legends are made
   of—and to do so single-handedly!
-  <3 Type='0' Data='0100'/>I'd expect nothing less from a swordsman
+  <3 Type='0' Data='0100'/>I'd expect nothing less from a swordmaster
   of your renown.
   
   It's not much, but I've got a reward for
@@ -947,7 +947,7 @@ Talk0048: |
   I believe, unless I'm mistaken.
   
   <3 Type='0' Data='0101'/>Well! Defeating such a fearsome foe... I'd
-  expect nothing less from the swordsman
+  expect nothing less from the swordmaster
   famed throughout Hyrule.
   It's not much, but I've got a reward for
   your valor. Please, take it.
@@ -964,10 +964,10 @@ Talk0049: |
   It's referred to as a Gleeok, unless
   I'm mistaken.
 Talk0051: |
-  <3 Type='0' Data='0c00'/>Even a swordsman such as you must find
+  <3 Type='0' Data='0c00'/>Even a swordmaster such as you must find
   these beasts challenging. Once we have
   amassed enough force, we'll head out.
-  <3 Type='0' Data='0701'/>Master swordsman, will there be
+  <3 Type='0' Data='0701'/>Master swordmaster, will there be
   anything else?
 Talk0052: |
   <3 Type='0' Data='0700'/>Are there...any of the other unusual

@@ -1,0 +1,354 @@
+Talk_21: |
+  <3 Type='0' Data='0700'/>The village comes into view if you go
+  <0 Type='3' Data='0000'/>southeast<0 Type='3' Data='ffff'/> down this road and follow
+  the <0 Type='3' Data='0000'/>signs<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0a01'/>If you're going to the coast, be careful.
+  You'll be in a world of trouble if those
+  <0 Type='3' Data='0000'/>pirates <0 Type='3' Data='ffff'/>spot you.
+Talk_123: |
+  <3 Type='0' Data='0800'/>Oh, the savior. Thank you for coming.
+Talk_22: |
+  <3 Type='0' Data='0a00'/>Though it's not much to look at now, after
+  the <0 Type='3' Data='0000'/>monsters <0 Type='3' Data='ffff'/>got to it. In the blink of an
+  eye, they ruined the whole village.<5 Type='1'/>
+  The restaurant my wife had just opened,
+  our house, everything...<5 Type='1'/> Gone.
+  
+  They just came cruising in on their boat
+  like a bunch of <0 Type='3' Data='0000'/>pirates<0 Type='3' Data='ffff'/>. So that's what
+  we're calling them—<0 Type='3' Data='0000'/>pirates<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0701'/>If you're going to the coast, be careful.
+  You don't want them to spot you.
+News_52: |
+  <3 Type='0' Data='0700'/>"Lurelin Water Rally Challenger Appears"?
+  
+  
+  Wow!<5 Type='0'/> Someone gave it a shot!<5 Type='0'/> I wonder
+  what their time was...<5 Type='0'/> Let's see...
+  
+  "This challenger went as fast as a comet!
+  The best time for the expert course is
+  <0 Type='3' Data='0000'/><2 Type='19' Data='420043006900720063007500690074005f0055006f0074006f00720069005f0043006f00750072007300650043005f004200650073007400540069006d0065005f004c00ffff00cd'/>:<2 Type='19' Data='420043006900720063007500690074005f0055006f0074006f00720069005f0043006f00750072007300650043005f004200650073007400540069006d0065005f004d00ffff00cd'/>.<2 Type='19' Data='420043006900720063007500690074005f0055006f0074006f00720069005f0043006f00750072007300650043005f004200650073007400540069006d0065005f005300ffff00cd'/><0 Type='3' Data='ffff'/>."
+  <3 Type='0' Data='0b00'/>That's amazing...<5 Type='0'/> I should take the kids,
+  and try to catch this speedster in action.
+Talk_24: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Back again?<0 Type='4'/>I can't imagine why you keep coming
+  out here.
+News_53: |
+  <3 Type='0' Data='0701'/>"The new high score for the expert course
+  is <0 Type='3' Data='0000'/><2 Type='19' Data='420043006900720063007500690074005f0055006f0074006f00720069005f0043006f00750072007300650043005f004200650073007400540069006d0065005f004c00ffff00cd'/>:<2 Type='19' Data='420043006900720063007500690074005f0055006f0074006f00720069005f0043006f00750072007300650043005f004200650073007400540069006d0065005f004d00ffff00cd'/>.<2 Type='19' Data='420043006900720063007500690074005f0055006f0074006f00720069005f0043006f00750072007300650043005f004200650073007400540069006d0065005f005300ffff00cd'/><5 Type='0'/><0 Type='3' Data='ffff'/>. A stunning performance on
+  this difficult course."
+Talk_25: |
+  <3 Type='0' Data='0700'/>If the pirates were gone and it was safe
+  to return to <0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/>, we'd know.<0 Type='4'/>The head of the village, the others who
+  stayed behind—they'd have sent word.<0 Type='4'/>I'm telling you, this rain's nothing
+  compared to the dangers you'd face
+  in the village.
+  But if you've got a death wish...
+News_59: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0c004e006f007400690063006500'/>Cool. Some superstar is making waves in
+  the Lurelin Water Rally. Let's see...
+News_25: |
+  <3 Type='0' Data='0700'/>Let's see. The latest article is,
+  "Resort Restored and Ready for YOU!<0 Type='4'/>"Lurelin Village has returned to its former
+  beauty, with locals crediting one man as
+  the savior behind its comeback story."
+  How about that! In the news again!
+Talk_110: |
+  <3 Type='0' Data='0700'/>I have two growing boys, so we can barely
+  fit in the house ourselves. If you need a
+  place to stay, inquire at the...
+  <3 Type='0' Data='0a00'/>Ah, that's right.<5 Type='0'/> The inn was destroyed.<0 Type='4'/><3 Type='0' Data='0a01'/>Sorry...
+News_26: |
+  <3 Type='0' Data='0b00'/>And the "golden-haired hero"...
+  That must be the lady who fought the
+  pirates and rebuilt our house!
+Talk_111: |
+  <3 Type='0' Data='0700'/>I have two growing boys, so we can barely
+  fit in the house ourselves. If you need a
+  place to stay, inquire at the...
+  <3 Type='0' Data='0a00'/>Ah, that's right.<5 Type='0'/> The inn was destroyed.<0 Type='4'/><3 Type='0' Data='0a01'/>Sorry to leave you out in the rain.
+News_27: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>I can't believe I met someone important
+  enough to be in the news!
+Talk_10: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a005400680069006e006b00'/>With those <0 Type='3' Data='0000'/>pirates<0 Type='3' Data='ffff'/> around, though,
+  I'd recommend you stay far away.
+Talk_112: |
+  <3 Type='0' Data='0700'/>Ah, it's you! You're looking very dapper
+  in that shirt!
+News_28: |
+  <3 Type='0' Data='0c00'/>I'm glad our house was rebuilt.<0 Type='4'/>But the village as a whole has a ways
+  to go. Cloyne's Lucky Treasure Shop is
+  still closed for repairs.
+  Quite the attraction that was, for locals
+  and out-of-towners alike. Cloyne always
+  went out of his way to give great <0 Type='3' Data='0000'/>prizes<0 Type='3' Data='ffff'/>.
+  I hope it gets fixed soon.
+Talk_113: |
+  <3 Type='0' Data='0700'/>Ah, it's the village savior! You're looking
+  very dapper in that shirt!
+News_29: |
+  <3 Type='0' Data='0c00'/>I'm glad our house was rebuilt.<0 Type='4'/>But there's work to do yet. Chessica's inn
+  is still closed for repairs.<0 Type='4'/>Folks would come from far and wide to
+  experience her... What was it? <0 Type='3' Data='0000'/>Salt spa<0 Type='3' Data='ffff'/>?<0 Type='4'/>I hope it gets fixed soon.
+News_40: |
+  <3 Type='0' Data='0701'/>"Lurelin Water Rally High Scores Still
+  Unbeaten." Interesting...
+Talk_114: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Hm? Oh, the house is cramped as is.
+  I can't let you stay over.<0 Type='4'/>Sorry about that. We can only hope the
+  <0 Type='3' Data='0000'/>inn<0 Type='3' Data='ffff'/> gets rebuilt soon.
+0001: |
+  Lurelin Village?
+News_42: |
+  <3 Type='0' Data='0700'/>"Lurelin Water Rally Scores Still
+  Unbeaten. Who Will Take Up the
+  Challenge?"
+  Interesting...<5 Type='0'/> So, no one new's managed
+  to top the scoreboard, huh?<5 Type='0'/> I can't wait
+  to see who shatters these records!
+Talk_14: |
+  <3 Type='0' Data='0700'/>Are you trying to reach <0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/>?<0 Type='4'/>You know, the shops, the inn—<5 Type='0'/>all of it
+  was destroyed by <0 Type='3' Data='0000'/>pirates<0 Type='3' Data='ffff'/>.<0 Type='4'/>I won't stop you, but with the pirates
+  still in town, going there would be like
+  throwing your life away.
+Talk_116: |
+  <3 Type='0' Data='0a01'/>Sorry to leave you out in the rain.
+0003: |
+  Goodbye.
+Talk_15: |
+  <3 Type='0' Data='0c00'/>I wonder if there's some way to get those
+  pirates out of Lurelin Village.
+Talk_117: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Hm? Oh, the house is cramped as is.
+  I can't let you stay over.<0 Type='4'/>Sorry to leave you out in the rain. We can
+  only hope the <0 Type='3' Data='0000'/>inn<0 Type='3' Data='ffff'/> gets rebuilt soon.
+Talk_16: |
+  <3 Type='0' Data='0700'/>It's not often that we see travelers here
+  after nightfall.
+near_01: |
+  I hope the village is OK...
+News_45: |
+  <3 Type='0' Data='0701'/>"Skilled Wave Rider Has What It Takes to
+  Beat Lurelin Water Rally Records."
+Talk_17: |
+  <3 Type='0' Data='0700'/>It's not often that we see travelers here in
+  such gloomy weather.
+near_02: |
+  Let's see here...
+Talk_119: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0600530061006400'/>Oh...<5 Type='0'/> I was just nodding off. Do you need
+  something? It's pretty late.
+News_46: |
+  <3 Type='0' Data='0701'/>"Lurelin Water Rally Records Challenged!
+  Rider Conquers Course at High Speeds!"
+Talk_18: |
+  <3 Type='0' Data='0700'/>It's not often that we see travelers make
+  their way out here.
+near_03: |
+  Nice shirt!
+News_12: |
+  <3 Type='0' Data='0700'/>Let's see here. The latest article is,
+  "Lurelin Village Makes a Splash." Hm!<0 Type='4'/>"Hyrule's favorite vacation spot is
+  accepting challengers for a new racing
+  competition on the waves!"<0 Type='4'/>Ah, that's the thing they set up at the end
+  of <0 Type='3' Data='0000'/>Korne Beach<0 Type='3' Data='ffff'/>.<0 Type='4'/>Bet it'd be fun to watch! I'll have to take
+  the boys sometime soon.
+News_47: |
+  <3 Type='0' Data='0701'/>"The new high score for the beginner
+  course is <0 Type='3' Data='0000'/><2 Type='19' Data='420043006900720063007500690074005f0055006f0074006f00720069005f0043006f00750072007300650041005f004200650073007400540069006d0065005f004c00ffff00cd'/>:<2 Type='19' Data='420043006900720063007500690074005f0055006f0074006f00720069005f0043006f00750072007300650041005f004200650073007400540069006d0065005f004d00ffff00cd'/>.<2 Type='19' Data='420043006900720063007500690074005f0055006f0074006f00720069005f0043006f00750072007300650041005f004200650073007400540069006d0065005f005300ffff00cd'/><5 Type='0'/><0 Type='3' Data='ffff'/>. Amazing performance
+  shatters previous record!"
+Talk_19: |
+  <3 Type='0' Data='0c00'/>If the pirates were gone and it was safe
+  to return to <0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/>, we'd know.<0 Type='4'/>The head of the village, the others who
+  stayed behind—<5 Type='0'/>they'd have sent word.<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0701'/>But if you've got a death wish...
+near_04: |
+  *sigh* It's a lost cause...
+News_13: |
+  <3 Type='0' Data='0700'/>Let's see here. The latest article is,
+  "Famed Lurelin Shop Shutters." Hm!<0 Type='4'/>"Lurelin's general store was once famed
+  for its wide-ranging selection of rare
+  goods, imported from all over Hyrule.
+  "But when the shopkeeper's boat floated
+  away, so too did his hopes of reopening
+  the beloved boutique."
+  Ah. <5 Type='0'/>This is about poor Garini at the pier.<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>His shop was famous enough to merit a
+  front-page article, hm? It really did have
+  an excellent selection.
+  I hope that boat is found soon.
+News_14: |
+  <3 Type='0' Data='0700'/>Let's see here. The latest article is,
+  "Lurelin Village's New Publicity Push!"
+  Ah, interesting...
+  "The village head's daughter, a young
+  woman named Ralera, announced she is
+  creating a logo for the small fishing town."
+  Ah!<5 Type='0'/> I did hear that Rozel and Ralera
+  had returned.<0 Type='4'/>Is this really front-page news though?
+  Either Lurelin Village is more famous than
+  I thought, or it's a slow news day.
+News_49: |
+  <3 Type='0' Data='0701'/>"The new high score for the intermediate
+  course is <0 Type='3' Data='0000'/><2 Type='19' Data='420043006900720063007500690074005f0055006f0074006f00720069005f0043006f00750072007300650042005f004200650073007400540069006d0065005f004c00ffff00cd'/>:<2 Type='19' Data='420043006900720063007500690074005f0055006f0074006f00720069005f0043006f00750072007300650042005f004200650073007400540069006d0065005f004d00ffff00cd'/>.<2 Type='19' Data='420043006900720063007500690074005f0055006f0074006f00720069005f0043006f00750072007300650042005f004200650073007400540069006d0065005f005300ffff00cd'/><5 Type='0'/><0 Type='3' Data='ffff'/>. An impressive show
+  of skill on this challenging course."
+News_60: |
+  <3 Type='0' Data='0800'/>You can't stop the hype boat!<5 Type='1'/> Destination:<5 Type='0'/>
+  SHATTERED RECORD ISLAND!
+News_61: |
+  <3 Type='0' Data='0700'/>Now then. The latest article is...
+News_16: |
+  <3 Type='0' Data='0700'/>Let's see here. The latest article is,
+  "Village Head Makes His Next Move." Hm!<0 Type='4'/>"Mr. Rozel, the head of a recovering town
+  called Lurelin Village, will stop at nothing
+  to attract visitors with new attractions."
+  Ha, I don't doubt it. He and Bolson spend
+  hours a day talking over by <0 Type='3' Data='0000'/>Korne Beach<0 Type='3' Data='ffff'/>.
+  Who knows what they're planning?
+  I'm excited to see what they do!
+News_17: |
+  <3 Type='0' Data='0800'/>I met that lady while I was living in a tent!
+  And now the newspaper's calling her
+  a "savior"!
+Talk_102: |
+  <3 Type='0' Data='0700'/>I didn't realize my boys were being so
+  considerate of my feelings.<0 Type='4'/>They grow up faster than you think.
+News_18: |
+  <3 Type='0' Data='0700'/>Let's see. The latest article is, "Lurelin
+  Village on the Mend." Huh!<0 Type='4'/>"After a golden-haired hero did away with
+  the pirates, rebuilding began with the
+  architect Mr. Bolson leading the way."
+  That's us! They're talking about
+  our village!
+Talk_01: |
+  <3 Type='0' Data='0701'/>Then again, everyone has their reasons
+  for going places. It's not as though we
+  ended up here by choice.
+  Do you know <0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/>? We used to
+  live there.
+Talk_103: |
+  <3 Type='0' Data='0700'/>Hey!<5 Type='0'/> You're wearing my blue shirt!
+  You're the spitting image of me as a
+  young man!
+News_30: |
+  <3 Type='0' Data='0c00'/>I'm glad our house was rebuilt.<0 Type='4'/>But Armes isn't so lucky. Poor man's still
+  sleeping out in the cold.<0 Type='4'/>He's a good man, Armes. Always used to
+  <0 Type='3' Data='0000'/>share<0 Type='3' Data='ffff'/> what he'd caught while fishing.<0 Type='4'/>I hope his house gets fixed soon.
+Talk_02: |
+  <3 Type='0' Data='0c00'/>Gah, this rain! I wonder if <0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/>
+  is getting hit this hard...
+Talk_104: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Hm? This isn't an inn. The inn is that
+  building shaped like a boat, across the
+  way from here.
+  Guess you're a little sleepy, huh?
+News_31: |
+  <3 Type='0' Data='0c00'/>I'm glad our house was rebuilt.<0 Type='4'/>I wonder, though, when the village head's
+  house will be repaired.<0 Type='4'/>His daughter was planning to visit,
+  I heard, but I doubt she'll want to sleep
+  on a pile of rubble...
+  I hope it gets fixed soon.
+Talk_03: |
+  <3 Type='0' Data='0700'/>Some weather, huh? Are you sheltering
+  here too?
+Talk_105: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Hm? This isn't an inn. The inn is that
+  building shaped like a boat, across the
+  way from here.
+  Guess even the village savior gets sleepy
+  sometimes, huh?
+News_32: |
+  <3 Type='0' Data='0700'/>Let's see here. The latest article is,
+  "Lurelin Store Reopens Its Doors!<0 Type='4'/>"The popular general store is finally
+  back open for business!
+  
+  "Its fabulous owner, Mubs, has also
+  opened a new franchise elsewhere."
+  
+  <3 Type='0' Data='0800'/>Ah!<5 Type='0'/> This is about Garini's shop at the pier!<0 Type='4'/>That really is quite the store. Now that
+  it's open again, we villagers will be able
+  to enrich our lives with <0 Type='3' Data='0000'/>rare goods<0 Type='3' Data='ffff'/>!
+Talk_04: |
+  <3 Type='0' Data='0701'/>It's a small fishing town. You'll see it if
+  you go <0 Type='3' Data='0000'/>southeast<0 Type='3' Data='ffff'/> down this road and
+  follow the <0 Type='3' Data='0000'/>signs<0 Type='3' Data='ffff'/>.
+Talk_106: |
+  <3 Type='0' Data='0700'/>I have two growing boys, so we can
+  barely fit in the house ourselves. If you
+  need a place to stay, inquire at the inn.
+News_33: |
+  <3 Type='0' Data='0700'/>Let's see here. The latest article is,
+  "Lurelin Village's New Publicity Push."
+  Ah, interesting...
+  "The village head's daughter, young
+  Ms. Ralera, has designed a village logo
+  that she hopes will attract more visitors."
+  Ah. <5 Type='0'/>So that's why they sent me that flag.<0 Type='4'/>It's strange. When the pirates attacked,
+  I thought our little fishing town was as
+  good as done for.<0 Type='4'/>But now the village is thriving. It's better
+  than ever before.
+Talk_05: |
+  <3 Type='0' Data='0700'/>I come from <0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/>, a small fishing
+  community surrounded by ocean.
+  
+  I'd have loved to take you there and show
+  you around.<0 Type='4'/><3 Type='0' Data='0a00'/>But it's been captured by <0 Type='3' Data='0000'/>pirates<0 Type='3' Data='ffff'/>, so for
+  safety reasons, no one's allowed to enter.<0 Type='4'/>My wife had just opened a restaurant
+  in town too. Some timing that was...
+News_35: |
+  <FontSize Value='80'/><3 Type='0' Data='0a00'/>*sigh* <5 Type='1'/>My poor shirt. What should I do? I'll try to
+  distract myself by reading the paper...<FontSize Value='100'/>
+Talk_120: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>How about a meal at my wife's
+  restaurant?
+Talk_109: |
+  <3 Type='0' Data='0800'/>Liking the shirt, huh? I'm glad I gave it
+  to a worthy wearer!
+News_36: |
+  <3 Type='0' Data='0700'/>Oho! "Challengers Needed for the
+  Lurelin Water Rally!
+  
+  "The newly established water rally in
+  Hyrule's best resort is waiting for racers!"
+  
+  <3 Type='0' Data='0501'/>That's the big dealie they built at the end
+  of <0 Type='3' Data='0000'/>Korne Beach<0 Type='3' Data='ffff'/>... Seems like nobody's
+  crossed the finish line there yet.
+  <3 Type='0' Data='0800'/>Maybe I ought to give it a try!
+Talk_121: |
+  <3 Type='0' Data='0801'/>There's no need for you to pay, of course!
+  Stop by and we'll serve you for free.
+News_37: |
+  <3 Type='0' Data='0700'/>"Lurelin Water Rally Challenger Appears"?
+  
+  
+  Ooh!<5 Type='0'/> Somebody tried it!<5 Type='0'/> Let's see...<5 Type='0'/>
+  The record was...
+  
+  "The best time on the beginner course
+  is <0 Type='3' Data='0000'/><2 Type='19' Data='420043006900720063007500690074005f0055006f0074006f00720069005f0043006f00750072007300650041005f004200650073007400540069006d0065005f004c00ffff00cd'/>:<2 Type='19' Data='420043006900720063007500690074005f0055006f0074006f00720069005f0043006f00750072007300650041005f004200650073007400540069006d0065005f004d00ffff00cd'/>.<2 Type='19' Data='420043006900720063007500690074005f0055006f0074006f00720069005f0043006f00750072007300650041005f004200650073007400540069006d0065005f005300ffff00cd'/><5 Type='0'/><0 Type='3' Data='ffff'/>! It was a stunning sight—the
+  craft soaring over the water!"
+  <3 Type='0' Data='0800'/>Sounds fun! Maybe I'll have to give it
+  a whirl myself.
+Talk_20: |
+  <3 Type='0' Data='0700'/>Go straight down this road to the
+  <0 Type='3' Data='0000'/>southeast<0 Type='3' Data='ffff'/>... The place is off toward
+  the sea.
+  If you want to go to <0 Type='3' Data='0000'/>Lurelin Village<0 Type='3' Data='ffff'/>,
+  use the <0 Type='3' Data='0000'/>signs<0 Type='3' Data='ffff'/> along the road to guide
+  you there.
+Talk_122: |
+  <3 Type='0' Data='0800'/>Oh, it's you. Thank you for coming.
+News_38: |
+  <3 Type='0' Data='0700'/>"Lurelin Water Rally Challenger Appears"?
+  
+  
+  Wow!<5 Type='0'/> Someone gave it a shot!<5 Type='0'/> I wonder
+  what their time was...<5 Type='0'/> Let's see...
+  
+  "A fearless challenger has passed the
+  intermediate course! The best time was
+  <0 Type='3' Data='0000'/><2 Type='19' Data='420043006900720063007500690074005f0055006f0074006f00720069005f0043006f00750072007300650042005f004200650073007400540069006d0065005f004c00ffff00cd'/>:<2 Type='19' Data='420043006900720063007500690074005f0055006f0074006f00720069005f0043006f00750072007300650042005f004200650073007400540069006d0065005f004d00ffff00cd'/>.<2 Type='19' Data='420043006900720063007500690074005f0055006f0074006f00720069005f0043006f00750072007300650042005f004200650073007400540069006d0065005f005300ffff00cd'/><5 Type='0'/><0 Type='3' Data='ffff'/>!"
+  <3 Type='0' Data='0800'/>Well, hoist me up and call me a jib!
+  That's not bad! But maybe I'll give it
+  a go and see if I can beat it.

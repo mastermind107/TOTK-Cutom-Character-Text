@@ -57,7 +57,7 @@ Near_StartPoint_01: |
 Near_RestPoint_01: |
   Make sure to rest.
 talk00: |
-  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Hey, you're <5 Type='0'/>the guy from that time with
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Hey, you're <5 Type='0'/>the lady from that time with
   the All-Clucking Cucco! <5 Type='1'/>Thanks for getting
   all that sorted out.
   <3 Type='0' Data='0000'/>Since then, I've been traveling all over,
@@ -67,7 +67,7 @@ talk00: |
   I'm doing things right!<5 Type='0'/> I'm going to be just
   as strong as you someday, I swear it.
 Greeting: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Oh...<5 Type='0'/> You're the guy from that time with
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0c004e006f007400690063006500'/>Oh...<5 Type='0'/> You're the lady from that time with
   the All-Clucking Cucco. Glad to see you
   looking well.
   I'm here in Hebra to get stronger.

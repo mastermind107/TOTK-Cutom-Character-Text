@@ -11,7 +11,7 @@ Comment_28: |
   Don't want the pirates to be better-rested
   than me!
 Comment_29: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>It's the guy who chased off the pirates!
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>It's the lady who chased off the pirates!
 Balloon_01: |
   Try it, pirates! I dare you!
 Comment_12: |
@@ -28,7 +28,7 @@ Comment_13: |
   I'll have to look and see how the village
   is doing later.
 Comment_30: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>It's the guy who saved the village!
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>It's the lady who saved the village!
 0001: |
   Nope.
 Comment_14: |
@@ -38,7 +38,7 @@ Comment_14: |
 Balloon_04: |
   I want to go back.
 Comment_31: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey, you're the guy from before!
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey, you're the lady from before!
 Comment_15: |
   <3 Type='0' Data='0c01'/>I can't get near the tower with those
   spikes all over. Maybe I should burn 'em...<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Nahhh, just kidding. If I even thought
@@ -47,7 +47,7 @@ Comment_15: |
 Balloon_05: |
   Hehehe!
 Comment_32: |
-  <3 Type='0' Data='0701'/>Aren't you going to sleep, guy?
+  <3 Type='0' Data='0701'/>Aren't you going to sleep, lady?
 Comment_16: |
   <3 Type='0' Data='0401'/>So, the <0 Type='3' Data='0000'/>pirates<0 Type='3' Data='ffff'/> aren't there anymore?
   What about the head of the village or the
@@ -109,7 +109,7 @@ Comment_05: |
   <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Hey, ma'am. Did you travel here from
   the south?
 Comment_22: |
-  <3 Type='0' Data='0701'/><4 Type='0' Data='0c004e006f007400690063006500'/>You'll get wet out here, guy. Don't worry
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0c004e006f007400690063006500'/>You'll get wet out here, lady. Don't worry
   about me—<5 Type='0'/>get to somewhere dry!
 Comment_06: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey, hey, did you know? Monsters can't
@@ -136,4 +136,4 @@ Comment_09: |
   I just hope Mom doesn't get mad about
   the mud on my clothes...
 Comment_27: |
-  <3 Type='0' Data='0701'/>Did you already eat, guy?
+  <3 Type='0' Data='0701'/>Did you already eat, lady?

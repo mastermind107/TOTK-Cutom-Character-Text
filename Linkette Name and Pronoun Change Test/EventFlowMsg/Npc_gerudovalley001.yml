@@ -28,7 +28,7 @@ Talk_50: |
   legendary Epona!<0 Type='4'/><3 Type='0' Data='0c00'/>This is one special horse, buddy. There's
   no way I'm gonna try to change her name.<0 Type='4'/><3 Type='0' Data='0000'/>I can register her as "Epona," right?
 Talk_112: |
-  <3 Type='0' Data='0700'/>...Your name is Linkette, you say?
+  <3 Type='0' Data='0700'/>...Your name is Rinkuru, you say?
 Talk_51: |
   <3 Type='0' Data='0100'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Go ahead and give this horse a
   good name.
@@ -74,7 +74,7 @@ Talk_59: |
 Talk_101: |
   <3 Type='0' Data='0101'/><4 Type='0' Data='0a0048006100700070007900'/>So you get a point for each new stable
   you visit. Rest at one? Pony Point.
-  Register a horse? Point this guy up.
+  Register a horse? Point this lady up.
   Save up enough points and you can earn
   some mighty fine <0 Type='3' Data='0000'/>rewards<0 Type='3' Data='ffff'/>.<0 Type='4'/>Not that this mini stable has any of
   those on hand. You'll have to go to a
@@ -101,7 +101,7 @@ Talk_42: |
 Talk_43: |
   <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>You got it, happy to help.
 Talk_105: |
-  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Linkette,<5 Type='1'/> right? <5 Type='0'/>OK, you're registered!
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Rinkuru,<5 Type='1'/> right? <5 Type='0'/>OK, you're registered!
 Talk_44: |
   <3 Type='0' Data='0101'/>Let's get this horse registered, shall we?
 near_01: |

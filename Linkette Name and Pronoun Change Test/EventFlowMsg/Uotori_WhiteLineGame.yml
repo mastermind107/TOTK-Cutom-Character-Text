@@ -1,12 +1,12 @@
 Talk_21: |
-  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey! It's the guy who fixed our house!
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Hey! It's the lady who fixed our house!
 Near_02: |
   Where'd it go?
 Talk_56: |
   <3 Type='0' Data='0700'/>Huh? You don't have it... Did you lose
   it somewhere?
 Talk_22: |
-  <3 Type='0' Data='0800'/>Hi, house-fixer guy! Good morning!
+  <3 Type='0' Data='0800'/>Hi, house-fixer lady! Good morning!
 Near_03: |
   I gotta find it!
 Talk_57: |
@@ -74,7 +74,7 @@ Talk_45: |
   Y'know, morning, when the water's all
   sparkly and see-through...
 Talk_10: |
-  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>This guy found your shirt, Dad!
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>This lady found your shirt, Dad!
 Talk_46: |
   <3 Type='0' Data='0c00'/>I was hoping the sun would make it easier
   to spot... Weird!
@@ -169,12 +169,12 @@ Talk_35: |
   <3 Type='0' Data='0a00'/>I wish I could search for it now, but I gotta
   go to bed. Tomorrow, I guess...
 Talk_36: |
-  <3 Type='0' Data='0800'/>Hi, house-fixer guy! Hello!
+  <3 Type='0' Data='0800'/>Hi, house-fixer lady! Hello!
 Talk_01: |
   <3 Type='0' Data='0c00'/>Sorry, but I can't play right now.
   I gotta find my dad's <0 Type='3' Data='0000'/>blue shirt<0 Type='3' Data='ffff'/>...
 Talk_37: |
-  <3 Type='0' Data='0800'/>Hiii! How was your day, house-fixer guy?
+  <3 Type='0' Data='0800'/>Hiii! How was your day, house-fixer lady?
 Talk_02: |
   <3 Type='0' Data='0a00'/>Sorry... I can't play right now.<0 Type='4'/>I've got to find Dad's <0 Type='3' Data='0000'/>blue shirt<0 Type='3' Data='ffff'/>.
 Talk_38: |

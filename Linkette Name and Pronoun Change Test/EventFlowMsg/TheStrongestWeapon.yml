@@ -1,0 +1,203 @@
+0014: |
+  Goodbye.
+Talk15: |
+  <3 Type='0' Data='0700'/>Well, I'll stop boring you. <5 Type='0'/>But if you
+  happen to get your hands on a <0 Type='3' Data='0000'/>weapon
+  made with Lynel horn<0 Type='3' Data='ffff'/>, bring it my way.
+0015: |
+  What do they look like?
+0016: |
+  Where can I find them?
+Talk16: |
+  <3 Type='0' Data='0700'/>A Lynel is a huge, hooved beast that
+  walks on four legs.<0 Type='4'/>There are several variations. Eyewitnesses
+  have reported seeing Lynels with red
+  manes, <5 Type='0'/>blue manes, <5 Type='0'/>and white manes.
+  <3 Type='0' Data='0300'/>I once saw one from far away. It was a
+  terrifying sight, I'll tell you that much.
+0017: |
+  How do I fight them?
+Talk17: |
+  <3 Type='0' Data='0700'/>You won't have to travel far. I saw one
+  just north of here, <0 Type='3' Data='0000'/>near the entrance to
+  Tempest Gulch<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0500'/>I didn't get a close look, but there's no
+  doubt that towering monster<5 Type='0'/> was a Lynel.
+Talk18: |
+  <3 Type='0' Data='0700'/>Very, very carefully! <5 Type='1'/>Lynels have four
+  agile legs, but they've also got two big,
+  muscular arms to pummel you with.
+  As if that wasn't enough, they can also
+  fling fireballs from a distance.<0 Type='4'/><3 Type='0' Data='0000'/>Fighting them head-on is a recipe for
+  a very, VERY bad time.<0 Type='4'/><3 Type='0' Data='0c00'/>If you <0 Type='3' Data='0000'/>rode on its back<0 Type='3' Data='ffff'/> though... <5 Type='1'/>That
+  might be a different story.<0 Type='4'/>The trick would be <0 Type='3' Data='0000'/>hitting the Lynel's
+  weak spot <0 Type='3' Data='ffff'/>so that it gets low enough for
+  you to climb on top.
+0019: |
+  Sure thing!
+Talk20: |
+  <3 Type='0' Data='0700'/>If there's anything else you want to hear
+  about Lynels, just ask. I'm an open book.<5 Type='1'/>
+  
+  I can tell you what they look like, <5 Type='1'/>where to
+  find them, <5 Type='1'/>and even how to fight them.
+0020: |
+  No.
+Talk21: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Hey, that weapon you're holding!<5 Type='1'/>
+  Let me see it!
+0022: |
+  No, thanks.
+Talk22: |
+  <3 Type='0' Data='0700'/>Hm. Well, if you ever change your mind,
+  there's a reward in it for you.
+Talk23: |
+  <3 Type='0' Data='0700'/>So... <5 Type='1'/>Are you going to show me that
+  weapon now?
+Talk24: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>That's...<5 Type='1'/> No doubt about it... <5 Type='0'/>That's a
+  <0 Type='3' Data='0000'/>weapon made with Lynel horn<0 Type='3' Data='ffff'/>! 
+Talk26: |
+  <3 Type='0' Data='0b01'/>And it's the horn of a Blue-Maned Lynel!
+  How'd you manage that?
+Talk27: |
+  <3 Type='0' Data='0b01'/>And it's the horn of a White-Maned Lynel!
+  How'd you manage that?
+Talk28: |
+  <3 Type='0' Data='0b01'/>And it's the horn of a Silver Lynel!
+  How'd you manage that?
+Talk_0022: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='14005000610069006e00660075006c005f0030003000'/>I'm in a hurry here, if you don't mind.
+  Got to get somewhere dry.
+Near_01: |
+  Strongest in the world...
+Talk00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>Hm!<5 Type='1'/> That's an unusual weapon you have
+  there.<5 Type='0'/> Where did you get it?
+Talk29: |
+  <3 Type='0' Data='0c01'/>Nice and sharp too... <5 Type='1'/>You could slice
+  through anything with this baby.<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>That settles it. This is the strongest
+  weapon in the world!
+  
+  <3 Type='0' Data='0100'/>I'm honored that I got to see such a
+  stunning weapon up close. Here.<5 Type='0'/> It's the
+  least I owe you.<5 Type='1'/>
+Talk01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>I get the sense you're a swordmaster.<5 Type='1'/>
+  You interested in weapons?
+Near_02: |
+  No way...
+Talk30: |
+  <3 Type='0' Data='0c00'/>Then again, the world's a big place.
+  Who knows? Maybe a stronger weapon
+  is out there somewhere.
+  <3 Type='0' Data='0801'/>Someday I'll return the favor and show
+  you a weapon of my own making!
+Talk02: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>No kidding? <5 Type='0'/>I make weapons too. I've
+  been using all sorts of materials, trying to
+  make the <0 Type='3' Data='0000'/>strongest weapon in the world<0 Type='3' Data='ffff'/>!
+Talk31: |
+  <3 Type='0' Data='0c01'/>Nice and hard too... <5 Type='1'/>You could shatter
+  anything with this baby.<0 Type='4'/><3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>That settles it.<5 Type='0'/> This is the strongest
+  weapon in the world!<5 Type='1'/>
+  
+  <3 Type='0' Data='0100'/>I'm honored that I got to see such a
+  stunning weapon up close. Here.<5 Type='0'/> It's the
+  least I owe you.
+Near_03: |
+  Pah. Rain.
+Talk03: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>No kidding!<5 Type='0'/> Who from? It's an excellent
+  piece of work.<0 Type='4'/>I actually make weapons myself. I've been
+  using all sorts of materials, trying to make
+  the <0 Type='3' Data='0000'/>strongest weapon in the world<0 Type='3' Data='ffff'/>!
+Talk32: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003100'/>You want to know more?
+  
+  
+  I can tell you what Lynels look like,<5 Type='1'/>
+  where to find them, <5 Type='1'/>and even how to
+  fight them.<5 Type='1'/> Just ask.
+Talk04: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>Of course. What swordmaster doesn't?
+  Well, you wouldn't happen to know how
+  to make them, would you?
+  I make weapons, see. I've been using all
+  sorts of materials, trying to make the
+  <0 Type='3' Data='0000'/>strongest weapon in the world<0 Type='3' Data='ffff'/>!
+Talk33: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Didn't I just... <5 Type='1'/>Well, no matter.<5 Type='1'/> You can
+  never be too careful.
+0005: |
+  I made it.
+Talk05: |
+  <3 Type='0' Data='0701'/>Tell me something. You ever heard of the
+  monster they call a <0 Type='3' Data='0000'/>Lynel<0 Type='3' Data='ffff'/>?
+Talk34: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>You want to go in prepared, rather than
+  relying on strength alone. That's the mark
+  of a true swordmaster.
+  Ask away. I can tell you about what Lynels
+  look like,<5 Type='1'/> where to find them, <5 Type='1'/>and how to
+  fight them.
+0006: |
+  It was a gift.
+Talk35: |
+  <3 Type='0' Data='0c00'/>Practicing your sword technique is
+  important, but so is knowing your enemy.
+  
+  That's where I come in. I can tell you
+  what Lynels look like, <5 Type='1'/>where to find them,<5 Type='1'/>
+  and even how to fight them.
+Talk07: |
+  <3 Type='0' Data='0701'/>It's a huge beast with a body like a horse.
+  
+  
+  <3 Type='0' Data='0c00'/>You wouldn't believe how many times
+  I've seen someone try to <0 Type='3' Data='0000'/>ride on a
+  Lynel's back<0 Type='3' Data='ffff'/> only to go flying.<5 Type='1'/>
+  <3 Type='0' Data='0500'/>I actually spotted one of their kind
+  northwest of here, <0 Type='3' Data='0000'/>near the entrance
+  to Tempest Gulch<0 Type='3' Data='ffff'/>.
+  But I wasn't about to pick a fight with a
+  monster like that. Strong, agile... And did
+  I mention they can shoot fireballs?
+  The best I could do was turn tail before
+  it caught sight of me.
+0007: |
+  I love weapons!
+Talk36: |
+  <3 Type='0' Data='0c00'/>Huh? I can't see it too well from down
+  here. Mind getting off your horse?
+0008: |
+  I'm not interested.
+Talk08: |
+  <3 Type='0' Data='0a00'/>A swordmaster who doesn't care about
+  weapons? Now I've seen it all.<0 Type='4'/><3 Type='0' Data='0701'/>Well, I make weapons. I've been using all
+  sorts of materials, trying to make the
+  <0 Type='3' Data='0000'/>strongest weapon in the world<0 Type='3' Data='ffff'/>!
+Talk11: |
+  <3 Type='0' Data='0701'/>If I could only get ahold of that
+  <0 Type='3' Data='0000'/>Lynel's horn<0 Type='3' Data='ffff'/>...
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>I'm sure I could make the strongest
+  weapon in the world!<5 Type='0'/>
+  
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='14005000610069006e00660075006c005f0030003000'/>But I'm no fool. <5 Type='1'/>I know I haven't got the
+  skill to take down a Lynel.<0 Type='4'/>Hmph.<5 Type='0'/> I just wish someone else would
+  make the weapon of my dreams and show
+  it to me. I'd give them a nice reward.
+Talk12: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>So? <5 Type='0'/>How's it going? <5 Type='0'/>Made any new
+  weapons lately?
+Talk13: |
+  <3 Type='0' Data='0c00'/>I think with a <0 Type='3' Data='0000'/>Lynel horn<0 Type='3' Data='ffff'/>, you could make
+  the strongest weapon in the world...<0 Type='4'/>But of course, you can't just charge up to
+  a Lynel and expect to survive.<5 Type='1'/> You have to
+  be careful.
+  A sword's not enough on its own. You
+  have to be armed with knowledge too.
+  
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>That's why I've tried to learn all I can
+  about Lynels—<5 Type='1'/>what they look like,<5 Type='1'/> where
+  to find them, <5 Type='1'/>and how to fight them.

@@ -1,0 +1,35 @@
+Near: |
+  Talk about bliss!
+NakedPlayer: |
+  Clothing optional, eh?
+talk08: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>I've gotta say, the water temperature
+  was perfect, and I made the perfect
+  spring-boiled egg to boot!
+  Go on and take an egg from here
+  whenever you want!
+talk09: |
+  <3 Type='0' Data='0700'/>Hey!<5 Type='1'/> You're that lady from before.
+talk14: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Hey! Stop it!
+  
+  
+  The water temperature is just right for
+  making the perfect spring-boiled egg.
+  
+  Cold water will throw everything off!
+talk00: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>I've gotta say, the water temperature
+  was perfect, and I made the perfect
+  spring-boiled egg to boot!
+  Of course, it's all because you found a
+  way inside here!
+  
+  So please, take an egg from here any ol'
+  time you want.
+talk06: |
+  <3 Type='0' Data='0400'/>What? <5 Type='1'/>They're all...<5 Type='1'/>gone?
+  
+  
+  Well,<5 Type='0'/> don't worry. I'll make more. Come
+  grab some eggs later!

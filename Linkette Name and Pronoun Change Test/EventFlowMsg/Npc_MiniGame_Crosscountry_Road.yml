@@ -1,0 +1,167 @@
+FriendGreet_03: |
+  So I'm gonna share the love here and tell
+  you the <0 Type='3' Data='0000'/>secret treasure info <0 Type='3' Data='ffff'/>I've got!
+GoalPoint_01: |
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>I can't say this too loudly,<5 Type='0'/> but I heard that <0 Type='3' Data='0000'/>Misko's
+  treasure<0 Type='3' Data='ffff'/> is hidden in <0 Type='3' Data='0000'/>Lake Kilsie Cave inside this
+  mountain pass<0 Type='3' Data='ffff'/>...<5 Type='1'/>
+  A Rito told me that you can only get into that cave
+  from the <0 Type='3' Data='0000'/>north side<0 Type='3' Data='ffff'/> of the lake too.
+  
+  <3 Type='0' Data='0a00'/><FontSize Value='100'/>But those pickings aren't as easy as you'd
+  hope. <5 Type='1'/>There's not so much as an animal
+  trail to <0 Type='3' Data='0000'/>Lake Kilsie<0 Type='3' Data='ffff'/>, let alone a road.
+  To top it all off, the lake's surrounded
+  by steep precipices. Let me tell ya,
+  precipices? Not fashion-friendly.<5 Type='1'/>
+  <3 Type='0' Data='0801'/>But giving up would mean falling out of
+  style...<5 Type='0'/>and that's something I'll never do!
+GoRange_01: |
+  <3 Type='0' Data='0700'/><0 Type='3' Data='0000'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/><0 Type='3' Data='ffff'/>Do you know <0 Type='3' Data='0000'/>Lake Kilsie<0 Type='3' Data='ffff'/>?<0 Type='4'/>It's past <0 Type='3' Data='0000'/>Dronoc's Pass up north<0 Type='3' Data='ffff'/>. I was
+  just heading there myself, because, uh...<0 Type='4'/><FontSize Value='80'/><3 Type='0' Data='0c01'/>Someone told me a piece of <0 Type='3' Data='0000'/>Misko's treasure <0 Type='3' Data='ffff'/>is
+  hidden in <0 Type='3' Data='0000'/>Lake Kilsie Cave<0 Type='3' Data='ffff'/>...<5 Type='1'/><FontSize Value='100'/><0 Type='4'/><FontSize Value='80'/>Better yet, they say it was Misko's<0 Type='3' Data='0000'/> favorite clothing
+  to wear when traveling in freezing climes<0 Type='3' Data='ffff'/>.<FontSize Value='100'/>
+GoRange_02: |
+  <3 Type='0' Data='0a00'/>I'd never say a word against clothes
+  this chic. <5 Type='1'/>But between you and me...<5 Type='1'/>
+  this outfit is really cold.
+  My wardrobe is practically crying out for
+  Misko's <0 Type='3' Data='0000'/>favorite cold-weather clothes<0 Type='3' Data='ffff'/>!<0 Type='4'/><3 Type='0' Data='0900'/>The only way to stop this shivering is to
+  go to <0 Type='3' Data='0000'/>Lake Kilsie Cave<0 Type='3' Data='ffff'/> and claim that
+  iconic garb for myself.
+  The cave's tucked away in <0 Type='3' Data='0000'/>Dronoc's Pass<0 Type='3' Data='ffff'/>
+  up <0 Type='3' Data='0000'/>north<0 Type='3' Data='ffff'/>, surrounded by steep cliffs.<0 Type='4'/>But if I think about the obstacles, I'll stop
+  moving. And if I stop moving, I'll freeze!
+BackRange_01_2: |
+  <3 Type='0' Data='0c00'/>Up <0 Type='3' Data='0000'/>northwest <0 Type='3' Data='ffff'/>at <0 Type='3' Data='0000'/>Lake Kilsie<0 Type='3' Data='ffff'/>, <0 Type='3' Data='0000'/>there's a
+  cave <0 Type='3' Data='ffff'/>that holds an amazing treasure...<0 Type='4'/>a piece of clothing that once belonged to
+  the inventor of fashion—<0 Type='3' Data='0000'/><5 Type='0'/>Misko <0 Type='3' Data='ffff'/>the bandit!<0 Type='4'/>I know roughly where it is—on the <0 Type='3' Data='0000'/>north
+  side<0 Type='3' Data='ffff'/> of the lake—but I can't figure out
+  how to get there.
+  <5 Type='0'/>There's not a road to be seen around
+  those parts.<0 Type='4'/><3 Type='0' Data='0a00'/>Just imagine the toll roughing it would
+  take on my clothes...<0 Type='4'/>Hm, yeah, I'm not doing this without a
+  plan. Maybe the <0 Type='3' Data='0000'/>newspaper company<0 Type='3' Data='ffff'/>
+  could help me figure one out.
+Near_StartPoint_01: |
+  Misko's outfit, here I come.
+StartPoint_01: |
+  <3 Type='0' Data='0700'/>According to fashion legend, the famous
+  bandit <0 Type='3' Data='0000'/>Misko<0 Type='3' Data='ffff'/> had a signature outfit <0 Type='3' Data='0000'/>for
+  adventuring in freezing climes<0 Type='3' Data='ffff'/>.
+  The rumors say the whole look is hidden
+  right here in <0 Type='3' Data='0000'/>Hebra<0 Type='3' Data='ffff'/>!<0 Type='4'/><FontSize Value='80'/><3 Type='0' Data='0c01'/>Just between us, I hear that one piece of the outfit
+  is in <0 Type='3' Data='0000'/>Lake Kilsie Cave <0 Type='3' Data='ffff'/>to the <0 Type='3' Data='0000'/>northwest<0 Type='3' Data='ffff'/>...<5 Type='1'/><FontSize Value='100'/><0 Type='4'/><3 Type='0' Data='0701'/>I SWEAR, if you get there before me,
+  I'll... I'll...<5 Type='1'/><0 Type='4'/>Nah, I'm just kiddin', superstar.<0 Type='4'/><3 Type='0' Data='0800'/>It's treasure. <5 Type='0'/>The finders-keepers rule is
+  in full effect. No hard feelings, either way!
+StartPoint_01_2: |
+  <3 Type='0' Data='0700'/>The iconic bandit <0 Type='3' Data='0000'/>Misko<0 Type='3' Data='ffff'/>'s winter look is
+  supposed to be hidden in <0 Type='3' Data='0000'/>Hebra<0 Type='3' Data='ffff'/>.<0 Type='4'/><FontSize Value='80'/><3 Type='0' Data='0c01'/>And one piece in specific is said to be in <0 Type='3' Data='0000'/>Lake Kilsie
+  Cave <0 Type='3' Data='ffff'/>to the <0 Type='3' Data='0000'/>northwest<0 Type='3' Data='ffff'/>...<5 Type='1'/><FontSize Value='100'/><0 Type='4'/><3 Type='0' Data='0800'/>No matter who finds it, though, no hard
+  feelings! <5 Type='1'/>That's just how treasure goes.
+Yiga_00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>It's not just the armor you've taken a
+  shine to, but the whole Yiga getup!<0 Type='4'/>I know this sounds weird because of the
+  kidnapping and all, but seein' you wearing
+  armor I tailored...<5 Type='1'/>makes me sorta proud.
+BackRange_01: |
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>I can't say this too loudly, but I heard that a piece of
+  <0 Type='3' Data='0000'/>Misko's treasure<0 Type='3' Data='ffff'/> is hidden in <0 Type='3' Data='0000'/>Lake Kilsie Cave inside
+  this very mountain<0 Type='3' Data='ffff'/>.
+  Heads up though. A Rito told me that the cave is on
+  the <0 Type='3' Data='0000'/>north side<0 Type='3' Data='ffff'/> of the lake.<FontSize Value='100'/><0 Type='4'/><3 Type='0' Data='0a00'/>Even knowing that...<5 Type='1'/>there are no roads
+  leading to<0 Type='3' Data='0000'/> Lake Kilsie<0 Type='3' Data='ffff'/>. Not so much as a
+  single animal trail.
+  It's also surrounded on all sides by steep
+  precipices... I shudder for these stylish
+  threads just thinking about it.
+  Maybe I should stop by the <0 Type='3' Data='0000'/>newspaper
+  company<0 Type='3' Data='ffff'/> to get some more info and prep
+  myself for the journey.
+Near_BackRange_01: |
+  Could the news folks help?
+BackRange_02: |
+  <3 Type='0' Data='0700'/>Legendary clothing from <0 Type='3' Data='0000'/>Misko's<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>icy-clime
+  adventure collection<0 Type='3' Data='ffff'/> is supposed to be
+  hidden right here in <0 Type='3' Data='0000'/>Hebra<0 Type='3' Data='ffff'/>!
+  <FontSize Value='80'/><3 Type='0' Data='0c01'/>I can't say this too loudly, but I heard one of the
+  pieces is in <0 Type='3' Data='0000'/>Lake Kilsie Cave <0 Type='3' Data='ffff'/>to the <0 Type='3' Data='0000'/>northwest<0 Type='3' Data='ffff'/>...<FontSize Value='100'/>
+Near_GoRange_02: |
+  I can reach it. I know I can!
+Near_BackRange_02: |
+  Why did I eat it all?
+GoRange_01_2: |
+  <3 Type='0' Data='0700'/>I'm makin' my way to <0 Type='3' Data='0000'/>Lake Kilsie<0 Type='3' Data='ffff'/>.<0 Type='4'/>It's <0 Type='3' Data='0000'/>wayyy north<0 Type='3' Data='ffff'/>, all the way up past
+  <0 Type='3' Data='0000'/>Dronoc's Pass<0 Type='3' Data='ffff'/>, so it's gonna take a while.<0 Type='4'/><FontSize Value='80'/><3 Type='0' Data='0c01'/>But boy, will it all be worth it. I heard a piece of
+  <0 Type='3' Data='0000'/>Misko's treasure<0 Type='3' Data='ffff'/> is hidden in <0 Type='3' Data='0000'/>Lake Kilsie Cave<0 Type='3' Data='ffff'/>.<FontSize Value='100'/><0 Type='4'/><FontSize Value='80'/>Plus, <5 Type='1'/>it's supposed to be Misko's<0 Type='3' Data='0000'/> favorite clothing
+  for cold-weather adventuring<0 Type='3' Data='ffff'/>.<FontSize Value='100'/>
+GoRange_01_3: |
+  <3 Type='0' Data='0800'/>I've gotta get my hands on it!<5 Type='1'/> This is the
+  only fashionable outfit I have!
+BackRange_02_2: |
+  <3 Type='0' Data='0700'/>They say the bandit <0 Type='3' Data='0000'/>Misko<0 Type='3' Data='ffff'/> hid some of
+  their legendary clothing in <0 Type='3' Data='0000'/>Hebra<0 Type='3' Data='ffff'/>...<0 Type='4'/>Those clothes are supposed to a big help
+  for adventuring in the biting cold.<0 Type='4'/><FontSize Value='80'/><3 Type='0' Data='0c01'/>They ALSO say that one of those pieces is hidden in
+  <0 Type='3' Data='0000'/>Lake Kilsie Cave <0 Type='3' Data='ffff'/>to the <0 Type='3' Data='0000'/>northwest<0 Type='3' Data='ffff'/>...<0 Type='4'/><FontSize Value='100'/><3 Type='0' Data='0701'/>Treasure is always finders keepers.<FontSize Value='80'/><FontSize Value='100'/><5 Type='1'/>
+  Don't sweat it if you get there before
+  me, superstar!
+BackRange_02_3: |
+  <3 Type='0' Data='0a00'/>I got a little problem here though... I, uh,
+  kinda ate all the food I whipped up for the
+  journey to <0 Type='3' Data='0000'/>Lake Kilsie<0 Type='3' Data='ffff'/>.
+  Misko didn't exactly choose a hiding
+  spot that was easily accessible for the
+  fashionably minded.<0 Type='4'/>Maybe I should swing by the newspaper
+  company to rest and stock up real quick.
+GoalPoint_01_2: |
+  <3 Type='0' Data='0c00'/>Some say that the legendary bandit <0 Type='3' Data='0000'/>Misko<0 Type='3' Data='ffff'/>
+  actually INVENTED fashion.<0 Type='4'/>And some of their very favorite clothes
+  are supposed to be hidden in <0 Type='3' Data='0000'/>a cave at
+  Lake Kilsie<0 Type='3' Data='ffff'/> to the <0 Type='3' Data='0000'/>northwest<0 Type='3' Data='ffff'/>!<5 Type='1'/>
+  I know that the cave is on the <0 Type='3' Data='0000'/>north side<0 Type='3' Data='ffff'/>
+  of the lake, but it isn't easy to get there.
+  No roads, no trails, not even a path!<5 Type='1'/>
+  <3 Type='0' Data='0b00'/>But if I give up now...<5 Type='1'/>I might fall from
+  the cutting edge of fashion! If there's
+  no path, I'll just make my own!
+RainPoint_01: |
+  <3 Type='0' Data='0700'/>Hey there, superstar!<0 Type='4'/>You're looking chic as ever. This weather
+  can't bring you down, huh?
+Near_RainPoint_01: |
+  It's cold...what a surprise.
+FriendGreet_00: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Hey, hey! I thought I recognized you!
+  <5 Type='0'/>You're the superstar who got me out of
+  that jam with the Yiga Clan.
+  Oh, and how's the Yiga armor I tailored
+  treating you?<5 Type='0'/> That was rhetorical. I made
+  it, so I know it's perfect.
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Seriously though. Thanks for setting me
+  free back there. I mean it.
+  
+  Ever since, I've been running all over the
+  place, looking for <0 Type='3' Data='0000'/>fashion treasures<0 Type='3' Data='ffff'/> and
+  having the time of my life. Cheers for that!
+Yiga: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0c004c0061007500670068005300'/>I know the Yiga Clan did sorta kidnap me
+  and force me to make that armor, but
+  seeing you wear it fills me with...pride?
+  Yeah. Yeah, pride! <5 Type='1'/>I'm proud to see you
+  making some good out of bad.
+FriendGreet_01: |
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Well, well, well. You came back, superstar!<0 Type='4'/>That can only mean one thing—you wanna
+  know the secret to the treasure, huh?<0 Type='4'/>Well, you got it! <5 Type='0'/>You did kinda save me
+  from a lifetime of unappreciated labor...
+Near_Rain: |
+  It's really coming down!
+FriendGreet_02: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Hey, hey! You made me double-take for
+  a sec there...<5 Type='0'/>but I could never forget the
+  superstar who helped me out!
+  And man, you're even rockin' that Yiga
+  armor I tailored!<5 Type='0'/> Super comfy, right?<0 Type='4'/><3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Seriously, though, thanks again for the
+  save back there. You are the LADY, lady.<0 Type='4'/>Thanks to you, instead of rotting in a cell,
+  I'm running around, searching for <0 Type='3' Data='0000'/>stylish
+  treasure <0 Type='3' Data='ffff'/>and having the time of my life.
+Near_GoalPoint_01: |
+  Ngh, I can't...

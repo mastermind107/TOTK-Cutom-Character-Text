@@ -1,0 +1,72 @@
+Talk_0012: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>I'm feeling experimental. I think I'll try to
+  make a meat and rice bowl using <0 Type='3' Data='0000'/>multiple
+  kinds of meat<0 Type='3' Data='ffff'/>.
+  Rumors say there's an <0 Type='3' Data='0000'/>unknown creature<0 Type='3' Data='ffff'/>
+  kicking around. I hear that and I wonder,
+  how is it going to taste on rice?
+Talk_0006: |
+  <3 Type='0' Data='0b00'/>I can't believe I wanted to cook those
+  poor, sweet creatures lovingly raised by
+  the princess herself.
+  The only thing I deserve to eat is a big,
+  flaky slice of humble pie with a side of
+  shame soup.<0 Type='4'/>...You better not speak one word of this to
+  the princess! Got it?
+Talk_0007: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='0c004e006f007400690063006500'/>Can this wait? <5 Type='1'/>I need to get under a roof.
+Talk_0008: |
+  <3 Type='0' Data='0800'/>Gotta sleep well so I wake up good and
+  hungry! That's the secret to happy eating!
+NakedPlayer: |
+  It's risky to go unarmored.
+Talk_0009: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0053006c00650065007000'/>South... <5 Type='1'/>Creature... <5 Type='1'/>Zzz... <5 Type='1'/>Yum...
+Near_0001: |
+  Aah! Cold! Cold!
+Near_0002: |
+  What meat to use?
+Near_0003: |
+  The meat is crucial.
+Talk_0001: |
+  <3 Type='0' Data='0800'/>Foodstuff and poison... <5 Type='0'/>Wow, who knew
+  cooking could be so deep?
+Talk_0002: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0048006100700070007900'/>I'm feeling experimental. I think I'll try to
+  make a meat and rice bowl using <0 Type='3' Data='0000'/>multiple
+  kinds of meat<0 Type='3' Data='ffff'/>.
+  As for what kinds, hm... There's talk lately
+  of a <0 Type='3' Data='0000'/>new creature I've never seen before<0 Type='3' Data='ffff'/>.
+  A traveler from the <0 Type='3' Data='0000'/>south <0 Type='3' Data='ffff'/>told me about it.
+  Is it an animal? A monster? I couldn't
+  tell you. All I know is, I want to find out
+  how that thing tastes!
+0000: |
+  So, about Dondons...
+Talk_0003: |
+  <3 Type='0' Data='0b00'/>You mean the rumors are true? <5 Type='1'/>Princess
+  Zelda discovered these...<5 Type='0'/>Dondons, you
+  called them, and raised them herself?
+  <3 Type='0' Data='0a00'/>I was going to cook an animal the princess
+  loved in the recipe she taught me.
+  How horrifying.<0 Type='4'/>All along, the real animal <5 Type='0'/>was me.
+  I'm the one who deserves to be cooked
+  and served on rice.
+  <3 Type='0' Data='0b01'/>...Don't tell anyone about this! <5 Type='1'/>Got it?
+Talk_0010: |
+  <3 Type='0' Data='0800'/>We meet again!<0 Type='4'/>What? I'd never forget the lady who saved
+  my life.<0 Type='4'/><3 Type='0' Data='0701'/>That experience taught me a valuable
+  lesson about the all-too-thin line between
+  foodstuff and poison.
+0001: |
+  Goodbye.
+Talk_0004: |
+  <3 Type='0' Data='0700'/>If you want to add some freaky flavors to
+  your cooking, I suggest sprinkling in some
+  <0 Type='3' Data='0000'/>monster extract<0 Type='3' Data='ffff'/>.
+  You can buy it from <0 Type='3' Data='0000'/>Tarrey Town<0 Type='3' Data='ffff'/>. That's
+  in the Akkala region in the northeastern
+  part of Hyrule.
+Talk_0011: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a0053006c00650065007000'/>Forgive me... <5 Type='1'/>Zzz...elda... <5 Type='1'/>I won't...<5 Type='1'/>eat
+  the Dondons...

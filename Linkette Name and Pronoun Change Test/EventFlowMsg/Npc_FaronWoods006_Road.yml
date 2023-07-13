@@ -1,0 +1,216 @@
+BackRange_01: |
+  <3 Type='0' Data='0700'/>Seems like a number of unusual ruins fell
+  at <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/> to the <0 Type='3' Data='0000'/>east<0 Type='3' Data='ffff'/>.
+  
+  I'm going there to investigate.<5 Type='1'/> But a
+  traveler type like you might want to check
+  it out, see the sights, that sort of thing.
+BackRange_02_2: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>Sounds like the <0 Type='3' Data='0000'/>Skyview Tower <0 Type='3' Data='ffff'/>near
+  here got taken over. Now that thing
+  is a <0 Type='3' Data='0000'/>monster fort<0 Type='3' Data='ffff'/>.
+  That's rough. None of us will be using
+  that tower for a good, long while.
+BackRange_02: |
+  <3 Type='0' Data='0700'/>You hear this? The <0 Type='3' Data='0000'/>Skyview Tower<0 Type='3' Data='ffff'/> they
+  built nearby got taken over! Yep, it's a
+  <0 Type='3' Data='0000'/>monster lair <0 Type='3' Data='ffff'/>now.
+  <3 Type='0' Data='0301'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>Only fair that the monsters should pay
+  some rent on the place.<5 Type='1'/> But, yeah. Looks
+  like none of us can use that place now.
+GoRange_01: |
+  <3 Type='0' Data='0700'/>Standing out in the open like this, you
+  really see how the world's changed.<5 Type='0'/>
+  
+  Not a lot of new stuff gets me all that
+  excited anymore. I mean, what can beat
+  RUINS just falling out of the SKY?
+  But...<5 Type='0'/> A lot of ruins fell on <0 Type='3' Data='0000'/>Kakariko
+  Village <0 Type='3' Data='ffff'/>to the <0 Type='3' Data='0000'/>east<0 Type='3' Data='ffff'/>, and they say all
+  of them are unusual.
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0a005400680069006e006b00'/>Still, unusual is totally usual now. Not
+  interested. Hey, if it was REALLY weird,
+  though, I'd be off to see it in a shot.
+BackRange_03: |
+  <3 Type='0' Data='0700'/>I've been traveling all over the place,
+  surveying the <0 Type='3' Data='0000'/>chasms<0 Type='3' Data='ffff'/>. They've been
+  spotted throughout the land.
+  I had it on good authority that there's
+  one around here too.
+  
+  But I've walked as much as I'm going to
+  walk and still haven't found it.
+  
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0a005400680069006e006b00'/>Guess it was on bad authority.<5 Type='0'/> That or
+  I'm just bad at finding it.
+BeforeMeetPurah_01_2: |
+  <0 Type='3' Data='0000'/><3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/><0 Type='3' Data='ffff'/>You'll find <0 Type='3' Data='0000'/>Lookout Landing<0 Type='3' Data='ffff'/> just before
+  <0 Type='3' Data='0000'/>Hyrule Castle<0 Type='3' Data='ffff'/> to the <0 Type='3' Data='0000'/>north<0 Type='3' Data='ffff'/>. Head that way
+  if you want get your bearings.
+GoRange_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>I'll just come right out and say what I'm
+  doing around here—I'm investigating the
+  <0 Type='3' Data='0000'/>Zonai ruins<0 Type='3' Data='ffff'/> in this area.
+  Problem is that SO many ruins fell all
+  over the place, getting to every one is
+  taking a LOT of time.
+  Good thing there's that <0 Type='3' Data='0000'/>Skyview Tower<0 Type='3' Data='ffff'/>
+  built near here. We can use that thing
+  to blast ourselves high into the sky.
+  But what do I do once I'm up there?<5 Type='0'/>
+  Fall, that's what!
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>There's no way I'm going to risk that for
+  the sake of investigating some ruins!
+BeforeMeetPurah_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Hmm? <5 Type='0'/>What's going on?<5 Type='0'/> You lose your
+  way out here maybe?<5 Type='0'/>
+  
+  You know <0 Type='3' Data='0000'/>Hyrule Castle<0 Type='3' Data='ffff'/> to the <0 Type='3' Data='0000'/>north<0 Type='3' Data='ffff'/>,
+  right?<5 Type='0'/> Just short of that is a place called
+  <0 Type='3' Data='0000'/>Lookout Landing<0 Type='3' Data='ffff'/>.
+  Lots of people and resources are
+  gathered there these days.<5 Type='1'/> Head there
+  if you're trying to get your bearings.
+  <4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>You got all that? It's a pretty big deal.<5 Type='0'/>
+  <0 Type='3' Data='0000'/>Lookout Landing<0 Type='3' Data='ffff'/>...to the <0 Type='3' Data='0000'/>north<0 Type='3' Data='ffff'/>!
+RainPoint_01_2: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Young lady like you? Yeah, you're going
+  to climb slopes on a rainy day, even if
+  you might slip and fall to your ruin.
+  Just be careful, OK?
+GoRange_03: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Got a minute?<5 Type='0'/> You, uh, happen to see
+  a <0 Type='3' Data='0000'/>chasm <0 Type='3' Data='ffff'/>near here?
+  
+  They say there's one somewhere in this
+  area. But I've looked AND looked, and
+  now I doubt there's one at all.
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0a005400680069006e006b00'/>I bet some fool got his foot stuck in a
+  hole, got home late, and told everyone
+  he fell into a chasm. Ugh, people.
+Near_RainPoint_01: |
+  Careful on rainy days...
+Near_GoalPoint_01: |
+  Where's that chasm?
+Near_BackRange_01: |
+  I'll have to see for myself.
+Near_BeforeMeetPurah_01: |
+  Lookout's north, y'know.
+Near_BackRange_02: |
+  Goodbye, Skyview Tower.
+Greeting: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10004700720065006500740069006e006700'/>What's going on? <5 Type='1'/>You looking for
+  someone to talk to?
+  
+  Hey, that's fine by me. <5 Type='0'/>Let's talk.<5 Type='1'/>
+GoRange_02_2: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>You can blast yourself high into the sky
+  using the <0 Type='3' Data='0000'/>Skyview Tower<0 Type='3' Data='ffff'/> nearby.
+  
+  <3 Type='0' Data='0701'/>You won't catch me doing that.<5 Type='0'/> That sky
+  is, uh, awful high up there.
+Near_Rain: |
+  Did I get it all wrong?
+Near_GoRange_01: |
+  What kind of ruins...
+Near_BackRange_03: |
+  That info can't be wrong.
+0000: |
+  Chasm?
+BackRange_03_2: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>They said a <0 Type='3' Data='0000'/>chasm<0 Type='3' Data='ffff'/> is around here
+  somewhere, but come on...<5 Type='0'/> Where is
+  it already?
+  I've searched and searched. If someone
+  found that thing, it got itself unfound.
+  Maybe my information was wrong...
+Near_GoRange_02: |
+  Up is easy. Down is hard.
+0001: |
+  I didn't see one.
+Near_GoRange_03: |
+  Thought the info was solid.
+StartPoint_01: |
+  <3 Type='0' Data='0700'/>One thing that's odd here...<5 Type='1'/> Everyone
+  keeps talking about cooking.
+  
+  If I were hungry, I might think they were
+  rubbing all this food talk in my face.<0 Type='4'/><3 Type='0' Data='0101'/><4 Type='0' Data='0c004c0061007500670068005300'/>Not a problem though. I've got some
+  ingredients now. Maybe I'll use the
+  cooking pot and make some grub!
+GoalPoint_01: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10004700720065006500740069006e006700'/>How about I ask you?<5 Type='0'/> You see a <0 Type='3' Data='0000'/>chasm<0 Type='3' Data='ffff'/>
+  near here?
+BackRange_01_2: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>Sounds like a number of unusual ruins fell
+  near <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/> to the <0 Type='3' Data='0000'/>east<0 Type='3' Data='ffff'/>.
+  
+  I'm headed there for sure. But, uh, not
+  anytime soon. Young lady like you,
+  though?<5 Type='1'/> I bet you're going to bolt for it.
+GoalPoint_04: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>You know, a <0 Type='3' Data='0000'/>chasm<0 Type='3' Data='ffff'/>—a deep, deep,
+  deep hole.<5 Type='0'/> Haven't you heard about
+  those appearing?
+  These things are SO big, you can't see
+  bottom. But what's weird about this
+  chasm is...<5 Type='0'/>I can't manage to find it at all.
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='0a005400680069006e006b00'/>Maybe it's hidden? Maybe chasms aren't
+  always big? Maybe some are small?
+  
+  Or maybe...<5 Type='0'/>our world up here is actually
+  BELOW whatever's down there. So up
+  here is really under all that.
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Ha! Never mind. My mind kind of, er, fell
+  on its face there.
+GoalPoint_05: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0600530061006400'/>You haven't? Huh.<5 Type='0'/> S'pose you're telling
+  me to give up looking maybe?
+  
+  Is that it? Guess I'm just taking advice
+  from passers-by these days. Guess you're
+  saying I should quit?
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0c004e006f007400690063006500'/>Oh. That's NOT what you meant? Sorry,
+  sorry. Really.
+  
+  S'pose I'll keep on looking, then. Can't
+  give up yet.
+GoRange_03_2: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0a005400680069006e006b00'/>There's supposed to be a <0 Type='3' Data='0000'/>chasm<0 Type='3' Data='ffff'/> here
+  somewhere. But I've looked all over the
+  place and can't find it.
+  I just know someone blew this all out of
+  proportion. Someone got stuck in a little
+  hole and cried, "Oh no, chasm!"
+Near_StartPoint_01: |
+  I'm hungry...
+StartPoint_01_2: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>All the talk of cooking here...it's making
+  my stomach rumble.
+  
+  Just ate. But I'll eat again, I guess.
+Near_Thunder: |
+  Watch out for lightning...
+StartPoint_01_3: |
+  If I go into the field hungry, I might fall on
+  my face out there, and if that happens,
+  it's all over. Lights out.
+  You've gotta eat your three square a day.
+  That's investigation 101.
+GoalPoint_01_2: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>How goes it? Hmm?<0 Type='4'/><3 Type='0' Data='0401'/><4 Type='0' Data='1200530075007200700072006900730065005300'/>Ah! Don't tell me! Did you see...<5 Type='0'/>maybe
+  a...<5 Type='0'/> Maybe a <0 Type='3' Data='0000'/>chasm<0 Type='3' Data='ffff'/> near here?
+RainPoint_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>Might be imagining things, but you look
+  like you're in a hurry.
+  
+  On rainy days, slopes get slippery, so
+  you be careful if you go climbing.
+GoRange_01_2: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>They say that a number of unusual ruins
+  fell near <0 Type='3' Data='0000'/>Kakariko Village<0 Type='3' Data='ffff'/>. That's <0 Type='3' Data='0000'/>east<0 Type='3' Data='ffff'/>
+  from here.
+  Looks like the kind of thing that'd interest
+  you.<5 Type='0'/> Who knows? If it's interesting
+  enough, I might head there too.

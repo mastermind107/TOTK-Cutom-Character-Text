@@ -1126,7 +1126,7 @@ Yona_22: |
   <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Hello, Madam Rinkuru! Can I help you
   with something?
 talk0026: |
-  <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Hm? <5 Type='0'/>What's up, guy?
+  <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Hm? <5 Type='0'/>What's up, lady?
   
   
   We're full up on folks who are allowed to
@@ -1479,7 +1479,7 @@ GoToLake_Yona_14: |
 0018: |
   I'm good, thanks.
 FindDrefan_FindDrefan04: |
-  <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Hey, guy... You didn't, um...<5 Type='0'/>hear any of
+  <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Hey, lady... You didn't, um...<5 Type='0'/>hear any of
   that, did you?
 0019: |
   Here you go!

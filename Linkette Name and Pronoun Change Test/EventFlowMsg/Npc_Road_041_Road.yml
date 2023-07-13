@@ -1,0 +1,165 @@
+GoalPoint_01: |
+  <3 Type='0' Data='0c00'/>Those legendary clothes are supposed
+  to be in a <0 Type='3' Data='0000'/>cave<0 Type='3' Data='ffff'/> somewhere along the
+  <0 Type='3' Data='0000'/>coastline<0 Type='3' Data='ffff'/> here.
+  <3 Type='0' Data='0700'/>Problem is, there's a lot of coastline,
+  and no way to narrow things down!
+  
+  <3 Type='0' Data='0501'/>I've heard that if you walk with your eyes
+  up, you'll find it right away...
+  
+  But it's supposed to be in a cave, I think.
+  Caves are usually close to the ground,
+  right?<5 Type='0'/> Where is this treasure?!
+GoRange_01: |
+  <3 Type='0' Data='0c00'/>I've tracked a piece of Misko's <0 Type='3' Data='0000'/>legendary
+  wardrobe<0 Type='3' Data='ffff'/> to a <0 Type='3' Data='0000'/>cave on the north bank<0 Type='3' Data='ffff'/> of
+  the nearby Floria River!
+  <3 Type='0' Data='0a01'/>Which would be great...<5 Type='0'/>if the river hadn't
+  <0 Type='3' Data='0000'/>flooded the cave<0 Type='3' Data='ffff'/> and I weren't wearing
+  designer clothes. What do I do now?
+GoRange_02_2: |
+  <3 Type='0' Data='0700'/>I got a hot tip that the treasure is hidden
+  in a cave along the coastline.<0 Type='4'/><3 Type='0' Data='0a00'/>Yep. Somewhere along this...very, very
+  long coastline.<0 Type='4'/>I have heard it's easier to find the cave
+  if you "walk with your eyes up."<0 Type='4'/>Though honestly, that doesn't make much
+  sense to me...
+FriendGreet_04: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004c00'/>Ack, it's the Yiga Clan! Wait.<0 Type='4'/><4 Type='0' Data='0c004e006f007400690063006500'/>That mask... That's one I made!<0 Type='4'/><3 Type='0' Data='0001'/>Hey, I know you—you're the lady who
+  saved me.<5 Type='0'/> You gave me a real jump there!
+GoRange_02: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>You know how you can follow this road
+  to the sea?<5 Type='0'/> <0 Type='3' Data='0000'/>One of Misko's treasures<0 Type='3' Data='ffff'/> is
+  hidden in <0 Type='3' Data='0000'/>a cave along the shore<0 Type='3' Data='ffff'/>.
+  Sounds like a pretty great tip, right? It is,
+  until you remember how big the sea is...
+  That's a lot of ground to cover.
+  <3 Type='0' Data='0a00'/>Apparently the key to finding it is to
+  "walk with your eyes up"...<5 Type='0'/>but it just
+  feels weird to look up for a cave.
+BackRange_01_2: |
+  <3 Type='0' Data='0a00'/>The treasure's supposed to be in a <0 Type='3' Data='0000'/>cave<0 Type='3' Data='ffff'/>
+  on the <0 Type='3' Data='0000'/>northern bank of the Floria River<0 Type='3' Data='ffff'/>...<5 Type='0'/>
+  but the cave's completely flooded.
+  *sigh*<5 Type='0'/> The sooner I get my hands on
+  <0 Type='3' Data='0000'/>Misko's legendary clothes<0 Type='3' Data='ffff'/>, the sooner
+  I can return to my lovely Nobo...
+Near_StartPoint_01: |
+  These are Cece brand!
+FriendGreet_05: |
+  <3 Type='0' Data='0700'/>I'm glad to see you keeping well, at least!
+  You're clearly having fun on your journey.<0 Type='4'/><3 Type='0' Data='0001'/>Me, I'm still spending all my time seeking
+  out <0 Type='3' Data='0000'/>Misko's treasure<0 Type='3' Data='ffff'/>, so that I might
+  return to my beloved Nobo.
+StartPoint_01: |
+  <3 Type='0' Data='0c00'/>Maybe it's <0 Type='3' Data='0000'/>northwest<0 Type='3' Data='ffff'/> of here. I mean,
+  there is a <0 Type='3' Data='0000'/>cave<0 Type='3' Data='ffff'/> on the northern bank
+  of the <0 Type='3' Data='0000'/>Floria River<0 Type='3' Data='ffff'/>, so...
+  <3 Type='0' Data='0100'/>Yeah, I'm calling it now! Misko's treasure
+  is absolutely, positively in that cave!<0 Type='4'/><3 Type='0' Data='0a00'/>Along with a whooole lot of <0 Type='3' Data='0000'/>river water<0 Type='3' Data='ffff'/>.
+  That's gonna be a problem.<0 Type='4'/><3 Type='0' Data='0501'/>I mean, I'm dressed in Cece brand from
+  head to toe.<5 Type='0'/> I'm not about to get any of
+  this stuff wet.
+StartPoint_01_2: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>I know Misko's treasure is hidden near
+  <0 Type='3' Data='0000'/>Floria River <0 Type='3' Data='ffff'/>to the <0 Type='3' Data='0000'/>northwest<0 Type='3' Data='ffff'/>. It's in a
+  cave on the river's north bank!<5 Type='0'/>
+  <3 Type='0' Data='0a01'/>But just knowing that doesn't actually
+  help me. The <0 Type='3' Data='0000'/>cave <0 Type='3' Data='ffff'/>is filled with <0 Type='3' Data='0000'/>river
+  water<0 Type='3' Data='ffff'/>, and I can't get in.
+Yiga_00: |
+  <3 Type='0' Data='0c00'/>Also, it might not be my place to say...<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0400'/>But maybe find a different look. <5 Type='1'/>Otherwise
+  everyone will think you're part of the
+  Yiga Clan.
+BackRange_01: |
+  <3 Type='0' Data='0a00'/>The legendary clothes are in a cave on
+  the <0 Type='3' Data='0000'/>northern bank of the Floria River<0 Type='3' Data='ffff'/>...<0 Type='4'/>But the cave is <0 Type='3' Data='0000'/>flooded<0 Type='3' Data='ffff'/> and getting in
+  would ruin my outfit... <5 Type='1'/>I'm sorry, Nobo,
+  but our love will have to wait.
+Near_GoRange_01: |
+  The cave's all flooded...
+Near_BackRange_01: |
+  Nobo, my love!
+RestPoint_01_2: |
+  <3 Type='0' Data='0a00'/><0 Type='3' Data='0000'/>Misko's treasure<0 Type='3' Data='ffff'/> should be in a cave
+  somewhere around here...<5 Type='0'/>but I've been
+  looking for so long, I'm just spent.
+BackRange_02: |
+  <3 Type='0' Data='0a00'/>I know it's hidden inside a <0 Type='3' Data='0000'/>cave<0 Type='3' Data='ffff'/>
+  somewhere <0 Type='3' Data='0000'/>along the shore<0 Type='3' Data='ffff'/>...<0 Type='4'/>But there's a whole lot of shore and only
+  one me.<0 Type='4'/><3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>I heard that you need to "walk with your
+  eyes up," but I'm not about to risk my
+  Cece-designed hat falling off.
+Near_GoRange_02: |
+  I'll find this one for sure!
+Near_BackRange_02: |
+  The coast is pretty big...
+RestPoint_01_3: |
+  <3 Type='0' Data='0800'/>I won't give up though! I can't confess
+  my love to Nobo without those clothes!<0 Type='4'/><FontSize Value='80'/><3 Type='0' Data='0c01'/>I see it all in my mind's eye—Nobo, as beautiful as
+  ever. Me, clad in legendary fashion! Aaah! There's
+  no way she wouldn't fall in love with me too!
+  There is, of course, the worry that Nobo might
+  attract other suitors while I'm out searching...<0 Type='4'/>Once I've rested up, I need to find those clothes.<FontSize Value='100'/>
+GoRange_01_2: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>The <0 Type='3' Data='0000'/>treasure's supposed to be in a cave<0 Type='3' Data='ffff'/>
+  on the north bank of the Floria River...<5 Type='0'/><0 Type='4'/>But the cave's flooded, so I can't get in.
+RainPoint_01_3: |
+  <3 Type='0' Data='0800'/>I won't give up though! I can't confess
+  my love to Nobo without those clothes!<0 Type='4'/><FontSize Value='80'/><3 Type='0' Data='0c01'/>I see it all in my mind's eye— Nobo, as beautiful as 
+  ever. Me, clad in legendary fashion! Aaah! There's
+  no way she wouldn't fall in love with me too!
+  There is, of course, the worry that Nobo might
+  attract other suitors while I'm out searching...<0 Type='4'/>Once the rain stops, I need to find those clothes.<FontSize Value='100'/>
+RestPoint_01: |
+  <3 Type='0' Data='0a00'/>Some of Misko's <0 Type='3' Data='0000'/>legendary clothing<0 Type='3' Data='ffff'/>
+  should be in a <0 Type='3' Data='0000'/>cave<0 Type='3' Data='ffff'/> in this region...<0 Type='4'/>I just can't find it.
+BackRange_02_2: |
+  <3 Type='0' Data='0a00'/>I'm not even close to finding <0 Type='3' Data='0000'/>Misko's
+  legendary clothes<0 Type='3' Data='ffff'/>. <5 Type='0'/>They're supposed to
+  be in a <0 Type='3' Data='0000'/>cave by the seashore<0 Type='3' Data='ffff'/>...
+  But so far, no dice. I've heard you've got
+  to "walk with your eyes up," but I don't
+  want my Cece hat to fall off.
+Near_RestPoint_01: |
+  Just a little rest...
+Near_Thunder: |
+  I hate lightning!
+GoalPoint_01_2: |
+  <3 Type='0' Data='0c00'/>The cave containing Misko's treasure is
+  supposed to be <0 Type='3' Data='0000'/>somewhere along this
+  very, very long coastline<0 Type='3' Data='ffff'/>.
+  I was told to keep my eyes up, but looking
+  up for a cave just feels wrong.<5 Type='0'/> Misko
+  really hid that "hidden treasure," huh?
+Near_RainPoint_01: |
+  Nobo, wait for me!
+FriendGreet_00: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>Oh! <5 Type='0'/>We met earlier, right?<5 Type='1'/> Remember me?<0 Type='4'/>Of course you do, nobody could forget
+  style this sublime.<5 Type='0'/> You saved me from
+  the Yiga Clan!<0 Type='4'/><3 Type='0' Data='0a00'/>Gotta say, <5 Type='1'/>being forced to make their
+  costumes was really miserable.
+  
+  Who knows what might've happened to
+  my fashion sense if you hadn't shown up?
+Yiga: |
+  <3 Type='0' Data='0000'/>Also, seeing it again...<0 Type='4'/><3 Type='0' Data='0800'/>I make a fine mask! Any Yiga would be
+  lucky to end up with gear that elegant.<5 Type='1'/>
+  I really am a fashion genius.
+Near_Rain: |
+  Rain?! Nooo!
+FriendGreet_02: |
+  <3 Type='0' Data='0700'/>I'm hot on the trail of Misko's hidden
+  treasure. First I get the treasure, then I
+  confess my feelings to my beloved Nobo!
+  And when I say <0 Type='3' Data='0000'/>treasure<0 Type='3' Data='ffff'/>, I mean <0 Type='3' Data='0000'/>clothes<0 Type='3' Data='ffff'/>!
+  The bandit Misko hid part of their
+  legendary wardrobe in a nearby <0 Type='3' Data='0000'/>cave<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0c01'/>Just imagine it! Me, dressed entirely in
+  Cece, offering Nobo my love with one
+  hand and Misko's clothes with the other!
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Old fashion meets new!<5 Type='0'/> Romance meets
+  adventure! A moving scene that speaks to
+  love in our modern era!<5 Type='1'/> That's my plan.
+Near_GoalPoint_01: |
+  Walk with your eyes up...

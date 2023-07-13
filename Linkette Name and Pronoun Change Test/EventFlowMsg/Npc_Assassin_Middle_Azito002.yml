@@ -11,7 +11,7 @@ Talk_05_2: |
   Master Kohga's the only special one
   around here!
 Talk_02: |
-  <3 Type='0' Data='0700'/>You the new guy they're all talking about?
+  <3 Type='0' Data='0700'/>You the new lady they're all talking about?
 Talk_03: |
   <3 Type='0' Data='0701'/>You've got a reputation for mastering the
   <0 Type='3' Data='0000'/>Earthwake technique<0 Type='3' Data='ffff'/> faster than anybody
@@ -51,7 +51,7 @@ Talk_07: |
   have some use for you.
 Talk_08: |
   <3 Type='0' Data='0701'/>Rumors are swirling that Master Kohga
-  was defeated by Linkette. Impossible!<0 Type='4'/>Do not concern yourself with these lies,
+  was defeated by Rinkuru. Impossible!<0 Type='4'/>Do not concern yourself with these lies,
   but redouble your devotion.
 Talk_02_2: |
   <3 Type='0' Data='0700'/>The way you carry yourself...<5 Type='1'/> You must be

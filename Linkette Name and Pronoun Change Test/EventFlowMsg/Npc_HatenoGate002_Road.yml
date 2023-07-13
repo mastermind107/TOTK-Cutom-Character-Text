@@ -1,0 +1,102 @@
+talk04: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh, hey! <5 Type='0'/>You're the lady I met at the
+  Yiga Clan hideout...<5 Type='1'/>
+talk10: |
+  <0 Type='3' Data='0200'/><FontSize Value='80'/><3 Type='0' Data='0c00'/>Huh... This lady doesn't seem like he's in any sort of
+  hurry. It's almost like he got the clan attire already.<0 Type='4'/>What am I saying?<5 Type='0'/> He couldn't have.<5 Type='0'/> I mean...<5 Type='1'/>
+  there's no way, <FontSize Value='100'/><5 Type='0'/><FontSize Value='80'/>is there?<FontSize Value='100'/><5 Type='0'/><0 Type='3' Data='ffff'/>
+talk06: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Wh-wha— <5 Type='0'/>A real live Yiga Clan member?!<0 Type='4'/>Hm? <5 Type='1'/>I know that blond hair.<5 Type='0'/> You're the
+  lady I met at the Yiga Clan hideout, right?<0 Type='4'/><3 Type='0' Data='0900'/>Y-you can't just come talk to someone all
+  masked up like that!<0 Type='4'/>Hold on...<0 Type='4'/><3 Type='0' Data='0b00'/>You, uh...<5 Type='0'/> You do know that's a Yiga Clan
+  mask...<5 Type='0'/>right?<5 Type='1'/><0 Type='4'/>Wooow,<5 Type='0'/> that's <5 Type='1'/>so great...<5 Type='0'/> Good for you!
+  Yeah. It really suits you. I guess.<0 Type='3' Data='0200'/><FontSize Value='80'/><0 Type='4'/><3 Type='0' Data='0500'/>Darn it, he got his mask before I did... But it's not
+  like they only have one to give away.
+  
+  I'll get that whole outfit for myself! <5 Type='0'/>Then I'll learn all
+  the Yiga moves, and everyone will say, "Oh, Mimos,
+  you're the coolest, handsomest Yiga around!"<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+talk07: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Gyah!<5 Type='0'/> A Yiga Clan member?!
+  
+  
+  <3 Type='0' Data='0701'/>Hm... <5 Type='0'/>No, you don't give off that classic
+  Yiga Clan bloodthirstiness...<5 Type='1'/> You're the
+  lady I met at the hideout, aren't you?
+talk13: |
+  <3 Type='0' Data='0900'/>What gives? Are you just here to show off
+  your cool outfit?<0 Type='4'/>Well, for your information, I'm not
+  interested in the Yiga Clan anymore.
+  I'm not even that jealous!
+  My mom always told me, "Mimos, you're
+  wonderful just the way you are," so there.<0 Type='4'/><3 Type='0' Data='0700'/>Besides, shouldn't you be more worried
+  about yourself?<0 Type='4'/>If you go around all dressed up like a
+  Yiga, nobody's gonna be swooning over
+  you. They'll be running scared!
+  <3 Type='0' Data='0700'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>You could give someone a couple-joining
+  <0 Type='3' Data='0000'/>ring garland <0 Type='3' Data='ffff'/>from Kakariko Village at the
+  famous <0 Type='3' Data='0000'/>love spot<0 Type='3' Data='ffff'/> in Faron and still...
+  nobody'd ever fall for you in that getup!
+Near_Rain: |
+  Aw, man, I'll be soaked...
+talk08: |
+  <0 Type='3' Data='0200'/><FontSize Value='80'/><3 Type='0' Data='0c00'/>Trying to scare him off didn't even slow him down.
+  I can't have him beating me to the punch! I've got
+  a good chance if he hasn't heard the rumors...
+  Like the one about a Yiga Clan branch somewhere
+  on a high, flat area southwest of the castle...said to
+  be where the kingdom was founded or something.
+  Heh, I'm sure not gonna tell him!<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+talk14: |
+  <3 Type='0' Data='0900'/>Sorry, buddy, but I'm not interested
+  in the Yiga Clan anymore. Trying to show
+  off is just wasting your time!
+  My mom always said, "Mimos, you're the
+  handsomest boy in the whole world," so
+  there's no need for me to dress up.
+  <3 Type='0' Data='0700'/>Just so you know, dressing up like a
+  member of the Yiga Clan won't make you
+  popular. Everyone will just run from you!
+  <4 Type='0' Data='12004c00610075006700680053005f0030003000'/>You could give someone a couple-joining
+  <0 Type='3' Data='0000'/>ring garland <0 Type='3' Data='ffff'/>from Kakariko Village at the
+  famous <0 Type='3' Data='0000'/>love spot<0 Type='3' Data='ffff'/> in Faron and still...
+  nobody'd ever fall for you in that getup!
+talk09: |
+  <0 Type='3' Data='0200'/><FontSize Value='80'/><3 Type='0' Data='0500'/>Trying to scare him off didn't even slow him down.
+  I can't have him beating me to the punch...<FontSize Value='100'/><0 Type='3' Data='ffff'/><0 Type='4'/><0 Type='3' Data='0200'/><FontSize Value='80'/>There's a rumor that a Yiga Clan branch might be
+  in the Aldor Foothills to the west of the Great
+  Hyrule Forest...
+  But I'm not about to tell him that.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Near_00: |
+  I wish I were popular...
+talk00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Are you looking for the three branches?<5 Type='0'/>
+  Yeah, me too. Me too... <5 Type='1'/>
+  
+  Maybe you should just, y'know, quit? <5 Type='0'/>Is
+  joining the Yiga Clan reeeally worth such
+  a dangerous, deadly entrance exam?
+talk01: |
+  <0 Type='3' Data='0200'/><FontSize Value='80'/><3 Type='0' Data='0c00'/>Trying to scare him off didn't even slow him down.
+  I can't have him beating me to the punch...<5 Type='0'/>
+  
+  Let's hope he hasn't heard the rumors that the
+  what's-its-name lab to the northeast is now
+  Yiga Clan territory...<FontSize Value='100'/><0 Type='3' Data='ffff'/>
+Near_02: |
+  Maybe I'll just give up...
+talk02: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003100'/>Wh-wha— <5 Type='0'/>A real live Yiga Clan member?!<0 Type='4'/>Hm? <5 Type='1'/>I know that blond hair.<5 Type='0'/> You're the
+  lady I met at the Yiga Clan hideout, right?<0 Type='4'/><3 Type='0' Data='0900'/>L-look, I love the Yiga Clan as much as
+  the next guy, but anybody'd be shocked
+  if you talked to them in that getup!
+  Wait a sec...<0 Type='4'/><3 Type='0' Data='0b00'/>Then, <5 Type='0'/>you collected the Yiga attire?<5 Type='0'/>
+  A-all three pieces?!<0 Type='4'/><FontSize Value='80'/><0 Type='3' Data='0200'/>You're kidding me. <5 Type='0'/>Seriously?<5 Type='1'/> How did he get the
+  whole outfit before me?<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0400'/><0 Type='3' Data='ffff'/><FontSize Value='100'/>Hahaha, wow. I am...SO happy for you. It
+  even covers your face, so people will fall
+  in love with your handsome mystique.<FontSize Value='80'/>
+  <0 Type='3' Data='0200'/><3 Type='0' Data='0c01'/>Ngh... Now that he's done it, I don't wanna copy
+  him. I've gotta find some other way to make
+  everyone think I'm attractive and cool...<0 Type='3' Data='ffff'/><FontSize Value='100'/>
+Near_Thunder: |
+  Lightning's the worst.

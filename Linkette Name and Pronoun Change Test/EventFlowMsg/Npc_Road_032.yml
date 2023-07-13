@@ -1,0 +1,272 @@
+StartPoint_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Beyond the <0 Type='3' Data='0000'/>Bridge of Hylia<0 Type='3' Data='ffff'/>, you'll find
+  <0 Type='3' Data='0000'/>Faron<0 Type='3' Data='ffff'/>,<0 Type='3' Data='0000'/> <0 Type='3' Data='ffff'/>a densely wooded region with lots
+  of old ruins.
+  It has no shortage of hiding places,
+  which means the <0 Type='3' Data='0000'/>Yiga Clan<0 Type='3' Data='ffff'/> can easily
+  conceal themselves there.
+  That's the reason I'm on high alert.
+  Sorry for suspecting you.
+  
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>Did you know some of their members even
+  camouflage in trees? The cowards!
+  
+  If you spot a tree with even one leaf
+  out of place, stay away. You got that?
+GoalPoint_01: |
+  <3 Type='0' Data='0201'/>The <0 Type='3' Data='0000'/>Yiga Clan<0 Type='3' Data='ffff'/> are not showing
+  themselves. Perhaps they know better
+  than to try confronting me.
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003000'/>But wait... <5 Type='0'/>No!<5 Type='0'/> How could I forget their
+  mastery in the evil arts of disguise
+  and camouflage?
+  For all I know, they may be hiding in
+  plain sight, slipping in among crowds
+  of innocent travelers...
+  <3 Type='0' Data='0200'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Sa'oten! I must be ever watchful, lest one
+  of those tricksters tries to slit my throat!
+StartPoint_02: |
+  <3 Type='0' Data='0701'/><4 Type='0' Data='0a005400680069006e006b00'/>Hmm.
+  
+  
+  I have seen the Yiga Clan use disguises in
+  the past, and I am experienced enough to
+  tell you're not a member of that group.
+BeforeMeetPurah_01_2: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='10004700720065006500740069006e006700'/>If you've lost your way, I suggest going
+  <0 Type='3' Data='0000'/>north<0 Type='3' Data='ffff'/> to <0 Type='3' Data='0000'/>Lookout Landing<0 Type='3' Data='ffff'/>.
+  
+  You can find your way there by using
+  <0 Type='3' Data='0000'/>Hyrule Castle <0 Type='3' Data='ffff'/>as a landmark.
+SavedLv2_00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>You picked the perfect moment to jump in.<5 Type='0'/>
+  I hardly had to work at all.
+SavedLv2_01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>The way you fight... <5 Type='0'/>Incredible. <5 Type='0'/>You're not
+  that famous swordmaster, are you?
+GoRange_01_2: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0a005400680069006e006b00'/>I hear that some members of the <0 Type='3' Data='0000'/>Yiga Clan<0 Type='3' Data='ffff'/>
+  can camouflage amid <0 Type='3' Data='0000'/>fruit<0 Type='3' Data='ffff'/>.
+  
+  <4 Type='0' Data='10004700720065006500740069006e006700'/>Should you come across a fruit that
+  seems suspicious, be on guard.
+GoalPoint_01_2: |
+  <3 Type='0' Data='0501'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>I fear the <0 Type='3' Data='0000'/>Yiga Clan <0 Type='3' Data='ffff'/>are hiding in plain
+  sight, slipping in among innocent
+  passersby to evade detection.
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0600530061006400'/>This means I can trust no one I meet...
+  Even a kind, wrinkly old vai may in fact
+  be a Yiga assassin in disguise.
+  I hate to cast undue suspicion on
+  innocents, but that may simply be
+  the cost of vigilance.
+Atacked00: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Sarqso! <5 Type='0'/>I was backed into a corner before
+  you arrived!
+BackRange_02_2: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003100'/>There's a rumor that the <0 Type='3' Data='0000'/>chasms<0 Type='3' Data='ffff'/>
+  everywhere have become hiding
+  places for the <0 Type='3' Data='0000'/>Yiga Clan<0 Type='3' Data='ffff'/>.
+  If you ever go near a <0 Type='3' Data='0000'/>chasm<0 Type='3' Data='ffff'/>, be sure to
+  stay on your guard.
+Atacked01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>Sarqso!<5 Type='0'/> Please don't judge my combat
+  skills on this fight alone.
+  
+  If I had my usual trusty blade, I would
+  have won this by now!
+AssassinClothes_00: |
+  You kidding with that look?
+StartPoint_01_2: |
+  <3 Type='0' Data='0c00'/>Apparently some members of the
+  <0 Type='3' Data='0000'/>Yiga Clan <0 Type='3' Data='ffff'/>can camouflage in trees.
+  
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>If any foliage strikes you as suspicious,
+  I advise you stay away from it.
+Guardian00: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1200530075007200700072006900730065004d00'/>Sa'oten!<5 Type='1'/> I'd better go... I know better
+  than to take on hopeless battles!
+AssassinClothes_01: |
+  That outfit's misleading.
+StartPoint_01_3: |
+  Bye, then.<5 Type='0'/> Sav'orq!
+Near_GoalPoint_01: |
+  Where are the brutes?
+GerudoHello_01: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1e0043007500730074006f006d005300610076006100610071005f0030003000'/>Sav'aaq!
+AssassinClothes_02: |
+  A Yiga...costume?
+Failed00: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0c005300610064005f0030003000'/>Ugh...<0 Type='4'/><3 Type='0' Data='0201'/>A proud Gerudo soldier, losing to the likes
+  of them... <5 Type='0'/>Humiliating!
+SavedLv3_00: |
+  <3 Type='0' Data='0400'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Phew. If you weren't here, I likely would
+  have perished in that fight.
+  
+  <3 Type='0' Data='0301'/>I wish I had my usual gear with me.
+  Then I'd have had no trouble, even
+  fighting on my own.
+Failed01: |
+  <3 Type='0' Data='0200'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Ugh... <5 Type='0'/>I am on a mission!<5 Type='1'/> And I won't be
+  cut down before it is complete!
+Thanks00: |
+  <3 Type='0' Data='0101'/>Well, then!<5 Type='0'/> A show of gratitude is in order.<5 Type='0'/>
+  Will you take this?
+SavedLv1_00: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0c005300610064005f0030003100'/>I shouldn't have had so much trouble
+  with an enemy like that... <5 Type='1'/>Ha!<5 Type='0'/> I suppose
+  I'm getting old!
+SavedLv3_01: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>You seem at home in battle... <5 Type='1'/>You're not
+  in the <0 Type='3' Data='0000'/>Yiga Clan<0 Type='3' Data='ffff'/>, are you?
+  
+  <3 Type='0' Data='0101'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Ha! What am I saying? <5 Type='0'/>As if those fiends
+  would go to the trouble of saving me!
+GoRange_02_2: |
+  <3 Type='0' Data='0c01'/><4 Type='0' Data='0a005400680069006e006b00'/>Hiding out in <0 Type='3' Data='0000'/>chasms <0 Type='3' Data='ffff'/>where no one is
+  looking—where sunlight doesn't reach—
+  would be exactly the <0 Type='3' Data='0000'/>Yiga Clan<0 Type='3' Data='ffff'/>'s style.
+  <3 Type='0' Data='0000'/>Sadly, we have too little information to
+  know whether the suspicious figures seen
+  in the <0 Type='3' Data='0000'/>chasms <0 Type='3' Data='ffff'/>are Yiga.
+  For now, we will have to wait and keep
+  a watchful eye.
+SavedLv1_01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>I appreciate your help. <5 Type='0'/>I will try to be
+  more careful.
+Near_Rain: |
+  Ah... Rain.
+Near_GoRange_01: |
+  Not even fruit is safe!
+GoRange_01: |
+  <3 Type='0' Data='0701'/>The <0 Type='3' Data='0000'/>Bridge of Hylia<0 Type='3' Data='ffff'/> is to the <0 Type='3' Data='0000'/>south<0 Type='3' Data='ffff'/>, and
+  beyond it, densely wooded <0 Type='3' Data='0000'/>Faron<0 Type='3' Data='ffff'/>.
+  
+  That region was already ideal for <0 Type='3' Data='0000'/>Yiga
+  Clan <0 Type='3' Data='ffff'/>members seeking places to hide.
+  
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003000'/>But now, to make the situation there
+  even worse, I hear that they have started
+  to disguise themselves as <0 Type='3' Data='0000'/>fruit<0 Type='3' Data='ffff'/>.
+  The forest has <0 Type='3' Data='0000'/>fruit <0 Type='3' Data='ffff'/>everywhere, of
+  course, so it's bound to be crawling
+  with Yiga jackals!
+  <3 Type='0' Data='0000'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>If you come across a suspicious <0 Type='3' Data='0000'/>fruit<0 Type='3' Data='ffff'/>,
+  be on guard. <5 Type='0'/>It could be a trap.
+Near_GoRange_02: |
+  Take care around chasms.
+First: |
+  <3 Type='0' Data='0201'/>Hm...<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>You appear to be a normal traveler.<5 Type='0'/>
+  Forgive my impolite stare.
+  
+  I am a <0 Type='3' Data='0000'/>Gerudo soldier<0 Type='3' Data='ffff'/> on a mission to
+  hunt down the <0 Type='3' Data='0000'/>Yiga Clan<0 Type='3' Data='ffff'/>.
+  
+  The Yiga, if you are lucky enough not to
+  have met them, are rascals who like to
+  accost travelers on the roads.
+  <3 Type='0' Data='0900'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>And as if that wasn't enough, they are
+  also masters of disguise!
+  
+  The fiends masquerade as ordinary
+  travelers and then, when your guard
+  is down, they strike!
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Wherever your journey takes you, keep a
+  weather eye out for the <0 Type='3' Data='0000'/>Yiga Clan<0 Type='3' Data='ffff'/>!
+RainPoint_01_2: |
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1800540061006c006b0050006f00730069007400690076006500'/>It seldom rained in <0 Type='3' Data='0000'/>Gerudo Town<0 Type='3' Data='ffff'/>, so
+  sheltering from the rain like this still
+  feels novel and exciting.
+  I could stay here for ages, listening to
+  that pitter-patter and never tire of it.
+  
+  Even after the rain stops, I might never
+  move from this spot...
+GoRange_02: |
+  <3 Type='0' Data='0701'/>I heard a rumor that members of the
+  <0 Type='3' Data='0000'/>Yiga Clan<0 Type='3' Data='ffff'/> are hiding out in the <0 Type='3' Data='0000'/>chasms<0 Type='3' Data='ffff'/>
+  that appeared everywhere.
+  Without any evidence, I hesitate to
+  believe such a fantastic claim, but I
+  can't dismiss it either.
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>The question is, why would they choose
+  to roost in those dank, unlivable places?
+  Literal holes in the ground?
+  Perhaps... <5 Type='0'/>Perhaps because no one would
+  think to look for them there.
+  
+  <3 Type='0' Data='0000'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>And in the <0 Type='3' Data='0000'/>chasms<0 Type='3' Data='ffff'/>, there would be plenty
+  of shadows for the cowards to hide in.
+BeforeMeetPurah_01: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1c005100750065007300740069006f006e004e006f0072006d0061006c00'/>You look troubled. <5 Type='0'/>Have you, by chance,
+  lost your way?
+  
+  If so, then I suggest you try going north
+  to <0 Type='3' Data='0000'/>Lookout Landing<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>The place is abundant with people and
+  with knowledge. <5 Type='0'/>Perhaps someone there
+  can guide you.
+  <0 Type='3' Data='0000'/>Lookout Landing<0 Type='3' Data='ffff'/> is near <0 Type='3' Data='0000'/>Hyrule Castle<0 Type='3' Data='ffff'/>.<5 Type='0'/>
+  You can find your way there by using the
+  castle as a landmark.
+RainPoint_01: |
+  <3 Type='0' Data='0701'/>It hardly ever rains in <0 Type='3' Data='0000'/>Gerudo Town<0 Type='3' Data='ffff'/>, the
+  place where I was born and raised.
+  
+  So I admit, sheltering from the rain like
+  this still feels novel and exciting.
+  
+  <3 Type='0' Data='0501'/>On a journey, one can have truly new
+  experiences... <5 Type='0'/>You have to slow down
+  and enjoy them when they happen.
+  <3 Type='0' Data='0100'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>They are like oases in the desert, these
+  moments of simple pleasure.
+Near_RainPoint_01: |
+  I've come to enjoy rain.
+GerudoMorning_01: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='200043007500730074006f006d005300610076006f007400740061005f0030003000'/>Sav'otta!
+EnokidaSignboard: |
+  They build houses, right?
+GerudoEvening_01: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='220043007500730074006f006d00530061007600730061006100620061005f0030003000'/>Sav'saaba!
+Near_BeforeMeetPurah_01: |
+  To Lookout Landing I go!
+BackRange_01_2: |
+  <3 Type='0' Data='0500'/><4 Type='0' Data='0a005400680069006e006b00'/>I hear that members of the <0 Type='3' Data='0000'/>Yiga Clan <0 Type='3' Data='ffff'/>have
+  been camouflaging amid <0 Type='3' Data='0000'/>fruit<0 Type='3' Data='ffff'/>.
+  
+  <4 Type='0' Data='10004700720065006500740069006e006700'/>Take caution, especially if you travel
+  through the <0 Type='3' Data='0000'/>dense forest <0 Type='3' Data='ffff'/>nearby.
+Near_StartPoint_01: |
+  Beyond the bridge...
+BackRange_01: |
+  <3 Type='0' Data='0701'/>The <0 Type='3' Data='0000'/>Bridge of Hylia <0 Type='3' Data='ffff'/>lies to the south,
+  and beyond it, <0 Type='3' Data='0000'/>Faron<0 Type='3' Data='ffff'/>.
+  
+  That region is well known for its densely
+  wooded forests.
+  
+  <3 Type='0' Data='0500'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003000'/>Lately, though, there have been
+  troubling reports of <0 Type='3' Data='0000'/>Yiga Clan <0 Type='3' Data='ffff'/>members
+  camouflaging amid the <0 Type='3' Data='0000'/>fruit<0 Type='3' Data='ffff'/>.
+  <3 Type='0' Data='0000'/>Stay on your guard...or one of their
+  assassins may catch you unawares.
+Near_Thunder: |
+  Watch out. Lightning.
+Near_BackRange_01: |
+  Be careful in the forest.
+BackRange_02: |
+  <3 Type='0' Data='0501'/>I heard a rumor that members of the
+  <0 Type='3' Data='0000'/>Yiga Clan<0 Type='3' Data='ffff'/> are hiding out in <0 Type='3' Data='0000'/>chasms<0 Type='3' Data='ffff'/>.
+  
+  <3 Type='0' Data='0000'/><4 Type='0' Data='1400540072006f00750062006c0065005f0030003000'/>While I hesitate to believe the claim
+  without definite proof, I can't dismiss it
+  outright either.
+  Please, exercise caution around
+  the <0 Type='3' Data='0000'/>chasms<0 Type='3' Data='ffff'/>.
+Near_BackRange_02: |
+  A troubling notion.

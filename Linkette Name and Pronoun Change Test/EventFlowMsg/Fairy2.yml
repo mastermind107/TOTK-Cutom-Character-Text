@@ -1,0 +1,300 @@
+Talk_0621: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Hm? <5 Type='0'/>Do you need something?
+Talk_0206_02: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003000'/>If only our Breezer had a proper <0 Type='3' Data='0000'/>roof<0 Type='3' Data='ffff'/>.<5 Type='1'/>
+  But if wishes were fishes, eh?
+Talk_0601_01: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>But for that, we'd need <0 Type='3' Data='0000'/>Eustus<0 Type='3' Data='ffff'/>, and you'll
+  notice he isn't here.
+Talk_0622: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>What's this?! <5 Type='0'/>You found Eustus?! <5 Type='1'/>He's
+  down in a hole somewhere around
+  Tabantha Great Bridge?!<0 Type='4'/>Good heavens. <5 Type='0'/>What a sorry predicament!<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0a01'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>I wish I could help him, but I couldn't claw
+  my way out of a puddle. <5 Type='0'/>No, I'd only make
+  things worse for the boy.<0 Type='4'/>All I can do is stay put and pray that
+  Eustus returns to us in one piece.
+Talk_0310: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>All right, then. We're going back to the
+  stable. We'll borrow this horse. And don't
+  you worry—we'll return this noble steed.
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>From the bottom of our hearts, thank you!
+Talk_0623: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>All I can do is wait and hope that <0 Type='3' Data='0000'/>Eustus<0 Type='3' Data='ffff'/>
+  makes his way out of that hole that's
+  somewhere near Tabantha Great Bridge.
+Talk_0311: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Right then, it's back to the stable we go.
+  From the bottom of our hearts, thank you!
+Talk_0500: |
+  <3 Type='0' Data='0201'/>We'll return to the stable for now. <5 Type='0'/>Nothing
+  to do but start again!
+Talk_0501: |
+  <3 Type='0' Data='0401'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Hm? <5 Type='0'/>Wait... <5 Type='0'/>What's this?!
+  
+  
+  Perhaps I'm just imagining things, but
+  aren't we going in the wrong direction?
+Talk_0502: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Wait! Halt! Stop!<5 Type='0'/> I'm certain I'm not
+  imagining things!
+  
+  <3 Type='0' Data='0901'/>Where are you taking us? We'll never get
+  to the <0 Type='3' Data='0000'/>Great Fairy<0 Type='3' Data='ffff'/> if we go this way!
+0000: |
+  I'll take you.
+Talk_0316: |
+  <3 Type='0' Data='0800'/>The captivating Mija is now at peace!
+  
+  
+  <3 Type='0' Data='0000'/>But she wasn't the only Great Fairy shut
+  away in a flower bud.
+  
+  <3 Type='0' Data='0700'/>That's why the show must go on...to the
+  next Great Fairy's hiding place!
+Talk_0503: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Eh? We can't ride the Breezer like this!
+0001: |
+  I'll leave you to it.
+Talk_0317: |
+  Oh, yes! I'll be borrowing this horse so
+  that I can get to the next destination.
+  
+  <3 Type='0' Data='0000'/><4 Type='0' Data='0c004c0061007500670068005300'/>But it won't cause you any trouble. We'll
+  do the responsible thing and return your
+  steed to a stable. Don't you worry! 
+Talk_0504: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>My goodness, that was close.<0 Type='4'/><3 Type='0' Data='0001'/>Let's calm our jangled nerves with a song.<5 Type='1'/>
+  We can head off to the Great Fairy once
+  we've steadied ourselves!
+Talk_0210: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003000'/>Oh dear, oh dear...<5 Type='1'/> What are we to do?
+Talk_0318: |
+  <3 Type='0' Data='0800'/>Well then, good traveler, thank you again!
+0002: |
+  Let's go back.
+Talk_0007: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Hm? <5 Type='0'/>Ah!<5 Type='0'/> We meet again!<5 Type='0'/>
+  
+  
+  <3 Type='0' Data='0001'/>Did you come to see the <0 Type='3' Data='0000'/>Great Fairy<0 Type='3' Data='ffff'/>?
+Talk_0010_01: |
+  <3 Type='0' Data='0c00'/>I'd like to depart for the <0 Type='3' Data='0000'/>Great Fairy<0 Type='3' Data='ffff'/>'s bud
+  straightway. Only one small hitch...
+Talk_0211: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>♪We've done it!♪ You have our thanks.<5 Type='1'/>
+  You've taken us right to where we needed
+  to be!<0 Type='4'/>All right, everyone! <5 Type='0'/>No time to dawdle.<5 Type='1'/>
+  Strike up the band! Our audience is the
+  <0 Type='3' Data='0000'/>Great Fairy<0 Type='3' Data='ffff'/> herself!
+0003: |
+  Never mind.
+Talk_0008: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Yes, indeed! <5 Type='0'/>The <0 Type='3' Data='0000'/>Great Fairy Mija<0 Type='3' Data='ffff'/> settled
+  close to Snowfield Stable.
+Talk_0025: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>I'm curious...<5 Type='1'/>did you stop by to visit the
+  <0 Type='3' Data='0000'/>Great Fairy<0 Type='3' Data='ffff'/> in these parts?
+0004: |
+  Where's the Great Fairy?
+Talk_302: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>She's around here somewh— Look!<5 Type='1'/>
+  Over there!
+0005: |
+  Great Fairy?
+Talk_0009: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003100'/>No? What kind of answer is that?<5 Type='1'/> But...
+  Wait a moment!
+  
+  <3 Type='0' Data='0001'/>It must be fate that we met again. And
+  fate must want you to hear what I have
+  to say!<5 Type='0'/>
+  You see, a <0 Type='3' Data='0000'/>Great Fairy <0 Type='3' Data='ffff'/>has settled close to
+  Snowfield Stable.
+Talk_303: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>In the foothills of the mountain. Look for
+  the <0 Type='3' Data='0000'/>green flower bud<0 Type='3' Data='ffff'/>!
+0006: |
+  No.
+Talk_0211_00: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='1400430061006c006c004600610072005f0030003000'/>Oh Great Fairyyy! <5 Type='1'/>The Stable Trotters
+  have arrived!
+Talk_304: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>So close... If only we could reach her.
+Talk_305: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Was there something else?
+Talk_0503_01: |
+  <3 Type='0' Data='0a01'/>Roof or no roof, we won't get anywhere if
+  we can't even <0 Type='3' Data='0000'/>board<0 Type='3' Data='ffff'/> the cart.
+Talk_0010_00_01: |
+  <4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Can you see it through the snow?
+Talk_0202_00_01: |
+  <3 Type='0' Data='0701'/>The <0 Type='3' Data='0000'/>Great Fairy<0 Type='3' Data='ffff'/> has shut herself inside
+  a flower bud on that mountain.<0 Type='4'/><3 Type='0' Data='0700'/><4 Type='0' Data='0e0045006100730065005f0030003000'/>This Great Fairy appreciates the unique
+  tones of <0 Type='3' Data='0000'/>Eustus's<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>horn<0 Type='3' Data='ffff'/>, so I thought we'd
+  coax her out with his soothing tootles.
+Talk_306: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Did you need something else?
+Talk_0420: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Bother!<5 Type='0'/> Our Breezer's <0 Type='3' Data='0000'/>roof<0 Type='3' Data='ffff'/> broke again!
+Talk_0010_00_02: |
+  <4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Can you still see it this late at night?
+0009: |
+  Where is she?
+Talk_307: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Was there something you wanted to say?
+Talk_0300: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>What?! You mean all the way back to the
+  tent at the stable?
+  
+  <3 Type='0' Data='0001'/>No, no, you're the conductor here.
+  No need to explain.
+  
+  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>We'll wait at the stable until the trouble
+  is over.
+Near_0001: |
+  The poor Great Fairy...
+Talk_0301: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0e0043006800610074005f0030003000'/>Oh, good!<5 Type='0'/> I worried there was some kind
+  of trouble.
+  
+  Then please, let's go to the <0 Type='3' Data='0000'/>Great Fairy<0 Type='3' Data='ffff'/>
+  as soon as we can!
+Near_0002: |
+  Ugh. What will we do?
+Talk_0006_01: |
+  <0 Type='3' Data='0000'/>Eustus<0 Type='3' Data='ffff'/> is a young man who plays the horn
+  for us Stable Trotters.<0 Type='4'/><3 Type='0' Data='0a01'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>But one day, he split off from the troupe,
+  and no one's seen him since.
+Near_0004: |
+  What became of Eustus?
+Talk_0304: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>The <0 Type='3' Data='0000'/>Great Fairy <0 Type='3' Data='ffff'/>has returned to us!<5 Type='0'/>
+  This...this is one of the greatest days
+  of my life...
+Talk_0010: |
+  <3 Type='0' Data='0a01'/>Alas, <5 Type='0'/>the <0 Type='3' Data='0000'/>Great Fairy<0 Type='3' Data='ffff'/> is hiding inside her
+  flower bud.
+  
+  She's too frightened to come out, just like
+  her sister at Woodland Stable.
+  
+  <3 Type='0' Data='0700'/><4 Type='0' Data='0a005400680069006e006b00'/>This Great Fairy always liked the timbre of
+  <0 Type='3' Data='0000'/>Eustus's<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>horn<0 Type='3' Data='ffff'/>, so I thought to calm her
+  nerves with his soothing tootles.
+Talk_0006_02: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>There was one traveler who came from
+  <0 Type='3' Data='0000'/>Tabantha Bridge Stable<0 Type='3' Data='ffff'/> far south of here
+  who heard a sound like a <0 Type='3' Data='0000'/>horn<0 Type='3' Data='ffff'/>.
+  It came from a place well past the other
+  end of the <0 Type='3' Data='0000'/>Tabantha Great Bridge<0 Type='3' Data='ffff'/>,
+  somewhere along that road.<0 Type='4'/><3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003000'/>But that's so far away! <5 Type='1'/>Oh, Eustus, where
+  could you have gone?
+Near_0005: |
+  Our Eustus is back!
+Talk_0305: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>The <0 Type='3' Data='0000'/>Great Fairy<0 Type='3' Data='ffff'/> herself enjoyed my
+  humble horn playing. <5 Type='1'/>What a day!<0 Type='4'/><3 Type='0' Data='0101'/>What a divine presence! What splendor!<5 Type='0'/>
+  I will remember this moment all my life.
+Near_0006: |
+  Stay safe, Eustus...
+Talk_0210_01: |
+  <3 Type='0' Data='0100'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>I want to spread the joy of our troupe's
+  musical stylings to the <0 Type='3' Data='0000'/>Great Fairy<0 Type='3' Data='ffff'/> too.
+Talk_0306: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>We can't hang around all day!
+  
+  
+  We must return to the stable to share the
+  good news!
+Talk_0012: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Our Breezer's roof is broken, so we'd be
+  at the mercy of the elements. Imagine if
+  we were caught in the snow!
+  Why, we might fall ill, and how could we
+  perform at our best then?
+Talk_0013: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0c005300610064005f0030003100'/>If we can't put a roof on Breezer, <5 Type='0'/>our
+  performance for the <0 Type='3' Data='0000'/>Great Fairy <0 Type='3' Data='ffff'/>is as
+  good as canceled!
+Talk_0308: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Oopsie, that's left the old wallet pretty
+  light.<5 Type='1'/> But that's no excuse to skimp on
+  our thanks.
+  A clear conscience is worth every rupee!
+Talk_0700: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Now that Eustus is here, we can bring the
+  sound of his horn to the <0 Type='3' Data='0000'/>Great Fairy<0 Type='3' Data='ffff'/>!<0 Type='4'/>It would be wonderful if we could go and
+  perform for her right away.<0 Type='4'/><3 Type='0' Data='0201'/>But of course, there's always something
+  holding up the show!
+Talk_0309: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Thank you!<5 Type='0'/> ♪Again!♪
+  
+  
+  Which leaves only...<5 Type='0'/>your reward! Now,
+  now. Don't be shy!
+Talk_0202: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>Did I hear you say you'll take us to where
+  the <0 Type='3' Data='0000'/>Great Fairy<0 Type='3' Data='ffff'/> awaits?!
+Talk_0012_01: |
+  I did try to attach a<0 Type='3' Data='0000'/> roof<0 Type='3' Data='ffff'/> to Breezer.<0 Type='4'/><3 Type='0' Data='0a01'/>Alas, I couldn't reach high enough to do
+  more than set up some posts.
+Talk1006: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>We simply must put on a performance for
+  the <0 Type='3' Data='0000'/>Great Fairy<0 Type='3' Data='ffff'/>. Our music will be just the
+  thing to encourage her out of her bud.<5 Type='0'/>
+  <3 Type='0' Data='0001'/>But with the roof of our Breezer in
+  disrepair, we can't reach her.
+Talk_0203: |
+  <3 Type='0' Data='0a00'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>Ah. I appreciate the sentiment, but our
+  Breezer needs <0 Type='3' Data='0000'/>a roof to keep off the snow<0 Type='3' Data='ffff'/>
+  before we can get to the Great Fairy.
+Talk_0017: |
+  <3 Type='0' Data='0700'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Our Breezer's roof is broken, so we'd be
+  at the mercy of the elements. Just look at
+  all the snow falling!
+  We might fall ill in such weather, and how
+  could we perform at our best then?
+Talk1007: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>I wish we could outfit our Breezer with a
+  <0 Type='3' Data='0000'/>roof<0 Type='3' Data='ffff'/> somehow in order to make the trip
+  to the <0 Type='3' Data='0000'/>Great Fairy<0 Type='3' Data='ffff'/>.
+Talk_0204: |
+  <3 Type='0' Data='0001'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Hm?<5 Type='0'/> Is something the matter?
+Talk1008: |
+  <3 Type='0' Data='0c00'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>I'm eager to perform for the <0 Type='3' Data='0000'/>Great Fairy<0 Type='3' Data='ffff'/>
+  and show her the world isn't all bad.
+Talk_0205: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Eh? <5 Type='1'/>Where's our Breezer?! <5 Type='1'/>How are we
+  supposed to get to the Great Fairy now?
+Talk_0206: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Wonderful! <5 Type='0'/>Now that our Breezer has a
+  <0 Type='3' Data='0000'/>roof<0 Type='3' Data='ffff'/>, I'd very much appreciate a ride.
+Talk_0410: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Stop it! Let me off! Help!<5 Type='0'/> I'm falling!
+  This isn't sa— What's happening?! Help!
+Talk_0207: |
+  <3 Type='0' Data='0b00'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>But for that, we'd have to—<5 Type='0'/> What's this?!<5 Type='0'/>
+  Our Breezer has been fitted with a <0 Type='3' Data='0000'/>roof<0 Type='3' Data='ffff'/>!
+Talk_0208: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>♪The world hasn't abandoned us!
+  I'll never forget your kindness!♪
+  
+  <3 Type='0' Data='0001'/>I accept your offer. All aboard, everyone!
+Talk_0209: |
+  <3 Type='0' Data='0800'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>We're all aboard!<5 Type='1'/><0 Type='4'/>The road to the Great Fairy starts by
+  <0 Type='3' Data='0000'/>going around from the left<0 Type='3' Data='ffff'/> and climbing
+  a little ways up the mountain.<0 Type='4'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003100'/>I leave the rest to you, ma'am!
+Talk_0601: |
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='0c005300610064005f0030003100'/>Alas, the <0 Type='3' Data='0000'/>Great Fairy<0 Type='3' Data='ffff'/> here has closed
+  herself off to the world and remains
+  inside her flower bud.<5 Type='0'/>
+  <3 Type='0' Data='0701'/>This Great Fairy always liked the timbre of
+  <0 Type='3' Data='0000'/>Eustus's<0 Type='3' Data='ffff'/> <0 Type='3' Data='0000'/>horn<0 Type='3' Data='ffff'/>, so I thought to calm her
+  nerves with his soothing tootles.
+Talk_0602: |
+  <3 Type='0' Data='0701'/><0 Type='3' Data='0000'/>Eustus <0 Type='3' Data='ffff'/>is really the key element here,
+  and he's nowhere to be found.
+Talk_0206_01: |
+  <3 Type='0' Data='0300'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>Although... <5 Type='0'/>That roof as it is now makes
+  me uneasy. <5 Type='1'/>Would it be possible to
+  <0 Type='3' Data='0000'/>expand it a bit<0 Type='3' Data='ffff'/>?
