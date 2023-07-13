@@ -15,3 +15,5 @@ This mod was created using this (https://gamebanana.com/tuts/16090) tutorial as 
 If you find an error in the in game text that needs to be corrected or find any instances of the wrong name or pronoun used for that particular version of the mod please send a screenshot or a word for word transcript of the text to make it easier to find and fix. 
 
 I have uploaded the batch files used for decompressing/compressing all the text files. It needs to be moddified to point to the directory with all the yml or mstb files.
+
+note, the pronoun swapped version has files using the name rinkuru and linkette, as I changed the name after version 1. 
