@@ -1,0 +1,122 @@
+Talk_0001: |
+  <3 Type='0' Data='0800'/>Finally! I've been waiting!
+Guardian00: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='1000530063006100720065005f0030003000'/>A monster this terrifying... Shouldn't
+  the hero be here?
+Talk_0002: |
+  <3 Type='0' Data='0801'/>If a pretty lady is in distress, the hero will
+  arrive to save her. Everyone says so!
+  
+  So this is entirely expected!
+Talk_0012: |
+  <3 Type='0' Data='0a01'/>Oh. Your pouch is practically bursting.<0 Type='4'/><3 Type='0' Data='0700'/>Let me put this in a box so the Yiga Clan
+  doesn't take it.<0 Type='4'/>You can come back to claim it once
+  you've sorted out your belongings.
+Failed00: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003100'/>My hero wouldn't have let this happen...
+NakedPlayer: |
+  Down to the skivvies, hm?
+Failed01: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003100'/>Owww... That monster knew a good outfit
+  when it saw one...
+SagonoHat: |
+  How stylish!
+Talk_0005: |
+  <3 Type='0' Data='0c00'/>But, well...that's strange. The hero's
+  supposed to carry a legendary sword.<0 Type='4'/>And you, um, don't have a sword at all.
+Near_0000: |
+  Tee-hee... Will she come?
+Talk_0006: |
+  <3 Type='0' Data='0c00'/>But...that's strange. The hero is supposed
+  to carry a legendary sword.<0 Type='4'/>And that weapon on your back? It doesn't
+  look legendary at all. Not even when
+  I squint.
+ComNakedCheck_W_001: |
+  <3 Type='0' Data='0b00'/>Oh, please! <5 Type='1'/>Don't waste your time talking
+  to me looking like that.<0 Type='4'/>Listen, your fashion sense—or lack of
+  fashion sense—is your own, but...<0 Type='4'/>I simply can NOT be guilty by association
+  of the fashion crimes you're committing
+  right now.
+Talk_0007: |
+  <3 Type='0' Data='0700'/>Oh, I'm just playing around. I know that
+  the hero isn't real.<0 Type='4'/>I mean, the REAL hero would be carrying
+  the legendary Master Sword, and...<5 Type='1'/>
+  
+  That sword you have there...<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0b00'/>The M-M-M-Master Sword?!<5 Type='1'/>
+  
+  
+  <3 Type='0' Data='0701'/>Oh, you almost had me for a moment
+  there! That is an amazing sword, of
+  course, so it took me by surprise.
+  But there's no way you're running around
+  with something straight out of a story.
+  That'd be just too convenient!
+Talk_0008: |
+  <3 Type='0' Data='0800'/>Tee-hee! Careful, folks will <0 Type='3' Data='0000'/>think you're
+  part of the Yiga Clan<0 Type='3' Data='ffff'/> if you wear the
+  complete set!
+  But these tights are so nice, a little
+  coordination of any kind could really
+  snazz up your look.<0 Type='4'/><3 Type='0' Data='0101'/>Thanks for coming to save me, really.
+  
+  
+  You might not be the hero, but you are
+  my hero!
+SavedLv1_00: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>Phew... Plenty of bruises...but no stains!
+  Thank goodness.
+SavedLv2_00: |
+  <3 Type='0' Data='0201'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>I was minding my own business when that
+  monster attacked! Imagine if I had fallen
+  and torn my clothes. Hmph.
+SavedLv3_00: |
+  <3 Type='0' Data='0301'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>That could have been really bad!
+  
+  
+  I was worried for a moment that my
+  clothes would be COMPLETELY ruined.
+Talk_0009: |
+  <3 Type='0' Data='0a00'/>I guess the hero is just a fairy tale.
+  
+  
+  <3 Type='0' Data='0701'/>Me? I've been making outfits for the Yiga
+  Clan since they kidnapped me.
+  
+  I mean, I like fashion, but I couldn't even
+  sew! Did they listen? No, of course not.
+  
+  It wasn't so bad once I got used to it
+  though. Honestly, I've been getting a
+  little attached to the outfits I make.
+  Attached enough that I don't want to
+  hand them over to the Yiga Clan, anyway.
+  
+  <3 Type='0' Data='0800'/><4 Type='0' Data='0c004c0061007500670068005300'/>This isn't my size, but it might fit you.
+  Here!<5 Type='0'/> Take it so I can keep it out of their
+  grimy mitts.
+SavedLv1_01: |
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003000'/>Ah, I didn't even muss my clothes.
+  These are my favorites, you know!
+SavedLv2_01: |
+  <3 Type='0' Data='0201'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>That monster jumped at me from out of
+  nowhere! My hat nearly came off and I'd
+  just gotten it perfect.
+SavedLv3_01: |
+  <3 Type='0' Data='0201'/><4 Type='0' Data='100041006e006700720079005f0030003000'/>That brute! <5 Type='1'/>I thought my outfit was
+  done for!
+Atacked00: |
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>Somebody help! Won't somebody think
+  of my outfit?!
+Thanks00: |
+  <3 Type='0' Data='0101'/>I'm so very grateful to you!
+  
+  
+  Take this, a gift to my hero.
+EnokidaSignboard: |
+  Is that hairstyle in now?
+Atacked01: |
+  <3 Type='0' Data='0901'/><4 Type='0' Data='100041006e006700720079005f0030003100'/>Don't just stand there! My hat's going to
+  fall off!
