@@ -5,7 +5,7 @@ Talk10: |
   I think you know how to catch them...
   by sneaking up quietly from behind...
 Talk11: |
-  <3 Type='0' Data='0801'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh,<5 Type='0'/> hey, Linkette! Good for you, up and about
+  <3 Type='0' Data='0801'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh,<5 Type='0'/> hey, Rinkuru! Good for you, up and about
   early in the morning.
 Talk24: |
   <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Oh!<5 Type='0'/> Did you know that horses like carrots
@@ -16,7 +16,7 @@ Talk24: |
   don't worry...
   Unleash the snacks!
 Talk12: |
-  <3 Type='0' Data='0801'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh,<5 Type='0'/> hello, Linkette! Welcome back to
+  <3 Type='0' Data='0801'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh,<5 Type='0'/> hello, Rinkuru! Welcome back to
   New Serenne Stable!
 Talk25: |
   <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Oh!<5 Type='0'/> Did you know that horses all have
@@ -44,7 +44,7 @@ WakkaCharm: |
 LargeHorse: |
   Will that fit in the stable?
 Talk13: |
-  <3 Type='0' Data='0801'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh,<5 Type='0'/> hey, Linkette! Good thing you got here
+  <3 Type='0' Data='0801'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh,<5 Type='0'/> hey, Rinkuru! Good thing you got here
   before sundown.
 Talk26: |
   <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003000'/>Oh!<5 Type='0'/> Do you know how to tell a horse's
@@ -57,10 +57,10 @@ Talk26: |
   But they're faster and stronger, and you
   can spur them on more!
 Talk14: |
-  <3 Type='0' Data='0801'/><4 Type='0' Data='10004700720065006500740069006e006700'/>You're up late, Linkette! <5 Type='0'/>Trouble sleeping?
+  <3 Type='0' Data='0801'/><4 Type='0' Data='10004700720065006500740069006e006700'/>You're up late, Rinkuru! <5 Type='0'/>Trouble sleeping?
   I've got the same problem.
 Talk01: |
-  <3 Type='0' Data='0801'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh,<5 Type='0'/> Linkette! Did you come to check in
+  <3 Type='0' Data='0801'/><4 Type='0' Data='10004700720065006500740069006e006700'/>Oh,<5 Type='0'/> Rinkuru! Did you come to check in
   on Zunk?
   
   Since you worked so hard to make my
@@ -79,15 +79,15 @@ Talk27: |
   <3 Type='0' Data='0401'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003000'/>Huh? Are you leaving already?
   
   
-  <3 Type='0' Data='0a01'/><FontSize Value='80'/><0 Type='3' Data='0200'/>Awww.<5 Type='1'/> Doesn't he know I'm a trove of knowledge
-  about horses? He'll miss out on all my hidden tricks
+  <3 Type='0' Data='0a01'/><FontSize Value='80'/><0 Type='3' Data='0200'/>Awww.<5 Type='1'/> Doesn't she know I'm a trove of knowledge
+  about horses? She'll miss out on all my hidden tricks
   for handling them and stuff...<0 Type='3' Data='ffff'/><FontSize Value='100'/>
 Talk15: |
-  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Oh,<5 Type='0'/> Linkette! You're gonna get wet!
+  <3 Type='0' Data='0b01'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>Oh,<5 Type='0'/> Rinkuru! You're gonna get wet!
   Go inside! Hurry!
 Talk28: |
   <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>Heheh.<5 Type='0'/> Talking to you always puts a
-  smile on my face, Linkette!
+  smile on my face, Rinkuru!
   
   Makes me glad that I worked so hard
   learning about <0 Type='3' Data='0000'/>horses<0 Type='3' Data='ffff'/>.
@@ -122,7 +122,7 @@ Talk32: |
   excited about it, I can't seem to drift off!<5 Type='0'/>
   
   Thanks for completely ruining my
-  sleep cycle, Linkette.
+  sleep cycle, Rinkuru.
   
   <3 Type='0' Data='0100'/><4 Type='0' Data='12004e006f0074006900630065005f0030003000'/>Oh... <5 Type='0'/>I meant that as a compliment.
   
@@ -140,7 +140,7 @@ Talk20: |
   on horses, so if you want to learn more,
   just ask!
   <3 Type='0' Data='0c01'/><FontSize Value='80'/><0 Type='3' Data='0200'/>Tee-hee.<5 Type='1'/> I won't reveal all my secrets at once.
-  Gotta keep him coming back!<0 Type='3' Data='ffff'/><FontSize Value='100'/>
+  Gotta keep her coming back!<0 Type='3' Data='ffff'/><FontSize Value='100'/>
 BurnedCaravanWagon_04: |
   <3 Type='0' Data='0901'/>Hey! <5 Type='0'/>Why are you being such a punk?
   You could've destroyed my precious Zunk!
