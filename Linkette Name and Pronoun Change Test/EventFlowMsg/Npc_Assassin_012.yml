@@ -11,7 +11,7 @@ talk_1022: |
   damaged, I like to do a little...borrowing.
   
   Speaking of, could I perhaps borrow<5 Type='0'/> your
-  life?<5 Type='1'/> Well, Linkette?
+  life?<5 Type='1'/> Well, Rinkuru?
   
   <4 Type='0' Data='0a005400680069006e006b00'/>What sort of fool runs around naked in
   a place like this?!
@@ -91,10 +91,10 @@ talk_1016: |
   damaged, I like to do a little...borrowing.
   
   Speaking of, could I perhaps borrow<5 Type='0'/> your
-  life?<5 Type='0'/> Well, Linkette?
+  life?<5 Type='0'/> Well, Rinkuru?
   
-  <4 Type='0' Data='0a005400680069006e006b00'/>What sort of fool removes all his gear
-  because a stranger asks him to?!
+  <4 Type='0' Data='0a005400680069006e006b00'/>What sort of fool removes all her gear
+  because a stranger asks her to?!
 0001: |
   ...
 talk_1017: |
@@ -126,7 +126,7 @@ talk_1041: |
   on <0 Type='3' Data='0000'/>Zonai devices<0 Type='3' Data='ffff'/>?
   
   Just be quick about it. I'm trying to take
-  Linkette by surprise here...
+  Rinkuru by surprise here...
 talk_1042: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='22005100750065007300740069006f006e004e006f0072006d0061006c005f0030003000'/>What's wrong? If you need <0 Type='3' Data='0000'/>Zonai devices<0 Type='3' Data='ffff'/>,
   then get to it.<5 Type='0'/> If you're here when that

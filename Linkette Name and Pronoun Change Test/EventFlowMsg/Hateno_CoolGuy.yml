@@ -84,7 +84,7 @@ Talk_0026: |
   <3 Type='0' Data='0100'/><4 Type='0' Data='0a0048006100700070007900'/>Whether it's raining spears or just regular
   rain, I never slack off guardin' the place.<0 Type='4'/><0 Type='3' Data='0200'/><FontSize Value='80'/>Not that it ever rains spears, granted.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
 Talk_0050: |
-  <3 Type='0' Data='0400'/><FontSize Value='80'/><0 Type='3' Data='0200'/>Again? He's asked me that already... Is this guy OK?<0 Type='3' Data='ffff'/><FontSize Value='100'/>
+  <3 Type='0' Data='0400'/><FontSize Value='80'/><0 Type='3' Data='0200'/>Again? She's asked me that already... Is this girl OK?<0 Type='3' Data='ffff'/><FontSize Value='100'/>
 Talk_0068: |
   <3 Type='0' Data='0c01'/><0 Type='3' Data='0200'/><FontSize Value='80'/>Hmmm... Does this mean I've gotta catch them
   myself? Seems that way.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
@@ -104,8 +104,8 @@ Talk_0029: |
   go ask her directly<0 Type='3' Data='ffff'/>.
 Talk_0052: |
   <FontSize Value='80'/><0 Type='3' Data='0200'/><3 Type='0' Data='0500'/>Hmmm... Could this be...what that other guy calls
-  "putting the moves" on me?<0 Type='4'/>Well, if that is what's going on, maybe he'll cut it
-  out if I answer him again...<0 Type='3' Data='ffff'/><FontSize Value='100'/>
+  "putting the moves" on me?<0 Type='4'/>Well, if that is what's going on, maybe she'll cut it
+  out if I answer her again...<0 Type='3' Data='ffff'/><FontSize Value='100'/>
 0005: |
   That's rough.
 Talk_0053: |
@@ -116,7 +116,7 @@ Talk_0053: |
   Guard duty?
 Talk_0054: |
   <3 Type='0' Data='0500'/><FontSize Value='80'/><0 Type='3' Data='0200'/>Uh, I'm... <5 Type='0'/>I'm not sure. What kind of a question
-  is that? But he's still looking at me, so I should
+  is that? But she's still looking at me, so I should
   say something...<0 Type='3' Data='ffff'/><FontSize Value='100'/>
 0009: |
   Goodbye.
@@ -202,7 +202,7 @@ Talk_0048: |
   incredibly happy!
 Talk_0030: |
   <3 Type='0' Data='0100'/><4 Type='0' Data='18005300750072007000720069007300650053005f0030003100'/>You went and ASKED what Ms. Ivee likes?<5 Type='0'/>
-  Right to her face?! <5 Type='0'/>What's the idea?!<5 Type='1'/><FontSize Value='80'/><0 Type='3' Data='0200'/><0 Type='4'/><3 Type='0' Data='0701'/>Uh-oh. <5 Type='0'/>Gotta play it smooth. <5 Type='0'/>Can't let him guess
+  Right to her face?! <5 Type='0'/>What's the idea?!<5 Type='1'/><FontSize Value='80'/><0 Type='3' Data='0200'/><0 Type='4'/><3 Type='0' Data='0701'/>Uh-oh. <5 Type='0'/>Gotta play it smooth. <5 Type='0'/>Can't let her guess
   I'm the one dying to know.<0 Type='4'/><0 Type='3' Data='ffff'/><FontSize Value='100'/>All right, then. So what is it? What does
   Ms. Ivee want? <5 Type='0'/>I can't leave my friend's
   friend hanging.
@@ -214,7 +214,7 @@ Talk_0031: |
   <3 Type='0' Data='0900'/>You forgot the "Ms."! ALWAYS add
   the "Ms."!
 Talk_0049: |
-  <3 Type='0' Data='0801'/><0 Type='3' Data='0200'/><FontSize Value='80'/>Oops. I couldn't think of anything, so I just told him
+  <3 Type='0' Data='0801'/><0 Type='3' Data='0200'/><FontSize Value='80'/>Oops. I couldn't think of anything, so I just told her
   what my dad likes instead.<FontSize Value='100'/><0 Type='3' Data='ffff'/>
 Talk_0032: |
   <FontSize Value='80'/><0 Type='3' Data='0200'/><3 Type='0' Data='0c01'/>Hmm...but this doesn't solve my problem.<5 Type='0'/>

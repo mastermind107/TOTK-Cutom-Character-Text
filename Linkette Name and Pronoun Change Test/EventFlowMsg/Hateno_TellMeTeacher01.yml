@@ -1,5 +1,5 @@
 Talk_4000: |
-  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Yes, yes, what is it?<0 Type='4'/>Oh, it's you, Linkette. Haven't seen you in—<5 Type='1'/><0 Type='4'/><FontSize Value='125'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>LINKETTE! YOU'RE BACK?!<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0a01'/><FontSize Value='100'/>Ah— <5 Type='1'/>My apologies for the outburst.
+  <3 Type='0' Data='0701'/><4 Type='0' Data='16004700720065006500740069006e0067005f0030003000'/>Yes, yes, what is it?<0 Type='4'/>Oh, it's you, Rinkuru. Haven't seen you in—<5 Type='1'/><0 Type='4'/><FontSize Value='125'/><3 Type='0' Data='0b01'/><4 Type='0' Data='1800530075007200700072006900730065004c005f0030003100'/>RINKURU! YOU'RE BACK?!<5 Type='1'/><0 Type='4'/><3 Type='0' Data='0a01'/><FontSize Value='100'/>Ah— <5 Type='1'/>My apologies for the outburst.
   C-clearly, you're back in town, then.<0 Type='4'/><3 Type='0' Data='0101'/>But what of Princess Zelda?
 Talk_1009: |
   <3 Type='0' Data='0c01'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>Speaking of <0 Type='3' Data='0000'/>detailed images<0 Type='3' Data='ffff'/>...<0 Type='4'/><0 Type='3' Data='0000'/>Robbie<0 Type='3' Data='ffff'/> mentioned he was making a tool
@@ -10,7 +10,7 @@ Near_2000: |
 Talk_3034: |
   <3 Type='0' Data='0801'/><4 Type='0' Data='12004c00610075006700680053005f0030003100'/>With the new vegetables being developed,
   they're harvesting less rice these days.
-  That's a shame, as it's a favorite of mine.<5 Type='0'/><0 Type='4'/>You should taste it for yourself, Linkette!<0 Type='4'/><FontSize Value='80'/><3 Type='0' Data='0c01'/>Speaking of rice, our next subject is home
+  That's a shame, as it's a favorite of mine.<5 Type='0'/><0 Type='4'/>You should taste it for yourself, Rinkuru!<0 Type='4'/><FontSize Value='80'/><3 Type='0' Data='0c01'/>Speaking of rice, our next subject is home
   economics. <5 Type='0'/>I planned to use the occasion to
   talk up dishes that use Hylian rice...<FontSize Value='100'/>
 Talk_4001: |
@@ -37,12 +37,12 @@ Talk_4002: |
 Near_2002: |
   That outfit looks...familiar...
 Talk_3036: |
-  <3 Type='0' Data='0801'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Linkette! <5 Type='0'/>Ready to receive your reward,
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Rinkuru! <5 Type='0'/>Ready to receive your reward,
   I take it? Here you are.
 Near_2003: |
   Quite a conundrum...
 Talk_3037: |
-  <3 Type='0' Data='0801'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Linkette! <5 Type='0'/>Ready to receive your reward,
+  <3 Type='0' Data='0801'/><4 Type='0' Data='1800530075007200700072006900730065004d005f0030003000'/>Rinkuru! <5 Type='0'/>Ready to receive your reward,
   I take it?<0 Type='4'/><3 Type='0' Data='0401'/>Oh...still overloaded as ever, I see.<0 Type='4'/><3 Type='0' Data='0101'/>Well, the Hylian rice will keep. But do
   come see me again once you've made
   space for your reward.
@@ -63,7 +63,7 @@ Talk_4005: |
   the place that it is today?<0 Type='4'/>I believe that in order for our children to
   have a bright future, they must first learn
   about <0 Type='3' Data='0000'/>the Calamity<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0001'/>I'd be pleased if you joined us for today's
-  lesson, Linkette.<5 Type='0'/>
+  lesson, Rinkuru.<5 Type='0'/>
 Talk_3039: |
   <3 Type='0' Data='0401'/><4 Type='0' Data='0e0057006f0072006b005f0030003100'/>Oh, pardon me. <5 Type='0'/>I got wrapped up in my
   own thoughts about class again.<0 Type='4'/><3 Type='0' Data='0701'/>If you have time for it, you're welcome to
@@ -74,7 +74,7 @@ Talk_4023: |
   so please stop by the <0 Type='3' Data='0000'/>classroom on the
   first floor<0 Type='3' Data='ffff'/>.
 Talk_4024: |
-  <3 Type='0' Data='0001'/>If you have the time for it, Linkette, why don't
+  <3 Type='0' Data='0001'/>If you have the time for it, Rinkuru, why don't
   you sit in on one of our lessons?<0 Type='4'/>We start class promptly each morning
   once all the children are settled in.
 Talk_2016: |
@@ -89,7 +89,7 @@ Talk_4025: |
   I'm sure this would be one of her first
   stops if she had returned.<0 Type='4'/><3 Type='0' Data='0001'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Right now, we're covering history, which
   was very important to Princess Zelda.<0 Type='4'/>We're focusing on Hyrule's history
-  alongside <0 Type='3' Data='0000'/>the Calamity<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0101'/>You know, Linkette, you're welcome to sit in
+  alongside <0 Type='3' Data='0000'/>the Calamity<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0101'/>You know, Rinkuru, you're welcome to sit in
   on a lesson if you'd like.
 Near_1000: |
   A lesson on the Calamity...
@@ -133,7 +133,7 @@ Talk_2039: |
 0007: |
   Maybe later...
 Talk_3020: |
-  <3 Type='0' Data='0801'/>Thank you so much, Linkette.<0 Type='4'/>My lecture about <0 Type='3' Data='0000'/>the Calamity<0 Type='3' Data='ffff'/> might run
+  <3 Type='0' Data='0801'/>Thank you so much, Rinkuru.<0 Type='4'/>My lecture about <0 Type='3' Data='0000'/>the Calamity<0 Type='3' Data='ffff'/> might run
   long, but I hope you'll stay for it anyway.
 Talk_3021: |
   <3 Type='0' Data='0101'/><4 Type='0' Data='0e0057006f0072006b005f0030003100'/>Tell us more! When did all this happen?
@@ -152,7 +152,7 @@ Talk_3040: |
 Talk_3041: |
   <3 Type='0' Data='0701'/>After spending 100 years dormant, the
   hero wielding the sword that seals the
-  darkness awakened, his wounds healed.<0 Type='4'/><3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>He won back the Divine Beasts with the
+  darkness awakened, her wounds healed.<0 Type='4'/><3 Type='0' Data='0801'/><4 Type='0' Data='1000480061007000700079005f0030003100'/>She won back the Divine Beasts with the
   help of several allies, including some of
   the Champions' descendants.<0 Type='4'/>And in the end, the hero defeated the
   Calamity, and the sacred princess stopped
@@ -235,14 +235,14 @@ Talk_2024: |
   <3 Type='0' Data='0501'/><4 Type='0' Data='10005400680069006e006b005f0030003100'/>There must be some way I can help the
   children understand...
 Talk_2008: |
-  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Ah, Linkette. Good morning to you.<0 Type='4'/><3 Type='0' Data='0a01'/>The problem of figuring out how to get my
+  <3 Type='0' Data='0101'/><4 Type='0' Data='1e00540061006c006b0050006f007300690074006900760065005f0030003000'/>Ah, Rinkuru. Good morning to you.<0 Type='4'/><3 Type='0' Data='0a01'/>The problem of figuring out how to get my
   lesson across to the children has been
   keeping me awake.
 Talk_2042: |
   <3 Type='0' Data='0a01'/><4 Type='0' Data='0e0045006100730065005f0030003100'/>Without that, I don't see how I can move
   forward with my lesson plan.
 Talk_2025: |
-  <3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003100'/>Ah, hello, Linkette.<0 Type='4'/>If it's all right with you, I'd like your help
+  <3 Type='0' Data='0301'/><4 Type='0' Data='0c005300610064005f0030003100'/>Ah, hello, Rinkuru.<0 Type='4'/>If it's all right with you, I'd like your help
   in researching <0 Type='3' Data='0000'/>the Calamity<0 Type='3' Data='ffff'/>.<0 Type='4'/><3 Type='0' Data='0a01'/>Right now, my stumbling block is figuring
   out how to help the children understand
   the lesson I'm teaching.
@@ -300,7 +300,7 @@ Talk_1007: |
   kind of depiction of the Calamity from 10,000
   years ago.<0 Type='4'/>Otherwise this lesson is over before it began.<FontSize Value='100'/>
 Talk_1008: |
-  <3 Type='0' Data='0a01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>I'm sorry, Linkette. <5 Type='0'/>This isn't how I thought
+  <3 Type='0' Data='0a01'/><4 Type='0' Data='10005400680069006e006b005f0030003000'/>I'm sorry, Rinkuru. <5 Type='0'/>This isn't how I thought
   the lesson would go.<0 Type='4'/>If I had more foresight, I'd have borrowed
   the screen depicting the Calamity from
   Lady Impa's Hall.<5 Type='0'/><0 Type='4'/><0 Type='3' Data='0000'/><3 Type='0' Data='0c01'/>Kakariko Village<0 Type='3' Data='ffff'/>, where the hall is located,
@@ -311,5 +311,5 @@ Talk_1008: |
   is it? More accurate to call it Lady Paya's Hall.<FontSize Value='100'/>
 Talk_3033: |
   <3 Type='0' Data='0801'/>And I couldn't have done it without you
-  showing us the screen, Linkette. Once again,
+  showing us the screen, Rinkuru. Once again,
   thank you so much for your assistance.

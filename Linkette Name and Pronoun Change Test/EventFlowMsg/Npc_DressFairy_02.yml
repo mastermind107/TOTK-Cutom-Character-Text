@@ -105,7 +105,7 @@ ComTalk_018: |
   <2 Type='11' Data='2600530068006f0070005f00530065006c006500630074004900740065006d004e0061006d006500ffff'/>?
 ComTalk_041: |
   <3 Type='0' Data='0700'/>I really can't thank you enough, young
-  man,<5 Type='1'/> but that won't stop me from trying.
+  lady,<5 Type='1'/> but that won't stop me from trying.
   
   If you have the materials needed to
   enhance a piece of clothing,<5 Type='0'/> I will
@@ -176,7 +176,7 @@ ComTalk_005: |
   so. I would love to help...
 ComTalk_103: |
   <3 Type='0' Data='0900'/>You don't have the necessary rupees...<5 Type='1'/>
-  ♪All in good time, boy.♪
+  ♪All in good time, girl.♪
 ComTalk_046: |
   <3 Type='0' Data='0101'/>Some sets of clothing, when each piece
   is enhanced twice, will grant you a <0 Type='3' Data='0000'/>new
@@ -201,13 +201,13 @@ ComTalk_008: |
   ♪Close your eyes!♪
 ComTalk_031: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>You don't have the necessary materials...<5 Type='1'/>
-  ♪All in good time, boy.♪
+  ♪All in good time, girl.♪
 ComTalk_009: |
   <3 Type='0' Data='0700'/>So...<5 Type='0'/>have you picked which clothes you'd
   like me to enhance?
 ComTalk_032: |
   <3 Type='0' Data='0a00'/>You don't have the necessary materials...<5 Type='1'/>
-  ♪All in good time, boy.♪
+  ♪All in good time, girl.♪
 ComTalk_033: |
   <3 Type='0' Data='0700'/><4 Type='0' Data='12004e006f0074006900630065005f0030003100'/>Notice anything missing?<5 Type='1'/> You don't have
   the materials needed to strengthen that
